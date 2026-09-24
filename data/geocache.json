@@ -1,0 +1,97 @@
+{
+ "a-leecon gmbh": null,
+ "ac tec gmbh": null,
+ "ananda gmbh": null,
+ "apic.ai": null,
+ "ares energiesysteme (germany)": null,
+ "breslauer straße 48, 76139 karlsruhe": {
+  "display_name": "Fraunhofer-Institut für System- und Innovationsforschung ISI, 48, Breslauer Straße, Waldstadt Feldlage, Waldstadt, Karlsruhe, Baden-Württemberg, 76139, Deutschland",
+  "lat": 49.028036,
+  "lon": 8.44148
+ },
+ "bruker axs": {
+  "display_name": "Bruker AXS GmbH, Neu-Knielingen, Knielingen, Karlsruhe, Baden-Württemberg, Deutschland",
+  "lat": 49.026474,
+  "lon": 8.346634
+ },
+ "bürgerwerke": {
+  "display_name": "Bürgerwerke, 11, Palo-Alto-Platz, Heidelberg Innovation Park, Kirchheim, Heidelberg, Baden-Württemberg, 69124, Deutschland",
+  "lat": 49.394074,
+  "lon": 8.674319
+ },
+ "emmy-noether-straße 11, 76131 karlsruhe": {
+  "display_name": "11, Emmy-Noether-Straße, Technologiepark Karlsruhe, Alt-Rintheim, Rintheim, Karlsruhe, Baden-Württemberg, 76131, Deutschland",
+  "lat": 49.019884,
+  "lon": 8.439242
+ },
+ "enapter": {
+  "display_name": "Enapter Campus, 1, Energiewende, Saerbeck, Kreis Steinfurt, Nordrhein-Westfalen, 48369, Deutschland",
+  "lat": 52.189819,
+  "lon": 7.652554
+ },
+ "fraunhoferstraße 1, 76131 karlsruhe": {
+  "display_name": "Fraunhofer Institut für Optronik, Systemtechnik und Bildauswertung, 1, Fraunhoferstraße, Oststadt Nördlicher Teil, Oststadt, Karlsruhe, Baden-Württemberg, 76131, Deutschland",
+  "lat": 49.01546,
+  "lon": 8.426213
+ },
+ "haid-und-neu-straße 10-14, 76131 karlsruhe": {
+  "display_name": "FZI Forschungszentrum Informatik, 10-14, Haid-und-Neu-Straße, Oststadt Nördlicher Teil, Oststadt, Karlsruhe, Baden-Württemberg, 76131, Deutschland",
+  "lat": 49.012038,
+  "lon": 8.424696
+ },
+ "heisenberg quantum simulations": null,
+ "hermann-von-helmholtz-platz 1, 76344 eggenstein-leopoldshafen": {
+  "display_name": "KIT Casino - Campus Nord, 1, Hermann-von-Helmholtz-Platz, Leopoldshafen, Eggenstein-Leopoldshafen, Landkreis Karlsruhe, Baden-Württemberg, 76344, Deutschland",
+  "lat": 49.09309,
+  "lon": 8.429167
+ },
+ "hqs quantum simulations gmbh": null,
+ "icon-scm": null,
+ "institut für umweltstudien": null,
+ "joseph-von-fraunhofer-straße 7, 76327 pfinztal": {
+  "display_name": "Fraunhofer-Institut für Chemische Technologie, 7, Joseph-von-Fraunhofer-Straße, Berghausen, Pfinztal, Landkreis Karlsruhe, Baden-Württemberg, 76327, Deutschland",
+  "lat": 49.017423,
+  "lon": 8.519184
+ },
+ "k2 systems": {
+  "display_name": "K2 Systems, 18, Industriestraße, Gewerbegebiet Renningen, Renningen, Landkreis Böblingen, Baden-Württemberg, 71272, Deutschland",
+  "lat": 48.77613,
+  "lon": 8.933539
+ },
+ "metaphacts": null,
+ "netze-gesellschaft südwest": null,
+ "perspix.ai": null,
+ "prosoniq": null,
+ "ruprecht karls universität heidelberg kirchhoff-institut für physik": null,
+ "ruprecht karls universität heidelberg physikalisches institut": null,
+ "ruprecht-karls-universitat heidelberg physikalisch-chemisches institut": null,
+ "ruprecht-karls-universität heidelberg institut für theoretische astrophysik": null,
+ "ruprecht-karls-universität heidelberg institut für umweltphysik": null,
+ "solar promotion gmbh": null,
+ "solarcraft gmbh": null,
+ "stadtwerke bruchsal": {
+  "display_name": "Bruchsal Stadtwerke, Schnabel-Henning-Straße, Bruchsal, VVG der Stadt Bruchsal, Landkreis Karlsruhe, Baden-Württemberg, 76646, Deutschland",
+  "lat": 49.123693,
+  "lon": 8.583167
+ },
+ "stadtwerke bühl": {
+  "display_name": "Stadtwerke Bühl, 5, Siemensstraße, Industriegebiet Süd 2, Bühl, Oberweier, Bühl, VVG der Stadt Bühl, Landkreis Rastatt, Baden-Württemberg, 77815, Deutschland",
+  "lat": 48.696708,
+  "lon": 8.122618
+ },
+ "stadtwerke heidelberg netze": null,
+ "stadtwerke karlsruhe netzservice": null,
+ "südwestenergie": {
+  "display_name": "Südwestenergie, Hauptstraße, Bad Langenbrücken Ost, Bad Langenbrücken, Bad Schönborn, VVG der Gemeinde Bad Schönborn, Landkreis Karlsruhe, Baden-Württemberg, 76669, Deutschland",
+  "lat": 49.200585,
+  "lon": 8.64627
+ },
+ "universitätsklinikum heidelberg institut für medizinische biometrie und informatik": null,
+ "vivavis-gruppe": null,
+ "vorest ag": {
+  "display_name": "Rue des Vorest, La Côte, Bailleul-la-Vallée, Bernay, Eure, Normandie, Metropolitanes Frankreich, 27260, Frankreich",
+  "lat": 49.199357,
+  "lon": 0.424241
+ },
+ "zentrum für astronomie der universität heidelberg": null
+}

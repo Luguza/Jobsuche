@@ -1,0 +1,40 @@
+{
+  "ergebnisliste": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Machine Learning Engineer Batteriematerialien (m/w/d)",
+      "stellenlokationen": [
+        {"adresse": {"strasse": "Leopoldstraße", "hausnummer": "1", "plz": "80802", "ort": "München", "region": "BAYERN", "land": "DEUTSCHLAND"}, "breite": 48.155, "laenge": 11.584},
+        {"adresse": {"strasse": "Kriegsstraße", "hausnummer": "100", "plz": "76133", "ort": "Karlsruhe, Baden", "region": "BADEN_WUERTTEMBERG", "land": "DEUTSCHLAND"}, "breite": 49.0057, "laenge": 8.4049}
+      ],
+      "veroeffentlichungszeitraum": {"von": "2026-09-16"},
+      "datumErsteVeroeffentlichung": "2026-09-10",
+      "hauptberuf": "Physiker/in",
+      "firma": "Beispiel Batterie GmbH",
+      "referenznummer": "10000-1111111111-S",
+      "entfernung": 1
+    },
+    {
+      "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+      "stellenangebotsTitel": "Werkstudent Data Science Energiesysteme",
+      "stellenlokationen": [
+        {"adresse": {"plz": "76131", "ort": "Karlsruhe, Baden"}, "breite": 49.011, "laenge": 8.42}
+      ],
+      "veroeffentlichungszeitraum": {"von": "2026-09-20"},
+      "firma": "Netz Analytics AG",
+      "referenznummer": "10000-2222222222-S"
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Elektriker für Batteriespeicher (m/w/d)",
+      "stellenlokationen": [
+        {"adresse": {"plz": "76131", "ort": "Karlsruhe"}, "breite": 49.01, "laenge": 8.41}
+      ],
+      "firma": "Handwerk GmbH",
+      "referenznummer": "10000-3333333333-S"
+    }
+  ],
+  "maxErgebnisse": 3,
+  "page": 1,
+  "size": 100
+}

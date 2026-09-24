@@ -1,0 +1,188 @@
+# Konfiguration der Karlsruhe-Jobkarte.
+# Alle Stichwörter unter "keywords" sind reguläre Ausdrücke (Python-Syntax),
+# Groß-/Kleinschreibung wird ignoriert. "\b" markiert eine Wortgrenze.
+
+region:
+  name: Karlsruhe          # wird als "wo" an die Jobsuche übergeben
+  lat: 49.0069
+  lon: 8.4037
+  radius_km: 50
+
+# Eigener User-Agent für alle Anfragen (Nominatim, Overpass, Wikidata, Websites).
+user_agent: "karlsruhe-jobmap/1.0 (+https://github.com/Luguza/Jobsuche)"
+
+jobs:
+  # Suchbegriffe für die Jobsuche-API der Bundesagentur für Arbeit.
+  search_terms:
+    - Machine Learning
+    - Data Scientist
+    - Data Science
+    - Data Engineer
+    - Künstliche Intelligenz
+    - KI
+    - Deep Learning
+    - Simulation
+    - Modellierung
+    - Materialwissenschaft
+    - Werkstoffwissenschaft
+    - Materialforschung
+    - Batterie
+    - Batteriezelle
+    - Wasserstoff
+    - Brennstoffzelle
+    - Energiesystem
+    - Energiewende
+    - Smart Grid
+    - Netzplanung
+    - Photovoltaik
+    - Klimaschutz
+    - Klimaanpassung
+    - Physiker
+  veroeffentlichtseit: 60      # Tage (0 bis 100)
+  angebotsart: [1, 34]         # 1 = Arbeit, 34 = Praktikum/Trainee (inkl. Werkstudent/Abschlussarbeit)
+  zeitarbeit: false
+  private_arbeitsvermittlung: false
+  page_size: 100
+  max_pages: 5
+  request_delay_s: 0.5
+  # Die Suche findet Begriffe auch in der Beschreibung (z. B. "KI" bei Steuerbüros). Deshalb muss der
+  # Stellentitel selbst mindestens diesen Stichwort-Score (siehe scoring.keywords) erreichen.
+  min_title_score: 2
+  # Stellen, deren Titel auf eines dieser Muster passt, werden verworfen.
+  exclude_title_patterns:
+    - '\bausbildung'
+    - '\bazubi'
+    - '\bminijob'
+    - '\baushilfe'
+    - 'helfer'
+    - 'fahrer\b'
+    - 'fahrer/in'
+    - 'kraftfahrer'
+    - 'lagerist'
+    - 'verkäufer'
+    - 'kassierer'
+    - 'reinigung'
+    - 'pflegefach'
+    - '\bkoch\b'
+    - 'elektriker'
+    - 'elektroniker'
+    - 'mechatroniker'
+    - 'monteur'
+    - 'anlagenmechaniker'
+    - 'industriemechaniker'
+    - 'schweißer'
+    - 'dachdecker'
+    - 'kaufmann|kauffrau|kaufleute'
+    - 'buchhalter'
+    - 'sachbearbeiter'
+    - '\d-schicht|schichtarbeit|schichtdienst'
+    - 'vertriebsmitarbeit|außendienst|innendienst|verkaufsberat'
+    - 'batteriewechsel|uhrenservice'
+
+osm:
+  # Overpass-Instanzen, die nacheinander probiert werden.
+  endpoints:
+    - https://overpass-api.de/api/interpreter
+    - https://maps.mail.ru/osm/tools/overpass/api/interpreter
+    - https://overpass.private.coffee/api/interpreter
+  timeout_s: 180
+  # Overpass-Filter (ohne Umkreis, der wird automatisch ergänzt).
+  selectors:
+    - '["office"~"^(company|research|it|engineer|energy_supplier)$"]["name"]'
+    - '["amenity"="research_institute"]["name"]'
+    - '["man_made"="works"]["name"]'
+
+wikidata:
+  endpoint: https://query.wikidata.org/sparql
+  # Direkte "ist ein"-Klassen (P31), die als Arbeitgeber in Frage kommen.
+  types:
+    - Q4830453   # Unternehmen / Gewerbebetrieb
+    - Q6881511   # Unternehmen (enterprise)
+    - Q891723    # börsennotiertes Unternehmen
+    - Q1058914   # Softwareunternehmen
+    - Q783794    # Gesellschaft (company)
+    - Q1951366   # öffentliches Versorgungsunternehmen
+    - Q83405     # Fabrik
+    - Q31855     # Forschungseinrichtung
+
+websites:
+  enabled: true
+  workers: 16
+  timeout_s: 12
+  refresh_days: 180            # erfolgreiche Abrufe erst nach so vielen Tagen erneuern
+  retry_failed_days: 14        # fehlgeschlagene Abrufe frühestens nach so vielen Tagen wiederholen
+
+geocoding:
+  min_delay_s: 1.1             # Nominatim-Nutzungsrichtlinie: max. 1 Anfrage pro Sekunde
+  country_codes: [de, fr]
+
+scoring:
+  # Stufe 1: Firmen ohne Stelle brauchen mindestens diesen Stichwort-Score, um bewertet zu werden.
+  stage1_min_keyword_score: 2
+  llm:
+    model: claude-opus-5
+    effort: low
+    fallbacks: default         # serverseitiger Fallback bei Ablehnung; "null" zum Abschalten
+    batch_size: 20
+    max_new_per_run: 500       # Kostenbremse: höchstens so viele neue Bewertungen pro Lauf
+  # Wird Claude als Profil für die Bewertung mitgegeben.
+  profile: |
+    Physik-Masterstudent am KIT mit Schwerpunkt Machine Learning für Materialwissenschaft
+    (Entdeckung neuer Materialien, atomistische Simulation, datengetriebene Materialmodelle).
+    Sucht Stellen in Machine Learning / Data Science, gerne kombiniert mit Materialwissenschaft
+    oder Simulation. Klare Präferenz für Sektoren mit gesellschaftlichem Nutzen: erneuerbare
+    Energien, Batterien, Wasserstoff, Stromnetze, Klimaschutz, Klimafolgenanpassung.
+    Auch Forschungseinrichtungen und Start-ups sind interessant.
+  keywords:
+    # Methoden / Tätigkeitsfeld (Summe wird bei 5 gedeckelt)
+    methods:
+      'machine.?learning|maschinelles lernen': 3
+      'künstliche intelligenz|artificial intelligence': 3
+      '\bki\b|\bai\b|\.ai\b|\bml\b': 2
+      'deep.?learning|neuronale|neural': 3
+      'natural language|\bnlp\b|computer vision|bildverarbeitung|\bllms?\b|sprachmodell|reinforcement': 2
+      'datengetrieben|data.?driven|mlops|data.?engineer|data.?platform': 2
+      'surrogat|ersatzmodell|digital(er)? (zwilling|twin)': 2
+      'masterarbeit|abschlussarbeit|thesis|promotion|doktorand|\bphd\b|postdoc': 1
+      'data.?scien|datenwissenschaft': 3
+      'data.?analy|datenanaly|analytics|big data': 2
+      '\bdata\b|\bdaten\b': 1
+      'simulation|simulier': 2
+      'modellierung|modelling|modeling': 2
+      'computational|numerisch|hpc|hochleistungsrechn': 2
+      'material(wissenschaft|forschung|entwicklung|design|s science|s discovery)|werkstoff(wissenschaft|forschung|entwicklung)|quantenmaterial': 3
+      'material|werkstoff|nano': 1
+      'physik|physics': 1
+      'forschung|research|institut|fraunhofer|helmholtz|\bkit\b': 1
+      'software|informatik|algorithm': 1
+      'optimierung|optimization|prognose|forecast': 1
+    # Sektoren mit gesellschaftlichem Nutzen (Summe wird bei 5 gedeckelt)
+    sectors:
+      'batter|akku|energiespeicher|speichertechn|zellchemie|lithium': 3
+      'wasserstoff|hydrogen|brennstoffzell|fuel cell|elektrolys': 3
+      'erneuerbar|renewable|photovoltai|\bpv\b|solar|windenergie|windkraft|wind power|geotherm': 3
+      'energiewende|energiesystem|energy system|sektorkopplung|dekarbonis|decarboni': 3
+      'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|netzleit|\bnetze\b': 2
+      'klimaschutz|klimaanpassung|klimafolgen|klimaforschung|climate|klimaneutral|\bco2\b|emission': 3
+      'energie|energy|strom\b|elektromobil|e-mobil': 1
+      'umwelt|environment|nachhaltig|sustainab|kreislauf|recycling': 1
+    # Treffer ziehen 4 Punkte ab (typische Nicht-Arbeitgeber für das Profil)
+    negative:
+      - 'steuerberat|wirtschaftsprüf|rechtsanw|kanzlei|notar'
+      - 'immobilien|hausverwaltung|makler'
+      - 'versicherung|finanzberat|vermögensberat'
+      - 'friseur|kosmetik|gastronom|hotel|restaurant|catering|bäckerei|metzgerei'
+      - 'fahrschule|autohaus|kfz|reifen|abschlepp'
+      - 'pflegedienst|zahnarzt|arztpraxis|physiotherap|apotheke'
+      - 'bestattung|reinigung|gebäudeservice|umzug|entrümpel'
+      - 'personalvermittlung|personaldienst|zeitarbeit|arbeitnehmerüberlassung'
+      - 'energieberat|heizung|sanitär|elektroinstallat|dachdeck|zimmerei|schreinerei|malerbetrieb'
+      - 'bagger|abbruch|abriss|laborbedarf'
+      - 'druckerei|werbeagentur|fotograf|webdesign'
+
+map:
+  # Firmen ohne offene Stelle erscheinen erst ab diesem Score auf der Karte.
+  min_score_companies: 4
+  zoom_start: 10
+  title: Jobkarte Karlsruhe – ML, Materialien & Energiewende
+  repo_url: https://github.com/Luguza/Jobsuche

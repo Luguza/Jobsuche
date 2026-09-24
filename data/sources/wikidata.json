@@ -1,0 +1,5832 @@
+[
+ {
+  "approximate_location": false,
+  "description": "deutsche Firma",
+  "id": "Q100314810",
+  "industries": "",
+  "lat": 49.009606,
+  "lon": 8.390207,
+  "name": "Geofabrik",
+  "website": "https://geofabrik.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Orgelbauunternehmen in Speyer",
+  "id": "Q100348461",
+  "industries": "",
+  "lat": 49.316555,
+  "lon": 8.433615,
+  "name": "Orgelbau Wolfgang Scherpf",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Konzernmutter des Teilkonzern Richard Gramling der Graf Hardenberg-Gruppe",
+  "id": "Q100715663",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Richard Gramling",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German biotechnology company",
+  "id": "Q100718021",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "GeneWerk GmbH",
+  "website": "https://www.genewerk.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101268959",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Alfred-Weber-Institut für Wirtschaftswissenschaften",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269846",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Astronomisches Rechen-Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269917",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Geographisches Institut Heidelberg",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q101269923",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Germanistisches Seminar",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269955",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Allgemeine und Angewandte Sprach und Kulturwissenschaft",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269963",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Anatomie und Zellbiologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269970",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Angewandte Mathematik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269988",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Computerlinguistik",
+  "website": "https://www.cl.uni-heidelberg.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101269993",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Deutsch als Fremdsprachenphilologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270004",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Ethnologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270009",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Europäische Kunstgeschichte",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270018",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Geowissenschaften",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270027",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Gerontologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270032",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Geschichte und Ethik der Medizin",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270041",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Japanologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270064",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Physiologie und Pathophysiologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270073",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Politische Wissenschaft",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270078",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Sinologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270091",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Institut für Sport und Sportwissenschaft",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270101",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Theoretische Astrophysik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270107",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Umweltphysik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270114",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Ur- und Fruhgeschichte und Vorderasiatische Archäologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270128",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Kirchhoff-Institut für Physik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270147",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Mathematisches Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101270155",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Max-Weber-Institut für Soziologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101271128",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Physikalisches Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101271137",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Psychologisches Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q101271142",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Seminar für Alte Geschichte und Epigraphik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101271166",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls Universität Heidelberg Sudasien-Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426630",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universitat Heidelberg Physikalisch-Chemisches Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426883",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universitätsklinikum Heidelberg Institut für Humangenetik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426884",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "UniversitatsKlinikum Heidelberg Institut fur Immunologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426886",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universitätsklinikum Heidelberg Institut für Medizinische Biometrie und Informatik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426887",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universitätsklinikum Heidelberg Institut für Public Health",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426890",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "UniversitätsKlinikum Heidelberg Institut und Poliklinik für Arbeits- und Sozialmedizin",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101426903",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universitätsklinikum Heidelberg Pathologisches Institut",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101834726",
+  "industries": "",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "Universität Koblenz Landau Institut für Bildung im Kindes und Jugendalter",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101835173",
+  "industries": "",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "Universität Koblenz Landau Institut für Fremdsprachliche Philologien",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "research institute",
+  "id": "Q101835185",
+  "industries": "",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "Universität Koblenz-Landau Institut für Sozialwissenschaften",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Verlag, Pressedienst und Online-Informationsanbieter mit Sitz in der baden-württembergischen Stadt Baden-Baden",
+  "id": "Q102218180",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "FELTAS",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Vereinigung von Hobbyköchen in Deutschland",
+  "id": "Q1023086",
+  "industries": "",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "CC Club kochender Männer",
+  "website": "http://www.cc-club-kochender-maenner.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "German company",
+  "id": "Q102416465",
+  "industries": "",
+  "lat": 48.916389,
+  "lon": 8.784167,
+  "name": "OBUCH GMBH",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Brauerei in Rastatt in Baden-Württemberg",
+  "id": "Q102426918",
+  "industries": "Braugewerbe",
+  "lat": 48.857166,
+  "lon": 8.209689,
+  "name": "Brauerei C. Franz",
+  "website": "https://www.brauerei-franz.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutsche Brauerei",
+  "id": "Q10294254",
+  "industries": "Nahrungs- und Genussmittelgewerbe; Braugewerbe",
+  "lat": 49.405,
+  "lon": 8.64,
+  "name": "Heidelberger Brauerei",
+  "website": "http://www.heidelberger-brauerei.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Heiztechnikhersteller",
+  "id": "Q104093185",
+  "industries": "",
+  "lat": 49.155556,
+  "lon": 8.293611,
+  "name": "DBK David + Baader",
+  "website": "https://www.dbk-group.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Möbelhersteller",
+  "id": "Q104147038",
+  "industries": "Möbelindustrie",
+  "lat": 49.216667,
+  "lon": 8.366667,
+  "name": "Nolte",
+  "website": "http://nolte.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Fahrradhersteller",
+  "id": "Q104193125",
+  "industries": "Fahrradindustrie",
+  "lat": 49.153333,
+  "lon": 8.584167,
+  "name": "Campus",
+  "website": "https://www.campus-bike.info/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Gewerbebetrieb in Pforzheim",
+  "id": "Q104479911",
+  "industries": "",
+  "lat": 48.899193,
+  "lon": 8.666111,
+  "name": "ADMEDES GmbH",
+  "website": "https://www.admedes.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Bruchsal",
+  "id": "Q104480225",
+  "industries": "",
+  "lat": 49.12809,
+  "lon": 8.590368,
+  "name": "cynora GmbH",
+  "website": "https://cynora.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Gewerbebetrieb in Pforzheim",
+  "id": "Q104480442",
+  "industries": "",
+  "lat": 48.891896,
+  "lon": 8.683323,
+  "name": "FORESTADENT Bernhard Förster GmbH",
+  "website": "https://www.forestadent.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q104480670",
+  "industries": "",
+  "lat": 49.367584,
+  "lon": 8.684499,
+  "name": "Geuder (Germany)",
+  "website": "https://www.geuder.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Heidelberg?",
+  "id": "Q104481431",
+  "industries": "",
+  "lat": 49.427677,
+  "lon": 8.639182,
+  "name": "Phenex Pharmaceuticals",
+  "website": "https://www.phenex-pharma.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "biotech company",
+  "id": "Q104704412",
+  "industries": "Medizinprodukteindustrie",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "MEXACARE Diagnostics",
+  "website": "https://www.mexacare.com/en/home-2/"
+ },
+ {
+  "approximate_location": true,
+  "description": "photographic studio",
+  "id": "Q104814182",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "J. & L. Allgeyer",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German software company",
+  "id": "Q105882285",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Wibu-Systems",
+  "website": "https://www.wibu.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "regionaler Verteilnetzbetreiber in Baden-Württemberg",
+  "id": "Q106571703",
+  "industries": "Elektrizitätswirtschaft",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Netze-Gesellschaft Südwest",
+  "website": "https://www.netze-suedwest.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q106656908",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Schütt",
+  "website": "https://www.schuett-edelsteine.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Versicherer",
+  "id": "Q106691500",
+  "industries": "Versicherung; Lebensversicherung",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "AachenMünchener Lebensversicherung AG",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Filmproduktionsfirma",
+  "id": "Q106779236",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Kurhaus production",
+  "website": "https://kurhausproduction.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "südwestdeutscher Baustoffhändler",
+  "id": "Q106886809",
+  "industries": "Baustoffhandel",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Hornbach Baustoff Union",
+  "website": "https://hornbach-baustoff-union.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Chemieunternehmen",
+  "id": "Q1069454",
+  "industries": "Chemische Industrie",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Chemische Werke Kluthe",
+  "website": "http://www.kluthe.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107026994",
+  "industries": "Chemische Industrie",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Deutsche Bergin-Aktiengesellschaft für Holzhydrolyse",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107059673",
+  "industries": "Genossenschaftsbewegung; Erbringung von Finanzdienstleistungen",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Zentralkasse Südwestdeutscher Volksbanken",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107088319",
+  "industries": "Papier- und Verlagsgewerbe; Herstellung von Papier, Karton und Pappe",
+  "lat": 49.370556,
+  "lon": 8.0725,
+  "name": "Knoeckel, Schmidt & Cie Papierfabriken",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107102723",
+  "industries": "Holzwirtschaft; Säge-, Hobel- und Holzimprägnierwerke; Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz",
+  "lat": 48.76354,
+  "lon": 8.33804,
+  "name": "Katz & Klumpp",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107103020",
+  "industries": "Metallindustrie; Oberflächenveredlung und Wärmebehandlung; Mechanik a. n. g.",
+  "lat": 49.206111,
+  "lon": 7.975278,
+  "name": "Annweiler Email-und Metall-Werke, vormals Franz Ullrich Söhne",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107138851",
+  "industries": "Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe; Papier- und Verlagsgewerbe",
+  "lat": 48.94452,
+  "lon": 8.40272,
+  "name": "Ettlingen-Maxau Papier- und Zellstoffwerke",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107138991",
+  "industries": "Nahrungs- und Genussmittelgewerbe; Braugewerbe",
+  "lat": 48.89154,
+  "lon": 8.7156,
+  "name": "Bayerisches Brauhaus Pforzheim",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107139023",
+  "industries": "Holzwirtschaft; Herstellung von Futtermitteln für Nutztiere",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Holzhydrolyse",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107139026",
+  "industries": "Güterbeförderung in der Binnenschifffahrt; Lagerei; Schifffahrt",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Karlsruher Schiffahrts-Aktiengesellschaft",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107139179",
+  "industries": "Herstellung von Wäsche; Textil- und Bekleidungsindustrie",
+  "lat": 49.34882,
+  "lon": 8.16517,
+  "name": "Trikotwarenfabrik F. Helfferich",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107140471",
+  "industries": "Feinmechanische und optische Industrie; Herstellung von Uhren; Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)",
+  "lat": 48.89154,
+  "lon": 8.7156,
+  "name": "Kollmar & Jourdan",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107150780",
+  "industries": "Industriesektor; Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien",
+  "lat": 49.0,
+  "lon": 8.4667,
+  "name": "Ritter",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107173907",
+  "industries": "Genossenschaftsbewegung; Erbringung von Finanzdienstleistungen",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Badische Landwirtschaftsbank (Bauernbank) e.G.m.b.H.",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107177341",
+  "industries": "Maschinen- und Anlagenbau",
+  "lat": 48.94452,
+  "lon": 8.40272,
+  "name": "Maschinenfabrik Lorenz",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107177368",
+  "industries": "Gewinnung von Steinen und Erden, sonstiger Bergbau; Herstellung von Ziegeln und sonstiger Baukeramik",
+  "lat": 48.9471,
+  "lon": 8.83925,
+  "name": "Ziegelwerk Mühlacker",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q107177376",
+  "industries": "Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall; Verpackungswirtschaft",
+  "lat": 48.89154,
+  "lon": 8.7156,
+  "name": "Aktiengesellschaft für Metallindustrie vormals Gustav Richter",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q107198693",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "interscience film",
+  "website": "http://www.intersciencefilm.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutsches Raumfahrtunternehmen",
+  "id": "Q107517875",
+  "industries": "",
+  "lat": 49.38406,
+  "lon": 8.5732,
+  "name": "von Hoerner & Sulger",
+  "website": "https://vh-s.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Eggenstein-Leopoldshafen, ist weltweit Markt- und Technologieführer für den 3D-Druck im Nano- und Mikrometerbereich",
+  "id": "Q107518560",
+  "industries": "",
+  "lat": 49.091091,
+  "lon": 8.430105,
+  "name": "Nanoscribe GmbH & Co. KG",
+  "website": "https://www.nanoscribe.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Hersteller von Metallbandsägen, Sägesystemen und Automatisierungslösungen sowie Stammsitz der international tätigen Behringer Group in Kirchardt",
+  "id": "Q107530656",
+  "industries": "Maschinenbau; Gießen; Werkzeugmaschinenbau",
+  "lat": 49.2,
+  "lon": 8.983333,
+  "name": "Behringer GmbH",
+  "website": "https://www.behringer.net/"
+ },
+ {
+  "approximate_location": true,
+  "description": "kommunales Verkehrsunternehmen von Heidelberg",
+  "id": "Q107686214",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberger Straßen- und Bergbahn",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Unternehmen, das quantenphysikbasierte Simulationssoftware für Spektroskopie und NMR-Analytik entwickelt.",
+  "id": "Q108294069",
+  "industries": "Quantenmechanik; Kernspinresonanzspektroskopie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "HQS Quantum Simulations GmbH",
+  "website": "https://quantumsimulations.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q108922493",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "B.M. Mayer",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Carsharing-Betreiber in Karlsruhe",
+  "id": "Q109341967",
+  "industries": "Carsharing",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Stadtmobil CarSharing GmbH & Co KG",
+  "website": "https://karlsruhe.stadtmobil.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q109450250",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Chrono24",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q109466779",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Henkel & Grosse",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q109939644",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Gathmann",
+  "website": "http://www.gathmann.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Juweliergeschäft",
+  "id": "Q109939652",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Ludwig Bertsch GmbH & Co.",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q110085475",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Fa. Knauer Bernard",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Kette von Getränkeabholmärkten",
+  "id": "Q110155637",
+  "industries": "Einzelhandel",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "alldrink",
+  "website": "https://alldrink.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q110556751",
+  "industries": "Schmuck",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Victor Mayer GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q110558325",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Otto Schickle",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q110558342",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "C. F. Zimmermann",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German software developer for analytical instrumentation",
+  "id": "Q111449805",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Atomicus",
+  "website": "https://atomicus.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q111551212",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Peter Willet-Fertigung",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q111600218",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Heizkraftwerk Pforzheim GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Carsharing-Betreiber, hauptsächlich in Süddeutschland aktiv",
+  "id": "Q112154996",
+  "industries": "Carsharing",
+  "lat": 48.714444,
+  "lon": 8.7375,
+  "name": "deer Carsharing",
+  "website": "https://www.deer-mobility.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "French organbuilder of 21th century",
+  "id": "Q112630420",
+  "industries": "",
+  "lat": 48.816667,
+  "lon": 7.787778,
+  "name": "Blumenroeder",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Baden-Badener Unternehmen für mobile Messtechnik, DAQ-Software, Ingenieurdienstleistungen und Prüfstandstechnik",
+  "id": "Q112686830",
+  "industries": "",
+  "lat": 48.79226,
+  "lon": 8.187852,
+  "name": "IPETRONIK GmbH & Co. KG",
+  "website": "https://www.ipetronik.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Beratungshaus mit Hauptsitz in Heidelberg",
+  "id": "Q113381031",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Cbs Corporate Business Solutions",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German company",
+  "id": "Q113464886",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Stadtwerke Heidelberg Energie",
+  "website": "https://www.swhd.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Karlsruher Unternehmen",
+  "id": "Q1140927",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Cronimet",
+  "website": "http://www.cronimet.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Bauunternehmen mit Sitz in Bretten im Landkreis Karlsruhe",
+  "id": "Q115005793",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Harsch (Unternehmen)",
+  "website": "https://www.harsch.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "mittelständisches Omnibusunternehmen mit Sitz in Mühlacker",
+  "id": "Q115913535",
+  "industries": "",
+  "lat": 48.95,
+  "lon": 8.839167,
+  "name": "Engel Omnibusverkehr",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen für Maschinenbau und Komponentenfertigung mit Hauptsitz in Königsbach-Stein",
+  "id": "Q116779466",
+  "industries": "",
+  "lat": 48.966389,
+  "lon": 8.608889,
+  "name": "Felss Group",
+  "website": "https://www.felss.com/de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Energiehandelsunternehmen mit Hauptsitz in Pforzheim",
+  "id": "Q116884052",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Südwestenergie",
+  "website": "https://www.suedwestenergie.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "1988 gegründeter Hersteller von BMX-Fahrrädern und -Komponenten mit Sitz in Karlsruhe",
+  "id": "Q116959202",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "KHEbikes",
+  "website": "https://www.khebikes.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller homöopathischer Präparate",
+  "id": "Q1203127",
+  "industries": "Homöopathie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Deutsche Homöopathie-Union",
+  "website": "https://www.dhu.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Zusammenschluss von Berufsgruppen im Erbrecht",
+  "id": "Q1204357",
+  "industries": "",
+  "lat": 49.231667,
+  "lon": 8.775,
+  "name": "Deutsche Vereinigung für Erbrecht und Vermögensnachfolge",
+  "website": "http://www.erbrecht.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Forschungseinrichtung der Leibniz-Gemeinschaft",
+  "id": "Q1205636",
+  "industries": "",
+  "lat": 49.316414,
+  "lon": 8.416308,
+  "name": "Deutsches Forschungsinstitut für öffentliche Verwaltung Speyer",
+  "website": "https://www.foev-speyer.de/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Technologieunternehmen",
+  "id": "Q120784006",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Enapter",
+  "website": "https://www.enapter.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Fahrgastschifffahrtsunternehmen mit Sitz in Heidelberg",
+  "id": "Q121362846",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Weisse Flotte Heidelberg",
+  "website": "https://weisseflottehd.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Sister company of YellowMap AG",
+  "id": "Q121733715",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "EBID Service AG",
+  "website": "https://info.unternehmensverzeichnis.org/impressum/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches familiengeführtes Unternehmen im Baustoff- und Baumarktsektor",
+  "id": "Q122746366",
+  "industries": "",
+  "lat": 48.6958,
+  "lon": 8.7712,
+  "name": "Kömpf GmbH & Co. KG",
+  "website": "https://www.koempf.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Forschungs- und Lehrkooperation zwischen der Ruprecht-Karls-Universität Heidelberg und dem Institut für Deutsche Sprache Mannheim",
+  "id": "Q1228623",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Europäisches Zentrum für Sprachwissenschaften",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "research institute in Baden-Wurrtemberg, Germany",
+  "id": "Q1229415",
+  "industries": "",
+  "lat": 49.0122,
+  "lon": 8.41313,
+  "name": "Institut für Biomedizinische Technik",
+  "website": "https://www.ibt.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen mit Sitz in Renningen",
+  "id": "Q122974523",
+  "industries": "",
+  "lat": 48.766111,
+  "lon": 8.934722,
+  "name": "Koos Edelmetalle",
+  "website": "https://www.koos.de/de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen im Bereich der künstlichen Intelligenz",
+  "id": "Q123368857",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Aleph Alpha",
+  "website": "https://aleph-alpha.com/de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von elektrischen Kontakten mit Sitz in Pforzheim",
+  "id": "Q1234466",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Doduco",
+  "website": "http://www.doduco.net/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Bauunternehmen mit Sitz im rheinland-pfälzischen Schifferstadt",
+  "id": "Q1235915",
+  "industries": "",
+  "lat": 49.386111,
+  "lon": 8.376111,
+  "name": "Heberger GmbH",
+  "website": "http://www.heberger.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Genossenschaftsbank mit Sitz in der baden-württembergischen Gemeinde Kieselbronn im Enzkreis",
+  "id": "Q124389711",
+  "industries": "",
+  "lat": 48.934685,
+  "lon": 8.749721,
+  "name": "Raiffeisenbank Kieselbronn",
+  "website": "https://www.rb-kieselbronn.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Genossenschaftsbank mit Sitz in der baden-württembergischen Gemeinde Bühlertal im Landkreis Rastatt",
+  "id": "Q124395891",
+  "industries": "",
+  "lat": 48.690546,
+  "lon": 8.18161,
+  "name": "Spar- und Kreditbank Bühlertal",
+  "website": "https://www.skb-buehlertal.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q124410619",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Junker-Ruh",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "1909 in Leipzog als Müller & Hoffmann gegründete Hersteller von Trockenhauben und Schwenkarmen, 1954 nach Niefern verlegt",
+  "id": "Q124410846",
+  "industries": "",
+  "lat": 48.916389,
+  "lon": 8.784167,
+  "name": "Müholos-Werk",
+  "website": "https://www.mueholos.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Hersteller von Hochleistungselektromotoren",
+  "id": "Q124411839",
+  "industries": "",
+  "lat": 49.02067,
+  "lon": 8.34014,
+  "name": "SciMo – Elektrische Hochleistungsantriebe GmbH",
+  "website": "https://sci-mo.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q124412512",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "R. Jung",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "regional public waste management company in Germany",
+  "id": "Q124417760",
+  "industries": "Abfallentsorgung",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Team Sauberes Karlsruhe",
+  "website": "https://tsk.karlsruhe.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Haßloch, Germany",
+  "id": "Q124462821",
+  "industries": "öffentliches Versorgungsunternehmen",
+  "lat": 49.363259,
+  "lon": 8.255754,
+  "name": "Gemeindewerke Haßloch",
+  "website": "https://gwhassloch.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "distribution system distributor in Heidelberg, Germany",
+  "id": "Q124475127",
+  "industries": "Verteilnetzbetreiber",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Stadtwerke Heidelberg Netze",
+  "website": "https://www.swhd.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "regional distribution network operator in Germany",
+  "id": "Q124476041",
+  "industries": "Verteilnetzbetreiber",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Stadtwerke Karlsruhe Netzservice",
+  "website": "https://www.netzservice-swka.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Speyer, Germany",
+  "id": "Q124476472",
+  "industries": "öffentliches Versorgungsunternehmen",
+  "lat": 49.316555,
+  "lon": 8.433615,
+  "name": "Stadtwerke Speyer",
+  "website": "https://www.stadtwerke-speyer.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Rastatt, Germany",
+  "id": "Q124476638",
+  "industries": "öffentliches Versorgungsunternehmen",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Stadtwerke Rastatt",
+  "website": "https://www.stadtwerke-rastatt.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Metallverarbeitungsunternehmen mit Sitz in Kleinsteinbach, Gemeinde Pfinztal, im Landkreis Karlsruhe",
+  "id": "Q124669760",
+  "industries": "",
+  "lat": 48.987778,
+  "lon": 8.543333,
+  "name": "Rosswag",
+  "website": "https://www.edelstahl-rosswag.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "börsenunabhängiges Handelshaus für unnotierte Wertpapiere",
+  "id": "Q1246876",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Valora Effekten Handel",
+  "website": "http://www.valora.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Edelmetallhandels- und Recyclingunternehmen",
+  "id": "Q124736852",
+  "industries": "Affinerie",
+  "lat": 48.960556,
+  "lon": 8.289722,
+  "name": "ESG Edelmetall-Service",
+  "website": "https://www.scheideanstalt.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Messgeräte-Hersteller",
+  "id": "Q1247787",
+  "industries": "",
+  "lat": 49.203333,
+  "lon": 7.966667,
+  "name": "Stabila",
+  "website": "http://www.stabila.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Ausgründung aus der Universität Karlsruhe",
+  "id": "Q125392132",
+  "industries": "Mechanische Verfahrenstechnik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Bokela",
+  "website": "https://www.bokela.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Arzneimitteln aus pflanzlichen Grundstoffen (Phytopharmaka)",
+  "id": "Q1254091",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Dr. Willmar Schwabe",
+  "website": "https://www.schwabe.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen im Bereich Energietechnik in Gernsbach, Baden-Württemberg",
+  "id": "Q125523836",
+  "industries": "",
+  "lat": 48.775353,
+  "lon": 8.345811,
+  "name": "W-QUADRAT",
+  "website": "https://www.w-quadrat.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125523898",
+  "industries": "",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "Autohaus Haitzler",
+  "website": "https://www.haitzler.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Softwareunternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125523927",
+  "industries": "Softwareindustrie; Softwareentwicklung; Internetindustrie",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "Audisto",
+  "website": "https://audisto.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125523974",
+  "industries": "",
+  "lat": 48.764513,
+  "lon": 8.336606,
+  "name": "EUWID Europäischer Wirtschaftsdienst",
+  "website": "https://www.euwid.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Messtechnik-Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125524015",
+  "industries": "",
+  "lat": 48.754367,
+  "lon": 8.348708,
+  "name": "burster Präzisionsmesstechnik",
+  "website": "https://www.burster.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125524065",
+  "industries": "",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "Müller",
+  "website": "https://www.mueller-behaelterbau.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Verlag in Gernsbach, Baden-Württemberg, mit Schwerpunkt Sachbuch Geschichte und Biografien",
+  "id": "Q125534896",
+  "industries": "",
+  "lat": 48.764587,
+  "lon": 8.336583,
+  "name": "Casimir Katz Verlag",
+  "website": "https://www.katzverlag.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125536254",
+  "industries": "",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "TW-Holzbau",
+  "website": "https://tw-holzbau.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125554406",
+  "industries": "",
+  "lat": 48.774894,
+  "lon": 8.344336,
+  "name": "Boos-Druck",
+  "website": "https://www.boos-druck.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Gernsbach, Baden-Württemberg",
+  "id": "Q125554444",
+  "industries": "",
+  "lat": 48.763333,
+  "lon": 8.334167,
+  "name": "Heizungs- und Sanitärtechnik Irth",
+  "website": "https://www.irth.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen mit Sitz in Baden-Baden",
+  "id": "Q125591695",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Ebert Hera Esser",
+  "website": "https://www.e-h-group.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1258108",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Forscherstation, Klaus-Tschira-Kompetenzzentrum",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q1260969",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberg Center for American Studies (HCA)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Versandhändler für Damenmode",
+  "id": "Q1262922",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Mona Versand",
+  "website": "http://www.mona.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Scheideanstalt mit Sitz in Pforzheim",
+  "id": "Q126709534",
+  "industries": "Affinerie",
+  "lat": 48.89222,
+  "lon": 8.7191,
+  "name": "Agosi AG",
+  "website": "https://www.agosi.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "German business consulting company",
+  "id": "Q126898784",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "FORRS",
+  "website": "https://www.forrs.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Einkaufsgenossenschaft von Buchhändlern",
+  "id": "Q1274016",
+  "industries": "Buchhandel",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "eBuch",
+  "website": "https://www.ebuch.net/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Organisation",
+  "id": "Q1275739",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "ERB Medien GmbH",
+  "website": "http://mediathek.erbmedien.de//"
+ },
+ {
+  "approximate_location": false,
+  "description": "gemeinnützige Einrichtung für Informatik-Anwendungsforschung",
+  "id": "Q1276279",
+  "industries": "",
+  "lat": 49.012012,
+  "lon": 8.424519,
+  "name": "FZI Forschungszentrum Informatik",
+  "website": "https://www.fzi.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "europäischer Unternehmensverbund im Groß-",
+  "id": "Q1278072",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Eurobaustoff",
+  "website": "http://www.eurobaustoff.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutscher Hersteller von Kommunalsoftware",
+  "id": "Q127868951",
+  "industries": "Softwareindustrie",
+  "lat": 49.004839,
+  "lon": 8.415585,
+  "name": "Disy Informationssysteme",
+  "website": "https://www.disy.net/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q128775859",
+  "industries": "",
+  "lat": 49.371389,
+  "lon": 8.308611,
+  "name": "Südwest Lacke+Farben",
+  "website": "https://www.suedwest.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1302757",
+  "industries": "",
+  "lat": 49.066667,
+  "lon": 9.0,
+  "name": "Weber Hydraulik",
+  "website": "http://www.weber-hydraulik.com/startseite/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Bruchsal, Germany",
+  "id": "Q130302869",
+  "industries": "",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "Stadtwerke Bruchsal",
+  "website": "https://www.stadtwerke-bruchsal.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Neustadt an der Weinstraße, Germany",
+  "id": "Q130303014",
+  "industries": "",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Stadtwerke Neustadt an der Weinstraße",
+  "website": "https://www.swneustadt.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Distributor für Drohnen-, Foto-, Video- und Smart-Home-Technologie",
+  "id": "Q130313724",
+  "industries": "",
+  "lat": 49.165556,
+  "lon": 8.625,
+  "name": "Solectric",
+  "website": "https://www.solectric.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Schwetzingen, Germany",
+  "id": "Q130387934",
+  "industries": "",
+  "lat": 49.383333,
+  "lon": 8.566667,
+  "name": "Stadtwerke Schwetzingen",
+  "website": "https://www.stadtwerke-schwetzingen.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Musikinstrumentenhändler",
+  "id": "Q130514736",
+  "industries": "",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "Musik Mayer",
+  "website": "https://www.musik-meyer.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Walldorf, Germany",
+  "id": "Q130605046",
+  "industries": "",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Stadtwerke Walldorf",
+  "website": "https://www.stadtwerke-walldorf.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "id": "Q130706652",
+  "industries": "",
+  "lat": 49.013,
+  "lon": 8.417,
+  "name": "Institut für Mechanische Verfahrenstechnik und Mechanik",
+  "website": "https://www.mvm.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "id": "Q130760596",
+  "industries": "",
+  "lat": 49.0097,
+  "lon": 8.4155,
+  "name": "Institut für Verkehrswesen",
+  "website": "https://www.ifv.kit.edu/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Bauwerk in Leimen",
+  "id": "Q131197355",
+  "industries": "",
+  "lat": 49.3593,
+  "lon": 8.6819,
+  "name": "Hauptwerk der Eternit AG",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q131467623",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Absinthladen Grüner Engel",
+  "website": "https://www.absinthehouse.com/de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "2022 gestarteter Kleinverlag aus Kronau",
+  "id": "Q131561302",
+  "industries": "",
+  "lat": 49.22,
+  "lon": 8.633889,
+  "name": "Dokico",
+  "website": "https://www.dokico.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q131577525",
+  "industries": "",
+  "lat": 49.216667,
+  "lon": 8.366667,
+  "name": "AURA GmbH & Co. KG",
+  "website": "https://auragmbh.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Montagesystemen für Photovoltaik-Anlagen",
+  "id": "Q131931899",
+  "industries": "",
+  "lat": 48.766111,
+  "lon": 8.934722,
+  "name": "K2 Systems",
+  "website": "https://k2-systems.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Spezialtüren und -toren",
+  "id": "Q132151579",
+  "industries": "",
+  "lat": 48.631389,
+  "lon": 8.073889,
+  "name": "Hodapp",
+  "website": "https://www.hodapp.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Westheim (Pfalz)",
+  "id": "Q132190606",
+  "industries": "",
+  "lat": 49.249167,
+  "lon": 8.324167,
+  "name": "Strohhülsenfabrik Westheim Chr. Heintz G. m. b. H.",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen im Bereich Strahlenschutz und Rückbau von Kernkraftwerken",
+  "id": "Q132452998",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Safetec",
+  "website": "https://www.safetec-strahlenschutz.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q132773826",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Lehrstuhl für Osteuropäische Geschichte [Ruprecht-Karls-Universität Heidelberg]",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q132773828",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universität Heidelberg Institut für Byzantinische Archäologie und Kunstgeschichte",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q132773833",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Universität Karlsruhe Institut für Geschichte",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q132773836",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Neuere und Neueste Geschichte [Universität Karlsruhe]",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "company",
+  "id": "Q132796595",
+  "industries": "Verlagswesen",
+  "lat": 48.751246,
+  "lon": 8.235565,
+  "name": "Valentin Koerner GmbH",
+  "website": "https://koernerverlag.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmensgruppe mit Sitz in Heidelberg",
+  "id": "Q132797155",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "LAB14",
+  "website": "https://lab14.group/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Herxheim, Germany",
+  "id": "Q133567093",
+  "industries": "",
+  "lat": 49.146944,
+  "lon": 8.22,
+  "name": "Gemeindewerke Herxheim",
+  "website": "https://www.gemeindewerke-herxheim.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "municipal utility company in Bühl, Germany",
+  "id": "Q133567251",
+  "industries": "",
+  "lat": 48.695278,
+  "lon": 8.135,
+  "name": "Stadtwerke Bühl",
+  "website": "https://www.stadtwerke-buehl.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "software developer",
+  "id": "Q133567309",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "rami.io",
+  "website": "https://rami.io"
+ },
+ {
+  "approximate_location": true,
+  "description": "Produktionsunternehmen für die Synchronisation von Filmen und Fernsehserien mit dem Hauptsitz in Karlsruhe",
+  "id": "Q133820417",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "The Kitchen Germany",
+  "website": "https://www.thekitchen.tv/germany"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Auktionshaus mit Sitz in Heidelberg",
+  "id": "Q133865009",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Metz Antiquitäten",
+  "website": "https://www.metz-auktion.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsche Automobilzulieferer für Abgassysteme",
+  "id": "Q13399333",
+  "industries": "Autozulieferer",
+  "lat": 48.586389,
+  "lon": 8.604722,
+  "name": "Friedrich Boysen",
+  "website": "http://www.boysen-online.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Winzergenossenschaft in der Pfalz",
+  "id": "Q134087746",
+  "industries": "Weinbau",
+  "lat": 49.399386,
+  "lon": 8.197281,
+  "name": "Winzerverein Hoheburg",
+  "website": "https://www.ruppertsberger.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Werkstatt in Karlsruhe, in der Blechblasinstrumente hergestellt wurden",
+  "id": "Q134291258",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Instrumentenwerkstatt Karl Deimer",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1344337",
+  "industries": "",
+  "lat": 48.932778,
+  "lon": 8.956389,
+  "name": "Ensinger Mineral-Heilquellen",
+  "website": "http://www.ensinger.de/index.php?id=6&L=2"
+ },
+ {
+  "approximate_location": true,
+  "description": "Open-Source-Software zum Ticketverkauf für Veranstaltungen",
+  "id": "Q134588245",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "pretix",
+  "website": "https://pretix.eu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "regionales Emergieversorgungsunternehmen",
+  "id": "Q1349176",
+  "industries": "Klimatechnik; Energiewesen; Energieindustrie",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Erdgas Südwest",
+  "website": "https://www.erdgas-suedwest.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Bekleidungsgeschäft in Pfaffenhofen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q135221434",
+  "industries": "",
+  "lat": 49.06189,
+  "lon": 8.97432,
+  "name": "Alfred Holzhäuer KG",
+  "website": "https://www.textil-holzhaeuer.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q135225162",
+  "industries": "",
+  "lat": 49.216667,
+  "lon": 8.366667,
+  "name": "Stadtwerke Germersheim",
+  "website": "https://www.stw-ger.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "interdisciplinary research center at Heidelberg University, Germany",
+  "id": "Q1356800",
+  "industries": "",
+  "lat": 49.418333,
+  "lon": 8.669722,
+  "name": "Südasien-Institut Heidelberg",
+  "website": "https://www.sai.uni-heidelberg.de/en/index.php"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen",
+  "id": "Q135877076",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "finanzen.net GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Juweliergeschäft in Ittlingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q135958910",
+  "industries": "",
+  "lat": 49.18981,
+  "lon": 8.93288,
+  "name": "Gold-Kolb",
+  "website": "http://www.gold-kolb.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Mang- und Bügelstudio in Gemmingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q135963159",
+  "industries": "",
+  "lat": 49.15471,
+  "lon": 8.98275,
+  "name": "Silkes Mang- und Bügelstudio",
+  "website": "https://www.silkes-buegelstudio.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Sport- und Bekleidungsgeschäft in Gemmingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q135963186",
+  "industries": "",
+  "lat": 49.15579,
+  "lon": 8.98519,
+  "name": "Sport & Mode Strecker",
+  "website": "https://www.sport-strecker.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Hofladen und Café in Gemmingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q135963240",
+  "industries": "",
+  "lat": 49.15209,
+  "lon": 9.00162,
+  "name": "Michael und Adelheid Schukraft GbR",
+  "website": "https://www.toskana-gemmingen.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Technikgebäuden aus Stahlbeton",
+  "id": "Q135996511",
+  "industries": "Elektroindustrie",
+  "lat": 49.25,
+  "lon": 8.516944,
+  "name": "Gritec",
+  "website": "https://gritec.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Figurentheater in Eppingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q136027418",
+  "industries": "",
+  "lat": 49.13735,
+  "lon": 8.90712,
+  "name": "Eppinger Figurentheater",
+  "website": "https://www.eppinger-figurentheater.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Blumengeschäft in Eppingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q136027561",
+  "industries": "",
+  "lat": 49.134481,
+  "lon": 8.911881,
+  "name": "blattgold Floristik & Dekoration",
+  "website": "https://www.blattgold-eppingen.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Wohnwagengeschäft in Eppingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q136027931",
+  "industries": "",
+  "lat": 49.13127,
+  "lon": 8.89588,
+  "name": "VanLifeDream",
+  "website": "https://www.vanlifedream.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "former German factory of canned food",
+  "id": "Q136093405",
+  "industries": "Lebensmittelindustrie",
+  "lat": 49.383333,
+  "lon": 8.566667,
+  "name": "M. Bassermann & Cie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "landwirtschaftliche Raiffeisen-Genossenschaft für Baden",
+  "id": "Q136135",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "ZG Raiffeisen",
+  "website": "https://www.zg-raiffeisen.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Kartonfabrik in Gernsbach-Obertsrot im Nordschwarzwald",
+  "id": "Q136302529",
+  "industries": "Papierindustrie",
+  "lat": 48.74258,
+  "lon": 8.3477,
+  "name": "Mayr-Melnhof Gernsbach",
+  "website": "https://mm.group/de/standorte/mm-gernsbach/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Technologieunternehmen mit Sitz in Heidelberg",
+  "id": "Q136399961",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberg Instruments",
+  "website": "https://heidelberg-instruments.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Ingenieur- und Beratungsunternehmen für Energieeffizienz und Gebäudetechnik mit Sitz in Walldorf",
+  "id": "Q136714846",
+  "industries": "Dienstleistungssektor",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Heid Energieberatung",
+  "website": "https://www.heid-energieberatung.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsche Aktiengesellschaft, Beteiligungsunternehmen",
+  "id": "Q136721975",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "2invest AG",
+  "website": "https://2invest-ag.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Hersteller KI-basierte Spracherkennungssoftware, Nachfolgeunternehmen der  EML European Media Laboratory GmbH",
+  "id": "Q136750452",
+  "industries": "Softwareentwicklung",
+  "lat": 49.005923,
+  "lon": 8.405023,
+  "name": "EML Speech Technology",
+  "website": "https://www.eml.org/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutsches Forschungs- und Beratungsunternehmen",
+  "id": "Q136753157",
+  "industries": "",
+  "lat": 48.995762,
+  "lon": 8.399339,
+  "name": "M-Five GmbH",
+  "website": "https://m-five.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
+  "id": "Q136813852",
+  "industries": "künstliche Intelligenz; Ausbildung",
+  "lat": 49.293333,
+  "lon": 8.521944,
+  "name": "A-Leecon GmbH",
+  "website": "https://leeon.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Karlsruher Unternehmen",
+  "id": "Q136824543",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "apic.ai",
+  "website": "https://apic.ai/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen mit Sitz in Germersheim",
+  "id": "Q136938678",
+  "industries": "",
+  "lat": 49.216667,
+  "lon": 8.366667,
+  "name": "Gumasol",
+  "website": "http://www.gumasol-werke.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "ehemalige Fabrik in Germersheim",
+  "id": "Q136938800",
+  "industries": "",
+  "lat": 49.210843,
+  "lon": 8.365056,
+  "name": "Gumasol-Werke",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Firma die Webbasierte Tools für Gemeinden erstellt",
+  "id": "Q137210150",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "ChurchTools Innovations",
+  "website": "https://church.tools"
+ },
+ {
+  "approximate_location": true,
+  "description": "Videoproduktions- und Social-Media-Marketingagentur aus Landau in der Pfalz, Deutschland.",
+  "id": "Q137221695",
+  "industries": "Werbeagentur; Videoproduktion; Marketingstrategie",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "TD Production",
+  "website": "https://td-production.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "Mofatouren-Anbieter in Eppingen, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+  "id": "Q137426601",
+  "industries": "",
+  "lat": 49.135673,
+  "lon": 8.908005,
+  "name": "Mofatouren Kraichgau",
+  "website": "https://www.mofatouren-kraichgau.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "German hosting provider",
+  "id": "Q137473182",
+  "industries": "",
+  "lat": 49.001247,
+  "lon": 8.366497,
+  "name": "Nitrado",
+  "website": "https://nitrado.net"
+ },
+ {
+  "approximate_location": true,
+  "description": "von Heinz Kohlbecker 1948-1977 in Pforzheim betriebene Fabrik zumeist für Bestecke aus Silber",
+  "id": "Q138026736",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Antiko Silberwarenfabrik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Cloud-Unternehmen mit Sitz in Walldorf, Tochtergesellschaft der SAP SE",
+  "id": "Q138042836",
+  "industries": "Cloud-Computing",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Delos Cloud",
+  "website": "https://www.deloscloud.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Profi-Mikrofonen",
+  "id": "Q138363",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Schoeps",
+  "website": "http://www.schoeps.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Deutsches IT-Unternehmen mit Fokus auf die Landwirtschaft",
+  "id": "Q138684483",
+  "industries": "künstliche Intelligenz; Softwareentwicklung",
+  "lat": 49.012697,
+  "lon": 8.425362,
+  "name": "heliopas.ai",
+  "website": "https://heliopas.ai/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Möbelhandelsunternehmen mit Sitz in Landau in der Pfalz",
+  "id": "Q138721826",
+  "industries": "Möbelhandel",
+  "lat": 49.199444,
+  "lon": 8.123056,
+  "name": "Möbel Ehrmann",
+  "website": "https://www.moebelehrmann.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "unternehmen für Paketöffner-Technologie und Logistiklösungen",
+  "id": "Q138764081",
+  "industries": "",
+  "lat": 49.4075,
+  "lon": 8.186389,
+  "name": "ALS Box Opening GmbH",
+  "website": "https://als-box-opening.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "gemeinnützige GmbH mit dem öffentlichen Auftrag, wissenschaftlich-technische Informationen aus der ganzen Welt öffentlich zugänglich zu machen",
+  "id": "Q1388737",
+  "industries": "Forschung",
+  "lat": 49.091713,
+  "lon": 8.428381,
+  "name": "FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur",
+  "website": "https://www.fiz-karlsruhe.de/en"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches E-Commerce-Unternehmen für Haus- und Gartenprodukte",
+  "id": "Q138970721",
+  "industries": "elektronischer Handel",
+  "lat": 48.6958,
+  "lon": 8.7712,
+  "name": "Kömpf Onlineshops GmbH",
+  "website": "https://www.mein-gartenshop24.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Baumarktbetreiber",
+  "id": "Q138974078",
+  "industries": "Einzelhandel; Baumarkt",
+  "lat": 48.6958,
+  "lon": 8.7712,
+  "name": "Kömpf Baumarkt GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Baustoffhändler",
+  "id": "Q138974613",
+  "industries": "Baustoffhandel; Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik",
+  "lat": 48.6958,
+  "lon": 8.7712,
+  "name": "Kömpf Baustoffhandel GmbH",
+  "website": "https://www.koempf.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Bau- und Fasadengerüsthersteller aus Deutschland",
+  "id": "Q139050786",
+  "industries": "",
+  "lat": 49.045864,
+  "lon": 8.990324,
+  "name": "Wilhelm Layher GmbH & Co KG",
+  "website": "https://www.layher.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen für Renovierung, Sanierung, Modernisierung, Baukoordination im Rhein-Neckar-Kreis",
+  "id": "Q139379119",
+  "industries": "",
+  "lat": 49.383333,
+  "lon": 8.566667,
+  "name": "Malo 7 GmbH",
+  "website": "https://malo7.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Softwareentwicklung für die Automobilbranche",
+  "id": "Q139595086",
+  "industries": "Automobilindustrie",
+  "lat": 49.265278,
+  "lon": 8.598611,
+  "name": "NOVU SYSTEMS GmbH",
+  "website": "https://novu.systems"
+ },
+ {
+  "approximate_location": true,
+  "description": "German manufacturer of modular robotic automation for pharmaceutical and medical device manufacturing, founded 2012, headquartered in Bruchsal",
+  "id": "Q139679390",
+  "industries": "Robotik",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "ESSERT GmbH",
+  "website": "https://essert.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen hinter Verivox.de",
+  "id": "Q139907298",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Verivox GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "in Stutensee bei Karlsruhe ansässiger Entwickler und Hersteller von eingebetteten Computerlösungen",
+  "id": "Q139916607",
+  "industries": "",
+  "lat": 49.064722,
+  "lon": 8.471667,
+  "name": "Tria Technologies",
+  "website": "https://www.tria-technologies.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Softwareunternehmen",
+  "id": "Q139942683",
+  "industries": "",
+  "lat": 48.987778,
+  "lon": 8.543333,
+  "name": "race result",
+  "website": "https://www.raceresult.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q139967569",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Unzer E-Com",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
+  "id": "Q139972663",
+  "industries": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Perspix.ai",
+  "website": "https://www.perspix.ai"
+ },
+ {
+  "approximate_location": true,
+  "description": "expertise en sécurisation du capital humain pour la réussite des transmissions",
+  "id": "Q140009908",
+  "industries": "",
+  "lat": 48.816667,
+  "lon": 7.787778,
+  "name": "La Fusac",
+  "website": "https://lafusac.fr/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen für Loyalty- und Kundenbindungssysteme (gegründet 1991, Karlsruhe)",
+  "id": "Q140167518",
+  "industries": "Softwareentwicklung; Direktmarketing",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "PRODATA Datenbanken und Informationssysteme GmbH",
+  "website": "https://www.prodata.de/kundenbindung/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Packaging distributor in Germany",
+  "id": "Q140172841",
+  "industries": "Großhandel; Verpackungswirtschaft; Warenverteilung",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Rajapack Deutschland",
+  "website": "https://www.rajapack.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Technologie- und Beratungsunternehmen mit Hauptsitz in Karlsruhe",
+  "id": "Q140290468",
+  "industries": "Informationstechnik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Exxeta",
+  "website": "http://www.exxeta.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q140307913",
+  "industries": "",
+  "lat": 49.25,
+  "lon": 8.516944,
+  "name": "Creative Balloons GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Softwareunternehmen",
+  "id": "Q140315458",
+  "industries": "Softwareindustrie",
+  "lat": 49.25,
+  "lon": 8.516944,
+  "name": "Be My Business",
+  "website": "https://be-my-business.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q140323228",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Huf Baolong Electronics Bretten GmbH",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "regionales Online-Nachrichtenportal für Heidelberg und Umgebung",
+  "id": "Q140456119",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "HEIDELBERG24",
+  "website": "https://www.heidelberg24.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "regionales Online-Nachrichtenportal für Baden und Freiburg",
+  "id": "Q140456129",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "baden24",
+  "website": "https://www.baden24.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Softwareunternehmen für Warehouse-Management-Systeme mit Sitz in Stutensee.",
+  "id": "Q140644946",
+  "industries": "",
+  "lat": 49.064722,
+  "lon": 8.471667,
+  "name": "TUP GmbH & Co. KG",
+  "website": "https://www.tup.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unabhängiges Kfz-Sachverständigenbüro in Karlsruhe",
+  "id": "Q140668794",
+  "industries": "",
+  "lat": 49.007915,
+  "lon": 8.506035,
+  "name": "BESA Kfz-Gutachter e.K.",
+  "website": "https://www.besa-gutachter.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmensgruppe mit Schwerpunkt in Baden",
+  "id": "Q140721982",
+  "industries": "Baustoffhandel",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Unternehmensgruppe Wertheimer",
+  "website": "https://wertheimer-gruppe.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1407523",
+  "industries": "",
+  "lat": 48.96,
+  "lon": 9.064722,
+  "name": "Kienle + Spiess",
+  "website": "http://www.kienle-spiess.com/stormcms2/c3view.php"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Anbieter von Weiterbildungen zu Managementsystemen mit Sitz in Pforzheim",
+  "id": "Q140782396",
+  "industries": "Erziehung und Unterricht",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "VOREST AG",
+  "website": "https://www.vorest-ag.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Energielieferant im Rhein-Neckar-Odenwald-Kreis mit Lieferservice für Holzpellets und Heizöl, regionales Tankstellennetz mit modernen Waschparks, Kraftstoffhandel für gewerbliche Kunden und regionale Energieversorgung mit Strom und Gas",
+  "id": "Q140999887",
+  "industries": "Gastronomie; Tankstellenkette; Energieindustrie",
+  "lat": 49.2975,
+  "lon": 8.92,
+  "name": "Lenz Energie",
+  "website": "https://www.lenz-energie.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Uhrenhersteller und Restaurator für Zifferblätter aus Ispringen im Enzkreis, bei Pforzheim",
+  "id": "Q1410371",
+  "industries": "",
+  "lat": 48.913826,
+  "lon": 8.677123,
+  "name": "Richard Bethge GmbH",
+  "website": "https://www.richard-bethge.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q141183014",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.166944,
+  "name": "Dr. Wolman GmbH",
+  "website": "https://web.archive.org/web/20030201223907/https://www.wolman.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Die Erdgas Südwest Service GmbH ist ein Elektro- und SHK-Meisterbetrieb für Heizungs- und Solarinstallationen. Sie ist eine 100-prozentige Tochtergesellschaft der Erdgas Südwest GmbH.",
+  "id": "Q141429311",
+  "industries": "Klimatechnik",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Erdgas Südwest Service GmbH",
+  "website": "https://www.erdgas-suedwest-service.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
+  "id": "Q141450324",
+  "industries": "Event-Management; Messewirtschaft",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Solar Promotion GmbH",
+  "website": "https://www.solarpromotion.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Schaltschränken, Gerätegehäusen, Baugruppenträgern etc.",
+  "id": "Q1414523",
+  "industries": "",
+  "lat": 48.845278,
+  "lon": 8.545833,
+  "name": "Schroff GmbH",
+  "website": "https://schroff.nvent.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Importeur und Lagerbetreiber für Klimatechnik, Wärmepumpen und Photovoltaik in Karlsruhe",
+  "id": "Q141469668",
+  "industries": "Großhandel",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Ananda GmbH",
+  "website": "https://www.ananda.gmbh/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Onlinehändler für Klima- und Solartechnik in Karlsruhe",
+  "id": "Q141469710",
+  "industries": "elektronischer Handel",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "AC TEC GmbH",
+  "website": "https://actec.eu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Markeninhaber für Klimageräte, Wärmepumpen und Haushaltstechnik in Karlsruhe",
+  "id": "Q141469711",
+  "industries": "Klimatechnik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "HANTECH GmbH",
+  "website": "https://www.hantech.eu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "B2B-Onlinehändler für Photovoltaik und Klimatechnik für Installateure in Karlsruhe",
+  "id": "Q141469712",
+  "industries": "Großhandel",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "SOLARCRAFT GmbH",
+  "website": "https://solarcraft.eu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Fachverlag für Kreditinstitute",
+  "id": "Q1416255",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "FCH AG",
+  "website": "http://www.fc-heidelberg.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "id": "Q1437757",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Institut für Technik der Informationsverarbeitung",
+  "website": "https://www.itiv.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1439043",
+  "industries": "",
+  "lat": 48.750833,
+  "lon": 8.870556,
+  "name": "Fortuna-Werke",
+  "website": "http://www.fortuna-gmbh.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Medizintechnikunternehmen",
+  "id": "Q1453394",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberg Engineering",
+  "website": "http://www.HeidelbergEngineering.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Anbieter von Software und Dienstleistungen, insbesondere für SAP-Anwender",
+  "id": "Q1468195",
+  "industries": "",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Realtech",
+  "website": "http://www.realtech.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q1488647",
+  "industries": "",
+  "lat": 49.095,
+  "lon": 8.278333,
+  "name": "Kreismusikverband Germersheim",
+  "website": "http://www.kmv-germersheim.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen im Bereich der Erdgasversorgung im Enzkreis",
+  "id": "Q1495705",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Gasversorgung Pforzheim Land",
+  "website": "http://www.gvp-erdgas.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Konzernobergesellschaft der Schöck-Gruppe",
+  "id": "Q1521690",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Schöck Gruppe",
+  "website": "http://www.schoeck.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Spezialpapierhersteller in Gernsbach im Nordschwarzwald",
+  "id": "Q1529828",
+  "industries": "",
+  "lat": 48.77339,
+  "lon": 8.34051,
+  "name": "Glatfelter Gernsbach",
+  "website": "http://www.glatfelter.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Entwicklungs- und Beteiligungsgesellschaft",
+  "id": "Q1538422",
+  "industries": "Beteiligungsgesellschaft",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Atevia",
+  "website": "http://www.atevia.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Finanzdienstleister mit Sitz in Baden-Baden",
+  "id": "Q1545677",
+  "industries": "Finanzdienstleistung",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Grenke AG",
+  "website": "http://www.grenke.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Versandhandelsunternehmen in der Otto Group",
+  "id": "Q1550698",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Heine Versand",
+  "website": "http://www.heine.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Hotel in Ettlingen, Baden-Württemberg, Deutschland",
+  "id": "Q1558645",
+  "industries": "",
+  "lat": 48.9417,
+  "lon": 8.40493,
+  "name": "Hotel-Restaurant Erbprinz",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsch-spanischer Hersteller von Polymerase",
+  "id": "Q15613262",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "4basebio",
+  "website": "https://4basebioag.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Energieversorgungsunternehmen mit Sitz in Pforzheim",
+  "id": "Q1562628",
+  "industries": "öffentliches Versorgungsunternehmen",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Stadtwerke Pforzheim",
+  "website": "https://www.stadtwerke-pforzheim.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Anbieter von Sicherheitstechnik für Industrieanlagen im badischen Brühl",
+  "id": "Q1563698",
+  "industries": "",
+  "lat": 49.4,
+  "lon": 8.535278,
+  "name": "HIMA Paul Hildebrandt GmbH",
+  "website": "https://www.hima.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "kommunales Unternehmen der Stadt Baden-Baden",
+  "id": "Q15638722",
+  "industries": "Wasserversorgung; Gasversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; elektrische Energietechnik",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Stadtwerke Baden-Baden",
+  "website": "https://www.stadtwerke-baden-baden.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "ehemaliges Maschinenbauunternehmen in Durlach",
+  "id": "Q15785111",
+  "industries": "Maschinenbau; Maschinen- und Anlagenbau; Metallindustrie",
+  "lat": 49.076944,
+  "lon": 8.844167,
+  "name": "Badische Maschinenfabrik Durlach",
+  "website": "http://bmdfoundry.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Bahnbetriebswerk in Rheinland-Pfalz",
+  "id": "Q15785146",
+  "industries": "",
+  "lat": 49.34921,
+  "lon": 8.139921,
+  "name": "Bahnbetriebswerk Neustadt",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Röntgenanalysegeräten",
+  "id": "Q15790019",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Bruker AXS",
+  "website": "http://www.bruker-axs.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Holdinggesellschaft",
+  "id": "Q15805519",
+  "industries": "Bergbau",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Deutsche Rohstoff",
+  "website": "http://www.rohstoff.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "weltweit tätiger Zulieferer für Hersteller von Hausgeräten",
+  "id": "Q15806975",
+  "industries": "",
+  "lat": 49.0625,
+  "lon": 8.801944,
+  "name": "E.G.O.-Firmengruppe",
+  "website": "http://www.egoproducts.com/en/home/"
+ },
+ {
+  "approximate_location": true,
+  "description": "IT-Dienstleister",
+  "id": "Q15819766",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "VIVAVIS-Gruppe",
+  "website": "https://vivavis.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Behörde in Karlsruhe-Durlach",
+  "id": "Q15825255",
+  "industries": "",
+  "lat": 49.004314,
+  "lon": 8.493434,
+  "name": "Landwirtschaftliches Technologiezentrum Augustenberg",
+  "website": "http://www.ltz-bw.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Hersteller von unterschiedlichen Keramikwaren (unter anderem Majolika) aus Karlsruhe",
+  "id": "Q15848750",
+  "industries": "",
+  "lat": 49.018933,
+  "lon": 8.400875,
+  "name": "Staatliche Majolika Manufaktur Karlsruhe",
+  "website": "https://majolika-karlsruhe.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Teil der Automobilsparte des US-Konzerns Harman International Industries",
+  "id": "Q1585554",
+  "industries": "Autozulieferer",
+  "lat": 48.914444,
+  "lon": 8.506389,
+  "name": "Harman Becker Automotive Systems",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Tochter der IHI Corporation",
+  "id": "Q1585746",
+  "industries": "Automobilindustrie",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "IHI Charging Systems International",
+  "website": "https://www.ihi-csi.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Brauerei im Karlsruher Stadtteil Grünwinkel",
+  "id": "Q1589080",
+  "industries": "Braugewerbe; Nahrungs- und Genussmittelgewerbe",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Hatz-Moninger Brauhaus",
+  "website": "https://www.moninger.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q1594001",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberg Center Lateinamerika",
+  "website": "http://www.heidelberg-center.uni-hd.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Verein",
+  "id": "Q1594029",
+  "industries": "Forschung",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberger Institut für Internationale Konfliktforschung",
+  "website": "http://hiik.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Versicherungsunternehmen mit Sitz in Neu-Isenburg",
+  "id": "Q1594037",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberger Lebensversicherung",
+  "website": "http://www.heidelberger-leben.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "",
+  "id": "Q15953328",
+  "industries": "",
+  "lat": 48.8159,
+  "lon": 7.7922,
+  "name": "Sécherie de pommes de pins sylvestres",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Gold- u. Silberscheideanstalt",
+  "id": "Q1595764",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Heimerle + Meule",
+  "website": "http://www.heimerle-meule.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Musikalisches Forschungsinstitut",
+  "id": "Q1600968",
+  "industries": "Forschung",
+  "lat": 48.9988,
+  "lon": 8.4747,
+  "name": "Max-Reger-Institut",
+  "website": "http://www.max-reger-institut.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen aus Baden-Württemberg",
+  "id": "Q1604590",
+  "industries": "",
+  "lat": 48.866111,
+  "lon": 9.031944,
+  "name": "Helukabel",
+  "website": "http://www.helukabel.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q1609538",
+  "industries": "",
+  "lat": 48.846111,
+  "lon": 8.588889,
+  "name": "Herbstreith & Fox",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Software für Videokonferenzen und Screen-Sharing",
+  "id": "Q1618207",
+  "industries": "Informationstechnik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Netviewer",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1630795",
+  "industries": "",
+  "lat": 49.401111,
+  "lon": 8.629722,
+  "name": "Hotel-ami",
+  "website": "http://www.hotel-ami.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Softwarehersteller",
+  "id": "Q1653256",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "ICON-SCM",
+  "website": "https://www.e2open.com/de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen für IT-Lösungen im öffentlichen Personenverkehr",
+  "id": "Q1654187",
+  "industries": "Verkehrstelematik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "INIT Innovation in Traffic Systems",
+  "website": "https://initse.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "Forschungseinrichtung mit Sitz in Karlsruhe",
+  "id": "Q1660769",
+  "industries": "",
+  "lat": 49.01372,
+  "lon": 8.42421,
+  "name": "TecO",
+  "website": "https://www.teco.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "beschäftigt sich mit der Entwicklung, Untersuchung und Anwendung von Wirk- und Arzneistoffen sowie der Aufklärung molekularer und zellulärer Wirkungsmechanismen",
+  "id": "Q1664945",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Institut für Pharmazie und Molekulare Biotechnologie",
+  "website": "https://www.ipmb.uni-heidelberg.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Bundesforschungsinstitut zur Züchtung nachhaltiger Rebsorten und Forschung an Rebe und Wein",
+  "id": "Q1664958",
+  "industries": "",
+  "lat": 49.218,
+  "lon": 8.04594,
+  "name": "Institut für Rebenzüchtung Geilweilerhof",
+  "website": "https://www.julius-kuehn.de/zr/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "id": "Q1665002",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Institut für Technikfolgenabschätzung und Systemanalyse",
+  "website": "http://www.itas.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Vereinigung",
+  "id": "Q1667051",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Internationale Arbeitsgemeinschaft für Hymnologie",
+  "website": "https://iah-hymnologie.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "gemeinnütziger Verein in Deutschland",
+  "id": "Q1669842",
+  "industries": "",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Weinbruderschaft der Pfalz",
+  "website": "https://www.weinbruderschaft-der-pfalz.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen",
+  "id": "Q1677611",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Stöber Antriebstechnik",
+  "website": "http://www.stoeber.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Versicherungsunternehmen mit Sitz in Heidelberg",
+  "id": "Q1682782",
+  "industries": "Versicherer",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Janitos Versicherung",
+  "website": "http://www.janitos.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Entwicklungsdienstleister",
+  "id": "Q16831915",
+  "industries": "",
+  "lat": 49.155556,
+  "lon": 8.293611,
+  "name": "ITK Engineering",
+  "website": "https://www.itk-engineering.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Walldorf, Germany",
+  "id": "Q17085780",
+  "industries": "Cloud-Computing",
+  "lat": 49.306389,
+  "lon": 8.642222,
+  "name": "Fluid Operations",
+  "website": "http://www.fluidops.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen",
+  "id": "Q17122614",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Carl Roth",
+  "website": "http://www.carlroth.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Muttergesellschaft der Hornbachgruppe",
+  "id": "Q17123663",
+  "industries": "Holding",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Hornbach Holding",
+  "website": "https://www.hornbach-holding.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "christlicher Gemeinschaftsverband",
+  "id": "Q1724383",
+  "industries": "",
+  "lat": 48.836111,
+  "lon": 8.836667,
+  "name": "Württembergischer Christusbund",
+  "website": "https://www.christusbund.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen mit Sitz in Karlsruhe (ehem. Brauerei, heute Immobilien)",
+  "id": "Q1726435",
+  "industries": "Herstellung von sonstigen Nahrungsmitteln a. n. g.; Nahrungs- und Genussmittelgewerbe",
+  "lat": 49.0,
+  "lon": 8.35,
+  "name": "Sinner",
+  "website": "http://www.sinnerag.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Malsch (Landkreis Karlsruhe)",
+  "id": "Q17326475",
+  "industries": "",
+  "lat": 48.880833,
+  "lon": 8.334167,
+  "name": "Süddeutsche Teerindustrie STM",
+  "website": "https://www.stm-malsch.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1733984",
+  "industries": "Versicherung; Versicherer",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Karlsruher Versicherungen",
+  "website": "http://www.karlsruher.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen an elf Standorten",
+  "id": "Q17353511",
+  "industries": "Automobilindustrie",
+  "lat": 48.671111,
+  "lon": 8.110833,
+  "name": "Eckerle-Gruppe",
+  "website": "http://www.eckerle-gruppe.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Metall- und Recyclingunternehmen",
+  "id": "Q1736581",
+  "industries": "Erzeugung und erste Bearbeitung von Edelmetallen; Metallindustrie",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Allgemeine Gold- und Silberscheideanstalt",
+  "website": "http://www.allgemeine-gold.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Holzschliffpappe, die in erster Linie zu Bierdeckeln verarbeitet wird",
+  "id": "Q1736853",
+  "industries": "",
+  "lat": 48.727222,
+  "lon": 8.351944,
+  "name": "Katz",
+  "website": "http://www.thekatzgroup.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "von der deutschen Kerntechnik-Industrie getragenes Unternehmen, das bei Stör- und Unfällen in kerntechnischen Anlagen eingesetzt werden soll",
+  "id": "Q1739549",
+  "industries": "Kernenergie",
+  "lat": 49.077778,
+  "lon": 8.3925,
+  "name": "Kerntechnische Hilfsdienst GmbH",
+  "website": "http://www.khgmbh.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Schrank- und Schlafzimmermöbeln mit Sitz in Germersheim in Rheinland-Pfalz",
+  "id": "Q1739924",
+  "industries": "",
+  "lat": 49.216667,
+  "lon": 8.366667,
+  "name": "Nolte-Möbel",
+  "website": "http://www.nolte-moebel.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q1744485",
+  "industries": "",
+  "lat": 48.793333,
+  "lon": 8.778611,
+  "name": "Klaschka",
+  "website": "http://klaschka.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen der fleischverarbeitenden Industrie",
+  "id": "Q1747360",
+  "industries": "",
+  "lat": 48.875283,
+  "lon": 8.646656,
+  "name": "Müller Fleisch",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "inhabergeführter Bildungsverlag mit Sitz in Karlsruhe",
+  "id": "Q17591845",
+  "industries": "Veröffentlichung",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Schulwerkstatt-Verlag",
+  "website": "http://www.schulwerkstatt-verlag.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "größte Erdölraffinerie in Deutschland",
+  "id": "Q1761694",
+  "industries": "Ölindustrie",
+  "lat": 49.059317,
+  "lon": 8.329647,
+  "name": "MiRO",
+  "website": "http://www.miro-ka.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Dienstleister des Landes BW für Energieeinsatz",
+  "id": "Q1774417",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Klimaschutz- und Energieagentur Baden-Württemberg",
+  "website": "https://www.kea-bw.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gruppe von Krankenhäusern und Pflegeeinrichtungen",
+  "id": "Q1774640",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Klinikum Mittelbaden",
+  "website": "https://www.klinikum-mittelbaden.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Konzernobergesellschaft eines international tätigen Pharmaunternehmen in Familienbesitz",
+  "id": "Q1774807",
+  "industries": "",
+  "lat": 49.051389,
+  "lon": 8.530556,
+  "name": "Klocke-Gruppe",
+  "website": "http://klocke.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen mit Hauptsitz in Deutschland",
+  "id": "Q1787923",
+  "industries": "",
+  "lat": 48.932778,
+  "lon": 8.956389,
+  "name": "Krempel (Unternehmen)",
+  "website": "http://www.krempel-group.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Schmuckhersteller mit Sitz in Mönsheim in Baden-Württemberg",
+  "id": "Q17985912",
+  "industries": "Schmuck",
+  "lat": 48.864444,
+  "lon": 8.864722,
+  "name": "Binder FBM",
+  "website": "http://www.binder-fbm.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q1807724",
+  "industries": "",
+  "lat": 48.879444,
+  "lon": 8.965278,
+  "name": "Laura Chavin Cigars",
+  "website": "http://www.laura-chavin.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Physikinstitut",
+  "id": "Q191190",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Zentrum für Astronomie der Universität Heidelberg",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Kulturinstitution in Karlsruhe",
+  "id": "Q191228",
+  "industries": "Forschung",
+  "lat": 49.001389,
+  "lon": 8.383611,
+  "name": "ZKM | Zentrum für Kunst und Medien Karlsruhe",
+  "website": "https://zkm.de/en"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Baden-Baden, ermittelt Charts und erstellt Marktanalysen in den Unterhaltungsindustrie-Bereichen Buch, Musik, Video, Kino, TV, Videospiele, sowie soziale Medien",
+  "id": "Q1916159",
+  "industries": "",
+  "lat": 48.75838,
+  "lon": 8.239976,
+  "name": "Media Control",
+  "website": "https://www.media-control.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Versicherungsverein auf Gegenseitigkeit im Bereich der Sachversicherung  für Firmen- und Privatkunden",
+  "id": "Q1916312",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Medien-Versicherung",
+  "website": "http://www.medienversicherung.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Medienkonzern",
+  "id": "Q1916367",
+  "industries": "",
+  "lat": 49.316555,
+  "lon": 8.433615,
+  "name": "Mediengruppe Klambt",
+  "website": "http://www.klambt.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Messegelände in Rheinstetten-Forchheim bei Karlsruhe",
+  "id": "Q1924032",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Messe Karlsruhe",
+  "website": "http://www.messe-karlsruhe.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Feuerwehrfahrzeugen",
+  "id": "Q1926015",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Metz Aerials",
+  "website": "http://www.rosenbauer.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen tätig in der Planung und Realisierung von Büro- und Industriegebäuden",
+  "id": "Q19402238",
+  "industries": "Architektur; Bauwirtschaft",
+  "lat": 49.0,
+  "lon": 8.4667,
+  "name": "Vollack Gruppe",
+  "website": "http://www.vollack.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "eingetragener gemeinnütziger Verein in Deutschland",
+  "id": "Q19962398",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Forum für internationale Sicherheit",
+  "website": "http://www.fis-hd.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Automobilzulieferer aus Österreich",
+  "id": "Q19963165",
+  "industries": "",
+  "lat": 48.803889,
+  "lon": 8.319444,
+  "name": "Roth-Technik Austria",
+  "website": "http://www.rothtechnik.eu/deutsch/"
+ },
+ {
+  "approximate_location": true,
+  "description": "In Baden-Baden ansässige Hotelmanagementgesellschaft",
+  "id": "Q2015311",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Oetker Hotel Management",
+  "website": "https://www.oetkerhotels.com/oetker-collection/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q20180153",
+  "industries": "",
+  "lat": 49.294167,
+  "lon": 8.698333,
+  "name": "Schützengesellschaft Wiesloch",
+  "website": "http://sg-wiesloch.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Verpackungsmaschinen",
+  "id": "Q2042986",
+  "industries": "",
+  "lat": 49.064722,
+  "lon": 8.471667,
+  "name": "IWK Verpackungstechnik",
+  "website": "http://www.iwk.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Software- und Beratungsunternehmen",
+  "id": "Q2044808",
+  "industries": "Softwaretechnik; Beratung",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "PTV",
+  "website": "https://www.ptvgroup.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Zeitschriftenverlag mit Sitz in Rastatt",
+  "id": "Q2045104",
+  "industries": "",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Pabel-Moewig",
+  "website": "http://www.vpm.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "papierverarbeitendes Unternehmen",
+  "id": "Q2051105",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Papyrus Deutschland",
+  "website": "http://www.papyrus.com/deDE/home.htm"
+ },
+ {
+  "approximate_location": true,
+  "description": "Genossenschaft",
+  "id": "Q2082265",
+  "industries": "",
+  "lat": 49.441667,
+  "lon": 8.356111,
+  "name": "Pfalzmarkt",
+  "website": "http://www.pfalzmarkt.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q20981000",
+  "industries": "Herstellung von Waren",
+  "lat": 48.631389,
+  "lon": 8.073889,
+  "name": "Kasto",
+  "website": "http://www.kasto.com/uk/home.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "Konzernmutter der Pneuhage-Gruppe mit Sitz in Karlsruhe, deren Kerngeschäft der Groß- und Einzelhandel mit Reifen und Felgen für Fahrzeuge aller Art ist",
+  "id": "Q2099972",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Pneuhage",
+  "website": "https://pneu.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "genossenschaftlich orientierte Kooperation",
+  "id": "Q21036318",
+  "industries": "",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "SHK AG",
+  "website": "http://www.shknet.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "ehemaliger Hersteller von Baumaschinen in Neustadt an der Weinstraße",
+  "id": "Q21036340",
+  "industries": "Maschinen- und Anlagenbau",
+  "lat": 49.34882,
+  "lon": 8.16517,
+  "name": "Internationale Baumaschinenfabrik",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Gewerbebetrieb",
+  "id": "Q21036383",
+  "industries": "",
+  "lat": 49.037073,
+  "lon": 8.707523,
+  "name": "Markt-Apotheke",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Holdinggesellschaft der Ekoniva Gruppe",
+  "id": "Q21036427",
+  "industries": "",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Ekosem-Agrar",
+  "website": "http://www.ekosem-agrar.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Interessenverband für Video-",
+  "id": "Q21040662",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Verband für Deutschlands Video- und Computerspieler",
+  "website": "https://vdvc.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Unternehmensgruppe",
+  "id": "Q2112796",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Prominent",
+  "website": "http://www.prominent.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Kamerahersteller",
+  "id": "Q2138716",
+  "industries": "",
+  "lat": 48.774167,
+  "lon": 8.731389,
+  "name": "Regula-Werk King & Bauser",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Medizintechnikunternehmen",
+  "id": "Q2150946",
+  "industries": "",
+  "lat": 49.023889,
+  "lon": 8.756944,
+  "name": "Richard Wolf GmbH",
+  "website": "http://www.richard-wolf.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Bauunternehmen",
+  "id": "Q21559758",
+  "industries": "Bauwirtschaft",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Weisenburger Bau",
+  "website": "https://www.weisenburger.de/en"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen für Software und IT",
+  "id": "Q2207399",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "SNP Schneider-Neureither & Partner",
+  "website": "http://www.snpgroup.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Konzern im diakonischen Werk, im Gesundheits-, Bildungs- und Sozialwesen tätig",
+  "id": "Q2207693",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "SRH Holding",
+  "website": "https://www.srh.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Softwareunternehmen",
+  "id": "Q22132500",
+  "industries": "",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "metaphacts",
+  "website": "http://www.metaphacts.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Anwaltssozietät",
+  "id": "Q2251653",
+  "industries": "",
+  "lat": 48.631389,
+  "lon": 8.073889,
+  "name": "Schultze & Braun",
+  "website": "http://www.schubra.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Markt- und Sozialforschungsinstitut mit Sitz in Heidelberg",
+  "id": "Q22674693",
+  "industries": "Marktforschung",
+  "lat": 49.407821,
+  "lon": 8.693228,
+  "name": "Sinus-Institut",
+  "website": "https://www.sinus-institut.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Medizintechnikunternehmen",
+  "id": "Q22909101",
+  "industries": "",
+  "lat": 48.863024,
+  "lon": 8.580305,
+  "name": "STRATEC",
+  "website": "http://www.stratec.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Weisenau",
+  "id": "Q22920320",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Zementwerk Weisenau",
+  "website": "http://www.heidelbergcement.de/de/mainz"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q23017388",
+  "industries": "Fernsehen",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Arte Deutschland TV",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Carsharing-Verbund in Deutschland",
+  "id": "Q2327629",
+  "industries": "Carsharing",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Stadtmobil",
+  "website": "https://www.stadtmobil.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Versorgungsunternehmen",
+  "id": "Q2328532",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Stadtwerke Karlsruhe",
+  "website": "https://www.stadtwerke-karlsruhe.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "German software developer",
+  "id": "Q23305709",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Axonic Informationssysteme GmbH",
+  "website": "http://www.axonic.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutsche Ziegelei",
+  "id": "Q23721842",
+  "industries": "Grundstücks- und Wohnungswesen; Gesundheitswesen; Herstellung von keramischen Baumaterialien; Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte; Pflegeheime; Altenheime; Alten- und Behindertenwohnheime; Gewinnung von Steinen und Erden, sonstiger Bergbau",
+  "lat": 49.296,
+  "lon": 8.668,
+  "name": "Tonwarenindustrie Wiesloch",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German network for pluralist economics",
+  "id": "Q23921693",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Netzwerk Plurale Ökonomik",
+  "website": "https://www.plurale-oekonomik.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q24063923",
+  "industries": "",
+  "lat": 48.631389,
+  "lon": 8.073889,
+  "name": "Scheck-In",
+  "website": "http://www.scheck-in-center.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Verband",
+  "id": "Q2513904",
+  "industries": "",
+  "lat": 49.316555,
+  "lon": 8.433615,
+  "name": "Verband deutscher landwirtschaftlicher Untersuchungs- und Forschungsanstalten",
+  "website": "https://www.vdlufa.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutsches Dienstleistungsunternehmen",
+  "id": "Q2546896",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Walter services",
+  "website": "https://www.walterservices.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Weingut der Südpfalz",
+  "id": "Q2556110",
+  "industries": "",
+  "lat": 49.241292,
+  "lon": 8.21935,
+  "name": "Weingut Stern",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Schmuckmanufaktur",
+  "id": "Q2557653",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Wellendorff",
+  "website": "http://www.wellendorff.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen auf dem Gebiet der nukleare Entsorgung mit Sitz in Eggenstein-Leopoldshafen",
+  "id": "Q2568317",
+  "industries": "",
+  "lat": 49.077778,
+  "lon": 8.3925,
+  "name": "Kerntechnische Entsorgung Karlsruhe",
+  "website": "https://www.kte-karlsruhe.de/startseite"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Fitnessunternehmen",
+  "id": "Q25698371",
+  "industries": "",
+  "lat": 49.383333,
+  "lon": 8.566667,
+  "name": "Pfitzenmeier",
+  "website": "http://www.pfitzenmeier-unternehmensgruppe.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen, stellt Zutaten und Vorprodukte für die Lebensmittelindustrie her",
+  "id": "Q2570276",
+  "industries": "Lebensmittelindustrie",
+  "lat": 49.401111,
+  "lon": 8.629722,
+  "name": "ADM Wild",
+  "website": "http://www.wild.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Unternehmensgruppe der Getränkeherstellung und des -vertriebs",
+  "id": "Q2584554",
+  "industries": "",
+  "lat": 48.96,
+  "lon": 9.064722,
+  "name": "Winkels",
+  "website": "http://www.winkels.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Winzergenossenschaft",
+  "id": "Q2585230",
+  "industries": "",
+  "lat": 49.183333,
+  "lon": 8.054722,
+  "name": "Winzergenossenschaft Deutsches Weintor",
+  "website": "https://www.weintor.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Winzergenossenschaft",
+  "id": "Q2585263",
+  "industries": "",
+  "lat": 49.4075,
+  "lon": 8.186389,
+  "name": "Winzerverein Deidesheim",
+  "website": "http://www.winzervereindeidesheim.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q2586953",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Witzenmann-Gruppe",
+  "website": "http://www.witzenmann.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "regionaler Hersteller von Mineralwasser",
+  "id": "Q2597189",
+  "industries": "",
+  "lat": 49.15,
+  "lon": 8.983333,
+  "name": "Wüteria Mineralquellen",
+  "website": "http://www.wueteria.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Winzergenossenschaft mit Sitz in Sasbachwalden",
+  "id": "Q2640393",
+  "industries": "",
+  "lat": 48.6202,
+  "lon": 8.12143,
+  "name": "Alde Gott",
+  "website": "https://www.aldegott.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q2651306",
+  "industries": "Maschinen- und Anlagenbau",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Alpiq Anlagentechnik",
+  "website": "http://www.energie-und-kraftanlagen.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Haushaltsspülen und Küchenarmaturen",
+  "id": "Q2662512",
+  "industries": "",
+  "lat": 49.0625,
+  "lon": 8.801944,
+  "name": "Blanco (Oberderdingen)",
+  "website": "http://www.blanco-germany.com/de/de/home.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Drogeriekette",
+  "id": "Q266572",
+  "industries": "Drogerie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "dm-drogerie markt",
+  "website": "https://www.dm.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "archäologisch-altertumswissenschaftliches Teilinstitut der Universität Heidelberg",
+  "id": "Q27914839",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Institut für Klassische Archäologie und Byzantinische Archäologie",
+  "website": "http://www.klassische-archaeologie.uni-hd.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q27926350",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Papyrologie",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Ökostrom-Anbieter und ein Verbund von Bürgerenergiegesellschaften",
+  "id": "Q28034112",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Bürgerwerke",
+  "website": "https://buergerwerke.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Universitätsabteilung",
+  "id": "Q28371933",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Universität Heidelberg Institut für geschichtliche Rechtswissenschaft",
+  "website": "http://www.jura.uni-heidelberg.de/igr/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in der Energie- und Automationstechnik",
+  "id": "Q286778",
+  "industries": "Automatisierung; Energieindustrie",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "ABB Stotz-Kontakt",
+  "website": "http://new.abb.com/de/ueber-uns/gesellschaften/abb-stotz-kontakt"
+ },
+ {
+  "approximate_location": true,
+  "description": "Online-Versandhändler",
+  "id": "Q28901336",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Jacob Elektronik",
+  "website": "https://www.jacob.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q28979042",
+  "industries": "",
+  "lat": 48.95,
+  "lon": 8.839167,
+  "name": "Illinois Tool Works (Germany)",
+  "website": "http://www.itwcp.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29000187",
+  "industries": "",
+  "lat": 48.774167,
+  "lon": 8.731389,
+  "name": "Teleflex (Germany)",
+  "website": "http://www.teleflex-homecare.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Motorsportteam sowie ein Fahrzeugtuner und -konstrukteur aus Altensteig",
+  "id": "Q29000454",
+  "industries": "",
+  "lat": 48.586389,
+  "lon": 8.604722,
+  "name": "Team Hahn Racing",
+  "website": "http://www.team-hahn-racing.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29002328",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "NEC (Germany)",
+  "website": "http://de.nec.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29122909",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Microchip Technology (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29122974",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "IHI Corporation (Germany)",
+  "website": "http://www.ihi-csi.de/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29123403",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Bard (Germany)",
+  "website": "http://www.bard.de/cms/servlet/Query?node=81492&language=1"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q29123695",
+  "industries": "",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "Sulzer (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German art gallery specialised in contemporary glass art",
+  "id": "Q29585017",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Galerie B",
+  "website": "http://www.galerieb.de/en/galerie-b.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "Maschinenbau-Unternehmen mit Hauptsitz in Karlsbad, Deutschland",
+  "id": "Q30065997",
+  "industries": "Maschinenbau",
+  "lat": 48.914444,
+  "lon": 8.506389,
+  "name": "Herrmann Ultraschalltechnik",
+  "website": "https://www.herrmannultraschall.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30252828",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "CAS Software AG",
+  "website": "http://www.cas.de/en/homepage.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Rheinstetten, Germany",
+  "id": "Q30254459",
+  "industries": "",
+  "lat": 48.960556,
+  "lon": 8.289722,
+  "name": "Glötzl (Germany)",
+  "website": "http://www.gloetzl.de/en/home.htm"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30254593",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Humanetics (Germany)",
+  "website": "http://www.humaneticsatd.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30254781",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Inno (Germany)",
+  "website": "http://www.inno-group.com/en/pages/33-inno-germany"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30254818",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Stora Enso (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Sankt Leon-Rot, Germany",
+  "id": "Q30254864",
+  "industries": "",
+  "lat": 49.265278,
+  "lon": 8.598611,
+  "name": "ARES Energiesysteme (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Plankstadt, Germany",
+  "id": "Q30254966",
+  "industries": "",
+  "lat": 49.393333,
+  "lon": 8.594167,
+  "name": "Alpha Therm (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Bretten, Germany",
+  "id": "Q30254978",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Advance Concepts for Interactive Technology (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30255337",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Affimed Therapeutics (Germany)",
+  "website": "http://www.affimed.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Ölbronn-Dürrn, Germany",
+  "id": "Q30255356",
+  "industries": "",
+  "lat": 48.956944,
+  "lon": 8.757222,
+  "name": "AFT Automation & Feinwerktechnik (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30255673",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Comprehensive Biomarker Center (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30256138",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Engage (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen",
+  "id": "Q30256484",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Mössner",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30256494",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Disy (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Pforzheim, Germany",
+  "id": "Q30256509",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Doduco (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Mühlacker, Germany",
+  "id": "Q30256718",
+  "industries": "",
+  "lat": 48.95,
+  "lon": 8.839167,
+  "name": "Geltz Umwelt-Technologie (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30256835",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "European Media Laboratory (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Heidelberger Geoinformationstechnologieunternehmen",
+  "id": "Q30256951",
+  "industries": "",
+  "lat": 49.362831,
+  "lon": 8.687555,
+  "name": "geomer GmbH",
+  "website": "https://www.geomer.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30257006",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "GTC Kappelmeyer (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Wössingen, Germany",
+  "id": "Q30257096",
+  "industries": "",
+  "lat": 49.01205,
+  "lon": 8.60754,
+  "name": "INDUTHERM Erwärmungsanlagen (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Neustadt, Germany",
+  "id": "Q30261284",
+  "industries": "",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "RLP AgroScience (Germany)",
+  "website": "http://www.agroscience.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Bretten, Germany",
+  "id": "Q30266800",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Flow International Corporation (Germany)",
+  "website": "http://www.flowwaterjet.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Subsidiary of Canadian pharmaceutical company in Heidelberg, Germany",
+  "id": "Q30267678",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Valeant Pharmaceuticals (Germany)",
+  "website": "http://www.valeant.eu/contact/de"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30268730",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Apogenix (Germany)",
+  "website": "http://apogenix.com/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Niefern-Öschelbronn, Germany",
+  "id": "Q30268815",
+  "industries": "",
+  "lat": 48.916389,
+  "lon": 8.784167,
+  "name": "Amryt Pharma (Germany)",
+  "website": "http://www.amrytpharma.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Ettlingen, Germany",
+  "id": "Q30269106",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Ipsen (Germany)",
+  "website": "https://ipsen-pharma.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Rastatt, Germany",
+  "id": "Q30269260",
+  "industries": "",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Getinge (Germany)",
+  "website": "http://www.getinge.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30269276",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Rheacell (Germany)",
+  "website": "http://www.rheacell.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Wissembourg, France",
+  "id": "Q30273817",
+  "industries": "",
+  "lat": 49.0375,
+  "lon": 7.946111,
+  "name": "Schiller (France)",
+  "website": "http://www.schiller.ch/fr/fr"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30284858",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Sygnis (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Gaggenau, Germany",
+  "id": "Q30285001",
+  "industries": "",
+  "lat": 48.803889,
+  "lon": 8.319444,
+  "name": "Precitec (Germany)",
+  "website": "http://www.precitec.de/en/precitec-group-start-page/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Eggenstein-Leopoldshafen, Germany",
+  "id": "Q30285028",
+  "industries": "",
+  "lat": 49.077778,
+  "lon": 8.3925,
+  "name": "Kerntechnische Hilfsdienst (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q30285074",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Kraftanlagen AG",
+  "website": "https://ka-heidelberg.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30285182",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "MKmetric (Germany)",
+  "website": "http://www.mkm.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30285534",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "YellowMap AG",
+  "website": "https://www.yellowmap.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30289672",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Biobyte Solutions (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30289814",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Harman (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Birkenfeld, Germany",
+  "id": "Q30289925",
+  "industries": "",
+  "lat": 48.86667,
+  "lon": 8.63333,
+  "name": "Helmut Christmann (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30290308",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Maus (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Pforzheim, Germany",
+  "id": "Q30290348",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "LogControl (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30290447",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Mediri (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q30292065",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Polytec (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Baden-Baden, Germany",
+  "id": "Q30292113",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Technologie Agentur Struktur Keramik (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Renningen, Germany",
+  "id": "Q30292602",
+  "industries": "",
+  "lat": 48.766111,
+  "lon": 8.934722,
+  "name": "WS (Germany)",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q30295295",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Medicyte (Germany)",
+  "website": "http://www.medicyte.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Weil der Stadt, Germany",
+  "id": "Q30295557",
+  "industries": "",
+  "lat": 48.750833,
+  "lon": 8.870556,
+  "name": "HERION Systemtechnik (Germany)",
+  "website": "http://www.herion-systemtechnik.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q30338199",
+  "industries": "",
+  "lat": 49.283889,
+  "lon": 8.127222,
+  "name": "Tenneco (Germany)",
+  "website": "http://www.tenneco.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q30338448",
+  "industries": "",
+  "lat": 49.0375,
+  "lon": 7.946111,
+  "name": "Bruker (France)",
+  "website": "https://www.bruker.com/fr/about-us/offices/bruker-biospin.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q30338621",
+  "industries": "",
+  "lat": 49.343889,
+  "lon": 8.658056,
+  "name": "Masco (Germany)",
+  "website": "http://masco.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q30338736",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Becton Dickinson (Germany)",
+  "website": "http://www.bd.com/de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "id": "Q30343035",
+  "industries": "",
+  "lat": 49.009139,
+  "lon": 8.410331,
+  "name": "Institut für Angewandte Informatik und Formale Beschreibungsverfahren",
+  "website": "http://www.aifb.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "branch of Reckitt in Germany",
+  "id": "Q30712856",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "RB Hygiene Home Deutschland GmbH",
+  "website": "http://www.rb.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Technische Universität und Forschungszentrum in Karlsruhe, Deutschland",
+  "id": "Q309988",
+  "industries": "Forschung",
+  "lat": 49.0996,
+  "lon": 8.4319,
+  "name": "Karlsruher Institut für Technologie",
+  "website": "https://www.kit.edu/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Automobilwerk der Daimler AG",
+  "id": "Q31836088",
+  "industries": "",
+  "lat": 48.797744,
+  "lon": 8.327383,
+  "name": "Mercedes-Benz-Werk Gaggenau",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen zur Produktion von Nähmaschinen, Fahrrädern und Motorrädern mit Sitz in Durlach",
+  "id": "Q320635",
+  "industries": "Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung; Herstellung von Krafträdern; Herstellung von Fahrrädern sowie von Behindertenfahrzeugen; Fahrzeugbau; Feinmechanische und optische Industrie",
+  "lat": 49.0,
+  "lon": 8.4667,
+  "name": "Gritzner",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Unternehmen der Antriebstechnik",
+  "id": "Q321205",
+  "industries": "",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "SEW Eurodrive",
+  "website": "http://www.sew-eurodrive.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Familienunternehmen im Bereich Maschinen- und Anlagenbau",
+  "id": "Q325807",
+  "industries": "Maschinenbau; Anlagenbau",
+  "lat": 49.133333,
+  "lon": 8.916667,
+  "name": "Dieffenbacher",
+  "website": "https://dieffenbacher.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q3294954",
+  "industries": "",
+  "lat": 48.816667,
+  "lon": 7.787778,
+  "name": "Mars Wrigley Confectionary",
+  "website": "https://www.marsfrance.fr/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Forschungseinrichtung in Karlsruhe",
+  "id": "Q33121946",
+  "industries": "",
+  "lat": 49.005856,
+  "lon": 8.399226,
+  "name": "Helmholtz Alliance for Astroparticle Physics",
+  "website": "http://www.hap-astroparticle.org/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q331492",
+  "industries": "",
+  "lat": 49.318056,
+  "lon": 8.547222,
+  "name": "Weidenhammer Packaging Group",
+  "website": "http://weidenhammer.de/en/home.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsch-schweizerische Sozietät mit mehr als 50 Rechtsanwälten",
+  "id": "Q34561210",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Caemmerer Lenz",
+  "website": "http://www.caemmerer-lenz.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Softwareunternehmen",
+  "id": "Q3477655",
+  "industries": "Business-to-business",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Seeburger",
+  "website": "http://www.seeburger.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Softwarehersteller",
+  "id": "Q3600443",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Abas Software AG",
+  "website": "https://abas-erp.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Plattenlabel mit Sitz in Mühlacker",
+  "id": "Q3636842",
+  "industries": "",
+  "lat": 48.95,
+  "lon": 8.839167,
+  "name": "Battle Cry Records",
+  "website": "http://www.battlecryrecords.de/mainframes.htm"
+ },
+ {
+  "approximate_location": true,
+  "description": "company",
+  "id": "Q371032",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Aicas",
+  "website": "http://www.aicas.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "SearchHaus GmbH is Karlsruhe-based company specialized on search solutions for structured data and develop of GraphScope",
+  "id": "Q37767450",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "SearchHaus",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Gesundheitseinrichtung im Landkreis Rastatt",
+  "id": "Q38015842",
+  "industries": "",
+  "lat": 48.671111,
+  "lon": 8.110833,
+  "name": "Klinikum Mittelbaden Hub",
+  "website": "https://www.klinikum-mittelbaden.de/standort-pflege/hub/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Winzergenossenschaft im deutschen Weinanbaugebiet Baden",
+  "id": "Q382394",
+  "industries": "",
+  "lat": 48.695278,
+  "lon": 8.135,
+  "name": "Affentaler Winzer",
+  "website": "http://www.affentaler.de/de/index.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "ein Umwelttechnikunternehmen in Deutschland",
+  "id": "Q387905",
+  "industries": "Umwelttechnik",
+  "lat": 49.066667,
+  "lon": 9.0,
+  "name": "Afriso-Euro-Index",
+  "website": "http://www.afriso.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Forschungseinrichtung",
+  "id": "Q389143",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Max-Planck-Institut für ausländisches öffentliches Recht und Völkerrecht",
+  "website": "http://www.mpil.de/ww/en/pub/news.cfm"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q39975565",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Msg GillardonBSM",
+  "website": "http://www.msg-gillardon.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Uhren und Metallband-Manufaktur",
+  "id": "Q4034372",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Aristo",
+  "website": "http://www.aristo-vollmer.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Publisher für Videospiele",
+  "id": "Q4051591",
+  "industries": "Computerspielindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "TopWare Interactive",
+  "website": "http://www.topware.com/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Krankenhaus der Grund- und Regelversorgung in Neustadt an der Weinstraße (Rheinland-Pfalz)",
+  "id": "Q42916743",
+  "industries": "",
+  "lat": 49.346389,
+  "lon": 8.150278,
+  "name": "Hetzelstift (Neustadt an der Weinstraße)",
+  "website": "https://www.hetzelstift.de/startseite"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Bier- und Spirituosenkonzern",
+  "id": "Q42968312",
+  "industries": "Herstellung von Spirituosen; Nahrungs- und Genussmittelgewerbe",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ferd. Rückforth Nachfolger",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Ettlingen, Germany",
+  "id": "Q43894935",
+  "industries": "",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "ISO Arzneimittel (Germany)",
+  "website": "https://www.iso-arzneimittel.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q43894945",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Joimax (Germany)",
+  "website": "https://www.joimax.com/us/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Neustadt, Germany",
+  "id": "Q43895107",
+  "industries": "",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Advanced Medical Solutions (Germany)",
+  "website": "https://www.admedsol.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Homöopathika mit Sitz in Baden-Baden",
+  "id": "Q439859",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Biologische Heilmittel Heel",
+  "website": "https://www.heel.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Medizintechnikunternehmen",
+  "id": "Q442311",
+  "industries": "",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Maquet",
+  "website": "http://maquet.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Systemhersteller für Kunststofffenster",
+  "id": "Q448022",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Aluplast",
+  "website": "https://www.aluplast.net/"
+ },
+ {
+  "approximate_location": false,
+  "description": "biomedizinische Forschungsinstitution in Heidelberg",
+  "id": "Q449325",
+  "industries": "Forschung; Krankenhäuser und Rehabilitationskliniken",
+  "lat": 49.414167,
+  "lon": 8.6725,
+  "name": "Deutsches Krebsforschungszentrum",
+  "website": "https://www.dkfz.de/en/index.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Segelflugzeugen",
+  "id": "Q449793",
+  "industries": "",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "DG Flugzeugbau",
+  "website": "http://www.dg-flugzeugbau.de/index.php?id=1329"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Piezo- oder Motorantrieben für präzise Positioniertechnik",
+  "id": "Q47423134",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Physik Instrumente",
+  "website": "https://www.physikinstrumente.com/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gold- und Silberscheideanstalt",
+  "id": "Q47535890",
+  "industries": "",
+  "lat": 48.8525,
+  "lon": 8.826944,
+  "name": "C. Hafner",
+  "website": "https://www.c-hafner.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutscher Verlag",
+  "id": "Q47542265",
+  "industries": "",
+  "lat": 49.168196,
+  "lon": 8.620295,
+  "name": "Verlag Regionalkultur",
+  "website": "https://verlag-regionalkultur.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Fahrradzubehör",
+  "id": "Q479184",
+  "industries": "",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "SIGMA Elektro",
+  "website": "https://sigma.bike"
+ },
+ {
+  "approximate_location": true,
+  "description": "Energieversorgungsunternehmen",
+  "id": "Q48180711",
+  "industries": "öffentliches Versorgungsunternehmen",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Stadtwerke Heidelberg",
+  "website": "https://www.swhd.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Klaviermechaniken",
+  "id": "Q4892638",
+  "industries": "",
+  "lat": 49.1775,
+  "lon": 8.7503,
+  "name": "Louis Renner",
+  "website": "http://www.louis-renner.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Pforzheim, Germany",
+  "id": "Q50038347",
+  "industries": "",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Acandis (Germany)",
+  "website": "http://www.acandis.com/start-1-en"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Baden-Baden, Germany",
+  "id": "Q50038364",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Cesra (Germany)",
+  "website": "https://www.cesra.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Walldorf, Germany",
+  "id": "Q50038580",
+  "industries": "",
+  "lat": 49.306389,
+  "lon": 8.642222,
+  "name": "Helbo Photodynamic Systems (Germany)",
+  "website": "http://www.helbo.de/en/home/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q50038738",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Novaliq (Germany)",
+  "website": "http://www.novaliq.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Karlsruhe, Germany",
+  "id": "Q50038790",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Storch und Beller",
+  "website": "http://storch-beller.de/startseite/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q50038890",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Precisis (Germany)",
+  "website": "http://precisis.de/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q50038978",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "TherapySelect (Germany)",
+  "website": "http://www.therapyselect.de/en"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q50040165",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Institut für Umweltstudien",
+  "website": "http://www.weibel-ness.de/en/index1.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q50778201",
+  "industries": "Braugewerbe; Nahrungs- und Genussmittelgewerbe",
+  "lat": 48.89154,
+  "lon": 8.7156,
+  "name": "Brauerei Beckh",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Reiseveranstalter der TUI Group",
+  "id": "Q519040",
+  "industries": "Reisebüro; Tourismuswirtschaft",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "ltur",
+  "website": "https://www.ltur.com/de/index"
+ },
+ {
+  "approximate_location": true,
+  "description": "Maschinenbau-Unternehmen",
+  "id": "Q52205046",
+  "industries": "",
+  "lat": 48.95,
+  "lon": 8.839167,
+  "name": "Elumatec",
+  "website": "http://www.elumatec.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "Unternehmen in Karlsruhe",
+  "id": "Q52844671",
+  "industries": "",
+  "lat": 49.01383,
+  "lon": 8.382807,
+  "name": "WEBAGENCY E-Commerce",
+  "website": "http://www.webagency.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Fluggerätehersteller (eVTOL)",
+  "id": "Q5321557",
+  "industries": "Luft- und Raumfahrtindustrie",
+  "lat": 49.133333,
+  "lon": 8.6,
+  "name": "Volocopter",
+  "website": "https://www.volocopter.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "international tätiger Anbieter von Prozessmesstechnik, Strahlenschutz und Bioanalytik",
+  "id": "Q53750881",
+  "industries": "",
+  "lat": 48.750278,
+  "lon": 8.550556,
+  "name": "Berthold Technologies",
+  "website": "http://www.berthold.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Logistikdienstleister aus Bruchsal in Deutschland mit 28 Niederlassungen in 14 europäischen Ländern und Kasachstan.",
+  "id": "Q54867474",
+  "industries": "",
+  "lat": 49.136389,
+  "lon": 8.543889,
+  "name": "Hegelmann Express",
+  "website": "http://www.hegelmann.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "company in the Czech Republic",
+  "id": "Q54962454",
+  "industries": "",
+  "lat": 49.189,
+  "lon": 7.98682,
+  "name": "Pila Benda",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "electron microscope components research, development and production company",
+  "id": "Q54983684",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Corrected Electron Optical Systems GmbH",
+  "website": "http://www.ceos-gmbh.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Softwarehersteller",
+  "id": "Q552581",
+  "industries": "Softwareindustrie; Softwareentwicklung",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "SAP",
+  "website": "https://www.sap.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q5560364",
+  "industries": "",
+  "lat": 49.3,
+  "lon": 8.65,
+  "name": "Gigya",
+  "website": "http://www.gigya.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "ehemaliger deutscher Automobilhersteller (Tuningunternehmen)",
+  "id": "Q56241656",
+  "industries": "Automobilindustrie",
+  "lat": 49.25,
+  "lon": 8.883333,
+  "name": "Hofele-Design",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Kreditinstitut mit Sitz in Baden-Baden, Tochter des Finanzdienstleisters Grenke AG",
+  "id": "Q56285091",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Grenke Bank",
+  "website": "https://www.grenkebank.de/de/startseite.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Schreibgerätehersteller",
+  "id": "Q573333",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Kaweco",
+  "website": "https://www.kaweco-pen.com/en/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Softwarehersteller für ERP-Software",
+  "id": "Q57695998",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Asseco Solutions AG",
+  "website": "https://assecosolutions.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen",
+  "id": "Q59445741",
+  "industries": "Weben; Spinnstoffaufbereitung und Spinnerei; Textil- und Bekleidungsindustrie",
+  "lat": 48.94452,
+  "lon": 8.40272,
+  "name": "Gesellschaft für Spinnerei und Weberei",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "quantum simulation company from Karlsruhe, Germany",
+  "id": "Q59654545",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Heisenberg Quantum Simulations",
+  "website": "https://heisenberg.xyz/"
+ },
+ {
+  "approximate_location": false,
+  "description": "large German research center",
+  "id": "Q6039070",
+  "industries": "",
+  "lat": 49.0994,
+  "lon": 8.43167,
+  "name": "Institut für Nukleare Entsorgung",
+  "website": "https://www.ine.kit.edu/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Calw",
+  "id": "Q60637836",
+  "industries": "",
+  "lat": 48.714444,
+  "lon": 8.7375,
+  "name": "Rexer",
+  "website": "https://www.rexer.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "baden-württembergischer Hersteller von Entwässerungselementen",
+  "id": "Q61983539",
+  "industries": "",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "Hauraton",
+  "website": "https://www.hauraton.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Forschungseinrichtung in Karlsruhe",
+  "id": "Q629078",
+  "industries": "",
+  "lat": 49.012196,
+  "lon": 8.407052,
+  "name": "Arbeitsstelle Bertolt Brecht",
+  "website": "https://abb.litwiss.kit.edu/"
+ },
+ {
+  "approximate_location": false,
+  "description": "deutscher Landmaschinenhersteller  mit Sitz in Sinzheim, Baden-Württemberg",
+  "id": "Q63088665",
+  "industries": "Maschinenbauindustrie",
+  "lat": 48.759667,
+  "lon": 8.168944,
+  "name": "Rauch Landmaschinenfabrik GmbH",
+  "website": "https://rauch.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher börsennotierter Baustoffkonzern",
+  "id": "Q632233",
+  "industries": "Zementindustrie; Baustoffindustrie; Bauwirtschaft; Gewinnung von Steinen und Erden, sonstiger Bergbau",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberg Materials",
+  "website": "https://www.heidelbergmaterials.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen aus Bühl",
+  "id": "Q63281550",
+  "industries": "",
+  "lat": 48.695278,
+  "lon": 8.135,
+  "name": "UHU GmbH & Co. KG",
+  "website": "https://www.uhu.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Schreibwarenhersteller",
+  "id": "Q637707",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Lamy",
+  "website": "https://www.lamy.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Logistikunternehmen",
+  "id": "Q63930071",
+  "industries": "Logistik",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Simon Hegele",
+  "website": "https://www.simon-hegele.com"
+ },
+ {
+  "approximate_location": false,
+  "description": "Die Filiale der Volksbank in Landau, innenstadt.",
+  "id": "Q64019295",
+  "industries": "",
+  "lat": 49.197266,
+  "lon": 8.111102,
+  "name": "Landau Volksbank",
+  "website": ""
+ },
+ {
+  "approximate_location": false,
+  "description": "Gewerbebetrieb in Pforzheim",
+  "id": "Q64143675",
+  "industries": "",
+  "lat": 48.893419,
+  "lon": 8.704739,
+  "name": "CIP Chemisches Institut Pforzheim GmbH",
+  "website": "http://www.cip-gmbh.com/en/company.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Energieversorgungsunternehmen",
+  "id": "Q644304",
+  "industries": "Energieversorgung; Energieindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "EnBW",
+  "website": "https://www.enbw.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Röhren",
+  "id": "Q65697965",
+  "industries": "",
+  "lat": 48.631389,
+  "lon": 8.073889,
+  "name": "Fischer Group",
+  "website": "https://www.fischer-group.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Versicherungskonzern",
+  "id": "Q66312906",
+  "industries": "Versicherung; Versicherungswirtschaft",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Atlas Lebensversicherungs-Aktiengesellschaft",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German car tuning manufacturer",
+  "id": "Q6716393",
+  "industries": "",
+  "lat": 48.891111,
+  "lon": 8.236389,
+  "name": "MK-Motorsport",
+  "website": "http://www.mk-motorsport.de/html_en/index.html"
+ },
+ {
+  "approximate_location": true,
+  "description": "Deutscher Backfilialist",
+  "id": "Q67987587",
+  "industries": "Lebensmitteleinzelhandel",
+  "lat": 48.695278,
+  "lon": 8.135,
+  "name": "Peters gute Backstube",
+  "website": "https://www.petersgutebackstube.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Bau- und Gartenmarkt-Kette",
+  "id": "Q685926",
+  "industries": "Einzelhandel",
+  "lat": 49.353621,
+  "lon": 8.13607,
+  "name": "Hornbach",
+  "website": "https://www.hornbach.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Molekularbiologische europäische Forschungseinrichtung",
+  "id": "Q695267",
+  "industries": "",
+  "lat": 49.3848,
+  "lon": 8.710319,
+  "name": "European Molecular Biology Laboratory",
+  "website": "https://www.embl.org"
+ },
+ {
+  "approximate_location": false,
+  "description": "trans- und interdisziplinärer Forscherverbund an der Universität Heidelberg",
+  "id": "Q695286",
+  "industries": "",
+  "lat": 49.41,
+  "lon": 8.6895,
+  "name": "Exzellenzcluster „Asien und Europa im globalen Kontext“",
+  "website": "http://www.asia-europe.uni-heidelberg.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "weltweit führender Hersteller von Bogenoffset-Druckmaschinen",
+  "id": "Q697106",
+  "industries": "Maschinenbau; Herstellung von Maschinen für die Papiererzeugung und -verarbeitung; Maschinen- und Anlagenbau",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Heidelberger Druckmaschinen",
+  "website": "http://www.heidelberg.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Software-Unternehmen, Hersteller von CD- und DVD-Brenner-Software",
+  "id": "Q705891",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Nero AG",
+  "website": "https://www.nero.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gewerbebetrieb",
+  "id": "Q716947",
+  "industries": "Wirtschaftsauskunftei",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Arvato Infoscore",
+  "website": "https://finance.arvato.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Tochter der Singer Manufacturing Company",
+  "id": "Q71966256",
+  "industries": "Maschinen- und Anlagenbau; Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Singer Nähmaschinen Aktiengesellschaft",
+  "website": "https://singer.ag/"
+ },
+ {
+  "approximate_location": true,
+  "description": "German software developer",
+  "id": "Q7250680",
+  "industries": "Softwareindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Prosoniq",
+  "website": "http://www.prosoniq.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "German company",
+  "id": "Q72993988",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "SAS Autosystemtechnik Verwaltungs",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "German company",
+  "id": "Q72994170",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "SAS Autosystemtechnik",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsche Beteiligungsgesellschaft",
+  "id": "Q73771973",
+  "industries": "",
+  "lat": 49.409358,
+  "lon": 8.694724,
+  "name": "Ming Le Sports",
+  "website": "http://www.minglesports.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "Gewerbebetrieb in Karlsruhe",
+  "id": "Q77076873",
+  "industries": "",
+  "lat": 49.001012,
+  "lon": 8.467335,
+  "name": "CONET ISB GmbH",
+  "website": "https://www.isb-ag.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "company in Bretten, Germany",
+  "id": "Q77077739",
+  "industries": "",
+  "lat": 49.03773,
+  "lon": 8.69046,
+  "name": "BGT Bischoff Glastechnik (Germany)",
+  "website": "https://www.bgt.glass/"
+ },
+ {
+  "approximate_location": false,
+  "description": "company in Leimen, Germany",
+  "id": "Q77077909",
+  "industries": "",
+  "lat": 49.344691,
+  "lon": 8.678664,
+  "name": "GEF Ingenieur (Germany)",
+  "website": "http://www.gef.de/"
+ },
+ {
+  "approximate_location": false,
+  "description": "company in Ettlingen, Germany",
+  "id": "Q77077983",
+  "industries": "",
+  "lat": 48.937092,
+  "lon": 8.374533,
+  "name": "IDS (Germany)",
+  "website": "https://www.ids.de"
+ },
+ {
+  "approximate_location": false,
+  "description": "company in Heidelberg, Germany",
+  "id": "Q77081304",
+  "industries": "",
+  "lat": 49.385505,
+  "lon": 8.660946,
+  "name": "OVM/ECH Consulting Engineers (Germany)",
+  "website": "http://www.ech-ovm.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmensgruppe für Dienstleistungen rund ums Gebäude",
+  "id": "Q795236",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "B.i.g. - Gruppe",
+  "website": "http://www.big-gruppe.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen mit Sitz in Rastatt (Baden-Württemberg)",
+  "id": "Q797202",
+  "industries": "Fahrzeugbau",
+  "lat": 48.857222,
+  "lon": 8.203056,
+  "name": "BWR Waggonreparatur",
+  "website": "http://www.bwr.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Weinerzeuger",
+  "id": "Q798888",
+  "industries": "",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "Baden-Badener Winzergenossenschaft",
+  "website": "http://www.baden-badener-wg.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "Versandhaus",
+  "id": "Q798951",
+  "industries": "Versandhandel",
+  "lat": 48.890885,
+  "lon": 8.702953,
+  "name": "Bader Versand",
+  "website": "https://www.bader.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Gesellschaft in Baden tätig",
+  "id": "Q799048",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Badische Allgemeine Versicherung",
+  "website": "http://www.bgv.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q8075461",
+  "industries": "Computerspielindustrie",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Zuxxez Entertainment",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "ein Unternehmen aus der Textilbranche",
+  "id": "Q808045",
+  "industries": "Textilindustrie",
+  "lat": 48.933333,
+  "lon": 8.4,
+  "name": "Bardusch",
+  "website": "http://www.bardusch.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Marktforschungsunternehmen",
+  "id": "Q815345",
+  "industries": "Marktforschung",
+  "lat": 48.761944,
+  "lon": 8.240833,
+  "name": "GfK Entertainment",
+  "website": "https://www.gfk-entertainment.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "Schmuckhersteller",
+  "id": "Q81942775",
+  "industries": "Industriesektor; Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)",
+  "lat": 48.89154,
+  "lon": 8.7156,
+  "name": "ROWI",
+  "website": ""
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen in Güglingen",
+  "id": "Q822862",
+  "industries": "",
+  "lat": 49.066667,
+  "lon": 9.0,
+  "name": "Layher",
+  "website": "http://www.layher.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Turmuhren Manufaktur aus Calw",
+  "id": "Q83018760",
+  "industries": "",
+  "lat": 48.714444,
+  "lon": 8.7375,
+  "name": "Perrot Turmuhren und Läuteanlagen",
+  "website": "https://www.perrot-turmuhren.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Damenbekleidungsunternehmen",
+  "id": "Q850250",
+  "industries": "Bekleidungsindustrie",
+  "lat": 49.323611,
+  "lon": 8.693889,
+  "name": "Betty Barclay",
+  "website": "https://www.bettybarclay.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutsches Online-Preisvergleichsportal",
+  "id": "Q862856",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Billiger.de",
+  "website": "http://www.billiger.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Uhrmacher",
+  "id": "Q87043",
+  "industries": "",
+  "lat": 48.83,
+  "lon": 8.65,
+  "name": "Walter Storz",
+  "website": "http://www.stowa.com/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Automobilzulieferer",
+  "id": "Q876627",
+  "industries": "",
+  "lat": 48.695278,
+  "lon": 8.135,
+  "name": "LuK",
+  "website": "http://www.luk.de/content.luk.de/de/index.jsp"
+ },
+ {
+  "approximate_location": true,
+  "description": "Hersteller von Systemen für Speisenlogistik",
+  "id": "Q881453",
+  "industries": "",
+  "lat": 49.0625,
+  "lon": 8.801944,
+  "name": "B.PRO GmbH",
+  "website": "https://www.bpro-solutions.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Modellbau-Hersteller mit Sitz in Bretten",
+  "id": "Q932174",
+  "industries": "",
+  "lat": 49.036389,
+  "lon": 8.706111,
+  "name": "Multiplex Modellsport",
+  "website": "http://www.multiplex-rc.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "",
+  "id": "Q97340213",
+  "industries": "",
+  "lat": 48.661111,
+  "lon": 8.696667,
+  "name": "bike-angebot",
+  "website": "http://www.bike-angebot.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Hersteller von Stanz-, Biege- und Ziehteilen sowie Stanzwerkzeugen",
+  "id": "Q97446948",
+  "industries": "",
+  "lat": 48.966389,
+  "lon": 8.608889,
+  "name": "Härter Group",
+  "website": "https://haerter.com"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutscher Schuhhersteller",
+  "id": "Q98075489",
+  "industries": "",
+  "lat": 49.19205,
+  "lon": 7.854369,
+  "name": "Josef Seibel Schuhfabrik",
+  "website": "https://www.josef-seibel.de"
+ },
+ {
+  "approximate_location": true,
+  "description": "deutschlandweit agierendes Bildungsunternehmen mit Sitz in Karlsruhe",
+  "id": "Q98382768",
+  "industries": "",
+  "lat": 49.016667,
+  "lon": 8.4,
+  "name": "Alfatraining Bildungszentrum",
+  "website": "https://www.alfatraining.de/"
+ },
+ {
+  "approximate_location": true,
+  "description": "Unternehmen mit Sitz in Sersheim (Baden-Württemberg)",
+  "id": "Q99850284",
+  "industries": "",
+  "lat": 48.961667,
+  "lon": 9.013889,
+  "name": "Alwa Mineralbrunnen",
+  "website": "https://www.alwa-mineralwasser.de/"
+ }
+]

@@ -1,0 +1,6141 @@
+[
+ {
+  "address": "Waldbauerstr. 4, 75305 Neuenbürg, Württemberg",
+  "city": "Neuenbürg, Württemberg",
+  "distance_km": 21.3,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1000605083-S"
+  ],
+  "key": "1komma5-grad",
+  "lat": 48.8528004,
+  "loc_source": "ba",
+  "lon": 8.5772009,
+  "name": "1Komma5 Grad GmbH",
+  "reason": "Sektor: PV.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Europastraße 32, 67433 Neustadt an der Weinstraße",
+  "city": "Neustadt an der Weinstraße",
+  "distance_km": 41.2,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1001886249-S",
+   "10001-1003638664-S",
+   "10001-1003750323-S"
+  ],
+  "key": "8com",
+  "lat": 49.339484,
+  "loc_source": "osm",
+  "lon": 8.153432,
+  "meta_description": "8COM schützt Unternehmen und Behörden vor Cyber Angriffen und Hacker Attacken.",
+  "meta_title": "Cyber Security für Unternehmen und Behörden",
+  "name": "8com GmbH & Co. KG",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "way/846549732"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.8com.de/cyber-defense-center"
+ },
+ {
+  "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
+  "distance_km": 33.0,
+  "first_seen": "2026-09-24",
+  "industry": "künstliche Intelligenz; Ausbildung",
+  "key": "a-leecon",
+  "lat": 49.293333,
+  "loc_source": "wikidata_hq",
+  "lon": 8.521944,
+  "meta_description": "Leeon bietet dir innovative Weiterbildungen in Künstlicher Intelligenz, Projektmanagement und mehr. Hol dir deinen Bildungsgutschein und starte durch!",
+  "meta_title": "LEEON Advanced Learning | Dein Partner für KI-Training und Weiterbildung",
+  "name": "A-Leecon GmbH",
+  "reason": "Methodik: künstliche Intelligenz, KI.",
+  "refs": {
+   "wikidata": [
+    "Q136813852"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://leeon.com/"
+ },
+ {
+  "description": "Onlinehändler für Klima- und Solartechnik in Karlsruhe",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "elektronischer Handel",
+  "key": "ac-tec",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Split-Klimaanlagen, Solarmodule, PV-Komplettsets, Speicher und Balkonkraftwerke online kaufen – ab Lager Karlsruhe und schnell versandbereit.",
+  "meta_title": "Klimaanlagen & Solaranlagen online kaufen | ACTEC",
+  "name": "AC TEC GmbH",
+  "reason": "Sektor: Solartechnik.",
+  "refs": {
+   "wikidata": [
+    "Q141469710"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://actec.eu/"
+ },
+ {
+  "address": "An der Hofweide 7, 67346 Speyer",
+  "city": "Speyer",
+  "distance_km": 36.5,
+  "first_seen": "2026-09-24",
+  "key": "acs-deutschland",
+  "lat": 49.334005,
+  "loc_source": "osm",
+  "lon": 8.446813,
+  "meta_description": "The EC&I Partner for Complex Energy Projects. We deploy cross-disciplinary engineers who bridge the gap between mechanical, electrical, and software to secure your commissioning timeline.",
+  "meta_title": "ACS International",
+  "name": "ACS Deutschland GmbH",
+  "reason": "Methodik: software; Sektor: Energy.",
+  "refs": {
+   "osm": [
+    "node/8378909466"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.acs-e.com/"
+ },
+ {
+  "address": "Franz-John-Straße 12a, 77855 Achern",
+  "city": "Achern",
+  "distance_km": 49.1,
+  "first_seen": "2026-09-24",
+  "key": "actemium-controlmatic",
+  "lat": 48.630864,
+  "loc_source": "osm",
+  "lon": 8.052538,
+  "meta_description": "Actemium - Ihr Partner für Automatisierungs -, Energie- und IT-Technik. Wir optimieren industrielle Prozesse nachhaltig und innovativ.",
+  "meta_title": "Actemium Deutschland - Industrielle Prozesse neu gedacht",
+  "name": "Actemium Controlmatic GmbH",
+  "reason": "Sektor: Energie, nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/7091565954"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.actemium.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "ai-remove",
+  "lat": 49.012963,
+  "loc_source": "osm",
+  "lon": 8.425251,
+  "name": "AI.Remove",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/11349271928"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ]
+ },
+ {
+  "address": "Haid-und-Neu-Straße 18, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "company",
+  "distance_km": 1.8,
+  "first_seen": "2026-09-24",
+  "key": "aicas",
+  "lat": 49.012602,
+  "loc_source": "osm",
+  "lon": 8.427204,
+  "meta_description": "Deploy, manage and improve software, data and AI operations across distributed edge systems.",
+  "meta_title": "aicas - Edge Operations. One Platform.",
+  "name": "aicas",
+  "reason": "Methodik: AI, data, software.",
+  "refs": {
+   "osm": [
+    "node/4069223119",
+    "node/7091758558"
+   ],
+   "wikidata": [
+    "Q371032"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.aicas.com/"
+ },
+ {
+  "address": "Hans-Bunte-Straße 4, 69123 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.0,
+  "first_seen": "2026-09-24",
+  "key": "airyx",
+  "lat": 49.407771,
+  "loc_source": "osm",
+  "lon": 8.648621,
+  "meta_description": "Airyx offers gas measurement technologies for air quality, emissions and ammonia monitoring, with robust and low‑maintenance instruments.",
+  "meta_title": "Airyx – Advanced Gas Measurement Technologies",
+  "name": "Airyx GmbH",
+  "reason": "Sektor: emissions.",
+  "refs": {
+   "osm": [
+    "node/12638756766"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://airyx.de/"
+ },
+ {
+  "distance_km": 42.3,
+  "first_seen": "2026-09-24",
+  "key": "akkurat-dienstleistungen",
+  "lat": 49.064267,
+  "loc_source": "osm",
+  "lon": 8.974987,
+  "meta_description": ". - Intro | akkurat",
+  "meta_title": "Intro | akkurat",
+  "name": "akkurat Dienstleistungen",
+  "reason": "Sektor: akkurat.",
+  "refs": {
+   "osm": [
+    "node/13583583279"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://akkurat.chayns.site/"
+ },
+ {
+  "address": "Klammsbosch 9, 77880 Sasbach",
+  "city": "Sasbach",
+  "distance_km": 47.3,
+  "first_seen": "2026-09-24",
+  "key": "akkusys-servicestandort",
+  "lat": 48.631852,
+  "loc_source": "osm",
+  "lon": 8.100863,
+  "meta_description": "Spezialist für PV, Solarspeicher, Batterien und Akkus ✓ Wettbewerbsfähige Preise ✓ Langjährige Erfahrung → Jetzt Kunde werden!",
+  "meta_title": "AKKU SYS | Ihr Großhändler für Photovoltaik & Energiespeicher",
+  "name": "AkkuSys Servicestandort",
+  "reason": "Sektor: AkkuSys, Photovoltaik, Energiespeicher.",
+  "refs": {
+   "osm": [
+    "node/9675486478"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.akkusys.de/"
+ },
+ {
+  "address": "Speyerer Straße 14, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "description": "deutsches Unternehmen im Bereich der künstlichen Intelligenz",
+  "distance_km": 47.7,
+  "first_seen": "2026-09-24",
+  "key": "aleph-alpha",
+  "lat": 49.398031,
+  "loc_source": "osm",
+  "lon": 8.673011,
+  "meta_description": "Aleph Alpha entwickelt spezialisierte Sprachmodelle und KI-LÃ¶sungen fÃ¼r Unternehmen und Ã¶ffentliche Institutionen in Europa.",
+  "meta_title": "Aleph Alpha",
+  "name": "Aleph Alpha GmbH",
+  "reason": "Methodik: KI, Sprachmodelle, Institutionen.",
+  "refs": {
+   "osm": [
+    "node/13299302419"
+   ],
+   "wikidata": [
+    "Q123368857"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://aleph-alpha.com/"
+ },
+ {
+  "distance_km": 49.9,
+  "first_seen": "2026-09-24",
+  "key": "aliaxis-deutschland",
+  "lat": 49.443292,
+  "loc_source": "osm",
+  "lon": 8.564866,
+  "meta_description": "Als Experte für innovative Kunststoff-Rohrleitungssysteme bieten wir nachhaltige Lösungen für die Bereiche: Infrastruktur und Industrie. Anwendungsgebiete sind: Wasser- und Gasversorgung, Abwasserentsorgung, Wasseraufbereitung, Oberflächenbehandlung, Schwimmbad & Spa. Erfahren Sie mehr!",
+  "meta_title": "Aliaxis Deutschland GmbH - Wir verbinden Menschen mit Wasser und Energie.",
+  "name": "Aliaxis Deutschland GmbH",
+  "reason": "Sektor: Energie, nachhaltige.",
+  "refs": {
+   "osm": [
+    "relation/12931821"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://www.aliaxis.de/"
+ },
+ {
+  "address": "69115 Heidelberg, Neckar",
+  "city": "Heidelberg, Neckar",
+  "distance_km": 48.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "17700-0066368168-S"
+  ],
+  "key": "almato",
+  "lat": 49.4045988,
+  "loc_source": "ba",
+  "lon": 8.6809657,
+  "name": "Almato AG",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Kleinoberfeld 5, 76135 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.7,
+  "first_seen": "2026-09-24",
+  "key": "altus",
+  "lat": 48.981478,
+  "loc_source": "osm",
+  "lon": 8.371503,
+  "meta_description": "ALTUS – Ihr erfahrener Projektentwickler für Windenergie und Photovoltaik in Deutschland. Wir begleiten Sie von der Planung bis zur Betriebsführung.",
+  "meta_title": "ALTUS – Projektentwickler für Erneuerbare Energien",
+  "name": "Altus",
+  "reason": "Sektor: Erneuerbare, Energien.",
+  "refs": {
+   "osm": [
+    "node/9581691346"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.altus-re.de/"
+ },
+ {
+  "distance_km": 47.5,
+  "first_seen": "2026-09-24",
+  "key": "ameria",
+  "lat": 49.394444,
+  "loc_source": "osm",
+  "lon": 8.676253,
+  "meta_description": "AMERIA is a leading European deep tech company based in Heidelberg. MAVERICK AI is smart software, a revolutionary AI assistant and a stylish form factor all in one.",
+  "meta_title": "AMERIA AG | European Deep-Tech powered by AI",
+  "name": "Ameria",
+  "reason": "Methodik: AI, software.",
+  "refs": {
+   "osm": [
+    "node/6813666660"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://ameria.de/"
+ },
+ {
+  "description": "Importeur und Lagerbetreiber für Klimatechnik, Wärmepumpen und Photovoltaik in Karlsruhe",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "Großhandel",
+  "key": "ananda",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Über 800 Container jährlich aus Fernost, drei Läger in Karlsruhe, Verzollung und EDI-Anbindung an den Handel. Von der Sortimentsergänzung bis zur Eigenmarke.",
+  "meta_title": "Ananda GmbH · Import und Großhandel: Klima, Wärmepumpen, Solar",
+  "name": "Ananda GmbH",
+  "reason": "Sektor: Photovoltaik.",
+  "refs": {
+   "wikidata": [
+    "Q141469668"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.ananda.gmbh/"
+ },
+ {
+  "address": "Albert-Nestler-Straße 28-30, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.3,
+  "first_seen": "2026-09-24",
+  "key": "andrena-objects",
+  "lat": 49.022083,
+  "loc_source": "osm",
+  "lon": 8.442843,
+  "meta_description": "Wir machen unsere Kunden zu Gewinnern der digitalen Transformation. Dazu kombinieren wir exzellentes Software Engineering, agile Methoden und KI.",
+  "meta_title": "andrena objects ag",
+  "name": "Andrena Objects",
+  "reason": "Methodik: KI, Software.",
+  "refs": {
+   "osm": [
+    "node/13615789719"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.andrena.de/"
+ },
+ {
+  "description": "Karlsruher Unternehmen",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "key": "apic-ai",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "apic.ai ist fÃ¼hrender Spezialist im automatisierten Monitoring von BestÃ¤uberinsekten.",
+  "meta_title": "apic.ai",
+  "name": "apic.ai",
+  "reason": "Methodik: apic.ai.",
+  "refs": {
+   "wikidata": [
+    "Q136824543"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://apic.ai/"
+ },
+ {
+  "description": "company in Sankt Leon-Rot, Germany",
+  "distance_km": 32.1,
+  "first_seen": "2026-09-24",
+  "key": "ares-energiesysteme-germany",
+  "lat": 49.265278,
+  "loc_source": "wikidata_hq",
+  "lon": 8.598611,
+  "name": "ARES Energiesysteme (Germany)",
+  "reason": "Sektor: Energiesysteme.",
+  "refs": {
+   "wikidata": [
+    "Q30254864"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "distance_km": 48.3,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003445121-S"
+  ],
+  "key": "aristech",
+  "lat": 49.404605,
+  "loc_source": "osm",
+  "lon": 8.669102,
+  "meta_description": "KI-Automatisierung für Ihren Kundenservice: Schnellere Antworten, geringere Kosten und bessere Kundenzufriedenheit.",
+  "meta_title": "Effiziente KI-Automatisierung für Ihren Kundenservice | Aristech",
+  "name": "Aristech GmbH",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/12856350406"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.aristech.de/"
+ },
+ {
+  "address": "Kanalstr. 6, 76676 Graben-Neudorf",
+  "city": "Graben-Neudorf",
+  "distance_km": 19.1,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003088324-S"
+  ],
+  "key": "azuraiq-technologies",
+  "lat": 49.168368,
+  "loc_source": "ba",
+  "lon": 8.4944655,
+  "name": "AzuraIQ Technologies GmbH",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Südendstr. 12, 76137 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 1.2,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003634863-S"
+  ],
+  "key": "badischer-landesverein-f-innere-mission-kdoer",
+  "lat": 48.998502,
+  "loc_source": "ba",
+  "lon": 8.3928645,
+  "name": "Badischer Landesverein f. Innere Mission KdÖR",
+  "reason": "Sektor: Klimaschutzmanager.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Am Sandfeld 15a, 76149 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 4.1,
+  "first_seen": "2026-09-24",
+  "key": "balcke-duerr",
+  "lat": 49.043065,
+  "loc_source": "osm",
+  "lon": 8.392467,
+  "meta_description": "NEM Energy products increase energy efficiency and thereby reduce CO2 emission.",
+  "meta_title": "Home - NEM Energy",
+  "name": "Balcke Dürr",
+  "reason": "Sektor: CO2, Energy.",
+  "refs": {
+   "osm": [
+    "node/6283375294"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.balcke-duerr.com/"
+ },
+ {
+  "address": "Heidigstraße 11, 76709 Kronau",
+  "city": "Kronau",
+  "distance_km": 28.1,
+  "first_seen": "2026-09-24",
+  "key": "bechthold-solartechnik",
+  "lat": 49.211848,
+  "loc_source": "osm",
+  "lon": 8.628079,
+  "meta_title": "Solaranlagen & Photovoltaik | Bechtoldsolar.de",
+  "name": "Bechthold Solartechnik",
+  "reason": "Sektor: Solartechnik.",
+  "refs": {
+   "osm": [
+    "way/185255204"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.bechtoldsolar.de/"
+ },
+ {
+  "address": "Am Rüppurrer Schloss 1, 76199 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 2.8,
+  "first_seen": "2026-09-24",
+  "key": "bioscientia",
+  "lat": 48.981393,
+  "loc_source": "osm",
+  "lon": 8.405112,
+  "meta_description": "Bioscientia MVZ Labor: medizinisch-diagnostisches Institut für Labor-Analysen mit modernster Technologie. Persönlich. Kompetent. Nachhaltig.",
+  "meta_title": "Labor Karlsruhe",
+  "name": "Bioscientia",
+  "reason": "Methodik: Institut; Sektor: Nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/6495296672"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.labor-karlsruhe.de/"
+ },
+ {
+  "address": "Im Gahnerb 3, 76756 Bellheim",
+  "city": "Bellheim",
+  "distance_km": 22.3,
+  "first_seen": "2026-09-24",
+  "key": "brandmauer-it",
+  "lat": 49.195005,
+  "loc_source": "osm",
+  "lon": 8.297868,
+  "meta_description": "30+ Jahre IT-Erfahrung im Mittelstand: IT-Sicherheit, Managed Services, Künstliche Intelligenz & Cloud aus der Südpfalz. Jetzt kostenlos beraten lassen!",
+  "meta_title": "Das IT Systemhaus für den Mittelstand | IT-Security & Managed Services",
+  "name": "BRANDMAUER IT GmbH",
+  "reason": "Methodik: Künstliche Intelligenz.",
+  "refs": {
+   "osm": [
+    "way/892192726"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.brandmauer.de/"
+ },
+ {
+  "address": "Gehrnstr. 7, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 6.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003660319-S"
+  ],
+  "key": "brc-solar",
+  "lat": 48.948525,
+  "loc_source": "ba",
+  "lon": 8.389962,
+  "name": "BRC Solar GmbH",
+  "reason": "Sektor: Solar.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Rüppurrer Straße 4, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 0.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "15835-0009030049f001-S"
+  ],
+  "key": "bridgingit",
+  "lat": 49.003983,
+  "loc_source": "osm",
+  "lon": 8.409885,
+  "meta_description": "bridgingIT ist das eigenstÃ¤ndige Beratungsunternehmen, das mit Verantwortungsbewusstsein und persÃ¶nlicher NÃ¤he aktiv Dinge zu erfolgreichen LÃ¶sungen verbindet.",
+  "meta_title": "Startseite | bridgingIT",
+  "name": "BridgingIT",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/4078945376"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.bridging-it.de/"
+ },
+ {
+  "description": "Hersteller von Röntgenanalysegeräten",
+  "distance_km": 4.7,
+  "first_seen": "2026-09-24",
+  "key": "bruker-axs",
+  "lat": 49.026474,
+  "loc_source": "nominatim",
+  "lon": 8.346634,
+  "meta_description": "Our solutions cover bulk material and surface sensitive X-Ray Diffraction (XRD), biological and chemical crystallography, wavelength and energy dispersive X-Ray Fluorescence (XRF) analysis, 3D X-Ray Microscopy (XRM), Optical Emission Spectroscopy (OES), and combustion and fusion gas analysis.",
+  "meta_title": "X-ray and Elemental-Analysis | Bruker",
+  "name": "Bruker AXS",
+  "reason": "Methodik: material; Sektor: Emission, energy.",
+  "refs": {
+   "wikidata": [
+    "Q15790019"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.bruker-axs.de/"
+ },
+ {
+  "address": "Rue de l'Industrie 34, 67160",
+  "distance_km": 33.3,
+  "first_seen": "2026-09-24",
+  "key": "bruker-france",
+  "lat": 49.028887,
+  "loc_source": "osm",
+  "lon": 7.949849,
+  "meta_description": "Bruker's differentiated high-value life science research and diagnostics solutions enable scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker’s high-performance scientific instruments and high-value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular and microscopic levels.",
+  "meta_title": "High-Value Life Science and Material Research and Diagnostics Solutions | Bruker",
+  "name": "Bruker France",
+  "reason": "Methodik: Material, Research.",
+  "refs": {
+   "osm": [
+    "node/5000683811",
+    "node/9931714317"
+   ],
+   "wikidata": [
+    "Q30338448"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.bruker.com/"
+ },
+ {
+  "description": "deutscher Ökostrom-Anbieter und ein Verbund von Bürgerenergiegesellschaften",
+  "distance_km": 47.4,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "13635-41619565_JB5244327-S"
+  ],
+  "key": "buergerwerke",
+  "lat": 49.394074,
+  "loc_source": "nominatim",
+  "lon": 8.674319,
+  "meta_title": "100 % Ökostrom von Bürger:innen für Bürger:innen | Bürgerwerke",
+  "name": "Bürgerwerke",
+  "reason": "Sektor: Energiewende, Ökostrom.",
+  "refs": {
+   "wikidata": [
+    "Q28034112"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "wikidata"
+  ],
+  "website": "https://buergerwerke.de/"
+ },
+ {
+  "address": "Karlstraße 52-54, 76133 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 0.8,
+  "first_seen": "2026-09-24",
+  "key": "conemis",
+  "lat": 49.003783,
+  "loc_source": "osm",
+  "lon": 8.393985,
+  "meta_description": "Giving data wings means enabling a smooth transition for applications in the cloud and to AI. Build your success on the ultra-high-performing data journey platform from conemis.",
+  "meta_title": "conemis – Data Journeys, Automated.",
+  "name": "Conemis",
+  "reason": "Methodik: AI, Data.",
+  "refs": {
+   "osm": [
+    "node/4069223120"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.conemis.com/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 18, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.8,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003355297-S"
+  ],
+  "key": "cyberforum",
+  "lat": 49.012513,
+  "loc_source": "osm",
+  "lon": 8.42742,
+  "meta_description": "Das CyberForum ist das größte regionale Hightech.Unternehmer.Netzwerk. Europas und verbindet über 1.200 Mitglieder aus der IT-Branche.",
+  "meta_title": "CyberForum: Hightech.Unternehmer.Netzwerk.",
+  "name": "CyberForum e.V.",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/3670245742"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.cyberforum.de/"
+ },
+ {
+  "distance_km": 34.1,
+  "first_seen": "2026-09-24",
+  "key": "dellcon",
+  "lat": 49.296563,
+  "loc_source": "osm",
+  "lon": 8.558044,
+  "meta_description": "Willkommen bei DellCon Transport & Second-Life Förderung der Ziele des Kreislaufwirtschaftsgesetz und unserem Anspruch auf Nachhaltigkeit Gemeinsam mit unseren Partner bieten wir Dienstleistungen der kompletten Wertschöpfungskette des Batterielebenszyklus. Lassen Sie sich von uns beraten wie Sie Kosten reduzieren und einen wirtschaftlichen Erfolg bei der Optimierung Ihrer Öko-Bilanz generieren kön",
+  "meta_title": "DellCon – Transport & Second-Life Lithium Battery",
+  "name": "DellCon GmbH",
+  "reason": "Methodik: Optimierung; Sektor: Lithium, Kreislaufwirtschaftsgesetz.",
+  "refs": {
+   "osm": [
+    "node/10725875253"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://dellcon.de/"
+ },
+ {
+  "distance_km": 36.7,
+  "first_seen": "2026-09-24",
+  "key": "deutsche-energieoptimierung",
+  "lat": 49.29131,
+  "loc_source": "osm",
+  "lon": 8.659777,
+  "name": "Deutsche Energieoptimierung",
+  "reason": "Methodik: Energieoptimierung; Sektor: Energieoptimierung.",
+  "refs": {
+   "osm": [
+    "node/3463245161"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.deno-energie.de/"
+ },
+ {
+  "address": "Stephanienstraße 55, 76133 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.0,
+  "first_seen": "2026-09-24",
+  "key": "deutsche-erdwaerme",
+  "lat": 49.011007,
+  "loc_source": "osm",
+  "lon": 8.391368,
+  "meta_description": "Dekarbonisieren Sie Ihr Wärmenetz ✓ Nachhaltig ✓ Sicher ✓ Erfahren Sie mehr über die Deutsche Erdwärme und unsere Lösungen!",
+  "meta_title": "Wärmewende mit Geothermie",
+  "name": "Deutsche ErdWärme",
+  "reason": "Sektor: Geothermie, Dekarbonisieren, Nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/13696495493"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Ingenieurbüro"
+  ],
+  "website": "https://deutsche-erdwaerme.de/"
+ },
+ {
+  "description": "biomedizinische Forschungsinstitution in Heidelberg",
+  "distance_km": 49.8,
+  "first_seen": "2026-09-24",
+  "industry": "Forschung; Krankenhäuser und Rehabilitationskliniken",
+  "job_refs": [
+   "10001-1003709573-S",
+   "10001-1003716531-S"
+  ],
+  "key": "deutsches-krebsforschungszentrum",
+  "lat": 49.41816,
+  "loc_source": "osm",
+  "lon": 8.674367,
+  "meta_description": "Das Deutsche Krebsforschungszentrum (DKFZ) ist mit mehr als 3.000 Mitarbeiterinnen und Mitarbeitern die größte biomedizinische Forschungseinrichtung in Deutschland. Über 1000 Wissenschaftlerinnen und Wissenschaftler erforschen im DKFZ, wie Krebs entsteht, erfassen Krebsrisikofaktoren und suchen nach neuen Strategien, die verhindern, dass Menschen an Krebs erkranken. Sie entwickeln neue Methoden, m",
+  "meta_title": "Startseite - Deutsches Krebsforschungszentrum",
+  "name": "Deutsches Krebsforschungszentrum",
+  "reason": "Methodik: Postdoctoral, Data, Computational, Krebsforschungszentrum, Software; Abzug: DKFZ.",
+  "refs": {
+   "osm": [
+    "relation/17815884"
+   ],
+   "wikidata": [
+    "Q449325"
+   ]
+  },
+  "score": 1,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Forschungseinrichtung",
+   "biology;medicine"
+  ],
+  "website": "https://www.dkfz.de/de/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 2.9,
+  "first_seen": "2026-09-24",
+  "key": "diconium-digital-solutions",
+  "lat": 49.020503,
+  "loc_source": "osm",
+  "lon": 8.43783,
+  "meta_description": "Welcome to the Intelligence Era. Diconium turns software, data and AI into intelligence that performs. End to end, at scale and with measurable business impact.",
+  "meta_title": "Intelligence. Built into everything. | Diconium",
+  "name": "diconium digital solutions",
+  "reason": "Methodik: AI, data, software.",
+  "refs": {
+   "osm": [
+    "node/5003469009"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://diconium.com/"
+ },
+ {
+  "address": "Wattstraße 1, 76185 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Konzepte, Messungen, Gutachten, Überwachung",
+  "distance_km": 4.4,
+  "first_seen": "2026-09-24",
+  "key": "diebauingenieure",
+  "lat": 49.032192,
+  "loc_source": "osm",
+  "lon": 8.358308,
+  "meta_description": "dieBauingenieure ist ein Ingenieurdienstleister für Generalplanung, Baubetreuung, Bauphysik, Gebäudezertifizierung, Energiemanagement, Objektbetreuung, Messtechnik und Sachverständigenleistungen mit Sitz in Karlsruhe und Berlin.",
+  "meta_title": "dieBauingenieure in Karlsruhe & Berlin",
+  "name": "dieBauingenieure",
+  "reason": "Methodik: Bauphysik; Sektor: Energiemanagement.",
+  "refs": {
+   "osm": [
+    "node/12377066514"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Ingenieurbüro"
+  ],
+  "website": "https://www.diebauingenieure.com/"
+ },
+ {
+  "address": "Zimmerstraße 3, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Disy ist führender Data & Analytics Spezialist für den Public Sector im deutschsprachigen Raum — mit einzigartiger Kombination aus Business Intelligence, Location Intelligence und praxisnaher Beratung",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "industry": "Softwareindustrie",
+  "key": "disy-informationssysteme",
+  "lat": 49.000636,
+  "loc_source": "osm",
+  "lon": 8.424845,
+  "meta_description": "Die souveräne BI-Alternative für Europa. Business & Location Intelligence-Plattform für datenbasierte Entscheidungen in Behörden und KRITIS-Organisationen. Made in Germany.",
+  "meta_title": "Business Intelligence & Location Intelligence für Public | Disy - Disy",
+  "name": "Disy Informationssysteme GmbH",
+  "reason": "Methodik: Analytics, Data, Softwareindustrie.",
+  "refs": {
+   "osm": [
+    "node/10892010434",
+    "node/3129586255"
+   ],
+   "wikidata": [
+    "Q127868951"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.disy.net/"
+ },
+ {
+  "address": "Am dm-Platz 1, 76227 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "deutsche Drogeriekette",
+  "distance_km": 3.8,
+  "first_seen": "2026-09-24",
+  "industry": "Drogerie",
+  "job_refs": [
+   "12787-267279120826-S",
+   "12787-268183250826-S",
+   "12787-270129220926-S",
+   "13649-13206731AB-S"
+  ],
+  "key": "dm-drogerie-markt",
+  "lat": 49.003004,
+  "loc_source": "osm",
+  "lon": 8.455679,
+  "meta_title": "dm-drogerie markt - dauerhaft günstig online kaufen",
+  "name": "dm-drogerie markt GmbH + Co. KG",
+  "reason": "Methodik: Data Scientist, Data Analyst, Data, Simulation, Optimization.",
+  "refs": {
+   "osm": [
+    "node/6597207390"
+   ],
+   "wikidata": [
+    "Q266572"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.dm.de/"
+ },
+ {
+  "address": "Am dm-Platz 1, 76227 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "12787-264328010726-S",
+   "12787-265028210826-S",
+   "12787-266297290726-S",
+   "12787-268129250826-S",
+   "12787-269097080926-S",
+   "12787-270258240926-S"
+  ],
+  "key": "dmtech",
+  "lat": 49.002831,
+  "loc_source": "osm",
+  "lon": 8.456892,
+  "name": "dmTECH GmbH",
+  "reason": "Methodik: AI, Software.",
+  "refs": {
+   "osm": [
+    "node/6848347046"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "address": "Rosine-Starz-Straße 11, 71272 Renningen",
+  "city": "Renningen",
+  "distance_km": 45.7,
+  "first_seen": "2026-09-24",
+  "key": "e-flox",
+  "lat": 48.778726,
+  "loc_source": "osm",
+  "lon": 8.921799,
+  "meta_description": "e-flox liefert Anlagen für die Verbrennung von niederkalorischen Brenngasen und die dezentrale Erzeugung von biogenem Wasserstoff.",
+  "meta_title": "Restgase und Biogas smart verbrennen. Dezentral grünen Wasserstoff erzeugen.",
+  "name": "e-flox GmbH",
+  "reason": "Sektor: Wasserstoff.",
+  "refs": {
+   "osm": [
+    "node/7162164853"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://e-flox.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "easy-smart-grid",
+  "lat": 49.012788,
+  "loc_source": "osm",
+  "lon": 8.425358,
+  "meta_title": "Home | Easy Smart Grid",
+  "name": "Easy Smart Grid GmbH",
+  "reason": "Sektor: Smart Grid.",
+  "refs": {
+   "osm": [
+    "node/11349271936"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.easysg.de/"
+ },
+ {
+  "address": "Zimmerstraße 6, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "key": "econda",
+  "lat": 49.000612,
+  "loc_source": "osm",
+  "lon": 8.424036,
+  "meta_description": "Excellent customer experience management from a single source: data-driven marketing for every industry. ✓100% GDPR & ePrivacy compliant.",
+  "meta_title": "DYMATRIX | Customer Experience Management | DYMATRIX",
+  "name": "econda",
+  "reason": "Methodik: data-driven, data.",
+  "refs": {
+   "osm": [
+    "node/4575985533"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.econda.com/"
+ },
+ {
+  "address": "Hardtwaldstraße 1/6, 68775 Ketsch",
+  "city": "Ketsch",
+  "distance_km": 41.4,
+  "first_seen": "2026-09-24",
+  "key": "eltatech-ingenieur-simulationsdienstleistungen",
+  "lat": 49.368572,
+  "loc_source": "osm",
+  "lon": 8.536635,
+  "meta_description": "Fachbetrieb für Induktive Erwärmung . Wir sind spezialisiert auf Engineering, Instandsetzung und den Vertrieb von Anlagen im Bereich induktive Erwärmung",
+  "meta_title": "Induktive Erwärmung beim Spezialisten - EltaTech GmbH",
+  "name": "EltaTech Ingenieur- und Simulationsdienstleistungen GmbH",
+  "reason": "Methodik: Simulationsdienstleistungen.",
+  "refs": {
+   "osm": [
+    "node/11843591479"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.induktive-erwaermung.de/"
+ },
+ {
+  "address": "Maria-Goeppert-Mayer-Straße 2, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 27.9,
+  "first_seen": "2026-09-24",
+  "key": "emico-emission-control-systems",
+  "lat": 49.191379,
+  "loc_source": "osm",
+  "lon": 8.14384,
+  "meta_title": "Kontakt – Emico GmbH",
+  "name": "EmiCo - Emission Control Systems",
+  "reason": "Sektor: Emission.",
+  "refs": {
+   "osm": [
+    "node/9668544567"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.emico-gmbh.de/kontakt/"
+ },
+ {
+  "description": "Hersteller KI-basierte Spracherkennungssoftware, Nachfolgeunternehmen der  EML European Media Laboratory GmbH",
+  "distance_km": 0.1,
+  "first_seen": "2026-09-24",
+  "industry": "Softwareentwicklung",
+  "key": "eml-speech-technology",
+  "lat": 49.005923,
+  "loc_source": "wikidata",
+  "lon": 8.405023,
+  "meta_description": "Die EML European Media Laboratory GmbH ist ein Unternehmen, das forschungsnahe IT-Dienstleistungen von der Auftragsforschung über die Entwicklung innovativer IT-Lösungen bis hin zu Beratung und Schulung anbietet. Im Zentrum unserer Arbeit steht der Mensch: IT-Systeme sollen so entworfen und realisiert werden, dass ihre Benutzer sie als hilfreiche Erweiterungen ihrer eigenen Fähigkeiten erleben und",
+  "meta_title": "Neues | EML Speech Technology GmbH",
+  "name": "EML Speech Technology",
+  "reason": "Methodik: KI, forschungsnahe, Softwareentwicklung.",
+  "refs": {
+   "wikidata": [
+    "Q136750452"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.eml.org/"
+ },
+ {
+  "description": "deutsches Technologieunternehmen",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "enapter",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "meta_description": "Enapter is a pioneer and market leader of commercialized AEM Electrolysers and is at the forefront of R&D for AEM Electrolysis.",
+  "meta_title": "Scalable Green Hydrogen and Energy Management Solutions",
+  "name": "Enapter",
+  "reason": "Sektor: Hydrogen, Energy.",
+  "refs": {
+   "wikidata": [
+    "Q120784006"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.enapter.com/"
+ },
+ {
+  "address": "Fettweisstraße 44, 76189 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 6.8,
+  "first_seen": "2026-09-24",
+  "key": "enbw-energie-baden-wuerttemberg-innovationscampus-forschung-entwicklung",
+  "lat": 49.01392,
+  "loc_source": "osm",
+  "lon": 8.311258,
+  "name": "EnBW Energie Baden-Württemberg AG InnovationsCampus Forschung und Entwicklung",
+  "reason": "Methodik: Forschung; Sektor: Energie.",
+  "refs": {
+   "osm": [
+    "node/4425676798"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "address": "Industriestraße 18, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 29.6,
+  "first_seen": "2026-09-24",
+  "key": "energie-suedwest",
+  "lat": 49.200168,
+  "loc_source": "osm",
+  "lon": 8.124259,
+  "meta_description": "Wir versorgen Sie mit Zukunft – Ökostrom, Gas, Naturwärme, Photovoltaik, Speicher, Wärmepumpe und Wallbox – Alles aus einer Hand, alles von hier.",
+  "meta_title": "EnergieSüdwest AG - Wir versorgen Sie mit Zukunft",
+  "name": "Energie Südwest AG",
+  "reason": "Sektor: Photovoltaik, Energie.",
+  "refs": {
+   "osm": [
+    "node/272222085"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://energie-suedwest.de/"
+ },
+ {
+  "distance_km": 47.7,
+  "first_seen": "2026-09-24",
+  "key": "enerix",
+  "lat": 49.357647,
+  "loc_source": "osm",
+  "lon": 8.77988,
+  "meta_description": "Dein regionaler Fachbetrieb für Photovoltaik und Stromspeicher für die Region Heidelberg & Umgebung. Wir beraten dich! ☎️ 06223 4259693",
+  "meta_title": "enerix Rhein-Neckar: Photovoltaik & Stromspeicher ☀️",
+  "name": "Enerix",
+  "reason": "Sektor: Photovoltaik.",
+  "refs": {
+   "osm": [
+    "node/8475806173"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.enerix.de/photovoltaik/rhein-neckar/"
+ },
+ {
+  "address": "Julia-Lanz-Str. 1, 68782 Brühl, Baden",
+  "city": "Brühl, Baden",
+  "distance_km": 45.7,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003523811-S"
+  ],
+  "key": "engenious",
+  "lat": 49.408578,
+  "loc_source": "ba",
+  "lon": 8.534583,
+  "name": "engenious GmbH",
+  "reason": "Methodik: Machine Learning, AI, LLM.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "distance_km": 37.1,
+  "first_seen": "2026-09-24",
+  "key": "et-solar-power",
+  "lat": 49.32951,
+  "loc_source": "osm",
+  "lon": 8.530731,
+  "name": "ET Solar Power GmbH",
+  "reason": "Sektor: Solar.",
+  "refs": {
+   "osm": [
+    "node/12125529548"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "address": "Hauptstraße 119-121, 68804 Altlußheim",
+  "city": "Altlußheim",
+  "distance_km": 33.3,
+  "first_seen": "2026-09-24",
+  "key": "et-system-electronic",
+  "lat": 49.299356,
+  "loc_source": "osm",
+  "lon": 8.504146,
+  "meta_description": "Ihr Partner für DC-/AC-Quellen, Lasten, Batteriesimulatoren und Systemintegration für Entwicklung, Industrie und Forschung. +49 6205 3948-0",
+  "meta_title": "ET System electronic | DC-/AC-Stromversorgungen",
+  "name": "ET System electronic",
+  "reason": "Methodik: Forschung; Sektor: Batteriesimulatoren.",
+  "refs": {
+   "osm": [
+    "way/384760704"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.et-system.de/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 11, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.0,
+  "first_seen": "2026-09-24",
+  "key": "european-institute-for-energy-research",
+  "lat": 49.019837,
+  "loc_source": "osm",
+  "lon": 8.439204,
+  "meta_title": "Start Page - EIFER",
+  "name": "European Institute for Energy Research",
+  "reason": "Methodik: Institute; Sektor: Energy.",
+  "refs": {
+   "osm": [
+    "node/3287769705"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.eifer.kit.edu/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 11, 76131 Karlsruhe",
+  "distance_km": 3.0,
+  "first_seen": "2026-09-24",
+  "key": "european-institute-for-energy-research-eifer",
+  "lat": 49.019884,
+  "loc_source": "seed",
+  "lon": 8.439242,
+  "meta_title": "Start Page - EIFER",
+  "name": "European Institute for Energy Research (EIFER)",
+  "reason": "Methodik: Simulation, Institute; Sektor: Energiesysteme, Energy.",
+  "score": 7,
+  "score_method": "stichwörter",
+  "sources": [
+   "seed"
+  ],
+  "tags": [
+   "Energieforschung",
+   "Energiesysteme",
+   "Simulation"
+  ],
+  "website": "https://www.eifer.kit.edu/"
+ },
+ {
+  "address": "Victor-Gollancz-Straße 5, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "deutsches Technologie- und Beratungsunternehmen mit Hauptsitz in Karlsruhe",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "industry": "Informationstechnik",
+  "key": "exxeta",
+  "lat": 48.993108,
+  "loc_source": "osm",
+  "lon": 8.397262,
+  "meta_description": "AI first. Everything else follows. We develop and operate intelligent systems using data and AI. From strategy to scaling. For successful organisations.",
+  "meta_title": "AI‑first Tech & Consulting von Strategie bis Skalierung | Exxeta",
+  "name": "Exxeta AG",
+  "reason": "Methodik: AI, data.",
+  "refs": {
+   "osm": [
+    "node/4852093881"
+   ],
+   "wikidata": [
+    "Q140290468"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://exxeta.com/"
+ },
+ {
+  "address": "Im Gewerbegebiet 7, 77855 Achern",
+  "city": "Achern",
+  "description": "Hersteller von Röhren",
+  "distance_km": 49.3,
+  "first_seen": "2026-09-24",
+  "key": "fischer",
+  "lat": 48.635032,
+  "loc_source": "osm",
+  "lon": 8.039373,
+  "meta_description": "Weltweit führender Anbieter von längsnahtgeschweißten Edelstahlrohren und -bauteilen sowie umweltfreundlichen Energielösungen, z. B. Brennstoffzellen.",
+  "meta_title": "fischer group Startseite",
+  "name": "Fischer Group",
+  "reason": "Sektor: Brennstoffzellen, Energielösungen, umweltfreundlichen.",
+  "refs": {
+   "osm": [
+    "way/751250982"
+   ],
+   "wikidata": [
+    "Q65697965"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.fischer-group.com/"
+ },
+ {
+  "address": "Albert-Einstein-Straße 23, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 28.2,
+  "first_seen": "2026-09-24",
+  "key": "foconis-analytics",
+  "lat": 49.189346,
+  "loc_source": "osm",
+  "lon": 8.136463,
+  "meta_description": "Software für Banken, Sparkassen und die gesamte Finanzindustrie",
+  "meta_title": "Foconis - for Finance",
+  "name": "Foconis Analytics",
+  "reason": "Methodik: Analytics, Software.",
+  "refs": {
+   "osm": [
+    "node/5393735573"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.genodata.de/"
+ },
+ {
+  "address": "Joseph-von-Fraunhofer-Straße 7, 76327 Pfinztal",
+  "distance_km": 8.5,
+  "first_seen": "2026-09-24",
+  "key": "fraunhofer-institut-fuer-chemische-technologie-ict",
+  "lat": 49.017423,
+  "loc_source": "seed",
+  "lon": 8.519184,
+  "meta_description": "Das Fraunhofer ICT forscht unter anderem an Kunststoffen und Explosivstoffen. Es entwickelt und optimiert chemische Prozesse für industrielle Anwendungen.",
+  "meta_title": "Startseite - Fraunhofer ICT",
+  "name": "Fraunhofer-Institut für Chemische Technologie ICT",
+  "reason": "Methodik: Fraunhofer; Sektor: Batterien, Brennstoffzellen.",
+  "score": 6,
+  "score_method": "stichwörter",
+  "sources": [
+   "seed"
+  ],
+  "tags": [
+   "Batterien",
+   "Brennstoffzellen",
+   "Wasserstoff",
+   "Angewandte Elektrochemie"
+  ],
+  "website": "https://www.ict.fraunhofer.de/"
+ },
+ {
+  "address": "Fraunhoferstraße 1, 76131 Karlsruhe",
+  "distance_km": 1.9,
+  "first_seen": "2026-09-24",
+  "key": "fraunhofer-institut-fuer-optronik-systemtechnik-bildauswertung-iosb",
+  "lat": 49.01546,
+  "loc_source": "seed",
+  "lon": 8.426213,
+  "meta_description": "Sichtsysteme und Sensoren, Datenströme, interaktive Assistenz & autonome Systeme & die gesamte Prozess- und Verwertungskette ist unsere Expertise.",
+  "meta_title": "Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB - Fraunhofer IOSB",
+  "name": "Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB",
+  "reason": "Methodik: Machine Learning, Künstliche Intelligenz, Fraunhofer; Sektor: Energiesysteme.",
+  "refs": {
+   "osm": [
+    "way/158183420"
+   ]
+  },
+  "score": 9,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed"
+  ],
+  "tags": [
+   "Forschungseinrichtung",
+   "Künstliche Intelligenz",
+   "Machine Learning",
+   "Energiesysteme"
+  ],
+  "website": "https://www.iosb.fraunhofer.de/"
+ },
+ {
+  "address": "Breslauer Straße 48, 76139 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.6,
+  "first_seen": "2026-09-24",
+  "key": "fraunhofer-institut-fuer-system-innovationsforschung-isi",
+  "lat": 49.028036,
+  "loc_source": "seed",
+  "lon": 8.44148,
+  "meta_description": "Das Fraunhofer-Institut für System- und Innovationsforschung ISI in Karlsruhe analysiert Entstehung und Auswirkungen von Innovationen.",
+  "meta_title": "Fraunhofer ISI: gemeinsam | Zukunft | gestalten - Fraunhofer ISI",
+  "name": "Fraunhofer-Institut für System- und Innovationsforschung ISI",
+  "reason": "Methodik: Modellierung, Fraunhofer; Sektor: Energiesysteme, Klimaschutz, Energiepolitik.",
+  "refs": {
+   "osm": [
+    "way/516868749"
+   ]
+  },
+  "score": 8,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed"
+  ],
+  "tags": [
+   "Forschung",
+   "Forschungseinrichtung",
+   "Energiepolitik",
+   "Energiesysteme",
+   "Klimaschutz",
+   "Modellierung"
+  ],
+  "website": "https://www.isi.fraunhofer.de/"
+ },
+ {
+  "address": "Rintheimer Querallee 2b, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "key": "fraunhofer-institut-fuer-werkstoffmechanik",
+  "lat": 49.013214,
+  "loc_source": "osm",
+  "lon": 8.415335,
+  "meta_title": "MikroTribologie Centrum μTC",
+  "name": "Fraunhofer-Institut für Werkstoffmechanik",
+  "reason": "Methodik: Werkstoffmechanik, Fraunhofer.",
+  "refs": {
+   "osm": [
+    "node/4622429973",
+    "node/6221626615"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung",
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.mikrotribologiecentrum.de/"
+ },
+ {
+  "address": "Parzivalstr. 2b, 76139 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 5.2,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003737151-S"
+  ],
+  "key": "freunde-der-erziehungskunst",
+  "lat": 49.035402,
+  "loc_source": "ba",
+  "lon": 8.459874,
+  "name": "Freunde der Erziehungskunst e.V.",
+  "reason": "Methodik: KI, Software.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "description": "Forschungszentrum Informatik",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "fzi",
+  "lat": 49.011874,
+  "loc_source": "osm",
+  "lon": 8.425471,
+  "meta_description": "Als gemeinnützige Forschungseinrichtung bringen wir neuste wissenschaftliche Erkenntnisse der Informationstechnologie in Unternehmen.",
+  "meta_title": "Startseite - FZI Forschungszentrum Informatik",
+  "name": "FZI",
+  "reason": "Methodik: Forschungszentrum, Informatik.",
+  "refs": {
+   "osm": [
+    "node/9605735512"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.fzi.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 10-14, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "gemeinnützige Einrichtung für Informatik-Anwendungsforschung",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "key": "fzi-forschungszentrum-informatik",
+  "lat": 49.012038,
+  "loc_source": "seed",
+  "lon": 8.424696,
+  "meta_description": "Als gemeinnützige Forschungseinrichtung bringen wir neuste wissenschaftliche Erkenntnisse der Informationstechnologie in Unternehmen.",
+  "meta_title": "Startseite - FZI Forschungszentrum Informatik",
+  "name": "FZI Forschungszentrum Informatik",
+  "reason": "Methodik: Künstliche Intelligenz, Forschungszentrum, Informatik; Sektor: Smart Grids, Energie.",
+  "refs": {
+   "osm": [
+    "way/350143662"
+   ],
+   "wikidata": [
+    "Q1276279"
+   ]
+  },
+  "score": 8,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed",
+   "wikidata"
+  ],
+  "tags": [
+   "Forschungseinrichtung",
+   "Künstliche Intelligenz",
+   "Energie",
+   "Smart Grids"
+  ],
+  "website": "https://www.fzi.de/"
+ },
+ {
+  "address": "Klaus-von-Klitzing-Straße 1, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 29.0,
+  "first_seen": "2026-09-24",
+  "key": "gdi-software-datentechnik-informationssysteme",
+  "lat": 49.194543,
+  "loc_source": "osm",
+  "lon": 8.128906,
+  "meta_description": "ERP-System für KMU: GDI Vision vereint Prozesse, Daten & Teams – mit Abo, klaren Preisen, regelmäßigen Updates & top Partner-Support vor Ort ✅. Jetzt testen ↗️!",
+  "meta_title": "GDI Vision: Modernes ERP-System für KMU im Abo | GDI Software",
+  "name": "GDI Software - Datentechnik und Informationssysteme",
+  "reason": "Methodik: Daten, Software.",
+  "refs": {
+   "osm": [
+    "node/5648153435"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.gdi.de/"
+ },
+ {
+  "address": "Bruchsaler Str. 1-3, 76698 Ubstadt-Weiher",
+  "city": "Ubstadt-Weiher",
+  "distance_km": 23.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10000-1207887668-S"
+  ],
+  "key": "gemeinde-ubstadt-weiher",
+  "lat": 49.158414,
+  "loc_source": "ba",
+  "lon": 8.6308695,
+  "name": "Gemeinde Ubstadt-Weiher",
+  "reason": "Sektor: klimaneutrale.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Johann-Georg-Schlosser-Straße 66, 76149 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 5.4,
+  "first_seen": "2026-09-24",
+  "key": "generic-de",
+  "lat": 49.05538,
+  "loc_source": "osm",
+  "lon": 8.395679,
+  "meta_description": "Wir konzipieren und entwickeln Individualsoftware für die Industrie: KI-gestützt, nutzerzentriert, in Clean Code Qualität. Seit 1999 aus Karlsruhe.",
+  "meta_title": "generic.de | KI-gestützte Softwareentwicklung für die Industrie",
+  "name": "generic.de",
+  "reason": "Methodik: KI, Softwareentwicklung.",
+  "refs": {
+   "osm": [
+    "way/1056411958"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.generic.de/"
+ },
+ {
+  "distance_km": 43.7,
+  "first_seen": "2026-09-24",
+  "key": "geohardt",
+  "lat": 49.382272,
+  "loc_source": "osm",
+  "lon": 8.580992,
+  "meta_description": "Erfahren Sie mehr Ã¼ber das Geothermie-Projekt GeoHardt, das sich zum Ziel gesetzt hat, die WÃ¤rmeversorgung im Rhein-Neckar-Gebiet auf erneuerbare und klimafreundliche Weise umzustellen.",
+  "meta_title": "Geothermie am Oberrhein â FÃ¶rderung erneuerbarer WÃ¤rme in der Region | GeoHardt",
+  "name": "GeoHardt GmbH",
+  "reason": "Sektor: Geothermie.",
+  "refs": {
+   "osm": [
+    "node/13760087232"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.geohardt.de/"
+ },
+ {
+  "address": "Werner-von-Siemens-Straße 2-6, 76646 Bruchsal",
+  "city": "Bruchsal",
+  "description": "Anbieter von RegioGraph Software",
+  "distance_km": 19.2,
+  "first_seen": "2026-09-24",
+  "key": "gfk-geomarketing",
+  "lat": 49.128701,
+  "loc_source": "osm",
+  "lon": 8.589071,
+  "meta_description": "Optimieren Sie Vertrieb, Marketing und Standortwahl mit Geomarketing-Daten, Karten und Analysen von NielsenIQ.",
+  "meta_title": "Geomarketing für datenbasierte Standortentscheidungen - NIQ",
+  "name": "GfK GeoMarketing GmbH",
+  "reason": "Methodik: Daten, Software.",
+  "refs": {
+   "osm": [
+    "node/4045449375"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.gfk-geomarketing.de/"
+ },
+ {
+  "distance_km": 4.6,
+  "first_seen": "2026-09-24",
+  "key": "gfk-ingenieure",
+  "lat": 48.996207,
+  "loc_source": "osm",
+  "lon": 8.465059,
+  "meta_description": "GFK - Das Ingenieurbüro für Hannover, Recklinghausen & Kassel mit Schwerpunkt auf Bau, Bahn & erneuerbare Energien. Lerne uns kennen!",
+  "meta_title": "GFK Ingenieurbüro - Bau, Bahn & erneuerbare Energien",
+  "name": "GFK Ingenieure",
+  "reason": "Sektor: erneuerbare, Energien.",
+  "refs": {
+   "osm": [
+    "node/13663574615"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Ingenieurbüro"
+  ],
+  "website": "https://gfk-ingenieure.de/"
+ },
+ {
+  "address": "Kurfürsten-Anlage 64-68, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.5,
+  "first_seen": "2026-09-24",
+  "key": "gfn",
+  "lat": 49.405481,
+  "loc_source": "osm",
+  "lon": 8.674401,
+  "meta_description": "Wir sind dein Weiterbildungspartner für KI, digitale Kompetenzen & IT. ✓ Bundesweite Standorte. ✓ Kostenlos mit Bildungsgutschein oder AVGS.",
+  "meta_title": "Geförderte Umschulungen, Online-Weiterbildungen & Coachings",
+  "name": "GFN AG",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/2951975940"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.gfn.de/"
+ },
+ {
+  "address": "Karl-Lenhardt-Straße 1-9, 75242 Neuhausen",
+  "city": "Neuhausen",
+  "distance_km": 33.9,
+  "first_seen": "2026-09-24",
+  "key": "glaston-germany",
+  "lat": 48.821165,
+  "loc_source": "osm",
+  "lon": 8.771069,
+  "meta_description": "Glaston is a company providing high-quality glass processing machines and services for architectural, solar, appliance and automotive applications.",
+  "meta_title": "Glaston for high-quality heat treatment machines and services",
+  "name": "Glaston Germany GmbH",
+  "reason": "Sektor: solar.",
+  "refs": {
+   "osm": [
+    "way/223970988"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion",
+   "machinery"
+  ],
+  "website": "https://glaston.net/"
+ },
+ {
+  "address": "Einsteinstraße 4, 71254 Ditzingen",
+  "city": "Ditzingen",
+  "distance_km": 46.6,
+  "first_seen": "2026-09-24",
+  "key": "gramm-technik",
+  "lat": 48.853665,
+  "loc_source": "osm",
+  "lon": 8.995439,
+  "meta_title": "Gramm Technik | Emissionsreduzierte Oberflächentechnik",
+  "name": "Gramm Technik GmbH",
+  "reason": "Sektor: Emissionsreduzierte.",
+  "refs": {
+   "osm": [
+    "node/9709879947"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://www.gramm-technik.de/"
+ },
+ {
+  "distance_km": 44.5,
+  "first_seen": "2026-09-24",
+  "key": "grs-trading-e-k",
+  "lat": 49.393922,
+  "loc_source": "osm",
+  "lon": 8.557887,
+  "meta_description": "Hochwertige Akkus Marke GRS für verschiedene Notebook Modelle.",
+  "meta_title": "GRS-Ihr Notebook-Akku Spezialist",
+  "name": "GRS Trading e.K.",
+  "reason": "Sektor: Akku.",
+  "refs": {
+   "osm": [
+    "node/12200243376"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.grs-trading.de/"
+ },
+ {
+  "address": "Dreherstraße 17, 76448 Durmersheim",
+  "city": "Durmersheim",
+  "distance_km": 13.7,
+  "first_seen": "2026-09-24",
+  "key": "hangar-sued-von-aircraft-simulation-technology",
+  "lat": 48.92228,
+  "loc_source": "osm",
+  "lon": 8.267814,
+  "meta_description": "Erleben Sie Fliegen im professionellen Flugsimulator bei Karlsruhe. Airbus A320, Agusta A109 & Baron 58 – Fun-Flights, Screening-Vorbereitung und Team-Events.",
+  "meta_title": "Hangar Süd – Flugsimulator Karlsruhe | A320 fliegen & Pilotentraining",
+  "name": "Hangar Süd von Aircraft Simulation Technology",
+  "reason": "Methodik: Simulation.",
+  "refs": {
+   "osm": [
+    "node/10095770159"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.hangar-sued.de/"
+ },
+ {
+  "distance_km": 47.4,
+  "first_seen": "2026-09-24",
+  "key": "heidelberger-energiegenossenschaft",
+  "lat": 49.394051,
+  "loc_source": "osm",
+  "lon": 8.674359,
+  "meta_title": "HEG – Energiewende in Bürgerhand",
+  "name": "Heidelberger Energiegenossenschaft eG",
+  "reason": "Sektor: Energiewende, Energiegenossenschaft.",
+  "refs": {
+   "osm": [
+    "node/11465526146"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://heg.solar/"
+ },
+ {
+  "distance_km": 18.0,
+  "first_seen": "2026-09-24",
+  "key": "heidt-urschl-elektrotechnik",
+  "lat": 48.85313,
+  "loc_source": "osm",
+  "lon": 8.481158,
+  "meta_description": "Elektrotechnik und Photovoltaik für alle Gebäudetypen, die Sonne scheint ohne Rechnung - Zukunft Photovoltaik, Heidt & Urschl, Elekrotechnik in Straubenhardt nahe Pforzheim / Karlsruhe, Photovoltaik Eigenverbrauch, Einspeisevergütung, Photovoltaik mit Akku, Photovoltaik mit Eigenverbrauch, Photovoltaikprofi, Fotovoltaik, Solarstrom, Dachmiete, Dachpacht, Photovoltaik Schema, Photovoltaik Animation",
+  "meta_title": "Home - Heidt & Urschl Elekrotechnik GmbH",
+  "name": "Heidt & Urschl Elektrotechnik",
+  "reason": "Sektor: Akku, Photovoltaik, Solarstrom.",
+  "refs": {
+   "osm": [
+    "node/11356386577"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://heidt-urschl.de/"
+ },
+ {
+  "description": "quantum simulation company from Karlsruhe, Germany",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "key": "heisenberg-quantum-simulations",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "name": "Heisenberg Quantum Simulations",
+  "reason": "Methodik: Simulations.",
+  "refs": {
+   "wikidata": [
+    "Q59654545"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://heisenberg.xyz/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Deutsches IT-Unternehmen mit Fokus auf die Landwirtschaft",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "industry": "künstliche Intelligenz; Softwareentwicklung",
+  "key": "heliopas-ai",
+  "lat": 49.012697,
+  "loc_source": "osm",
+  "lon": 8.425362,
+  "meta_description": "By providing scalable and accurate environmental insights, we help agribusinesses to increase yields, reduce waste and enrich nature and soil.",
+  "meta_title": "Remote Environmental Monitoring | heliopas.ai Analytics",
+  "name": "heliopas.ai GmbH",
+  "reason": "Methodik: künstliche Intelligenz, heliopas.ai, Analytics, Softwareentwicklung; Sektor: Environmental.",
+  "refs": {
+   "osm": [
+    "node/11349271939"
+   ],
+   "wikidata": [
+    "Q138684483"
+   ]
+  },
+  "score": 6,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://heliopas.ai/"
+ },
+ {
+  "description": "Forschungseinrichtung in Karlsruhe",
+  "distance_km": 0.3,
+  "first_seen": "2026-09-24",
+  "key": "helmholtz-alliance-for-astroparticle-physics",
+  "lat": 49.005856,
+  "loc_source": "wikidata",
+  "lon": 8.399226,
+  "meta_title": "HAP -Home",
+  "name": "Helmholtz Alliance for Astroparticle Physics",
+  "reason": "Methodik: Physics, Helmholtz.",
+  "refs": {
+   "wikidata": [
+    "Q33121946"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.hap-astroparticle.org/"
+ },
+ {
+  "distance_km": 44.2,
+  "first_seen": "2026-09-24",
+  "key": "hep",
+  "lat": 49.060474,
+  "loc_source": "osm",
+  "lon": 9.002042,
+  "meta_description": "hep global GmbH entwickelt und betreibt maßgeschneiderte Solaranlagen, die sich für Mensch und Umwelt lohnen.",
+  "meta_title": "hep global - Wir wollen die Sonne für alle profitabel machen",
+  "name": "Hep",
+  "reason": "Sektor: Solaranlagen, Umwelt.",
+  "refs": {
+   "osm": [
+    "way/1011248509"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://hep.global/"
+ },
+ {
+  "address": "Gottlob-Bauknecht-Straße 35, 75365 Calw",
+  "city": "Calw",
+  "distance_km": 42.8,
+  "first_seen": "2026-09-24",
+  "key": "highlight-computer",
+  "lat": 48.705718,
+  "loc_source": "osm",
+  "lon": 8.767195,
+  "meta_description": "Stabile IT, klare Prozesse und praxisnahe KI für KMU in Calw, Nordschwarzwald und Baden-Württemberg.",
+  "meta_title": "IT-Betreuung, Prozesslösungen & KI für KMU | hcsystem",
+  "name": "Highlight Computer",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/1707453513"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "http://www.highlight-computer.de/"
+ },
+ {
+  "address": "Grüne Meile 29, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.1,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "13644-296843-S"
+  ],
+  "key": "hms-analytical-software",
+  "lat": 49.40407,
+  "loc_source": "osm",
+  "lon": 8.66426,
+  "meta_description": "Ihr Full-Service-Partner für Data-Science- und Softwarelösungen, von der Konzeption bis zur Operationalisierung: Starten Sie jetzt mit uns durch!",
+  "meta_title": "Datenanalyse und GenAI für Unternehmen: HMS Analytical Software",
+  "name": "HMS Analytical Software",
+  "reason": "Methodik: Data-Science, Datenanalyse, Data, Physiker, Software.",
+  "refs": {
+   "osm": [
+    "node/7278441831"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.analytical-software.de/"
+ },
+ {
+  "address": "Hornbachstr. 11, 76879 Bornheim, Pfalz",
+  "city": "Bornheim, Pfalz",
+  "distance_km": 28.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003596049-S",
+   "10001-1003662047-S"
+  ],
+  "key": "hornbach-baumarkt-zentralverwaltung",
+  "lat": 49.21497,
+  "loc_source": "ba",
+  "lon": 8.1745515,
+  "name": "HORNBACH Baumarkt AG Zentralverwaltung",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Karlsruher Straße 88, 76139 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.8,
+  "first_seen": "2026-09-24",
+  "key": "hpc-das-ingenieurunternehmen",
+  "lat": 49.024107,
+  "loc_source": "osm",
+  "lon": 8.448636,
+  "meta_description": "Mit 44 Standorten in ganz Europa ist GINGER HPC immer in Ihrer Nähe. Unsere Expertenteams unterstützen Sie lokal und persönlich – mit Umweltberatung, Planung,",
+  "meta_title": "Standorte - GINGER HPC",
+  "name": "HPC Das Ingenieurunternehmen",
+  "reason": "Methodik: HPC; Sektor: Umweltberatung.",
+  "refs": {
+   "osm": [
+    "node/4092510088"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.hpc.ag/de/standorte/"
+ },
+ {
+  "description": "Deutsches Unternehmen, das quantenphysikbasierte Simulationssoftware für Spektroskopie und NMR-Analytik entwickelt.",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "Quantenmechanik; Kernspinresonanzspektroskopie",
+  "key": "hqs-quantum-simulations",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Browser-based NMR analysis software for 1H NMR prediction, spectrum interpretation, peak assignment, and structure elucidation. Try HQSpectrum online.",
+  "meta_title": "HQS Quantum Simulations",
+  "name": "HQS Quantum Simulations GmbH",
+  "reason": "Methodik: Simulations, quantenphysikbasierte, Simulationssoftware.",
+  "refs": {
+   "wikidata": [
+    "Q108294069"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://quantumsimulations.de/"
+ },
+ {
+  "address": "Kurpfalzring 104, 69123 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 47.7,
+  "first_seen": "2026-09-24",
+  "key": "hte",
+  "lat": 49.407232,
+  "loc_source": "osm",
+  "lon": 8.639689,
+  "meta_description": "hte GmbH specializes in innovative R&D workflows, accelerating technology development in catalysis, materials research, and process optimization to help companies achieve sustainability goals and drive industry advancements.",
+  "meta_title": "Home - hte GmbH",
+  "name": "hte GmbH",
+  "reason": "Methodik: materials, research, optimization; Sektor: sustainability.",
+  "refs": {
+   "osm": [
+    "node/2549245289"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.hte-company.com/"
+ },
+ {
+  "address": "Benzstraße 42, 71272 Renningen",
+  "city": "Renningen",
+  "distance_km": 46.0,
+  "first_seen": "2026-09-24",
+  "key": "hutchinson-renningen",
+  "lat": 48.777124,
+  "loc_source": "osm",
+  "lon": 8.925636,
+  "meta_description": "Hutchinson designs multi-material solutions helping clients in automotive, aerospace, energy, rail and industry pivot to low-carbon, sustainable operations",
+  "meta_title": "Hutchinson, multi-material solutions powered by science",
+  "name": "Hutchinson, Renningen",
+  "reason": "Methodik: material; Sektor: energy, sustainable.",
+  "refs": {
+   "osm": [
+    "node/9143863252"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.hutchinson.com/de"
+ },
+ {
+  "address": "Hauptstraße 135, 76344 Eggenstein-Leopoldshafen",
+  "city": "Eggenstein-Leopoldshafen",
+  "distance_km": 7.3,
+  "first_seen": "2026-09-24",
+  "key": "ibs",
+  "lat": 49.072459,
+  "loc_source": "osm",
+  "lon": 8.393019,
+  "meta_description": "Die IBS Gruppe bietet spezialisierte Lösungen in Distribution, Engineering und Smart Energy. Von der Beratung bis zur Umsetzung innovativer Energiekonzepte – Ihr Partner für höchste Effizienz und nachhaltige Technologien.",
+  "meta_title": "Startseite • IBS Gruppe",
+  "name": "IBS-Gruppe",
+  "reason": "Sektor: Energy, nachhaltige.",
+  "refs": {
+   "osm": [
+    "node/7629046664"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.ibs-gruppe.de/"
+ },
+ {
+  "description": "deutscher Softwarehersteller",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "key": "icon-scm",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Supply chain software with a connected network and SaaS platform help you seize opportunities, predict disruptions, and drive efficiency and sustainability.",
+  "meta_title": "Supply Chain Software: The Connected Supply Chain - e2open",
+  "name": "ICON-SCM",
+  "reason": "Methodik: Softwarehersteller; Sektor: sustainability.",
+  "refs": {
+   "wikidata": [
+    "Q1653256"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.e2open.com/de/"
+ },
+ {
+  "description": "company in Ettlingen, Germany",
+  "distance_km": 8.1,
+  "first_seen": "2026-09-24",
+  "key": "ids-germany",
+  "lat": 48.937092,
+  "loc_source": "wikidata",
+  "lon": 8.374533,
+  "meta_description": "VIVAVIS - Ihr Experte für innovative Softwarelösungen im Bereich Energiewirtschaft, Smart City und kritische Infrastrukturen.",
+  "meta_title": "Willkommen bei VIVAVIS",
+  "name": "IDS (Germany)",
+  "reason": "Methodik: Softwarelösungen; Sektor: Energiewirtschaft.",
+  "refs": {
+   "wikidata": [
+    "Q77077983"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.ids.de/"
+ },
+ {
+  "address": "Wilckensstraße 3, 69120 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 49.7,
+  "first_seen": "2026-09-24",
+  "key": "ifeu-institut-fuer-energie-umweltforschung-heidelberg",
+  "lat": 49.415164,
+  "loc_source": "osm",
+  "lon": 8.680072,
+  "name": "ifeu - Institut für Energie- und Umweltforschung Heidelberg GmbH",
+  "reason": "Methodik: Institut; Sektor: Energie, Umweltforschung.",
+  "refs": {
+   "osm": [
+    "way/1301792301"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.ifeu.de/"
+ },
+ {
+  "address": "Greschbachstraße 3, 76229 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 5.4,
+  "first_seen": "2026-09-24",
+  "key": "industriebau-schauenberg",
+  "lat": 49.026655,
+  "loc_source": "osm",
+  "lon": 8.471531,
+  "meta_description": "Wir verfügen über große Erfahrungswerte, verbunden mit unter­neh­merischer Tradition in Sachen Stahl- und Industriebau. Fit für die Zukunft präsentieren wir uns als Ihr Partner für industrielle Bauprojekte. Individuelle Bauleistungen auf hohem Qualitätsstandard unter Einsatz umweltfreundlicher Materialen wirtschaftlich zu realisieren ist uns eine Verpflichtung.",
+  "meta_title": "Willkommen – Industriebau Schauenberg",
+  "name": "Industriebau Schauenberg",
+  "reason": "Methodik: Materialen; Sektor: umweltfreundlicher.",
+  "refs": {
+   "osm": [
+    "node/6003206249"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.industriebau-schauenberg.de/"
+ },
+ {
+  "address": "Werner-von-Siemens-Straße 2–6, 76646 Bruchsal",
+  "city": "Bruchsal",
+  "distance_km": 19.1,
+  "first_seen": "2026-09-24",
+  "key": "innolith-battery-tech-company",
+  "lat": 49.1276,
+  "loc_source": "osm",
+  "lon": 8.590236,
+  "meta_description": "SWISS-GERMAN BATTERY TECHNOLOGY INNOVATOR, READY TO FREE E-MOBILITY",
+  "name": "Innolith Battery Tech Company",
+  "reason": "Sektor: Battery, E-MOBILITY.",
+  "refs": {
+   "osm": [
+    "node/6389275721"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://innolith.com/"
+ },
+ {
+  "address": "Ludwig-Erhard-Allee 6, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "inovex ist ein innovations- und qualitätsgetriebenes IT-Projekthaus mit dem Leistungsschwerpunkt „Digitale Transformation“.",
+  "distance_km": 0.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "16752-r14241-S",
+   "16752-r15302-S",
+   "16752-r15303-S",
+   "16752-r18165-S",
+   "16752-r18191-S",
+   "16752-r5333-S",
+   "16752-r5446-S"
+  ],
+  "key": "inovex",
+  "lat": 49.004763,
+  "loc_source": "osm",
+  "lon": 8.416118,
+  "meta_description": "inovex ist ein innovations- und qualitätsgetriebenes IT-Projekthaus mit dem Leistungsschwerpunkt „Digitale Transformation“.",
+  "meta_title": "inovex GmbH: IT-Dienstleistung | Digitale Transformation",
+  "name": "inovex GmbH",
+  "reason": "Methodik: Machine Learning, AI, Data Engineer, Data.",
+  "refs": {
+   "osm": [
+    "node/2622320478"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.inovex.de/"
+ },
+ {
+  "distance_km": 10.1,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-angewandte-informatik",
+  "lat": 49.095835,
+  "loc_source": "osm",
+  "lon": 8.433706,
+  "meta_description": "Das Institut betreibt Forschung und Entwicklung auf dem Gebiet innovativer, anwendungsorientierter Informations-, Automatisierungs- und Systemtechnik für zukunftsfähige Energiesysteme sowie komplexe Industrie- und Laborprozesse.",
+  "meta_title": "KIT - IAI - Institut",
+  "name": "Institut für Angewandte Informatik",
+  "reason": "Methodik: Institut, Informatik; Sektor: Energiesysteme.",
+  "refs": {
+   "osm": [
+    "node/1146299807"
+   ]
+  },
+  "score": 6,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.iai.kit.edu/"
+ },
+ {
+  "description": "Institut des Karlsruher Instituts für Technologie",
+  "distance_km": 0.5,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-angewandte-informatik-formale-beschreibungsverfahren",
+  "lat": 49.009139,
+  "loc_source": "wikidata",
+  "lon": 8.410331,
+  "meta_title": "KIT - AIFB - Startseite",
+  "name": "Institut für Angewandte Informatik und Formale Beschreibungsverfahren",
+  "reason": "Methodik: Institut, Informatik.",
+  "refs": {
+   "wikidata": [
+    "Q30343035"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.aifb.kit.edu/"
+ },
+ {
+  "distance_km": 9.9,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-astroteilchenphysik",
+  "lat": 49.094068,
+  "loc_source": "osm",
+  "lon": 8.430657,
+  "meta_title": "KIT - IAP Home",
+  "name": "Institut für Astroteilchenphysik",
+  "reason": "Methodik: Astroteilchenphysik, Institut.",
+  "refs": {
+   "osm": [
+    "node/1163751087"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.iap.kit.edu/"
+ },
+ {
+  "distance_km": 10.1,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-beschleunigerphysik-technologie-ibpt",
+  "lat": 49.096357,
+  "loc_source": "osm",
+  "lon": 8.429776,
+  "meta_title": "KIT - IBPT - Startseite",
+  "name": "Institut für Beschleunigerphysik und Technologie (IBPT)",
+  "reason": "Methodik: Beschleunigerphysik, Institut.",
+  "refs": {
+   "osm": [
+    "node/13027023801"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.ibpt.kit.edu/"
+ },
+ {
+  "distance_km": 9.9,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-experimentelle-teilchenphysik",
+  "lat": 49.094273,
+  "loc_source": "osm",
+  "lon": 8.43073,
+  "meta_title": "KIT - ETP Startseite",
+  "name": "Institut für Experimentelle Teilchenphysik",
+  "reason": "Methodik: Teilchenphysik, Institut.",
+  "refs": {
+   "osm": [
+    "node/2636976820"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.etp.kit.edu/"
+ },
+ {
+  "distance_km": 10.0,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-meteorologie-klimaforschung",
+  "lat": 49.093924,
+  "loc_source": "osm",
+  "lon": 8.436449,
+  "meta_title": "KIT - IMK - Home",
+  "name": "Institut für Meteorologie und Klimaforschung",
+  "reason": "Methodik: Institut; Sektor: Klimaforschung.",
+  "refs": {
+   "osm": [
+    "node/6565037669"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "http://www.imk.kit.edu/"
+ },
+ {
+  "distance_km": 10.0,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-quantenmaterialien-technologien",
+  "lat": 49.094901,
+  "loc_source": "osm",
+  "lon": 8.433309,
+  "meta_title": "KIT - IQMT - IQMT - Startseite",
+  "name": "Institut für QuantenMaterialien und Technologien",
+  "reason": "Methodik: QuantenMaterialien, Institut.",
+  "refs": {
+   "osm": [
+    "node/1177014540"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.iqmt.kit.edu/"
+ },
+ {
+  "description": "Bundesforschungsinstitut zur Züchtung nachhaltiger Rebsorten und Forschung an Rebe und Wein",
+  "distance_km": 35.1,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-rebenzuechtung-geilweilerhof",
+  "lat": 49.218,
+  "loc_source": "wikidata",
+  "lon": 8.04594,
+  "meta_title": "JKI: Rebenzüchtung",
+  "name": "Institut für Rebenzüchtung Geilweilerhof",
+  "reason": "Methodik: Institut; Sektor: nachhaltiger.",
+  "refs": {
+   "wikidata": [
+    "Q1664958"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.julius-kuehn.de/zr/"
+ },
+ {
+  "distance_km": 9.9,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-technische-physik",
+  "lat": 49.093879,
+  "loc_source": "osm",
+  "lon": 8.434194,
+  "meta_description": "Das Institut f&uuml;r Technische Physik (ITEP) am Karlsruher Institut f&uuml;r Technologie (KIT) forscht zu Supraleitung, Kryotechnik, Magnet- und Energietechnik. Das Institut für Technische Physik (ITEP) am Karlsruher Institut für Technologie (KIT) forscht zu Supraleitung, Kryotechnik, Magnet- und Energietechnik.",
+  "meta_title": "KIT – Institut für Technische Physik Startseite",
+  "name": "Institut für Technische Physik",
+  "reason": "Methodik: Physik, Institut; Sektor: Energietechnik.",
+  "refs": {
+   "osm": [
+    "node/1163751257"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.itep.kit.edu/"
+ },
+ {
+  "distance_km": 9.9,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-thermische-energietechnik-sicherheit",
+  "lat": 49.093618,
+  "loc_source": "osm",
+  "lon": 8.43566,
+  "meta_title": "KIT - ITES - Startseite",
+  "name": "Institut für Thermische Energietechnik und Sicherheit",
+  "reason": "Methodik: Institut; Sektor: Energietechnik.",
+  "refs": {
+   "osm": [
+    "node/1163750478"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.ites.kit.edu/"
+ },
+ {
+  "description": "company in Heidelberg, Germany",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "institut-fuer-umweltstudien",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Institut für Umweltstudien",
+  "reason": "Methodik: Institut; Sektor: Umweltstudien.",
+  "refs": {
+   "wikidata": [
+    "Q50040165"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.weibel-ness.de/en/index1.html"
+ },
+ {
+  "address": "Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1002808233-S",
+   "10001-1003543627-S",
+   "10001-1003546069-S",
+   "10001-1003612530-S"
+  ],
+  "key": "ionos",
+  "lat": 48.992353,
+  "loc_source": "osm",
+  "lon": 8.402197,
+  "meta_description": "Leistungsstarke & hochverfÃ¼gbare Hosting-LÃ¶sungen aus Europa rund um Domain, Website, Online-Shop, Cloud. 30 Jahre Erfahrung & Top-Kundenservice.",
+  "meta_title": "IONOS | Von Website bis Cloud Â» Digital an Ihrer Seite",
+  "name": "IONOS",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/12324666851"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.ionos.de/"
+ },
+ {
+  "address": "Bannwaldallee 60, 76185 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Solutions for virtual test driving",
+  "distance_km": 2.6,
+  "first_seen": "2026-09-24",
+  "key": "ipg-automotive",
+  "lat": 48.995053,
+  "loc_source": "osm",
+  "lon": 8.373114,
+  "meta_description": "We provide cutting-edge simulation software and consulting services to enable realistic testing and validation of vehicles in a virtual environment.",
+  "meta_title": "IPG Automotive | Solutions for Virtual Vehicle Development",
+  "name": "IPG Automotive",
+  "reason": "Methodik: simulation, software; Sektor: environment.",
+  "refs": {
+   "osm": [
+    "node/12254039405"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.ipg-automotive.com/"
+ },
+ {
+  "address": "Pforzheimer Straße 9, 71229 Leonberg",
+  "city": "Leonberg",
+  "distance_km": 49.7,
+  "first_seen": "2026-09-24",
+  "key": "it-vision-technology",
+  "lat": 48.816389,
+  "loc_source": "osm",
+  "lon": 9.016901,
+  "meta_description": "ITVT ist Ihr Microsoft-Partner für Dynamics 365, ERP- und CRM-Lösungen sowie KI-Transformation. Maßgeschneiderte Business Applications seit 2001.",
+  "meta_title": "Microsoft Dynamics 365 Partner & ERP/CRM-Lösungen | ITVT",
+  "name": "IT Vision Technology GmbH",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "way/26835774"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.itvt.de/"
+ },
+ {
+  "description": "deutscher Hersteller von Montagesystemen für Photovoltaik-Anlagen",
+  "distance_km": 46.6,
+  "first_seen": "2026-09-24",
+  "key": "k2-systems",
+  "lat": 48.77613,
+  "loc_source": "nominatim",
+  "lon": 8.933539,
+  "meta_description": "We develop mounting systems for photovoltaic systems. Our customers benefit from our long­standing international experience and expertise.",
+  "meta_title": "Home - K2 Systems",
+  "name": "K2 Systems",
+  "reason": "Sektor: Photovoltaik.",
+  "refs": {
+   "wikidata": [
+    "Q131931899"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://k2-systems.com/"
+ },
+ {
+  "address": "76131 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 0.8,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "13243-16418448-JB-S"
+  ],
+  "key": "karlsruher-institut-fuer-technologie-kit-campus-nord",
+  "lat": 49.0069955,
+  "loc_source": "ba",
+  "lon": 8.4139873,
+  "name": "Karlsruher Institut für Technologie (KIT) Campus Nord",
+  "reason": "Methodik: KI, Institut, Software.",
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "distance_km": 4.6,
+  "first_seen": "2026-09-24",
+  "key": "keyence",
+  "lat": 48.996712,
+  "loc_source": "osm",
+  "lon": 8.464792,
+  "meta_description": "Sensoren, Messsysteme, Industrielle Bildverarbeitung, Lasermarkierung, Profilprojektoren, Mikroskope & mehr. Jetzt informieren!",
+  "meta_title": "KEYENCE DEUTSCHLAND GmbH",
+  "name": "KEYENCE",
+  "reason": "Methodik: Bildverarbeitung.",
+  "refs": {
+   "osm": [
+    "node/9941250534"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.keyence.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "kit-cdnc-chair-of-dependable-nano-computing",
+  "lat": 49.012734,
+  "loc_source": "osm",
+  "lon": 8.425364,
+  "meta_title": "KIT - Chair of Dependable Nano Computing - Startseite",
+  "name": "KIT-CDNC Chair of Dependable Nano Computing",
+  "reason": "Methodik: Nano, KIT.",
+  "refs": {
+   "osm": [
+    "node/11349271938"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://cdnc.itec.kit.edu/"
+ },
+ {
+  "address": "Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen",
+  "distance_km": 9.8,
+  "first_seen": "2026-09-24",
+  "key": "kit-institut-fuer-angewandte-materialien-energiespeichersysteme-iam-ess",
+  "lat": 49.09309,
+  "loc_source": "seed",
+  "lon": 8.429167,
+  "meta_title": "IAM-ESS | Startseite",
+  "name": "KIT – Institut für Angewandte Materialien – Energiespeichersysteme (IAM-ESS)",
+  "reason": "Methodik: Materialforschung, Materialien, KIT; Sektor: Energiespeichersysteme.",
+  "score": 9,
+  "score_method": "stichwörter",
+  "sources": [
+   "seed"
+  ],
+  "tags": [
+   "Batterien",
+   "Materialforschung",
+   "Energiespeicher"
+  ],
+  "website": "https://www.iam.kit.edu/ess/"
+ },
+ {
+  "description": "KIT Testfield for Energy efficiency and Network stability in large research infrastructures (KITTEN)",
+  "distance_km": 10.1,
+  "first_seen": "2026-09-24",
+  "key": "kitten",
+  "lat": 49.096654,
+  "loc_source": "osm",
+  "lon": 8.428233,
+  "meta_title": "KITTEN - Startseite",
+  "name": "KITTEN",
+  "reason": "Methodik: KIT; Sektor: Energy.",
+  "refs": {
+   "osm": [
+    "node/13026996671"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.kitten.kit.edu/"
+ },
+ {
+  "address": "Frieda-Fromm-Reichmann-Straße 2, 69126 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 47.0,
+  "first_seen": "2026-09-24",
+  "key": "klarsolar",
+  "lat": 49.38771,
+  "loc_source": "osm",
+  "lon": 8.683967,
+  "meta_title": "E.ON Home Deutschland – Erfolgreiche Photovoltaik-Projekte in Ihrer Nähe.",
+  "name": "Klarsolar GmbH",
+  "reason": "Sektor: Klarsolar.",
+  "refs": {
+   "osm": [
+    "node/13000962402"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://klarsolar.de/"
+ },
+ {
+  "address": "Kaiserstraße 94a, 76133 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Dienstleister des Landes BW für Energieeinsatz",
+  "distance_km": 0.4,
+  "first_seen": "2026-09-24",
+  "key": "klimaschutz-energieagentur-baden-wuerttemberg",
+  "lat": 49.009916,
+  "loc_source": "osm",
+  "lon": 8.400688,
+  "meta_description": "Die KEA-BW ist ein unabhängiger Dienstleister und Vordenker rund um Klimaschutz, Energieeinsparung und erneuerbare Energien – vom Land fürs Land.",
+  "meta_title": "KEA Klimaschutz- und Energieagentur Baden-Württemberg GmbH: Klimaschutz- und Energieagentur Baden-Württemberg GmbH",
+  "name": "Klimaschutz- und Energieagentur Baden-Württemberg",
+  "reason": "Sektor: erneuerbare, Klimaschutz, Energieagentur.",
+  "refs": {
+   "osm": [
+    "node/3584193703"
+   ],
+   "wikidata": [
+    "Q1774417"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.kea-bw.de/"
+ },
+ {
+  "address": "Wilhelm-Schickard-Straße 9, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.2,
+  "first_seen": "2026-09-24",
+  "key": "koerber-pharma-consulting",
+  "lat": 49.023023,
+  "loc_source": "osm",
+  "lon": 8.439271,
+  "meta_description": "Als Ihr persönlicher Partner und Ihr Experte für Pharmatechnologie weltweit verfügen wir über ein einzigartiges Angebot aus integrierten Lösungen, die Beratung, Inspektion, Handling, Verpackungsmaschinen und -materialien, Track-&-Trace-Systeme und branchenführende Software umfassen. Bei uns finden Sie alles, was Sie brauchen, um Ihre Produktivitäts- und Geschäftspotenziale zu erschließen.",
+  "meta_title": "Körber Pharma",
+  "name": "Körber Pharma Consulting GmbH",
+  "reason": "Methodik: materialien, Software.",
+  "refs": {
+   "osm": [
+    "node/4161777081"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.koerber-pharma.com/"
+ },
+ {
+  "address": "Heimsheimer Str. 651, 71263 Weil der Stadt",
+  "city": "Weil der Stadt",
+  "distance_km": 39.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003523801-S",
+   "11858-SDE-114946-STA-S",
+   "11858-SDE-120192-STA-S"
+  ],
+  "key": "krannich",
+  "lat": 48.79206,
+  "loc_source": "ba",
+  "lon": 8.8387785,
+  "name": "Krannich Group GmbH",
+  "reason": "Methodik: Data Science, Data; Sektor: Photovoltaik.",
+  "score": 7,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Heimsheimer Str. 65-1, 71263 Weil der Stadt",
+  "city": "Weil der Stadt",
+  "distance_km": 39.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10000-1206574506-S",
+   "10001-1003684183-S",
+   "10001-1003685161-S"
+  ],
+  "key": "krannich-solar",
+  "lat": 48.79206,
+  "loc_source": "ba",
+  "lon": 8.8387785,
+  "name": "Krannich Solar GmbH & Co. KG",
+  "reason": "Methodik: Data Science, Data; Sektor: Solar.",
+  "score": 7,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Fautenbruchstraße 46, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.5,
+  "first_seen": "2026-09-24",
+  "key": "krumedia",
+  "lat": 48.993353,
+  "loc_source": "osm",
+  "lon": 8.407432,
+  "meta_description": "Ihr Softwarespezialist aus Karlsruhe für Energiemanagementsysteme, Smart Grids und Energieeffizienz. Exzellente Informatik für das Energiewesen.",
+  "meta_title": "krumedia GmbH - Energie + Informatik für Energiemanagementsysteme",
+  "name": "krumedia GmbH",
+  "reason": "Methodik: Informatik; Sektor: Smart Grids, Energie.",
+  "refs": {
+   "osm": [
+    "node/3787301352"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.krumedia.de/"
+ },
+ {
+  "description": "Unternehmensgruppe mit Sitz in Heidelberg",
+  "distance_km": 47.3,
+  "first_seen": "2026-09-24",
+  "key": "lab14",
+  "lat": 49.393879,
+  "loc_source": "osm",
+  "lon": 8.673606,
+  "meta_description": "LAB14 is a group of companies specializing in nanofabrication, microfabrication, and surface analysis for industrial and research applications.",
+  "meta_title": "LAB14 | Global Solutions for Micro & Nanotechnology",
+  "name": "Lab14",
+  "reason": "Methodik: Nanotechnology, research.",
+  "refs": {
+   "osm": [
+    "node/10831783230"
+   ],
+   "wikidata": [
+    "Q132797155"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://lab14.group/"
+ },
+ {
+  "address": "Obere Langgasse 40, 67346 Speyer",
+  "city": "Speyer",
+  "distance_km": 34.7,
+  "first_seen": "2026-09-24",
+  "key": "landwirtschaftliche-untersuchungs-forschungsanstalt-speyer-lufa",
+  "lat": 49.318906,
+  "loc_source": "osm",
+  "lon": 8.423632,
+  "meta_title": "LUFA Speyer - 150 Jahre für Landwirtschaft, Umwelt und Verbraucherschutz | Lufa Speyer - Die Landwirtschaftliche Untersuchungs- und Forschungsanstalt (LUFA) Speyer",
+  "name": "Landwirtschaftliche Untersuchungs- und Forschungsanstalt Speyer (LUFA)",
+  "reason": "Methodik: Forschungsanstalt; Sektor: Umwelt.",
+  "refs": {
+   "osm": [
+    "way/111288735"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.lufa-speyer.de/"
+ },
+ {
+  "address": "Edwin-Reis-Straße 6, 8, 10, 68229 Mannheim",
+  "city": "Mannheim",
+  "distance_km": 49.9,
+  "first_seen": "2026-09-24",
+  "key": "limbach-analytics-labor-mannheim",
+  "lat": 49.441438,
+  "loc_source": "osm",
+  "lon": 8.573153,
+  "name": "Limbach Analytics GmbH - Labor Mannheim",
+  "reason": "Methodik: Analytics.",
+  "refs": {
+   "osm": [
+    "way/98626253"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "address": "Großoberfeld 3, 76135 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.6,
+  "first_seen": "2026-09-24",
+  "key": "lubw",
+  "lat": 48.98325,
+  "loc_source": "osm",
+  "lon": 8.370539,
+  "meta_title": "Startseite - Landesanstalt für Umwelt Baden-Württemberg",
+  "name": "LUBW",
+  "reason": "Methodik: Forschungseinrichtung; Sektor: Umwelt.",
+  "refs": {
+   "osm": [
+    "way/1391833061"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.lubw.baden-wuerttemberg.de/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 2.9,
+  "first_seen": "2026-09-24",
+  "key": "macio",
+  "lat": 49.020465,
+  "loc_source": "osm",
+  "lon": 8.437727,
+  "meta_description": "Cloudflight, führendes Softwareentwicklungsunternehmen und KI-Experte, und macio GmbH, Spezialist für Embedded Software Engineering und Entwicklungspartner für intuitive individuelle Human-Machine-Interfaces (HMI), haben ihre Fähigkeiten gebündelt.",
+  "meta_title": "Macio | Cloudflight",
+  "name": "macio",
+  "reason": "Methodik: KI, Softwareentwicklungsunternehmen.",
+  "refs": {
+   "osm": [
+    "node/5003469014"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.macio.de/"
+ },
+ {
+  "address": "Industriestraße 2, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 10.6,
+  "first_seen": "2026-09-24",
+  "key": "mall-umweltsysteme",
+  "lat": 48.914149,
+  "loc_source": "osm",
+  "lon": 8.368448,
+  "meta_description": "Mall - Einer der bedeutendsten Anbieter für Regenwasserbewirtschaftung, Abscheider, Kläranlagen, Pumpen- und Anlagentechnik und erneuerbare Energien.",
+  "meta_title": "Mall Umweltsysteme - Ihr Experte für Betonfertigteile",
+  "name": "mall Umweltsysteme",
+  "reason": "Sektor: erneuerbare, Energien, Umweltsysteme.",
+  "refs": {
+   "osm": [
+    "node/11970892263"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.mall.info/"
+ },
+ {
+  "address": "Saupfercheckweg 1, 69117 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 47.8,
+  "first_seen": "2026-09-24",
+  "key": "max-planck-institut-fuer-kernphysik",
+  "lat": 49.387827,
+  "loc_source": "osm",
+  "lon": 8.708182,
+  "meta_description": "Das MPI für Kernphysik betreibt experimentelle und theoretische Grundlagenforschung auf den Gebieten der Astroteilchenphysik und der Quantendynamik.",
+  "meta_title": "Startseite: Max-Planck-Institut für Kernphysik",
+  "name": "Max-Planck-Institut für Kernphysik",
+  "reason": "Methodik: Kernphysik, Institut.",
+  "refs": {
+   "osm": [
+    "way/40025436"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.mpi-hd.mpg.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 20, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.8,
+  "first_seen": "2026-09-24",
+  "key": "medicalvalues",
+  "lat": 49.012592,
+  "loc_source": "osm",
+  "lon": 8.427289,
+  "meta_description": "Artificial Intelligence for medical diagnostics. Bring your diagnostics to the next level with medicalvalues - in your laboratory or clinic.",
+  "meta_title": "Home - medicalvalues",
+  "name": "medicalvalues GmbH",
+  "reason": "Methodik: Artificial Intelligence.",
+  "refs": {
+   "osm": [
+    "node/11251960161"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://medicalvalues.de/"
+ },
+ {
+  "address": "Karlsruher Straße 88, 76139 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.8,
+  "first_seen": "2026-09-24",
+  "key": "mehrwerk",
+  "lat": 49.024068,
+  "loc_source": "osm",
+  "lon": 8.448584,
+  "meta_description": "Softwarebasierte Geschäftsprozessoptimierung auf Basis marktführender Standardsoftware-Komponenten. Unsere cloudbasierte Process Mining Plattform mpmX ist weltweit bei namhaften Kunden aus verschiedenen Branchen erfolgreich im Einsatz. Mit mpmX verfolgen wir die Vision, Geschäftsprozesse intelligent, datengetrieben und automatisiert zu optimieren. Mithilfe unserer bewährten Methodik, die holistisc",
+  "meta_title": "Startseite - MEHRWERK",
+  "name": "Mehrwerk",
+  "reason": "Methodik: datengetrieben, Softwarebasierte, Geschäftsprozessoptimierung.",
+  "refs": {
+   "osm": [
+    "node/4973749182"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.mehrwerk-ag.de/"
+ },
+ {
+  "address": "Zeppelinstraße 21, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 44.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "13151-1633950-1-S"
+  ],
+  "key": "mercedes-benz",
+  "lat": 49.366225,
+  "loc_source": "osm",
+  "lon": 8.674677,
+  "name": "Mercedes Benz",
+  "reason": "Methodik: Data Engineering, Data Science, Data, Softwareentwicklung.",
+  "refs": {
+   "osm": [
+    "way/340583587",
+    "way/68880172"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma",
+   "Werk/Produktion"
+  ]
+ },
+ {
+  "description": "Deutsches Softwareunternehmen",
+  "distance_km": 37.2,
+  "first_seen": "2026-09-24",
+  "key": "metaphacts",
+  "lat": 49.3,
+  "loc_source": "wikidata_hq",
+  "lon": 8.65,
+  "meta_description": "metaphactory defines, governs and connects business meaning across distributed data environments. It combines a robust semantic modeling and governance framework, virtual knowledge graph access, and AI-native capabilities, creating a governed semantic intelligence layer that bridges business and IT.",
+  "meta_title": "metaphactory",
+  "name": "metaphacts",
+  "reason": "Methodik: AI, data, modeling, Softwareunternehmen; Sektor: environments.",
+  "refs": {
+   "wikidata": [
+    "Q22132500"
+   ]
+  },
+  "score": 6,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.metaphacts.com/"
+ },
+ {
+  "address": "Kurfürsten-Anlage 21, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.9,
+  "first_seen": "2026-09-24",
+  "key": "mint-medical",
+  "lat": 49.405909,
+  "loc_source": "osm",
+  "lon": 8.686632,
+  "meta_description": "Assisted data capture in radiology through context-knowledge in an easy-to-use software – leave no data behind on the image with mint Lesion™",
+  "meta_title": "Mint Medical: developer of the leading radiological software solution - Mint Medical GmbH",
+  "name": "Mint Medical GmbH",
+  "reason": "Methodik: data, software.",
+  "refs": {
+   "osm": [
+    "node/2415632164"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.mint-medical.com/"
+ },
+ {
+  "address": "Carl-Benz-Straße 1, 74889 Sinsheim",
+  "city": "Sinsheim",
+  "distance_km": 43.1,
+  "first_seen": "2026-09-24",
+  "key": "ml-eingabsysteme",
+  "lat": 49.2501,
+  "loc_source": "osm",
+  "lon": 8.863608,
+  "meta_description": "ML Eingabesysteme verändert Ihre Arbeitsweise. Wir sind Ihr Partner im Bereich Eingabesysteme, denn als vor mehr als 25 Jahren die ersten Gehversuche im Bereich der Folientastaturen gemacht wurden.",
+  "meta_title": "Kundenspezifische Folientastaturen und Touchsysteme - ML Eingabesysteme GmbH",
+  "name": "ML Eingabsysteme GmbH",
+  "reason": "Methodik: ML.",
+  "refs": {
+   "osm": [
+    "way/242793297"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.ml-eingabesysteme.de/"
+ },
+ {
+  "address": "Ziegelhausener Straße 2, 68775 Ketsch",
+  "city": "Ketsch",
+  "distance_km": 41.3,
+  "first_seen": "2026-09-24",
+  "key": "msk-energie",
+  "lat": 49.367066,
+  "loc_source": "osm",
+  "lon": 8.54105,
+  "meta_title": "MSK – Energie GmbH – Energieversorgung neu gedacht, nachhaltig gelöst",
+  "name": "MSK Energie GmbH",
+  "reason": "Sektor: Energie, nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/12335036633"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://ms-klee.de/"
+ },
+ {
+  "address": "Am Sandfeld 15a, 76149 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 4.1,
+  "first_seen": "2026-09-24",
+  "key": "mvz-labor-diagnostik-karlsruhe",
+  "lat": 49.043076,
+  "loc_source": "osm",
+  "lon": 8.392592,
+  "meta_description": "Bioscientia MVZ Labor: medizinisch-diagnostisches Institut für Labor-Analysen mit modernster Technologie. Persönlich. Kompetent. Nachhaltig.",
+  "meta_title": "Labor Karlsruhe",
+  "name": "MVZ Labor Diagnostik Karlsruhe GmbH",
+  "reason": "Methodik: Institut; Sektor: Nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/6283375293"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.labor-karlsruhe.de/"
+ },
+ {
+  "address": "Albert-Nestler-Straße 17, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.2,
+  "first_seen": "2026-09-24",
+  "key": "nanofocus",
+  "lat": 49.021187,
+  "loc_source": "osm",
+  "lon": 8.441495,
+  "meta_description": "Optische 3D-Messtechnik von NanoFocus: Die 3D-Messsysteme µsurf, µscan und µsprint ermöglichen die sekundenschnelle und zuverlässige Oberflächenmessung von Rauheit, Mikrogeometrie, Ebenheit, Topografie, Schichtdicke sowie Mikro- und Nanovolumen. Die leistungsfähigen Softwareprodukte von NanoFocus ergänzen den Messvorgang um Analysereports nach aktuellen ISO-Normen, wie etwa ISO 25178, bis hin zur ",
+  "meta_title": "NanoFocus: Oberflächenmesstechnik – Optische 3D-Messtechnik",
+  "name": "NanoFocus",
+  "reason": "Methodik: NanoFocus, Softwareprodukte.",
+  "refs": {
+   "osm": [
+    "node/4281094363"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.nanofocus.de/"
+ },
+ {
+  "address": "Kurfürsten-Anlage 36, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.9,
+  "first_seen": "2026-09-24",
+  "key": "nec-laboratories-europe",
+  "lat": 49.40612,
+  "loc_source": "osm",
+  "lon": 8.68487,
+  "meta_description": "NEC Laboratories Europe is NEC's European AI technology hub, conducting core and applied research in AI, networks, security, and systems to create technologies for business and society.",
+  "meta_title": "Home: NEC Laboratories Europe",
+  "name": "NEC Laboratories Europe",
+  "reason": "Methodik: AI, research.",
+  "refs": {
+   "osm": [
+    "node/8074539032"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.neclab.eu/"
+ },
+ {
+  "address": "Rüppurrer Straße 1a, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "deutsches Software-Unternehmen, Hersteller von CD- und DVD-Brenner-Software",
+  "distance_km": 0.6,
+  "first_seen": "2026-09-24",
+  "industry": "Softwareindustrie",
+  "key": "nero",
+  "lat": 49.005118,
+  "loc_source": "osm",
+  "lon": 8.411243,
+  "meta_description": "Nero Platinum - The complete solution for your digital projects. Over 20 included programs turn your PC into a powerful multimedia centre. Whether it's backup, video editing, burning, PC tuning or brand new AI applications, you'll find the right software here. Nero Software has been the competent partner for your multimedia projects for 30 years.",
+  "meta_title": "Nero Software",
+  "name": "Nero AG",
+  "reason": "Methodik: AI, Softwareindustrie.",
+  "refs": {
+   "osm": [
+    "node/4004213516"
+   ],
+   "wikidata": [
+    "Q705891"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.nero.com/"
+ },
+ {
+  "address": "Zeppelinstraße 15-19, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 7.3,
+  "first_seen": "2026-09-24",
+  "key": "netze-bw",
+  "lat": 48.944159,
+  "loc_source": "osm",
+  "lon": 8.376299,
+  "name": "Netze BW",
+  "reason": "Sektor: Netze.",
+  "refs": {
+   "osm": [
+    "node/10927067007",
+    "node/4348497735"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "distance_km": 5.6,
+  "first_seen": "2026-09-24",
+  "key": "netze-bw-betriebsstelle-karlsruhe",
+  "lat": 49.027546,
+  "loc_source": "osm",
+  "lon": 8.47396,
+  "name": "Netze BW Betriebsstelle Karlsruhe",
+  "reason": "Sektor: Netze.",
+  "refs": {
+   "osm": [
+    "node/4730839095"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "description": "regionaler Verteilnetzbetreiber in Baden-Württemberg",
+  "distance_km": 8.2,
+  "first_seen": "2026-09-24",
+  "industry": "Elektrizitätswirtschaft",
+  "key": "netze-suedwest",
+  "lat": 48.933333,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Netze Südwest ist der größte Gasverteilnetzbetreiber unter der Landesregulierungsbehörde Baden-Württemberg.",
+  "meta_title": "Home - Netze-Gesellschaft Südwest mbH",
+  "name": "Netze-Gesellschaft Südwest",
+  "reason": "Sektor: Netze.",
+  "refs": {
+   "wikidata": [
+    "Q106571703"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.netze-suedwest.de/"
+ },
+ {
+  "address": "Lorenzstr. 12, 76135 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003689162-S"
+  ],
+  "key": "nodeline",
+  "lat": 49.002993,
+  "loc_source": "ba",
+  "lon": 8.3831175,
+  "name": "Nodeline GmbH",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "69115 Heidelberg, Neckar",
+  "city": "Heidelberg, Neckar",
+  "distance_km": 48.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "13644-120137-S",
+   "13644-150972-S"
+  ],
+  "key": "novotrend",
+  "lat": 49.4045988,
+  "loc_source": "ba",
+  "lon": 8.6809657,
+  "name": "Novotrend",
+  "reason": "Methodik: Physiker, Informatiker.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 8.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "19913-3000711789682401-S",
+   "19913-3014801789077601-S",
+   "19913-3042021790028001-S",
+   "19913-3042981790114401-S",
+   "19913-3044801789423201-S",
+   "19913-3045381789509601-S",
+   "19913-3045491789509601-S",
+   "19913-3045601789509601-S",
+   "19913-3048051790200801-S",
+   "19913-3056331790114401-S",
+   "19913-3061651790200801-S",
+   "19913-3065481789682400-S"
+  ],
+  "key": "ntt-data-deutschland",
+  "lat": 48.9299217,
+  "loc_source": "ba",
+  "lon": 8.4036437,
+  "name": "NTT DATA Deutschland SE",
+  "reason": "Methodik: AI, Analytics, DATA.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Friedrich-Ebert-Anlage 27, 69117 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "opotoc",
+  "lat": 49.40838,
+  "loc_source": "osm",
+  "lon": 8.69819,
+  "meta_description": "Unabhängige KI- und Open-Source-Strategieberatung für regulierte Branchen. KI strategisch verankern: technologisch belastbar, organisatorisch skalierbar.",
+  "meta_title": "KI-Strategieberatung Heidelberg — Alexander Hendorf",
+  "name": "opotoc GmbH",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/11533956881"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://opotoc.com/"
+ },
+ {
+  "description": "company in Heidelberg, Germany",
+  "distance_km": 46.1,
+  "first_seen": "2026-09-24",
+  "key": "ovm-ech-consulting-engineers-germany",
+  "lat": 49.385505,
+  "loc_source": "wikidata",
+  "lon": 8.660946,
+  "meta_description": "OVM-ECH, Komplettlösungen für komplexe Projekte; unsere Leistungsbereiche sind Energie, Umwelt, Kommunikation, Infrastruktur und Gebäude",
+  "meta_title": "Oskar von Miller - Energieconsulting Heidelberg der Ingenieurverbund",
+  "name": "OVM/ECH Consulting Engineers (Germany)",
+  "reason": "Sektor: Energieconsulting, Umwelt.",
+  "refs": {
+   "wikidata": [
+    "Q77081304"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.ech-ovm.de/"
+ },
+ {
+  "distance_km": 47.4,
+  "first_seen": "2026-09-24",
+  "key": "paretos",
+  "lat": 49.394138,
+  "loc_source": "osm",
+  "lon": 8.673942,
+  "meta_description": "With paretos Agentic AI, companies automate Planning & Operations, make smarter decisions and improve service levels – made in Germany",
+  "meta_title": "paretos – Agentic AI for smarter decisions in Planning, Finance, Supply Chain & Operations",
+  "name": "Paretos",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/10831783235"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://paretos.com/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "path-to-zero",
+  "lat": 49.013269,
+  "loc_source": "osm",
+  "lon": 8.425346,
+  "meta_description": "Zukunftssichere Energiestrategien - optimale Balance aus Capex, Opex und Emissionen mit einem adaptiven Transformationsplan von Path to Zero.",
+  "meta_title": "Zukunftssichere Energiestrategien - Path to Zero",
+  "name": "Path to Zero GmbH",
+  "reason": "Sektor: Emissionen, Energiestrategien.",
+  "refs": {
+   "osm": [
+    "node/11349271912"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://pathtozero.de/"
+ },
+ {
+  "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
+  "key": "perspix-ai",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Perspix scores every bid against your specification, line by line — with the reasoning, the source, and the audit trail attached. Sourcing without friction.",
+  "meta_title": "Perspix.ai — Tender evaluation, in an afternoon. Defensible, by default.",
+  "name": "Perspix.ai",
+  "reason": "Methodik: künstliche Intelligenz, Perspix.ai, Softwareindustrie.",
+  "refs": {
+   "wikidata": [
+    "Q139972663"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.perspix.ai/"
+ },
+ {
+  "address": "Oskar-von-Miller-Straße 2, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 30.7,
+  "first_seen": "2026-09-24",
+  "key": "pfalzwerke-netz-landau",
+  "lat": 49.211714,
+  "loc_source": "osm",
+  "lon": 8.122231,
+  "meta_description": "Ihre Energieversorgung – zuverlässig, zukunftssicher und innovativ. Wir bieten Netzdienstleistungen für Strom-, Gas- und Wassernetze.",
+  "meta_title": "Ihr Netzbetreiber der Pfalz, Saarpfalz-Kreis | Pfalzwerke Netz",
+  "name": "Pfalzwerke Netz AG Landau",
+  "reason": "Sektor: Netzbetreiber, Energieversorgung.",
+  "refs": {
+   "osm": [
+    "node/5717687160"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.pfalzwerke-netz.de/"
+ },
+ {
+  "address": "Albert-Nestler-Straße 8, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.1,
+  "first_seen": "2026-09-24",
+  "key": "phytonics",
+  "lat": 49.020083,
+  "loc_source": "osm",
+  "lon": 8.441192,
+  "meta_description": "Blendung durch Solarmodule? Phytonics® Anti-Blend-Folie reduziert Reflexionen um 97 % – nachrüstbar auf jede PV-Anlage. Für Hausdächer, Solarparks und Flughäfen. Jetzt informieren!",
+  "meta_title": "Anti-Blend-Folie für Solarmodule – Blendung vermeiden – Phytonics® anti-glare solutions",
+  "name": "phytonics",
+  "reason": "Sektor: Solarmodule.",
+  "refs": {
+   "osm": [
+    "node/14138349580"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.phytonics.com/"
+ },
+ {
+  "address": "Händelstraße 10, 76327 Pfinztal",
+  "city": "Pfinztal",
+  "distance_km": 9.8,
+  "first_seen": "2026-09-24",
+  "key": "pickert",
+  "lat": 49.004273,
+  "loc_source": "osm",
+  "lon": 8.537369,
+  "meta_description": "Erst der Prozess, dann die Technik. Pickert begleitet den Mittelstand von der Prozessanalyse bis zur nachhaltigen KI-Implementierung.",
+  "meta_title": "Prozessautomatisierung mit KI | Automatisierungsexperten | Pickert",
+  "name": "Pickert GmbH",
+  "reason": "Methodik: KI; Sektor: nachhaltigen.",
+  "refs": {
+   "osm": [
+    "way/242833420"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.pickert.gmbh/"
+ },
+ {
+  "address": "Gartenstraße 36 A, 76689 Karlsdorf-Neuthard",
+  "city": "Karlsdorf-Neuthard",
+  "distance_km": 15.5,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1001699133-S"
+  ],
+  "key": "planville",
+  "lat": 49.1236254,
+  "loc_source": "ba",
+  "lon": 8.5195886,
+  "name": "Planville GmbH",
+  "reason": "Sektor: PV.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "distance_km": 3.7,
+  "first_seen": "2026-09-24",
+  "key": "polygon",
+  "lat": 48.981116,
+  "loc_source": "osm",
+  "lon": 8.371361,
+  "meta_description": "Polygon work with businesses and homeowners to restore their properties and possessions after a disaster. We're experts in damage control, with our specialists using industry leading technology to mitigate the effects of water, climate and fire damage. Discover how our 60 years' worth of experience can help you.",
+  "meta_title": "Start - Polygon Group",
+  "name": "polygon",
+  "reason": "Sektor: climate.",
+  "refs": {
+   "osm": [
+    "node/10544314453"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.polygongroup.com/"
+ },
+ {
+  "address": "Carl-Benz-Straße 1, 76761 Rülzheim",
+  "city": "Rülzheim",
+  "distance_km": 19.3,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1001597738-S"
+  ],
+  "key": "promedia-itk",
+  "lat": 49.1660162,
+  "loc_source": "ba",
+  "lon": 8.2993149,
+  "name": "Promedia ITK GmbH",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "description": "German software developer",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "Softwareindustrie",
+  "key": "prosoniq",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Zynaptiq - Audio software based on artificial intelligence technology.",
+  "meta_title": "zynaptiq: news",
+  "name": "Prosoniq",
+  "reason": "Methodik: artificial intelligence, Softwareindustrie.",
+  "refs": {
+   "wikidata": [
+    "Q7250680"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.prosoniq.com/"
+ },
+ {
+  "address": "Greschbachstraße 12, 76229 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 6.0,
+  "first_seen": "2026-09-24",
+  "key": "psi-gridconnect",
+  "lat": 49.032814,
+  "loc_source": "osm",
+  "lon": 8.475207,
+  "meta_description": "Optimieren Sie Ihre Prozesse mit PSI-Software – nachhaltig, effizient und intelligent in Energieversorgung, Produktion und Logistik weltweit.",
+  "meta_title": "PSI Software | Nachhaltige Energieversorgung, Produktion und Logistik",
+  "name": "PSI GridConnect",
+  "reason": "Methodik: Software; Sektor: Energieversorgung, Nachhaltige.",
+  "refs": {
+   "osm": [
+    "node/7160183505"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.psigridconnect.com/"
+ },
+ {
+  "address": "Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 0.8,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003349778-S",
+   "10001-1003349792-S"
+  ],
+  "key": "pta",
+  "lat": 49.0069955,
+  "loc_source": "ba",
+  "lon": 8.4139873,
+  "name": "PTA GmbH",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Stumpfstraße 1, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.9,
+  "first_seen": "2026-09-24",
+  "key": "ptv-logistics",
+  "lat": 49.013512,
+  "loc_source": "osm",
+  "lon": 8.428093,
+  "meta_title": "Routing, optimization and delivery management software | PTV Logistics",
+  "name": "PTV Logistics GmbH",
+  "reason": "Methodik: software, optimization.",
+  "refs": {
+   "osm": [
+    "node/11270910756"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.ptvlogistics.com/"
+ },
+ {
+  "address": "Christinstraße 17, 75177 Pforzheim",
+  "city": "Pforzheim",
+  "description": "Professional Coating - pvtech.de",
+  "distance_km": 25.2,
+  "first_seen": "2026-09-24",
+  "key": "pv-tech",
+  "lat": 48.908898,
+  "loc_source": "osm",
+  "lon": 8.714708,
+  "meta_title": "PVTech – High Performance Coating",
+  "name": "PV Tech GmbH",
+  "reason": "Sektor: PV.",
+  "refs": {
+   "osm": [
+    "node/4956361463"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://www.pvtech.de/"
+ },
+ {
+  "address": "Gustav-Struve-Allee 5, 68753 Waghäusel",
+  "city": "Waghäusel",
+  "distance_km": 28.3,
+  "first_seen": "2026-09-24",
+  "key": "pvestate",
+  "lat": 49.251409,
+  "loc_source": "osm",
+  "lon": 8.508892,
+  "meta_title": "PV Kraftwerke - PVESTATE",
+  "name": "PVEstate GmbH",
+  "reason": "Sektor: PV.",
+  "refs": {
+   "osm": [
+    "node/6002867251"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://pvestate.de/"
+ },
+ {
+  "address": "Gustav-Struve-Allee 5, 68753 Waghäusel",
+  "city": "Waghäusel",
+  "distance_km": 28.3,
+  "first_seen": "2026-09-24",
+  "key": "pvestate-verwaltungsgesellschaft",
+  "lat": 49.251399,
+  "loc_source": "osm",
+  "lon": 8.508977,
+  "meta_title": "PV Kraftwerke - PVESTATE",
+  "name": "PVEstate Verwaltungsgesellschaft mbH",
+  "reason": "Sektor: PV.",
+  "refs": {
+   "osm": [
+    "node/8931078280"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://pvestate.de/"
+ },
+ {
+  "distance_km": 48.5,
+  "first_seen": "2026-09-24",
+  "key": "quality-match",
+  "lat": 49.401053,
+  "loc_source": "osm",
+  "lon": 8.689526,
+  "meta_description": "Quality Match verifies and improves the quality of annotated vision-based datasets by applying quantitative metrics with statistical significance. We provide actionable insights in real-time. Our optimized datasets create better machine learning models which lead to better product performance.",
+  "meta_title": "Quality Match",
+  "name": "Quality Match",
+  "reason": "Methodik: machine learning.",
+  "refs": {
+   "osm": [
+    "node/11039453930"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.quality-match.com/"
+ },
+ {
+  "distance_km": 47.3,
+  "first_seen": "2026-09-24",
+  "key": "rabbitai",
+  "lat": 49.393807,
+  "loc_source": "osm",
+  "lon": 8.673581,
+  "meta_description": "Game-Changing Training Data for Computer Vision Engineers. Highly-accurate real-world ground truth capturing solution for reliable & safe AI.",
+  "meta_title": "rabbitAI - Reliable AI through High-Quality Training Data",
+  "name": "rabbitAI",
+  "reason": "Methodik: AI, Computer Vision, Data.",
+  "refs": {
+   "osm": [
+    "node/10831783228"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://rabbitai.de/"
+ },
+ {
+  "distance_km": 6.4,
+  "first_seen": "2026-09-24",
+  "key": "rbs-wave",
+  "lat": 48.949123,
+  "loc_source": "osm",
+  "lon": 8.40764,
+  "meta_description": "Zukunftsfähige Versorgungs­infrastruktur engineered by RBS wave: Nachhaltige Versorgungslösungen für Energie, Wasser und Infrastruktur.",
+  "meta_title": "RBS wave » Ihr Partner für Energie, Wasser und Infrastruktur",
+  "name": "RBS wave",
+  "reason": "Sektor: Energie, Nachhaltige.",
+  "refs": {
+   "osm": [
+    "node/10820446261"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Ingenieurbüro"
+  ],
+  "website": "https://www.rbs-wave.de/"
+ },
+ {
+  "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "renumics",
+  "lat": 49.012735,
+  "loc_source": "osm",
+  "lon": 8.42526,
+  "meta_description": "Renumics - Agentic AI for Engineering Teams",
+  "meta_title": "Renumics",
+  "name": "Renumics GmbH",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/11349271937"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://renumics.com/"
+ },
+ {
+  "address": "Im Bühl 10, Weissach",
+  "city": "Weissach",
+  "distance_km": 42.6,
+  "first_seen": "2026-09-24",
+  "key": "revotec-energy",
+  "lat": 48.823917,
+  "loc_source": "osm",
+  "lon": 8.914558,
+  "meta_description": "Führender Photovoltaik-Spezialist für Unternehmen ✓ Beratung ✓ Planung ✓ Installation » Mehr zu Eigenstrom & Ihrem Dach unter ☎ 07044 905 6820",
+  "meta_title": "Photovoltaik für Industrie & Gewerbe - revotec energy",
+  "name": "revotec energy GmbH",
+  "reason": "Sektor: Photovoltaik, energy.",
+  "refs": {
+   "osm": [
+    "way/778170477"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://revotec-energy.de/"
+ },
+ {
+  "distance_km": 49.7,
+  "first_seen": "2026-09-24",
+  "key": "rewire",
+  "lat": 49.410808,
+  "loc_source": "osm",
+  "lon": 8.695548,
+  "meta_description": "Rewire operationalizes every aspect of Artificial Intelligence, from machine learning to Gen AI, to create AI-native organizations.",
+  "meta_title": "Rewire | Data & AI Consultancy",
+  "name": "Rewire",
+  "reason": "Methodik: machine learning, Artificial Intelligence, AI, Data.",
+  "refs": {
+   "osm": [
+    "node/12339020034"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://rewirenow.com/"
+ },
+ {
+  "distance_km": 5.3,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "15986-REF284268M-49ede5f-S",
+   "15986-REF289080A-92a065d-S",
+   "15986-REF290999O-54a5d12-S",
+   "15986-REF291272K-f4e7466-S",
+   "15986-REF292117B-cc77f8b-S",
+   "15986-REF293881R-32fd3d7-S",
+   "15986-REF294182K-d313c26-S",
+   "15986-REF294336H-a94ff12-S",
+   "15986-REF294467J-a27ea4e-S",
+   "15986-REF294932S-53f2a87-S",
+   "15986-REF294949Y-168d23d-S",
+   "15986-REF295672C-d75a959-S",
+   "15986-REF296008N-171cc98-S",
+   "15986-REF296289E-858b55e-S",
+   "15986-REF296490W-e6a732c-S"
+  ],
+  "key": "robert-bosch",
+  "lat": 49.018267,
+  "loc_source": "osm",
+  "lon": 8.473674,
+  "name": "Robert Bosch GmbH",
+  "reason": "Methodik: KI, Deep Learning, Data Engineering, Ersatzmodell, Masterarbeit, Data Analytics, Data, Simulation, Modellierung, Numerische, Werkstoffen, Physikalisches, Prognose.",
+  "refs": {
+   "osm": [
+    "relation/8365597"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ]
+ },
+ {
+  "distance_km": 24.5,
+  "first_seen": "2026-09-24",
+  "key": "ronotic-solare-stadtbeleuchtung",
+  "lat": 49.049112,
+  "loc_source": "osm",
+  "lon": 8.732093,
+  "name": "RONOTIC GmbH - Solare Stadtbeleuchtung",
+  "reason": "Sektor: Solare.",
+  "refs": {
+   "osm": [
+    "node/3919099715"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "ruprecht-karls-universitaet-heidelberg-institut-fuer-theoretische-astrophysik",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Theoretische Astrophysik",
+  "reason": "Methodik: Astrophysik, Institut.",
+  "refs": {
+   "wikidata": [
+    "Q101270101"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "ruprecht-karls-universitaet-heidelberg-institut-fuer-umweltphysik",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universität Heidelberg Institut für Umweltphysik",
+  "reason": "Methodik: Umweltphysik, Institut; Sektor: Umweltphysik.",
+  "refs": {
+   "wikidata": [
+    "Q101270107"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "ruprecht-karls-universitaet-heidelberg-kirchhoff-institut-fuer-physik",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Kirchhoff-Institut für Physik",
+  "reason": "Methodik: Physik, Institut.",
+  "refs": {
+   "wikidata": [
+    "Q101270128"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "ruprecht-karls-universitaet-heidelberg-physikalisches-institut",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Ruprecht Karls Universität Heidelberg Physikalisches Institut",
+  "reason": "Methodik: Physikalisches, Institut.",
+  "refs": {
+   "wikidata": [
+    "Q101271128"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "ruprecht-karls-universitat-heidelberg-physikalisch-chemisches-institut",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Ruprecht-Karls-Universitat Heidelberg Physikalisch-Chemisches Institut",
+  "reason": "Methodik: Physikalisch, Institut.",
+  "refs": {
+   "wikidata": [
+    "Q101426630"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "address": "Vincenz-Prießnitz-Straße 1, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "deutscher Softwarehersteller",
+  "distance_km": 1.6,
+  "first_seen": "2026-09-24",
+  "industry": "Softwareindustrie; Softwareentwicklung",
+  "job_refs": [
+   "11070-1633357-1-S"
+  ],
+  "key": "sap",
+  "lat": 49.013053,
+  "loc_source": "osm",
+  "lon": 8.424157,
+  "name": "SAP SE",
+  "reason": "Methodik: Natural Language, Softwareindustrie.",
+  "refs": {
+   "osm": [
+    "node/2472329180",
+    "way/238363150"
+   ],
+   "wikidata": [
+    "Q552581"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.sap.com/"
+ },
+ {
+  "address": "Spitalstr. 2, 76356 Weingarten (Baden)",
+  "city": "Weingarten (Baden)",
+  "distance_km": 10.2,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003016888-S"
+  ],
+  "key": "sav-pflegeleicht",
+  "lat": 49.0558989,
+  "loc_source": "ba",
+  "lon": 8.5217845,
+  "name": "SAV Pflegeleicht GmbH",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Schöckstraße 1, 76534 Baden-Baden",
+  "city": "Baden-Baden",
+  "description": "Konzernobergesellschaft der Schöck-Gruppe",
+  "distance_km": 35.7,
+  "first_seen": "2026-09-24",
+  "key": "schoeck",
+  "lat": 48.733498,
+  "loc_source": "osm",
+  "lon": 8.149259,
+  "meta_description": "Schöck develops and manufactures building components with outstanding building physics benefits – thermal break elements for balconies and facades, impact sound insulation for staircases, and reinforcement technology for concrete construction. Over 60 years of experience.",
+  "meta_title": "Schöck – Innovative Building Components for Thermal Insulation, Sound Insulation & Reinforcement Technology | Schöck Bauteile GmbH",
+  "name": "Schöck",
+  "reason": "Methodik: Reinforcement, physics.",
+  "refs": {
+   "osm": [
+    "node/9683069364",
+    "way/1053656530"
+   ],
+   "wikidata": [
+    "Q1521690"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma",
+   "Werk/Produktion"
+  ],
+  "website": "https://www.schoeck.com/"
+ },
+ {
+  "address": "Freinsheimer Straße 2, 68219 Mannheim",
+  "city": "Mannheim",
+  "distance_km": 49.2,
+  "first_seen": "2026-09-24",
+  "key": "schuler-konstruktionen",
+  "lat": 49.443362,
+  "loc_source": "osm",
+  "lon": 8.511432,
+  "meta_description": "Engineering für die Industrie: SCHULER unterstützt Sie bei Entwicklung, Konstruktion, Berechnung und Simulation – mit über 300 Spezialisten bundesweit.",
+  "meta_title": "Konstruktion & Engineering | SCHULER Konstruktionen",
+  "name": "Schuler Konstruktionen",
+  "reason": "Methodik: Simulation.",
+  "refs": {
+   "osm": [
+    "node/12076795705"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Ingenieurbüro"
+  ],
+  "website": "https://www.schuler-konstruktionen.de/"
+ },
+ {
+  "address": "Industriestraße 10",
+  "distance_km": 42.3,
+  "first_seen": "2026-09-24",
+  "key": "schwepa-schwarzwaelder-edelputzwerk",
+  "lat": 48.676828,
+  "loc_source": "osm",
+  "lon": 8.116276,
+  "meta_description": "Vom klassischen Innenputz über die Gestaltung von Lebensräumen bis hin zur energiesparenden Wärmedämmung. Schwepa bietet dem Verarbeiter nachhaltige Lösungen für die stetig anwachsenden Herausforderungen im Hochbau.",
+  "meta_title": "Schwepa - Schwarzwälder Edelputzwerk GmbH",
+  "name": "Schwepa Schwarzwälder Edelputzwerk",
+  "reason": "Sektor: energiesparenden, nachhaltige.",
+  "refs": {
+   "osm": [
+    "node/12895741360"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.schwepa.com/"
+ },
+ {
+  "address": "Rudolf-Diesel-Str. 21A, 67454 Haßloch, Pfalz",
+  "city": "Haßloch, Pfalz",
+  "distance_km": 42.5,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003693552-S"
+  ],
+  "key": "semmelweiss",
+  "lat": 49.376187,
+  "loc_source": "ba",
+  "lon": 8.254332,
+  "name": "SEMMELweiss Holding GmbH",
+  "reason": "Sektor: Photovoltaik.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "description": "deutsches Unternehmen der Antriebstechnik",
+  "distance_km": 50.0,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "12117-YF-46691-YF-S",
+   "19470-471378584-S"
+  ],
+  "key": "sew-eurodrive",
+  "lat": 49.449916,
+  "loc_source": "osm",
+  "lon": 8.52209,
+  "name": "SEW-EURODRIVE GmbH & Co KG",
+  "reason": "Methodik: AI, Modellierung.",
+  "refs": {
+   "osm": [
+    "node/2881226175",
+    "node/503028592",
+    "way/692196573"
+   ],
+   "wikidata": [
+    "Q321205"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma",
+   "Werk/Produktion"
+  ],
+  "website": "http://www.sew-eurodrive.de/"
+ },
+ {
+  "address": "Lönneberga-Straße 2, 67346 Speyer",
+  "city": "Speyer",
+  "distance_km": 32.2,
+  "first_seen": "2026-09-24",
+  "key": "shcomputersysteme",
+  "lat": 49.292422,
+  "loc_source": "osm",
+  "lon": 8.47827,
+  "meta_description": "SHCware® ERP-Software: Ihre betriebswirtschaftliche Lösung von Konzeption bis Prozessoptimierung. Beratungstermin vereinbaren: 06232 663-0.",
+  "meta_title": "SHC - Ihr Spezialist für ERP-Software im technischen Großhandel",
+  "name": "SHComputersysteme GmbH",
+  "reason": "Methodik: Software, Prozessoptimierung.",
+  "refs": {
+   "osm": [
+    "way/320110203"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.shcom.de/"
+ },
+ {
+  "address": "76131 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 0.8,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "12465-1635995-1-S"
+  ],
+  "key": "siemens",
+  "lat": 49.0069955,
+  "loc_source": "ba",
+  "lon": 8.4139873,
+  "name": "Siemens AG",
+  "reason": "Methodik: ML, Masterarbeit.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "76187 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 5.7,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "15170-470192085-S"
+  ],
+  "key": "siemens-energy-global",
+  "lat": 49.0371748,
+  "loc_source": "ba",
+  "lon": 8.340292,
+  "name": "Siemens Energy Global GmbH & Co. KG",
+  "reason": "Sektor: Decarbonization, Energy.",
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Speyerer Straße 4, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "description": "Unternehmen für Software und IT",
+  "distance_km": 48.0,
+  "first_seen": "2026-09-24",
+  "key": "snp-schneider-neureither-partner",
+  "lat": 49.399885,
+  "loc_source": "osm",
+  "lon": 8.676684,
+  "meta_description": "SNP helps companies worldwide to leverage the potential of their data and shape their transformation into a digital future. Get started too!",
+  "meta_title": "SNP Group | DATA. TRANSFORMATION. EXPERIENCE.",
+  "name": "SNP Schneider-Neureither & Partner",
+  "reason": "Methodik: DATA, Software.",
+  "refs": {
+   "osm": [
+    "node/12115065211"
+   ],
+   "wikidata": [
+    "Q2207399"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.snpgroup.com/"
+ },
+ {
+  "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
+  "distance_km": 25.4,
+  "first_seen": "2026-09-24",
+  "industry": "Event-Management; Messewirtschaft",
+  "key": "solar-promotion",
+  "lat": 48.890885,
+  "loc_source": "wikidata_hq",
+  "lon": 8.702953,
+  "meta_title": "Solar Promotion Group – Home",
+  "name": "Solar Promotion GmbH",
+  "reason": "Methodik: Promotion; Sektor: Solar, Energiebranche.",
+  "refs": {
+   "wikidata": [
+    "Q141450324"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.solarpromotion.com/"
+ },
+ {
+  "description": "B2B-Onlinehändler für Photovoltaik und Klimatechnik für Installateure in Karlsruhe",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "Großhandel",
+  "key": "solarcraft",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Ihr PV-Großhandel für Solarteure & Elektrobetriebe. Hochleistungs-Module, Wechselrichter & Speicher ab Lager Karlsruhe. Jetzt registrieren: 20.000€ Kreditlinie & Kauf auf Rechnung sichern.",
+  "meta_title": "SOLARCRAFT GmbH | Solarcraft GmbH",
+  "name": "SOLARCRAFT GmbH",
+  "reason": "Sektor: SOLARCRAFT.",
+  "refs": {
+   "wikidata": [
+    "Q141469712"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://solarcraft.eu/"
+ },
+ {
+  "address": "Nachtweide 6, 67346 Speyer",
+  "city": "Speyer",
+  "distance_km": 36.6,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1002624881-S"
+  ],
+  "key": "sonachhaltig",
+  "lat": 49.335237,
+  "loc_source": "ba",
+  "lon": 8.44002,
+  "name": "soNachhaltig GmbH",
+  "reason": "Sektor: Photovoltaik, soNachhaltig.",
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "distance_km": 48.6,
+  "first_seen": "2026-09-24",
+  "key": "sovanta",
+  "lat": 49.405534,
+  "loc_source": "osm",
+  "lon": 8.677289,
+  "meta_description": "Innovate to differentiate: sovanta kombiniert tiefes SAP-Know-how mit moderner Cloud-Entwicklung, UX-Design, XM-Expertise und führender AI & Data-Technologie.",
+  "meta_title": "Innovate to differentiate mit sovanta - sovanta AG",
+  "name": "sovanta",
+  "reason": "Methodik: AI, Data.",
+  "refs": {
+   "osm": [
+    "node/8354361661"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://sovanta.com/"
+ },
+ {
+  "distance_km": 49.9,
+  "first_seen": "2026-09-24",
+  "key": "spruck-it-service",
+  "lat": 49.452453,
+  "loc_source": "osm",
+  "lon": 8.483392,
+  "meta_description": "IT-Systemhaus in Mannheim seit 2003: Managed IT, Microsoft 365, Cloud, Security, Netzwerk sowie KI & Automatisierung für den Mittelstand.",
+  "meta_title": "IT-Systemhaus Mannheim | Managed IT & KI | Spruck IT",
+  "name": "Spruck IT Service GmbH",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/2268457484"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://spruck-it.de/"
+ },
+ {
+  "description": "municipal utility company in Bruchsal, Germany",
+  "distance_km": 18.5,
+  "first_seen": "2026-09-24",
+  "key": "stadtwerke-bruchsal",
+  "lat": 49.123693,
+  "loc_source": "nominatim",
+  "lon": 8.583167,
+  "meta_description": "Die Stadtwerke Bruchsal sind Ihr zuverlässiger regionaler Versorger mir Strom, Gas, Wasser, Wärme, E-Mobilität, Solar, Bäder und Stadtbus.",
+  "meta_title": "Stadtwerke Bruchsal | Energie, Wärme, Stadtbus, Bäder und mehr",
+  "name": "Stadtwerke Bruchsal",
+  "reason": "Sektor: Solar, Energie.",
+  "refs": {
+   "wikidata": [
+    "Q130302869"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.stadtwerke-bruchsal.de/"
+ },
+ {
+  "description": "municipal utility company in Bühl, Germany",
+  "distance_km": 40.2,
+  "first_seen": "2026-09-24",
+  "key": "stadtwerke-buehl",
+  "lat": 48.696708,
+  "loc_source": "nominatim",
+  "lon": 8.122618,
+  "meta_description": "Wir verstehen die Wünsche unserer Kunden und erfüllen diese Tag für Tag: Wasser bester Qualität und umweltfreundliche Strom- und Gasversorgung.",
+  "meta_title": "Privatkunden | Stadtwerke Bühl GmbH - Starke Leistungen",
+  "name": "Stadtwerke Bühl",
+  "reason": "Sektor: Strom, umweltfreundliche.",
+  "refs": {
+   "wikidata": [
+    "Q133567251"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.stadtwerke-buehl.de/"
+ },
+ {
+  "address": "Alte Eppelheimer Straße 26, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "description": "Kommunaler Energie- und Wasserversorger und Netzbetreiber",
+  "distance_km": 48.8,
+  "first_seen": "2026-09-24",
+  "industry": "öffentliches Versorgungsunternehmen",
+  "key": "stadtwerke-heidelberg",
+  "lat": 49.40663,
+  "loc_source": "osm",
+  "lon": 8.679624,
+  "meta_description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
+  "meta_title": "Startseite Stadtwerke Heidelberg",
+  "name": "Stadtwerke Heidelberg",
+  "reason": "Sektor: Netzbetreiber, Energie.",
+  "refs": {
+   "osm": [
+    "node/13019750525"
+   ],
+   "wikidata": [
+    "Q48180711"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.swhd.de/"
+ },
+ {
+  "description": "distribution system distributor in Heidelberg, Germany",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "industry": "Verteilnetzbetreiber",
+  "key": "stadtwerke-heidelberg-netze",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "meta_description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
+  "meta_title": "Startseite Stadtwerke Heidelberg",
+  "name": "Stadtwerke Heidelberg Netze",
+  "reason": "Sektor: Netze, Energie.",
+  "refs": {
+   "wikidata": [
+    "Q124475127"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.swhd.de/"
+ },
+ {
+  "description": "regional distribution network operator in Germany",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "industry": "Verteilnetzbetreiber",
+  "key": "stadtwerke-karlsruhe-netzservice",
+  "lat": 49.016667,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "Zuverlässige Versorgung von Strom, Gas, Wasser und Wärme – die Stadtwerke Karlsruhe Netzservice GmbH als Ihr Netzbetreiber, Messstellenbetreiber und Prüfstelle.",
+  "meta_title": "Wir bauen Energienetze - Stadtwerke Karlsruhe Netzservice GmbH",
+  "name": "Stadtwerke Karlsruhe Netzservice",
+  "reason": "Sektor: Verteilnetzbetreiber, Energienetze.",
+  "refs": {
+   "wikidata": [
+    "Q124476041"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.netzservice-swka.de/"
+ },
+ {
+  "distance_km": 3.2,
+  "first_seen": "2026-09-24",
+  "key": "steurer",
+  "lat": 49.007838,
+  "loc_source": "osm",
+  "lon": 8.359323,
+  "meta_description": "Steurer GmbH – Ihr Partner für sichere Notstromsysteme, USV-Anlagen & Batterien. Planung, Installation & Wartung aus einer Hand – seit 40 Jahren",
+  "meta_title": "Notstromsysteme und USV-Anlagen & Batterien | Steurer GmbH",
+  "name": "Steurer GmbH",
+  "reason": "Sektor: Batterien.",
+  "refs": {
+   "osm": [
+    "node/9775526227"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://steurer-batterien.de/"
+ },
+ {
+  "description": "Energiehandelsunternehmen mit Hauptsitz in Pforzheim",
+  "distance_km": 25.4,
+  "first_seen": "2026-09-24",
+  "key": "suedwestenergie",
+  "lat": 48.890885,
+  "loc_source": "wikidata_hq",
+  "lon": 8.702953,
+  "meta_description": "HEIZÖL, STROM, GAS, PELLETS, HOLZ, KRAFT- und SCHMIERSTOFFE - alles aus einer Hand. Mit zehn Niederlassungen auch in Ihrer Nähe. ✓günstig ✓nachhaltig ✓fair",
+  "meta_title": "Südwestenergie - Ihr Energieexperte aus der Region",
+  "name": "Südwestenergie",
+  "reason": "Sektor: Südwestenergie, nachhaltig.",
+  "refs": {
+   "wikidata": [
+    "Q116884052"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.suedwestenergie.de/"
+ },
+ {
+  "address": "Alter Schlachthof 33, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 2.2,
+  "first_seen": "2026-09-24",
+  "key": "t2consult",
+  "lat": 49.0048,
+  "loc_source": "osm",
+  "lon": 8.433055,
+  "meta_description": "t2consult delivers hands-on software engineering and versatile, sustainable digital solutions.",
+  "meta_title": "t2consult - hands-on software development and digital solution finding",
+  "name": "t2consult",
+  "reason": "Methodik: software; Sektor: sustainable.",
+  "refs": {
+   "osm": [
+    "node/6468167343"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://t2consult.net/"
+ },
+ {
+  "address": "Carl-Metz-Str. 17, 76185 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 3.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003449525-S"
+  ],
+  "key": "tax-network",
+  "lat": 49.011867,
+  "loc_source": "ba",
+  "lon": 8.350488,
+  "name": "Tax  Network GmbH",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Villinger Straße 6, 75179 Pforzheim",
+  "city": "Pforzheim",
+  "description": "THOST ist mit 500 Mitarbeitern eines der führenden deutschen Unternehmen im Projektmanagement.",
+  "distance_km": 21.9,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "12288-4929292147-S",
+   "14446-2026asl5yiyi-000-S"
+  ],
+  "key": "thost-projektmanagement",
+  "lat": 48.904881,
+  "loc_source": "osm",
+  "lon": 8.659813,
+  "meta_description": "THOST Projektmanagement ist eines der führenden Unternehmen in Projektmanagement und Projektsteuerung in Deutschland. Lernen Sie uns kennen.",
+  "meta_title": "Projektmanagement und Projektsteuerung international und in DE",
+  "name": "Thost Projektmanagement GmbH",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/7028319430"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.thost.de/"
+ },
+ {
+  "address": "Fritz-Erler-Straße 1-3, 76133 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 0.5,
+  "first_seen": "2026-09-24",
+  "key": "trippe-partner-ingenieurgesellschaft",
+  "lat": 49.008798,
+  "loc_source": "osm",
+  "lon": 8.410492,
+  "meta_description": "TPI – Trippe + Partner Ingenieure steht für moderne Energie- und Gebäudetechnik in Baden-Württemberg. Besonders für effiziente Planung und nachhaltige Konzepte.",
+  "meta_title": "Energieeffizienz | Gebäude- & Energietechnik TPI",
+  "name": "Trippe + Partner Ingenieurgesellschaft",
+  "reason": "Sektor: Energieeffizienz, nachhaltige.",
+  "refs": {
+   "osm": [
+    "node/4128275409"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.tpi-online.de/"
+ },
+ {
+  "distance_km": 10.1,
+  "first_seen": "2026-09-24",
+  "key": "tritiumlabor-karlsruhe",
+  "lat": 49.095422,
+  "loc_source": "osm",
+  "lon": 8.435498,
+  "meta_description": "Das Institut für Technische Physik (ITEP) am Karlsruher Institut für Technologie (KIT) forscht zu Supraleitung, Kryotechnik, Magnet- und Energietechnik.",
+  "name": "Tritiumlabor Karlsruhe",
+  "reason": "Methodik: Physik, Institut; Sektor: Energietechnik.",
+  "refs": {
+   "osm": [
+    "node/13533507372"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschung"
+  ],
+  "website": "https://www.itep.kit.edu/80.php"
+ },
+ {
+  "address": "Schneidmühlstraße 19, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 49.6,
+  "first_seen": "2026-09-24",
+  "key": "tts",
+  "lat": 49.41088,
+  "loc_source": "osm",
+  "lon": 8.691034,
+  "meta_description": "AI-powered Digital Adoption Platform for initiative leaders who need the workforce to master new tools and processes fast. Context-sensitive guidance. Instant know-how. Sustainable enablement.",
+  "meta_title": "Learning in the flow of work | tts performance suite",
+  "name": "tts",
+  "reason": "Methodik: AI; Sektor: Sustainable.",
+  "refs": {
+   "osm": [
+    "way/96690370"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.tt-s.com/"
+ },
+ {
+  "distance_km": 22.0,
+  "first_seen": "2026-09-24",
+  "key": "umwelt-energieagentur-kreis-karlsruhe",
+  "lat": 49.033794,
+  "loc_source": "osm",
+  "lon": 8.70206,
+  "name": "Umwelt- und Energieagentur Kreis Karlsruhe",
+  "reason": "Sektor: Energieagentur, Umwelt.",
+  "refs": {
+   "osm": [
+    "node/5200662748"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.energieagentur-kreiska.de/"
+ },
+ {
+  "address": "Ludwig-Erhard-Allee 26, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 1.4,
+  "first_seen": "2026-09-24",
+  "key": "unicon-software",
+  "lat": 49.003526,
+  "loc_source": "osm",
+  "lon": 8.421534,
+  "meta_description": "UniconOS, a secure and hardened OS, and UniconOS Management, a powerful management tool, effortlessly scale with your growing device fleet – enhancing security, boosting efficiency, and reducing costs in VDI and cloud environments. Discover how UniconOS seamlessly integrates with Citrix DaaS.",
+  "meta_title": "Citrix UniconOS - Hardened Endpoint OS & Management - Citrix",
+  "name": "Unicon Software",
+  "reason": "Methodik: Software; Sektor: environments.",
+  "refs": {
+   "osm": [
+    "node/3666250059"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "http://www.unicon-software.com/"
+ },
+ {
+  "description": "research institute",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "universitaetsklinikum-heidelberg-institut-fuer-medizinische-biometrie-informatik",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Universitätsklinikum Heidelberg Institut für Medizinische Biometrie und Informatik",
+  "reason": "Methodik: Institut, Informatik.",
+  "refs": {
+   "wikidata": [
+    "Q101426886"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "address": "Akazienweg 8, 76287 Rheinstetten",
+  "city": "Rheinstetten",
+  "distance_km": 6.7,
+  "first_seen": "2026-09-24",
+  "key": "up-cell",
+  "lat": 48.963907,
+  "loc_source": "osm",
+  "lon": 8.340387,
+  "meta_description": "Die Up-Cell GmbH hat sich der Nachhaltigkeit verpflichtet. Aus gebrauchten Li-Ion-Zellen baut das Start-up 2nd-life-Energiespeicher.",
+  "meta_title": "Home - Up-Cell - 2nd-life-Energiespeicher",
+  "name": "Up-Cell",
+  "reason": "Sektor: Energiespeicher, Nachhaltigkeit.",
+  "refs": {
+   "osm": [
+    "node/12927590796"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://www.up-cell.de/"
+ },
+ {
+  "address": "Rüppurrer Straße 1, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 0.6,
+  "first_seen": "2026-09-24",
+  "key": "usu-software",
+  "lat": 49.005725,
+  "loc_source": "osm",
+  "lon": 8.41105,
+  "meta_description": "Optimieren Sie IT und Kundenservice mit USU-Lösungen für Effizienz, Transparenz und exzellente Nutzererlebnisse im KI-Zeitalter.",
+  "meta_title": "IT-Optimierung und Kundenservice | Effizienz Steigern mit USU",
+  "name": "USU Software AG",
+  "reason": "Methodik: KI, Software, Optimierung.",
+  "refs": {
+   "osm": [
+    "node/4057042004"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.usu.de/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 2.9,
+  "first_seen": "2026-09-24",
+  "key": "verint",
+  "lat": 49.02058,
+  "loc_source": "osm",
+  "lon": 8.437845,
+  "meta_description": "Close the AI outcomes gap with the Verint Open Platform. Embed agentic AI directly into your CX workflows to quickly drive measurable results.",
+  "meta_title": "Contact Center AI Platform & Solutions | Verint",
+  "name": "Verint",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/4198350505"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://verint.de/"
+ },
+ {
+  "address": "Emmy-Noether-Straße 11, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.0,
+  "first_seen": "2026-09-24",
+  "key": "videmo-intelligente-videoanalyse",
+  "lat": 49.019921,
+  "loc_source": "osm",
+  "lon": 8.439141,
+  "meta_description": "Videmo 360 – AI-powered face recognition for video analysis & live surveillance. 100% On-Premises, offline-capable. Made in Germany.",
+  "meta_title": "Videmo – AI Face Recognition & Video Analysis On-Premises",
+  "name": "Videmo Intelligente Videoanalyse",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/8094186739"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://videmo.de/"
+ },
+ {
+  "description": "IT-Dienstleister",
+  "distance_km": 8.2,
+  "first_seen": "2026-09-24",
+  "key": "vivavis",
+  "lat": 48.933333,
+  "loc_source": "wikidata_hq",
+  "lon": 8.4,
+  "meta_description": "VIVAVIS - Ihr Experte für innovative Softwarelösungen im Bereich Energiewirtschaft, Smart City und kritische Infrastrukturen.",
+  "meta_title": "Willkommen bei VIVAVIS",
+  "name": "VIVAVIS-Gruppe",
+  "reason": "Methodik: Softwarelösungen; Sektor: Energiewirtschaft.",
+  "refs": {
+   "wikidata": [
+    "Q15819766"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://vivavis.com/"
+ },
+ {
+  "address": "Ludwig-Erhard-Allee 1, 76131 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 0.7,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003389287-S"
+  ],
+  "key": "volksbank-pur",
+  "lat": 49.00608,
+  "loc_source": "ba",
+  "lon": 8.4127995,
+  "name": "Volksbank pur eG",
+  "reason": "Methodik: Data Analytics, Data.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Speyerer Straße 4, 69115 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.0,
+  "first_seen": "2026-09-24",
+  "key": "volume-graphics",
+  "lat": 49.399934,
+  "loc_source": "osm",
+  "lon": 8.676625,
+  "meta_title": "VG software | Industrial CT and NDT data analysis and visualisation",
+  "name": "Volume Graphics GmbH",
+  "reason": "Methodik: data analysis, data, software.",
+  "refs": {
+   "osm": [
+    "node/3205837952"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.volumegraphics.com/"
+ },
+ {
+  "description": "Deutscher Anbieter von Weiterbildungen zu Managementsystemen mit Sitz in Pforzheim",
+  "distance_km": 25.4,
+  "first_seen": "2026-09-24",
+  "industry": "Erziehung und Unterricht",
+  "job_refs": [
+   "10001-1003730630-S"
+  ],
+  "key": "vorest",
+  "lat": 48.890885,
+  "loc_source": "wikidata_hq",
+  "lon": 8.702953,
+  "meta_description": "Die VOREST AG bietet Ihnen Ausbildungen, Weiterbildung, E-Learning Kurse und Fachinformationen rund um das Thema Managementsysteme für ISO Normen &am…",
+  "meta_title": "Ausbildung, Weiterbildung, E-Learning & Fachinformationen - VOREST AG | VOREST AG",
+  "name": "VOREST AG",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "wikidata": [
+    "Q140782396"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "wikidata"
+  ],
+  "website": "https://www.vorest-ag.com/"
+ },
+ {
+  "address": "Amalienbadstraße 41, 76227 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 4.6,
+  "first_seen": "2026-09-24",
+  "key": "vulcan-energie",
+  "lat": 48.996033,
+  "loc_source": "osm",
+  "lon": 8.46378,
+  "meta_description": "Vulcan’s purpose is to empower a net zero carbon future to supply lithium chemicals and renewable energy from Europe, for Europe from its ...",
+  "meta_title": "Home - VULCAN ENERGY RESOURCES",
+  "name": "Vulcan Energie",
+  "reason": "Sektor: lithium, renewable, Energie.",
+  "refs": {
+   "osm": [
+    "node/9941250533"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://v-er.eu/"
+ },
+ {
+  "description": "Unternehmen im Bereich Energietechnik in Gernsbach, Baden-Württemberg",
+  "distance_km": 26.1,
+  "first_seen": "2026-09-24",
+  "key": "w-quadrat",
+  "lat": 48.775353,
+  "loc_source": "wikidata",
+  "lon": 8.345811,
+  "meta_description": "Photovoltaikanlagen, Stromspeicher & Bidirektionales Laden. Über 7.000 zufriedene Kunden. Kostenlose Beratung ✓",
+  "meta_title": "5★ Photovoltaik & Stromspeicher Baden-Württemberg | W-QUADRAT",
+  "name": "W-QUADRAT",
+  "reason": "Sektor: Photovoltaik, Energietechnik.",
+  "refs": {
+   "wikidata": [
+    "Q125523836"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.w-quadrat.de/"
+ },
+ {
+  "description": "Unternehmen in Karlsruhe",
+  "distance_km": 1.7,
+  "first_seen": "2026-09-24",
+  "key": "webagency-e-commerce",
+  "lat": 49.01383,
+  "loc_source": "wikidata",
+  "lon": 8.382807,
+  "meta_description": "Ihr starker Partner für Managementberatung sowie Lösungen mit IT- und KI-Bezug von der Konzeption bis zur Umsetzung in allen Bereichen der Digitalisierung.",
+  "meta_title": "Management- & IT-Beratung | Business-Consulting | Consileon",
+  "name": "WEBAGENCY E-Commerce",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "wikidata": [
+    "Q52844671"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.webagency.de/"
+ },
+ {
+  "address": "Pforzheim",
+  "city": "Pforzheim",
+  "distance_km": 26.1,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10000-1206380119-S"
+  ],
+  "key": "wellendorff-gold-creationen",
+  "lat": 48.8827645,
+  "loc_source": "ba",
+  "lon": 8.7068699,
+  "name": "Wellendorff Gold-Creationen GmbH & Co. KG",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Heinrich-Lanz-Straße 5, 68723 Plankstadt",
+  "city": "Plankstadt",
+  "distance_km": 45.9,
+  "first_seen": "2026-09-24",
+  "key": "wierig",
+  "lat": 49.403781,
+  "loc_source": "osm",
+  "lon": 8.578808,
+  "meta_description": "Vom Flachdach zum Zukunftsdach ➥ Industrie und Gewerbe ➥ Energieoptimiert, nachhaltig, smart ➥ Wierig ➥ Dach. Energie. Zukunft.",
+  "meta_title": "Flachdach für Industrie und Gewerbe | Wierig",
+  "name": "Wierig",
+  "reason": "Sektor: Energieoptimiert, nachhaltig.",
+  "refs": {
+   "osm": [
+    "node/11811966424"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.wierig.de/"
+ },
+ {
+  "address": "Schwetzinger Str. 22-26, 68753 Waghäusel",
+  "city": "Waghäusel",
+  "distance_km": 28.4,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "10000-1203736564-S",
+   "12908-063451996-S"
+  ],
+  "key": "wirsol-aufdach",
+  "lat": 49.2457889,
+  "loc_source": "ba",
+  "lon": 8.5418747,
+  "name": "Wirsol Aufdach GmbH",
+  "reason": "Sektor: Batteriespeicher, Photovoltaikanlagen.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
+  "address": "Große Ahlmühle 25, 76865 Rohrbach",
+  "city": "Rohrbach",
+  "distance_km": 23.7,
+  "first_seen": "2026-09-24",
+  "key": "x2e-system-engineering",
+  "lat": 49.131643,
+  "loc_source": "osm",
+  "lon": 8.140342,
+  "meta_description": "Wir gestalten die Energiezukunft mit Wasserstofflösungen. Modular. Effizient. Emissionsfrei. - Flexibel anpassbar auf Ihre Bedürfnisse!",
+  "meta_title": "Home | X2E Services & Engineering GmbH",
+  "name": "X2E System Engineering GmbH",
+  "reason": "Sektor: Wasserstofflösungen, Emissionsfrei, Energiezukunft.",
+  "refs": {
+   "osm": [
+    "node/9143369796",
+    "way/535711909"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://x2e-se.de/"
+ },
+ {
+  "distance_km": 36.8,
+  "first_seen": "2026-09-24",
+  "key": "xq-data",
+  "lat": 48.862407,
+  "loc_source": "osm",
+  "lon": 8.855864,
+  "meta_description": "Individuelle Software und Datenbank Entwicklung vom Freelancer Michael Müller nach Ihren Vorstellungen für Ihr Business . Klicken Sie, um mehr zu erfahren",
+  "meta_title": "Michael Müller, Der-Softwareentwickler.NET, Der Data Professional für Ihr Business",
+  "name": "XQ Data GmbH",
+  "reason": "Methodik: Data, Softwareentwickler.",
+  "refs": {
+   "osm": [
+    "node/13049586641"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://www.der-softwareentwickler.net/"
+ },
+ {
+  "description": "Physikinstitut",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-24",
+  "key": "zentrum-fuer-astronomie-der-universitaet-heidelberg",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "name": "Zentrum für Astronomie der Universität Heidelberg",
+  "reason": "Methodik: Physikinstitut.",
+  "refs": {
+   "wikidata": [
+    "Q191190"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ]
+ },
+ {
+  "address": "Lauterbergstraße 1-5, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "landwirtschaftliche Raiffeisen-Genossenschaft für Baden",
+  "distance_km": 1.1,
+  "first_seen": "2026-09-24",
+  "job_refs": [
+   "12951-0eb81ecb-9778-49fb--S"
+  ],
+  "key": "zg-raiffeisen",
+  "lat": 48.996684,
+  "loc_source": "osm",
+  "lon": 8.40561,
+  "meta_description": "Entdecken Sie alle Produkte der ZG Raiffeisen ► Haus und Garten ✔️ Baustoffe ✔️ Heizöl und Treibstoffe ✔️ Werkzeug und Maschinen ✔️ Ihr regionaler Partner.",
+  "meta_title": "ZG Raiffeisen – Das WIR liegt in unserer Natur",
+  "name": "ZG Raiffeisen",
+  "reason": "Sektor: Batteriespeicher, Photovoltaik.",
+  "refs": {
+   "osm": [
+    "node/6471047246"
+   ],
+   "wikidata": [
+    "Q136135"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.zg-raiffeisen.de/"
+ }
+]

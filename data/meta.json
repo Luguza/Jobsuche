@@ -1,0 +1,25 @@
+{
+ "baseline": "2026-09-24",
+ "counts": {
+  "companies": 230,
+  "companies_with_jobs": 45,
+  "jobs": 100,
+  "osm_raw": 3163,
+  "seed": 6,
+  "wikidata_raw": 583
+ },
+ "region": {
+  "lat": 49.0069,
+  "lon": 8.4037,
+  "name": "Karlsruhe",
+  "radius_km": 50
+ },
+ "score_methods": {
+  "stichwörter": 230
+ },
+ "sources": {
+  "osm": "aktuell",
+  "wikidata": "aktuell"
+ },
+ "updated": "2026-09-24T17:00:15+00:00"
+}

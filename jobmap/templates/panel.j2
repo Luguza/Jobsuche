@@ -1,0 +1,197 @@
+{% macro header(this, kwargs) %}
+<title>{{ this.title }}</title>
+<meta name="description" content="Interaktive Karte: Arbeitgeber für Machine Learning, Materialwissenschaft und Energiewende im Umkreis von {{ this.radius_km }} km um {{ this.region_name }}.">
+<meta name="theme-color" content="#1f3b73">
+<style>
+  :root { --jm-ink: #1d2433; --jm-muted: #5b6475; --jm-line: #d9dde5; --jm-accent: #1f3b73; }
+  html, body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .jm-panel { position: absolute; top: 10px; left: 10px; z-index: 1000; width: 330px;
+    max-width: calc(100vw - 76px); max-height: calc(100vh - 20px); display: flex; flex-direction: column;
+    background: #fff; color: var(--jm-ink); border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,.25);
+    font-size: 14px; line-height: 1.35; }
+  .jm-head { display: flex; align-items: center; gap: 8px; padding: 10px 12px; cursor: pointer;
+    border: 0; background: none; width: 100%; text-align: left; font: inherit; color: inherit; }
+  .jm-head h1 { font-size: 15px; margin: 0; flex: 1; }
+  .jm-head small { display: block; font-weight: normal; color: var(--jm-muted); font-size: 12px; }
+  .jm-toggle { font-size: 18px; color: var(--jm-muted); transition: transform .15s; }
+  .jm-panel.jm-collapsed .jm-toggle { transform: rotate(-90deg); }
+  .jm-panel.jm-collapsed .jm-body { display: none; }
+  .jm-body { padding: 0 12px 12px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+  .jm-body input[type=search] { width: 100%; box-sizing: border-box; font-size: 16px; padding: 9px 10px;
+    border: 1px solid var(--jm-line); border-radius: 8px; }
+  .jm-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+  .jm-row input[type=range] { flex: 1; min-height: 28px; }
+  .jm-row label { display: flex; align-items: center; gap: 6px; min-height: 28px; }
+  .jm-count { margin-top: 8px; color: var(--jm-muted); font-size: 13px; }
+  .jm-results { list-style: none; margin: 8px 0 0; padding: 0; border-top: 1px solid var(--jm-line); }
+  .jm-results li { display: flex; align-items: center; gap: 8px; padding: 8px 2px; min-height: 28px;
+    border-bottom: 1px solid var(--jm-line); cursor: pointer; }
+  .jm-results li:hover { background: #f4f6fa; }
+  .jm-results .jm-kind { color: var(--jm-muted); font-size: 12px; margin-left: auto; white-space: nowrap; }
+  .jm-legend { margin-top: 10px; font-size: 12px; color: var(--jm-muted); }
+  .jm-gradient { height: 10px; border-radius: 5px; margin: 4px 0 2px; }
+  .jm-legend-scale { display: flex; justify-content: space-between; }
+  .jm-foot { margin-top: 10px; font-size: 11px; color: var(--jm-muted); }
+  .jm-foot a { color: var(--jm-accent); }
+  .jm-badge { display: inline-block; min-width: 22px; padding: 1px 6px; border-radius: 10px; text-align: center;
+    font-weight: 600; font-size: 12px; }
+  .jm-new { display: inline-block; padding: 0 6px; border-radius: 8px; background: #ffe08a; color: #5a4500;
+    font-size: 11px; font-weight: 600; margin-left: 4px; }
+  .jm-pop { font-size: 13px; line-height: 1.4; color: var(--jm-ink); }
+  .jm-pop h3 { font-size: 15px; margin: 0 0 4px; }
+  .jm-pop .jm-reason { margin: 6px 0; }
+  .jm-pop .jm-sub { color: var(--jm-muted); font-size: 12px; }
+  .jm-pop ul { margin: 4px 0 6px; padding-left: 18px; }
+  .jm-pop li { margin-bottom: 4px; }
+  .jm-pop a { color: var(--jm-accent); }
+  .leaflet-popup-content { margin: 12px 14px; max-height: 55vh; overflow-y: auto; }
+  .jm-cluster div { width: 34px; height: 34px; display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 12px; background: #fff; color: var(--jm-ink); border: 4px solid;
+    box-shadow: 0 1px 5px rgba(0,0,0,.4); }
+  .jm-cluster-job div { border-radius: 8px; }
+  .jm-cluster-company div { border-radius: 50%; }
+  @media (max-width: 600px) {
+    .jm-panel { font-size: 15px; }
+    .leaflet-popup-content { max-height: 45vh; }
+  }
+</style>
+<script>
+  var JM_COLORS = {{ this.colors|tojson }};
+  var JM_TEXT = {{ this.text_colors|tojson }};
+  function jmClusterIcon(kind) {
+    return function (cluster) {
+      var best = 0;
+      cluster.getAllChildMarkers().forEach(function (m) { best = Math.max(best, m.options.score || 0); });
+      return L.divIcon({
+        html: '<div style="border-color:' + JM_COLORS[best] + '">' + cluster.getChildCount() + '</div>',
+        className: 'jm-cluster jm-cluster-' + kind,
+        iconSize: L.point(40, 40)
+      });
+    };
+  }
+</script>
+{% endmacro %}
+
+{% macro html(this, kwargs) %}
+<div class="jm-panel" id="jm-panel">
+  <button class="jm-head" id="jm-head" type="button" aria-expanded="true" aria-controls="jm-body">
+    <h1>{{ this.heading }}<small>Stand: {{ this.updated }}</small></h1>
+    <span class="jm-toggle" aria-hidden="true">▾</span>
+  </button>
+  <div class="jm-body" id="jm-body">
+    <input type="search" id="jm-q" placeholder="Firma oder Stichwort, z. B. Batterie" autocomplete="off"
+           aria-label="Firma oder Stichwort suchen">
+    <div class="jm-row">
+      <label for="jm-min">Mindest-Score</label>
+      <input type="range" id="jm-min" min="0" max="10" step="1" value="0">
+      <span class="jm-badge" id="jm-min-val" style="background:#eee">0</span>
+    </div>
+    <div class="jm-row"><label><input type="checkbox" id="jm-new"> nur neue Einträge (letzte 7 Tage)</label></div>
+    <div class="jm-count" id="jm-count"></div>
+    <ul class="jm-results" id="jm-results"></ul>
+    <div class="jm-legend">
+      Farbe und Zahl = Relevanz-Score
+      <div class="jm-gradient" style="background: linear-gradient(to right, {{ this.colors|join(', ') }});"></div>
+      <div class="jm-legend-scale"><span>0 passt kaum</span><span>10 passt sehr gut</span></div>
+      <div style="margin-top:4px">Tropfen = offene Stellen · Kreis = Firma ohne passende Ausschreibung ·
+        weiße Gruppen mit farbigem Rand = mehrere Einträge (Zahl = Anzahl, Randfarbe = bester Score).
+        Ebenen oben rechts ein-/ausblenden.</div>
+    </div>
+    <div class="jm-foot">
+      {{ this.stats }}<br>
+      Stellen: Jobsuche der Bundesagentur für Arbeit · Firmen: © OpenStreetMap-Mitwirkende (ODbL), Wikidata (CC0),
+      eigene Liste · Bewertung: {{ this.scoring_note }}.<br>
+      <a href="{{ this.repo_url }}" target="_blank" rel="noopener">Quellcode &amp; Daten</a> ·
+      <a href="data/companies.json" target="_blank" rel="noopener">Firmen (JSON)</a> ·
+      <a href="data/jobs.json" target="_blank" rel="noopener">Stellen (JSON)</a>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+
+{% macro script(this, kwargs) %}
+(function () {
+  var map = {{ this._parent.get_name() }};
+  var groups = [
+    { kind: 'job', label: 'Stellen', cluster: {{ this.jobs_cluster }}, markers: [] },
+    { kind: 'company', label: 'Firmen ohne Ausschreibung', cluster: {{ this.companies_cluster }}, markers: [] }
+  ];
+  groups.forEach(function (g) { g.markers = g.cluster.getLayers(); });
+  // Auf Touch-Geräten bleiben Tooltips nach dem Antippen stehen und verdecken die Karte
+  if (window.matchMedia('(hover: none)').matches) {
+    groups.forEach(function (g) { g.markers.forEach(function (m) { m.unbindTooltip(); }); });
+  }
+
+  var panel = document.getElementById('jm-panel');
+  var head = document.getElementById('jm-head');
+  var q = document.getElementById('jm-q');
+  var min = document.getElementById('jm-min');
+  var minVal = document.getElementById('jm-min-val');
+  var onlyNew = document.getElementById('jm-new');
+  var count = document.getElementById('jm-count');
+  var results = document.getElementById('jm-results');
+  L.DomEvent.disableClickPropagation(panel);
+  L.DomEvent.disableScrollPropagation(panel);
+
+  function setCollapsed(collapsed) {
+    panel.classList.toggle('jm-collapsed', collapsed);
+    head.setAttribute('aria-expanded', String(!collapsed));
+  }
+  head.addEventListener('click', function () { setCollapsed(!panel.classList.contains('jm-collapsed')); });
+  if (window.innerWidth < 600) { setCollapsed(true); }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function apply() {
+    var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    var minScore = parseInt(min.value, 10);
+    minVal.textContent = minScore;
+    minVal.style.background = JM_COLORS[minScore];
+    minVal.style.color = JM_TEXT[minScore];
+    var hits = [], summary = [];
+    groups.forEach(function (g) {
+      var visible = g.markers.filter(function (m) {
+        var o = m.options;
+        return o.score >= minScore && (!onlyNew.checked || o.isnew) &&
+          terms.every(function (t) { return o.search.indexOf(t) !== -1; });
+      });
+      g.cluster.clearLayers();
+      g.cluster.addLayers(visible);
+      var n = visible.reduce(function (sum, m) { return sum + (m.options.njobs || 1); }, 0);
+      summary.push(n + ' ' + g.label);
+      if (terms.length) {
+        visible.forEach(function (m) { hits.push({ marker: m, group: g }); });
+      }
+    });
+    count.textContent = 'Sichtbar: ' + summary.join(' · ');
+    hits.sort(function (a, b) { return b.marker.options.score - a.marker.options.score; });
+    results.innerHTML = '';
+    hits.slice(0, 40).forEach(function (h) {
+      var o = h.marker.options;
+      var li = document.createElement('li');
+      li.innerHTML = '<span class="jm-badge" style="background:' + JM_COLORS[o.score] + ';color:' +
+        JM_TEXT[o.score] + '">' + o.score + '</span><span>' + esc(o.label) + '</span>' +
+        '<span class="jm-kind">' + (h.group.kind === 'job' ? 'Stelle' : 'Firma') + '</span>';
+      li.addEventListener('click', function () {
+        if (!map.hasLayer(h.group.cluster)) { map.addLayer(h.group.cluster); }
+        if (window.innerWidth < 600) { setCollapsed(true); }
+        // Popups sind "lazy": der Inhalt wird erst beim ersten Klick gesetzt, daher Klick auslösen
+        h.group.cluster.zoomToShowLayer(h.marker, function () {
+          if (!h.marker.isPopupOpen()) { h.marker.fire('click'); }
+        });
+      });
+      results.appendChild(li);
+    });
+  }
+
+  var timer;
+  q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(apply, 150); });
+  min.addEventListener('input', apply);
+  onlyNew.addEventListener('change', apply);
+  apply();
+})();
+{% endmacro %}

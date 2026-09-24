@@ -1,0 +1,48 @@
+# Manuell gepflegte Firmen und Forschungseinrichtungen.
+#
+# Seed-Einträge werden immer bewertet (sie überspringen den Stichwort-Filter der Stufe 1)
+# und erscheinen auf der Karte, sobald ihr Score die Schwelle aus config.yaml erreicht.
+#
+# Felder:
+#   name       (Pflicht)  Name der Firma/Einrichtung
+#   address    (optional) Adresse für die Geokodierung; sonst wird "name, city" gesucht
+#   city       (optional) Ort
+#   lat, lon   (optional) Koordinaten; dann wird nicht geokodiert
+#   website    (optional)
+#   notes      (optional) eigene Notizen, fließen in die Bewertung ein
+#   tags       (optional) Stichwörter, fließen in die Bewertung ein
+#   score      (optional) feste Bewertung 0-10 statt automatischer Bewertung
+#   reason     (optional) Begründung zur festen Bewertung
+#
+# Beispiele, bitte nach Belieben ergänzen oder löschen:
+
+companies:
+  - name: Fraunhofer-Institut für Chemische Technologie ICT
+    address: Joseph-von-Fraunhofer-Straße 7, 76327 Pfinztal
+    website: https://www.ict.fraunhofer.de
+    tags: [Batterien, Brennstoffzellen, Wasserstoff, Angewandte Elektrochemie]
+
+  - name: Fraunhofer-Institut für System- und Innovationsforschung ISI
+    address: Breslauer Straße 48, 76139 Karlsruhe
+    website: https://www.isi.fraunhofer.de
+    tags: [Energiepolitik, Energiesysteme, Klimaschutz, Modellierung]
+
+  - name: Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB
+    address: Fraunhoferstraße 1, 76131 Karlsruhe
+    website: https://www.iosb.fraunhofer.de
+    tags: [Künstliche Intelligenz, Machine Learning, Energiesysteme]
+
+  - name: European Institute for Energy Research (EIFER)
+    address: Emmy-Noether-Straße 11, 76131 Karlsruhe
+    website: https://www.eifer.kit.edu
+    tags: [Energieforschung, Energiesysteme, Simulation]
+
+  - name: KIT – Institut für Angewandte Materialien – Energiespeichersysteme (IAM-ESS)
+    address: Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen
+    website: https://www.iam.kit.edu/ess/
+    tags: [Batterien, Materialforschung, Energiespeicher]
+
+  - name: FZI Forschungszentrum Informatik
+    address: Haid-und-Neu-Straße 10-14, 76131 Karlsruhe
+    website: https://www.fzi.de
+    tags: [Künstliche Intelligenz, Energie, Smart Grids]
