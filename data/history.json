@@ -4,5 +4,31 @@
   "initial": true,
   "jobs": 100,
   "timestamp": "2026-09-24T17:00:15+00:00"
+ },
+ {
+  "companies": 232,
+  "jobs": 99,
+  "new_companies": [
+   {
+    "key": "melter-druck-mailservice",
+    "name": "Melter Druck & Mailservice GmbH",
+    "score": 2
+   },
+   {
+    "key": "nanoscribe",
+    "name": "Nanoscribe GmbH & Co. KG",
+    "score": 2
+   }
+  ],
+  "new_jobs": [],
+  "removed_companies": [],
+  "removed_jobs": [
+   {
+    "company": "SEW-EURODRIVE GmbH & Co. KG",
+    "refnr": "12117-YF-46691-YF-S",
+    "title": "Entwicklungsingenieur thermische Modellierung von Getriebemotoren (w/m/d)"
+   }
+  ],
+  "timestamp": "2026-09-25T09:04:27+00:00"
  }
 ]

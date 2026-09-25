@@ -868,27 +868,6 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-120192-STA-S"
  },
  {
-  "city": "Bruchsal",
-  "company": "SEW-EURODRIVE GmbH & Co. KG",
-  "company_key": "sew-eurodrive",
-  "distance_km": 18.0,
-  "first_published": "2026-09-15",
-  "first_seen": "2026-09-24",
-  "lat": 49.1080176,
-  "lon": 8.5953725,
-  "occupation": "Forschungs- und Entwicklungsingenieur/in",
-  "offer_type": "ARBEIT",
-  "plz": "76646",
-  "published": "2026-09-15",
-  "refnr": "12117-YF-46691-YF-S",
-  "search_terms": [
-   "Modellierung"
-  ],
-  "street": "",
-  "title": "Entwicklungsingenieur thermische Modellierung von Getriebemotoren (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-46691-YF-S"
- },
- {
   "city": "Pforzheim",
   "company": "THOST Projektmanagement GmbH",
   "company_key": "thost-projektmanagement",

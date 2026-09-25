@@ -11025,6 +11025,34 @@
   }
  },
  {
+  "id": "node/14212977257",
+  "lat": 49.065821,
+  "lon": 8.372689,
+  "name": "Markisen Kirchenbauer",
+  "tags": {
+   "addr:city": "Karlsruhe",
+   "addr:housenumber": "4",
+   "addr:postcode": "76149",
+   "addr:street": "Im kleinen Bruch",
+   "contact:website": "https://kirchenbauer.de/",
+   "office": "company"
+  }
+ },
+ {
+  "id": "node/14212977258",
+  "lat": 49.06551,
+  "lon": 8.372527,
+  "name": "Peter & Mann Metallbau",
+  "tags": {
+   "addr:city": "Karlsruhe",
+   "addr:housenumber": "2",
+   "addr:postcode": "76149",
+   "addr:street": "Im kleinen Bruch",
+   "contact:website": "https://www.schlosserei-peter-mann.de/",
+   "office": "company"
+  }
+ },
+ {
   "id": "node/1510129022",
   "lat": 48.998396,
   "lon": 8.439782,
@@ -36220,7 +36248,7 @@
  {
   "id": "way/45580330",
   "lat": 48.757546,
-  "lon": 8.880886,
+  "lon": 8.880888,
   "name": "Fit Avenue",
   "tags": {
    "addr:housenumber": "73",

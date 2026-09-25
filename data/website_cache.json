@@ -1,9 +1,19 @@
 {
+ "http://176.28.22.140/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://4you-gmbh.eu/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": ""
+ },
+ "http://apogenix.com/en/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://autec-automation.de/": {
   "description": "Wir sind in Waghäusel Ihr professioneller Partner für Anlagensteuerung, Schaltanlagen und Messtechnik. Nehmen Sie jetzt Kontakt auf.",
@@ -53,6 +63,11 @@
   "status": "ok",
   "title": "Willkommen bei BMTI - BMTI NUTZFAHRZEUGSERVICE"
  },
+ "http://commcall.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://connexity.com/": {
   "description": "Scale Incremental Sales Connexity generates $5B in new sales annually to top retailers partnering for guaranteed delivery on performance targets. Scale your revenue across the open web with our performance marketing platform. Get Started Join top IR50 retailers growing with Connexity Get unmatched ROI Performance guaranteed to meet or exceed your ROAS or COS goals […]",
   "fetched": "2026-09-24",
@@ -91,11 +106,26 @@
   "status": "ok",
   "title": "Home - Dyckerhoff Deutschland - Buzzi SpA"
  },
+ "http://energy4u.org/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://ewr-pneumatik.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Eichhorn + Wörner GmbH - Startseite"
+ },
+ "http://excipio.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://exklusiv-systeme.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://fahnen-kreisel.de/": {
   "description": "Fahnen kaufen leicht gemacht: bedruckte Werbefahnen, gestickte Vereinsfahnen, Fahnenmasten & Restaurierung – persönliche Beratung seit 1883 von Fahnen Kreisel.",
@@ -115,11 +145,21 @@
   "status": "ok",
   "title": "Investitionen für nachhaltigen Erfolg › Franger Investment GmbH & Co. KGaA"
  },
+ "http://gpi-int.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://haltermann.com/": {
   "description": "Haltermann Carless is a leading international manufacturer of high-value hydrocarbon specialties. ISCC PLUS & EU certified and Ecovadis Gold rated.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Haltermann Carless - Pioneers in hydrocarbons since 1859"
+ },
+ "http://hannepraesente.de/index.html": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://hiik.de/": {
   "description": "",
@@ -127,11 +167,26 @@
   "status": "ok",
   "title": "HIIK – Heidelberg Institute for International Conflict Research"
  },
+ "http://hilo-test.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://icp-ing.de/": {
   "description": "Die ICP ist spezialisiert auf die Tätigkeitsfelder Abfalltechnik, Abfallwirtschaft, Altlasten, Bauen im Bestand, Geotechnik, Projektsteuerung, Umweltplanung und Weiterbildung.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - ICP Ingenieurgesellschaft mbH"
+ },
+ "http://ingenieurbuero-mager.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://itu.jrc.ec.europa.eu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://jhb-hangen.de/": {
   "description": "",
@@ -150,6 +205,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home"
+ },
+ "http://klaschka.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://klein-besen-buersten.de/": {
   "description": "Fa. Josef Klein, Ramberg Besen und Bürsten aller Art. Handgemachte und maschinell erstellte Besen und Bürsten.",
@@ -181,6 +241,11 @@
   "status": "ok",
   "title": "Welcome to Getinge - Getinge"
  },
+ "http://marotte-figurentheater.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://masco.com/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -205,6 +270,16 @@
   "status": "ok",
   "title": "MSALES - User Acquisition For Mobile Apps"
  },
+ "http://natursteine-gassert.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://new.abb.com/de/ueber-uns/gesellschaften/abb-stotz-kontakt": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://nilaplan-karlsruhe.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -223,6 +298,11 @@
   "status": "ok",
   "title": "Norman Ruch | Pantomime | Körpersprache"
  },
+ "http://opm.opmsoft.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://opvengineering.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -234,6 +314,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "EASEE® – A New Option for Drug-Resistant Epilepsy | Home - PRECISIS"
+ },
+ "http://priotrade.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://ristav.de/": {
   "description": "",
@@ -317,11 +402,26 @@
   "status": "ok",
   "title": "VielGlas.de | Ingenieurbüro Faas & Günther in Schömberg"
  },
+ "http://weidenhammer.de/en/home.html": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.1und1.de/": {
   "description": "Die besten Angebote für Mobilfunk & Internet ➤ Günstige Tarife ✓ Handys & Tablets ✓ Highspeed Internet ✓ Top Service ➤ Jetzt bei 1&1 informieren!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "1&1 Mobilfunk und Internet > Alles aus einer Hand"
+ },
+ "http://www.4px-germany.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.IBW-KA.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.Websprudel.de/": {
   "description": "",
@@ -353,6 +453,11 @@
   "status": "ok",
   "title": "abilis group: Ihr Zukunftspartner für innovative IT-Services"
  },
+ "http://www.acandis.com/start-1-en": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.adler-werkzeug.de/": {
   "description": "Adler Werkzeug ist 1919 Ihr führender Spezialist bei der Herstellung von geschmiedeten Werkzeugen sowie hochwertigen Holzstielen.",
   "fetched": "2026-09-24",
@@ -374,6 +479,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "AFRISO-EURO-INDEX , Technik für Umweltschutz, Messen, Regeln, Überwachen - AFRISO"
+ },
+ "http://www.agroscience.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.aifb.kit.edu/": {
   "description": "",
@@ -415,6 +525,11 @@
   "status": "ok",
   "title": "ANALYTICA GmbH - Easy as CAN be"
  },
+ "http://www.ansyco.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.arconsis.com/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -426,6 +541,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "ARISTO-Uhren kaufen | Präzisionsarbeit und Qualität seit 1907"
+ },
+ "http://www.asia-europe.uni-heidelberg.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.atsautomation.com/": {
   "description": "...",
@@ -495,6 +615,11 @@
   "status": "ok",
   "title": "Home | basi Schöberl GmbH & Co. KG"
  },
+ "http://www.battlecryrecords.de/mainframes.htm": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.bauer-steuerungstechnik.de/": {
   "description": "Bauer Systeme GmbH – Ihr Spezialist für Montagetische, Steuerungstechnik und Sondermaschinenbau in Bretten. Individuelle Lösungen seit 20 Jahren.",
   "fetched": "2026-09-24",
@@ -510,6 +635,11 @@
  "http://www.bd.com/de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "http://www.beckert-medien.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.berryplastics.com/": {
   "description": "Amcor, leaders in plastic packaging manufacturing, process & sustainable product innovation & design. Learn more about our capabilities",
@@ -631,6 +761,11 @@
   "status": "ok",
   "title": "X-ray and Elemental-Analysis | Bruker"
  },
+ "http://www.büro-süd.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.caemmerer-lenz.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -646,6 +781,11 @@
  "http://www.carlroth.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "http://www.cb-praesentwerbung.de/de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.cc-club-kochender-maenner.de/": {
   "description": "CC-Club kochender MÃ¤nner in der Bruderschaft Marmite e. V.",
@@ -677,6 +817,11 @@
   "status": "ok",
   "title": "Cinemo | Creating Seamless Digital Media Experiences"
  },
+ "http://www.cip-gmbh.com/en/company.html": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.cnt.net/": {
   "description": "First-class telecommunications solutions from the pioneer and technology leader in VoIP and one of Germanyâs first Internet Service Provider in Germany.",
   "fetched": "2026-09-24",
@@ -688,6 +833,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Coface, führend in der Kreditversicherung | Coface"
+ },
+ "http://www.cognex.com/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.comgrav.de/": {
   "description": "",
@@ -706,6 +856,17 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "You are being redirected..."
+ },
+ "http://www.cosma-gruppe.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.crcind.com/crc/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Welcome to CRC Industries Europe"
  },
  "http://www.cronimet.de/": {
   "description": "Die CRONIMET Gruppe ist eine führende Unternehmensgruppe im Handel, in der Produktion und im Recycling von Legierungsrohstoffen.",
@@ -743,11 +904,21 @@
   "status": "ok",
   "title": "DATEX Software für Bauträger und Immobilienprofis - Startseite"
  },
+ "http://www.deltavista.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.deluxe-gebaeudemanagement.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Deluxe Gebäudemanagement"
+ },
+ "http://www.deno-energie.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.design-technic.de/": {
   "description": "Steuerberatung Silke Hekler",
@@ -760,6 +931,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "DG Aviation |"
+ },
+ "http://www.dieko.info/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.digitales-bauen.de/": {
   "description": "Planungsmethode, die Architektur- und Gebäudetechnikentwürfe systematisch in Module zerlegt und diese nach dem Vorbild von Industrieprodukten integriert.",
@@ -803,6 +979,11 @@
   "status": "ok",
   "title": ""
  },
+ "http://www.dplangmbh.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.drahtkrebs.de/": {
   "description": "Just another WordPress site",
   "fetched": "2026-09-24",
@@ -826,6 +1007,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Bildungsmanagement Software für Ausbildung, Seminare & Personalentwicklung | easySoft. GmbH"
+ },
+ "http://www.eaton.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.ech-ovm.de/": {
   "description": "OVM-ECH, Komplettlösungen für komplexe Projekte; unsere Leistungsbereiche sind Energie, Umwelt, Kommunikation, Infrastruktur und Gebäude",
@@ -887,11 +1073,36 @@
   "status": "ok",
   "title": "ElsaSoft Harald Elsässer - Computer"
  },
+ "http://www.elumatec.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.energie-und-kraftanlagen.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.enoware.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.epc.de/": {
   "description": "Unsere Geschichte Linguistische Kompetenz und technisches Know-How Wir bei EPC glauben, dass gute Rechtschreibung und ein guter sprachlicher Stil Türen öffnen. Und wir rollen Ihnen den Teppich aus. Wir sind spezialisiert auf sprachtechnologische Softwarelösungen. Bei EPC werden die professionellen Duden-Korrekturlösungen weiterentwickelt, vertrieben und gewartet. Dazu gehören Rechtschreib- und Gra",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - EPC Consulting und Software GmbH"
+ },
+ "http://www.erdboerse-karlsruhe.de/": {
+  "error": "TooManyRedirects",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.ergion.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.erwinrufgmbh.de/": {
   "description": "",
@@ -911,6 +1122,11 @@
   "status": "ok",
   "title": "ET System electronic | DC-/AC-Stromversorgungen"
  },
+ "http://www.eura-personal.de/de/standorte/standorte_bruchsal.php": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.eurotec-ks.cz/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -922,6 +1138,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "EVT Reinigungsanlagen | Reinigung & Entfettung"
+ },
+ "http://www.fc-heidelberg.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.feldmannconsulting.de/": {
   "description": "Jetzt kostenfrei Seminarinfos anfordern damit du deine Ziele schneller erreichst Praxisnahe Fortbildungen für deinen beruflichen Erfolg in der Arzt- bzw. Zahnarztpraxis Jetzt kostenfrei Seminarinfos anfordern damit du deine Ziele schneller erreichst Warum Deutsche Fortbildungsakademie Heilwesen? Weil dir in den praxisnahen Fortbildungen exakt die Fach- und Führungskompetenzen vermittelt werden, di",
@@ -971,6 +1192,11 @@
   "status": "ok",
   "title": "Wasserstrahlschneiden - Flow Waterjet | Waterjet Cutting Technology"
  },
+ "http://www.fluidops.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.fmb-group.com/de/index.php": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
@@ -986,6 +1212,31 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Frisch- und Tiefkühlkost Handels GmbH | Ihr kompetenter Partner für Lebensmittel"
+ },
+ "http://www.fuchs-beton.de/unternehmen/standorte/werke/fuchs-karlsruhe/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.funk-haustechnik.de/wordpress/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.ga-hlb.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.gabelstapler-haberkorn.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.galerieb.de/en/galerie-b.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.gathmann.com/": {
   "description": "Herzlich Willkommen auf der Homepage der Firma Gathmann. Mit Ã¼ber 2000 Handelspartnern in 50 LÃ¤ndern der Welt sind wir einer der fÃ¼hrenden Schmuckexporteure Deutschlands. Machen Sie sich ein Bild unserer Firma und entdecken Sie unsere umfangreiche Kollektion.",
@@ -1045,11 +1296,21 @@
   "status": "ok",
   "title": "Geomarketing für datenbasierte Standortentscheidungen - NIQ"
  },
+ "http://www.gigya.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.glas-herzog.de/": {
   "description": "Glas Herzog - Ihr Flachglas-Experte: Funktions- & Isoliergläser mit Lärm- & Sonnenschutz, Sicherheitsglas, Haustürverglasung u.v.m.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Glas Herzog GmbH | Flachglas-Experte & Partner in allen Glasfragen"
+ },
+ "http://www.gloetzl.de/en/home.htm": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.glowdrill.de/": {
   "description": "Glowdrill ist ihr zuverlässlicher Partner rund um das Thema Fließbohren und Gewindeformen. In unserem Fließbohrer Shop finden Sie Werkzeug Made in Germany.",
@@ -1093,6 +1354,11 @@
   "status": "ok",
   "title": "grenke – Leasing, Factoring und Banking aus einer Hand"
  },
+ "http://www.grokus.de.vu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.guedler.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -1135,6 +1401,11 @@
   "status": "ok",
   "title": "HAP -Home"
  },
+ "http://www.happyend-concerts.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.hartmann-chemietechnik.de/": {
   "description": "Wasserexperten für sichere, effiziente und normkonforme Anlagen. Wasseraufbereitung, Anlagentechnik, Monitoring, Analysen und Service aus einer Hand.",
   "fetched": "2026-09-24",
@@ -1171,6 +1442,11 @@
   "status": "ok",
   "title": "Hegelmann Group"
  },
+ "http://www.heidelberg-center.uni-hd.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.heidelberg.com/": {
   "description": "Offset printing presses, digital printing technologies, post-press packaging machines, converting equipment and more – for the smart print shop.",
   "fetched": "2026-09-24",
@@ -1188,6 +1464,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - Heiler Glas GmbH"
+ },
+ "http://www.heine.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.heizsysteme-knetzger.de/": {
   "description": "Ihr kompetenter Fachbetrieb für Solar- und Pellet,- Stückholzanlagen, sowie Öl- und Gasheizungen in Pfaffenhofen. Wir beraten Sie gerne. Ob es sich um die Planung, Installation und Wartung Ihrer neuen Heizungsanlage bei Modernisierung oder Neubau geht. Wir stehen wir Ihnen gerne bei allen Bau- und Modernisierungsvorhaben fachmännisch zur Seite und beraten Sie hinsichtlich einer möglichen Förderung",
@@ -1219,6 +1500,11 @@
   "status": "ok",
   "title": "IT-Betreuung, Prozesslösungen & KI für KMU | hcsystem"
  },
+ "http://www.hildenbrand.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.hillesheim-gmbh.de/": {
   "description": "Hillesheim | der Spezialist für Heizmatten, Heizkabel und Heizplatten. Unsere kompetenten Mitarbeiter beraten Sie gerne individuell, falls Sie Fragen zu Ihrer Heizmatte haben oder eine ganz bestimmte Heizplatte suchen.",
   "fetched": "2026-09-24",
@@ -1230,6 +1516,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Herzlich Willkommen bei der HODzic GmbH - Hodzic GmbH Oftersheim - Ihr Partner für Trockenbau, Akustikwände, Akustikdecken, Brandschutz"
+ },
+ "http://www.hof-musik.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.hoffmann-logistik.de/": {
   "description": "hoffmann-logistik.de",
@@ -1243,11 +1534,21 @@
   "status": "ok",
   "title": ""
  },
+ "http://www.horn-gmbh.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.huberholz.eu/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "huber"
+ },
+ "http://www.huffgmbh.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.hug-seeburger.de/": {
   "description": "Unsere Immobilien und Mieter liegen uns am Herzen – und das seit über 30 Jahren. Rund um die Karlsruher Südstadt bieten wir ganz individuellen Raum zum Arbeiten, Wohnen und Leben.",
@@ -1291,6 +1592,11 @@
   "status": "ok",
   "title": "Willkommen bei HYDRO POWER"
  },
+ "http://www.hz-transporte.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.i-b-gmbh.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -1308,6 +1614,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "KIT - IBG - Institut für Biologische Grenzflächen 2"
+ },
+ "http://www.ibs-ka.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.ict.fraunhofer.de/": {
   "description": "Das Fraunhofer ICT forscht unter anderem an Kunststoffen und Explosivstoffen. Es entwickelt und optimiert chemische Prozesse für industrielle Anwendungen.",
@@ -1333,11 +1644,26 @@
   "status": "ok",
   "title": "KIT - IMK - Home"
  },
+ "http://www.indra-recycling.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.ing-rothenhoefer.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Ingenieurbüro Rothenhöfer | Ingenieurbüro Rothenhöfer"
+ },
+ "http://www.ingenieurgruppe-bauen.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.inno-group.com/en/pages/33-inno-germany": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.innoenergy.com/": {
   "description": "InnoEnergy is industrialising clean tech innovation for a net zero economy. We invest in startups and build industrial value chains.",
@@ -1375,6 +1701,11 @@
   "status": "ok",
   "title": "ITS"
  },
+ "http://www.itfab.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.itk-engineering.de/": {
   "description": "Mit breiter Methodenexpertise & Branchen-Knowhow lösen wir komplexe technologische Herausforderungen und bringen Intelligenz in Systeme.",
   "fetched": "2026-09-24",
@@ -1386,6 +1717,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - ITW Deutschland"
+ },
+ "http://www.iwg.kit.edu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.jeschke-umwelttechnik.de/": {
   "description": "",
@@ -1417,6 +1753,11 @@
   "status": "ok",
   "title": "K3"
  },
+ "http://www.kafabul.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.karl-klink.de/": {
   "description": "Wir sind Karl Klink Räumtechnik! Als Spezialist in diesem Bereich überzeugen wir seit über 125 Jahren in Präzision und Innovation.",
   "fetched": "2026-09-24",
@@ -1434,6 +1775,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "KASTO Ltd."
+ },
+ "http://www.kbhf.org/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.kenforx.com/": {
   "description": "",
@@ -1456,6 +1802,11 @@
  "http://www.kiemle-metall.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "http://www.kienle-spiess.com/stormcms2/c3view.php": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.kies-krieger.de/": {
   "description": "Wir sind Krieger",
@@ -1481,11 +1832,21 @@
   "status": "ok",
   "title": "Mediengruppe KLAMBT"
  },
+ "http://www.klassische-archaeologie.uni-hd.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.klinger-schoeneberg.de/": {
   "description": "KLINGER Schöneberg: Industriearmaturen✓ Sonderarmaturen✓ Kugelhähne✓ Kunden- und prozessindividuell✓ extreme Einsatzbedingungen✓ Ihre Anlagensicherheit✓ Mehr!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "KLINGER Schöneberg | Industriearmaturen"
+ },
+ "http://www.kloeckner-stahl-und-metallhandel.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.kluthe.com/": {
   "description": "Die Chemische Werke Kluthe GmbH ist ein 1950 gegründetes Chemieunternehmen mit Sitz in Heidelberg | Wir sind Spezialisten für Oberflächenbehandlungen",
@@ -1557,6 +1918,11 @@
   "status": "ok",
   "title": "landauland"
  },
+ "http://www.laura-chavin.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.layher.com/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -1589,11 +1955,31 @@
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
  },
+ "http://www.louis-renner.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.ltz-bw.de/": {
   "description": "Informationen, aktuelle Versuchsergebnisse und Serviceangebote des Landwirtschaftlichen Technologiezentrums Augustenberg zu Pflanzenbau und Pflanzenschutz",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite - Infodienst - LTZ Augustenberg"
+ },
+ "http://www.luk.de/content.luk.de/de/index.jsp": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.lwsoft.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.mack-mannheim.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.mahakorz.de/": {
   "description": "",
@@ -1619,6 +2005,11 @@
   "status": "ok",
   "title": "Winding and assembly systems for motors and coils - Marsilli"
  },
+ "http://www.matz-jung.de/index.html": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.mavinci.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
@@ -1634,6 +2025,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Max B. Martin » Deutsche Signal-Instrumenten Fabrik"
+ },
+ "http://www.mbi-online.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.mds-transport.de/": {
   "description": "M.D.S-Transport, die Fach-Spedition für Pflanzen und Wertstoffe mit langjähriger Erfahrung, seit 1993.",
@@ -1709,11 +2105,21 @@
   "status": "ok",
   "title": "Energieversorgung und Raffinerie-Leistungen für den Südwesten - MiRO"
  },
+ "http://www.mk-motorsport.de/html_en/index.html": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.mkm.de/": {
   "description": "We are a company specialised in systems planning using highly developed econometric models and very detailed information like transportation networks and demand for mobility. Please explore our site for more information and our online services.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "MKmetric GmbH"
+ },
+ "http://www.modia-gmbh.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.moedinger-motk.de/": {
   "description": "Rohstoff Recycling Kühn - Ihr Ansprechpartner in 76297 Stutensee für Containerdienst, Schrotthandel, Recyclinghof, Demontage und Baustoffe. Nachhaltig Entsorgung & Recycling.",
@@ -1733,11 +2139,21 @@
   "status": "ok",
   "title": "Max Planck Institute for Comparative Public Law and International Law"
  },
+ "http://www.mpl-systeme.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.mri.bund.de/": {
   "description": "Max Rubner-Institut",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite: Max Rubner-Institut"
+ },
+ "http://www.msg-gillardon.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.mueller-hereth.com/": {
   "description": "Ihr Ingenieurbüro für Tunnen- und Felsbau. Komplettabwicklung von Planung über Bauüberwachung und unser geologisches Fachwissen.",
@@ -1827,6 +2243,11 @@
   "status": "ok",
   "title": "STARTSEITE - V&V Online"
  },
+ "http://www.papyrus.com/deDE/home.htm": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.parsa-beauty.com/": {
   "description": "Entdecke die Beauty-Welt von PARSA Beauty: Hochwertige Haarbürsten, innovative Styling-Tools, Make-up-Accessoires & Nagelpflege. Jetzt online bestellen!",
   "fetched": "2026-09-24",
@@ -1875,11 +2296,21 @@
   "status": "ok",
   "title": "Philipp & Co. GmbH & Co. KG - Startseite"
  },
+ "http://www.phönix-sd.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.pneu.com/": {
   "description": "Willkommen bei der Pneuhage Unternehmensgruppe. Reifen, Felgen und Service – das ist unser Hauptgeschäft. Erfahren Sie mehr über unser Unternehmen!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Reifen, Felgen und Service | Pneuhage Unternehmensgruppe"
+ },
+ "http://www.poly-trans.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.powerprojekt.de/": {
   "description": "",
@@ -1929,6 +2360,11 @@
   "status": "ok",
   "title": "Empowering mobility for a cleaner, smarter & safer future | PTV Group"
  },
+ "http://www.pulsgetriebe.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.pumpenservice-speyer.de/": {
   "description": "Schnelle Hilfe bei Pumpenausfällen, Verschleiß & Wartung. Ihr Experte für zuverlässige Wartung & Optimierung von Pumpensystemen!",
   "fetched": "2026-09-24",
@@ -1965,6 +2401,11 @@
   "status": "ok",
   "title": "One moment, please..."
  },
+ "http://www.regiobau.implenia.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.research4you.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -1988,6 +2429,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "S&B Abluft & Filtertechnik GmbH - Rhein-Neckar-Lüftungstechnik"
+ },
+ "http://www.ri-mac.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.richard-wolf.com/": {
   "description": "Richard Wolf ist eines der führenden Medizintechnikunternehmen im Bereich der Endoskopie. Entdecken Sie unsere Produkte für Ihre Fachdisziplin!",
@@ -2055,6 +2501,11 @@
   "status": "ok",
   "title": "Feuerwehrfahrzeughersteller | Feuerwehrauto Hersteller - Rosenbauer - Rosenbauer"
  },
+ "http://www.rothtechnik.eu/deutsch/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.rtm-medizintechnik.de/": {
   "description": "R.T.M.-Medizintechnik GmbH, Graben-Neudorf",
   "fetched": "2026-09-24",
@@ -2085,6 +2536,11 @@
   "status": "ok",
   "title": "Satz Druck Vertrieb | Roland Baron"
  },
+ "http://www.saurano.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.scdsoft.de/": {
   "description": "Die scdsoft AG ist offizieller SAP Special Expertise Partner und entwickelt individuelle Lösungen für Ihr Personalmanagement mit SAP HCM und SAP SuccessFactors.",
   "fetched": "2026-09-24",
@@ -2094,6 +2550,16 @@
  "http://www.scheck-in-center.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "http://www.schenk-rt.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.schiller.ch/fr/fr": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.schimmel-reisen.de/": {
   "fetched": "2026-09-24",
@@ -2134,6 +2600,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Dr. Willmar Schwabe – Gesundheit aus der Natur für den Menschen!"
+ },
+ "http://www.schwegler-industriemechanik.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.scsit.de/": {
   "description": "SCS-IT.SERVICES - IT-Dienstleistungen aus Versmold. Auf Ihre Bedürfnisse angepasste Dienstleistungen. Verlassen Sie sich auf unsere jahrelange Erfahrung.",
@@ -2221,17 +2692,32 @@
   "status": "ok",
   "title": "Crem - Crafted for Every Taste - Home"
  },
+ "http://www.spie-de.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.spielberger.de/": {
   "description": "Die Mühle verarbeitet Getreide seit den 80er Jahren ausschließlich in Bio- und Demeter-Qualität und vertreibt die Produkte im ausgewählten Bio-Fachhandel",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Biodynamisches Getreide von der Spielberger Mühle"
  },
+ "http://www.stabila.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.stahlbau-ritz.de/": {
   "description": "Stahlbau Ritz Schlosserei herstellung von Produkten aus Stahl,Treppenbau,Balkone,Tore",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Stahlbau Ritz GmbH & Co.Kg Linkenheim- Hochstetten,Karlsruhe,Süd Deutschland"
+ },
+ "http://www.stahlformkramer.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.steiner-transporte.com/": {
   "description": "Wir bieten Ihnen von Logistik und Kurierfahrten bis hin zu Transporten sowie Spezialtransporten und Eiltransporten alles, was Sie brauchen. Nehmen Sie Kontakt mit uns auf fÃ¼r Informationen zu Auftragsannahme, Service- und Preisinformation oder sonstigen Fragen.",
@@ -2275,6 +2761,11 @@
   "status": "ok",
   "title": "SÜDWESTFILM - Kameramann und EB-Team für Filmproduktion, TV, Dokumentation und Werbung | Karlsruhe, Stuttgart, Baden-Württemberg"
  },
+ "http://www.sv-rnp.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.swc-maier.de/": {
   "description": "SWC - Special Wheel Company. Die Radspannerei in Ditzingen. Wir restaurieren, fertigen Speicherr�der und Speichenfelgen. Egal ob Oldtimer, Motorrad, Quad oder PKW.",
   "fetched": "2026-09-24",
@@ -2305,17 +2796,32 @@
   "status": "ok",
   "title": "Willkommen bei Teleflex Urology Care (DE)"
  },
+ "http://www.tema-medien.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.tenneco.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": ""
  },
+ "http://www.tennis-klenert.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.terex-fuchs.com/": {
   "description": "Terex Fuchs – dieser Name steht für innovative und hocheffiziente Lademaschinen für den Hafen-, Recycling-, Schrott- und Holzumschlag.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite"
+ },
+ "http://www.tg-datennetze.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.thekatzgroup.com/": {
   "description": "",
@@ -2377,11 +2883,21 @@
   "status": "ok",
   "title": "TUP Warehouse Management Solutions - Willkommen"
  },
+ "http://www.twestphal.de/itshop/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.tzw.de/": {
   "description": "Wir forschen, beraten und prüfen. Als Kompetenzzentrum zum Thema Wasser entwickeln wir Lösungen und Konzepte für alle Bereiche der Wasserbranche.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Das TZW: Wasserinstitut, Kompetenzzentrum | TZW"
+ },
+ "http://www.ulan.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.unicon-software.com/": {
   "description": "UniconOS, a secure and hardened OS, and UniconOS Management, a powerful management tool, effortlessly scale with your growing device fleet – enhancing security, boosting efficiency, and reducing costs in VDI and cloud environments. Discover how UniconOS seamlessly integrates with Citrix DaaS.",
@@ -2419,6 +2935,16 @@
   "status": "ok",
   "title": "VEGA - Level - Switching - Pressure"
  },
+ "http://www.verocel.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "http://www.vogelmann-neuhofen.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.vogt-medical.com/": {
   "description": "Update keluaran SDY dan pengeluaran SDY terbaru siang ini dari Sydney Pools resmi. Lihat data SDY prize lengkap, result toto togel Sydney, dan arsip hasil undian harian yang akurat serta terverifikasi.",
   "fetched": "2026-09-24",
@@ -2452,6 +2978,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "WEBER-HYDRAULIK ► individuelle Hydraulikprodukte entdecken"
+ },
+ "http://www.weibel-ness.de/en/index1.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.wellendorff.com/": {
   "description": "Seit 1893 kreiert das Familienunternehmen besondere Schmuckstücke aus edelsten Materialien und mit Liebe zum Detail. Entdecken Sie die Preziosen!",
@@ -2488,6 +3019,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Start - Wilhelm Rieber Tourbillons (DE)"
+ },
+ "http://www.willcom-swiss.eu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "http://www.winkels.de/": {
   "description": "Mineralwasser Limonaden ErfrischungsgetrÃ¤nke GetrÃ¤nke Bier Logistik Marketing GetrÃ¤nkesortiment GetrÃ¤nkegrosshandel GetrÃ¤nkevertrieb Spedition Dienstleistung",
@@ -2549,6 +3085,11 @@
   "status": "ok",
   "title": "Home"
  },
+ "http://www.ziemann-gruppe.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "http://www.zwo-elf.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -2560,6 +3101,17 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Radioisotope für Technik und Medizin - Zyklotron AG"
+ },
+ "http://www.zzdrivetech.com/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "ZZ-DriveTech | Ihr Partner für Kegelradgetriebe und Schrittgetriebe"
+ },
+ "http://www2.spedition-wiedmann.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://2d-datarecording.com/": {
   "description": "Discover 2D – industry-leading solutions for data logging, sensors, displays, and analysis in motorsport and industrial applications.",
@@ -2603,11 +3155,21 @@
   "status": "ok",
   "title": "Abas ERP – Software für Fertigungsunternehmen im Mittelstand | Forterro"
  },
+ "https://abb.litwiss.kit.edu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://about.chrono24.com/": {
   "description": "Chrono24 is the world's leading marketplace for luxury watches",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Company — Chrono24"
+ },
+ "https://abschleppdienst-hauck.de/ba1c25a1-d0ee-4512-b081-0ae3b2f2ad6c.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://ac-eventtechnik.de/": {
   "description": "",
@@ -2644,6 +3206,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Airyx – Advanced Gas Measurement Technologies"
+ },
+ "https://ak-trans.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://akkurat.chayns.site/": {
   "description": ". - Intro | akkurat",
@@ -2841,6 +3408,11 @@
   "status": "ok",
   "title": "BMB — Be My Business"
  },
+ "https://beneicke-edv.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://berollka.de/": {
   "description": "NEUES VON BEROLLKA UNSERE PRODUKTE FÜR KINDER UND JUGENDLICHE UNSERE PRODUKTE FÜR ERWACHSENE",
   "fetched": "2026-09-24",
@@ -2888,6 +3460,16 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Azure Hybrid & Azure Local Spezialist | BORDONARO IT Speyer"
+ },
+ "https://botgart.bot.uni-heidelberg.de/Herbarium.php": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://brandfall-matrix.com/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://braun-maschinenbau.info/": {
   "description": "",
@@ -2979,6 +3561,11 @@
   "status": "ok",
   "title": "Startseite - ChurchTools"
  },
+ "https://cnsr.uni-heidelberg.de/7": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://codefy.de/": {
   "description": "Mit der Codefy Hybrid AIÂ® Ausschreibungen, VertrÃ¤ge und SchriftsÃ¤tze ab dem ersten Tag effizient und grÃ¼ndlich prÃ¼fen.",
   "fetched": "2026-09-24",
@@ -3033,11 +3620,21 @@
   "status": "ok",
   "title": "Dalloo-Pool - Schwimmbadbauer Karlsruhe"
  },
+ "https://datapeutics.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://datenberg.eu/": {
   "description": "Mit der DatenBerg smartPLAZA lassen sich Produktionsdaten erfassen, analysieren, überwachen und vorhersagen – normkonform und rückverfolgbar.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "DatenBerg - Maschinen- und Qualitätsdaten smart nutzen"
+ },
+ "https://de.alten.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://de.tdk-lambda.com/": {
   "fetched": "2026-09-24",
@@ -3119,11 +3716,26 @@
   "status": "ok",
   "title": "DIQA-Homepage"
  },
+ "https://dmvertrieb-ketsch.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://dogone.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://dongus-kaelte.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Dongus Kältetechnik GmbH | Deckenpronn"
+ },
+ "https://doninger-cnc.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://dose.eu/": {
   "description": "Dose Tannery Systems GmbH bietet seit 75 Jahren nachhaltige, effiziente Lösungen für die Lederverarbeitung. Kontaktieren Sie uns für mehr!",
@@ -3189,6 +3801,11 @@
   "status": "ok",
   "title": ""
  },
+ "https://emcl.iwr.uni-heidelberg.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://enabl-tech.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -3218,6 +3835,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Engineering & Technologieentwicklung | ARRK Engineering"
+ },
+ "https://enisco.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://enkeonline.de/": {
   "description": "",
@@ -3318,6 +3940,11 @@
  "https://finance.arvato.com/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "https://fitmotion.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://fs-fertigungssysteme.de/": {
   "description": "",
@@ -3421,6 +4048,12 @@
   "status": "ok",
   "title": "GFK Ingenieurbüro - Bau, Bahn & erneuerbare Energien"
  },
+ "https://gigahertz.de/": {
+  "description": "Als Netzwerk-Experten konzeptionieren, implementieren und betreiben wir skalierbare, performante & sichere Netzwerksysteme sowie netzwerknahe Dienste.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Die Netzwerk-Experten - Gigahertz GmbH"
+ },
  "https://ginex-espressomaschinen.de/": {
   "description": "Große Auswahl an Siebträger Espressomaschinen &amp; Espressomühlen √ Autorisierter Händler für Espressomaschinen, Kaffeemühlen & Zubehör.",
   "fetched": "2026-09-24",
@@ -3450,6 +4083,16 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Prof. Dr.-Ing. Uwe Görisch GmbH – | Ingenieurbüro für Abfallwirtschaft"
+ },
+ "https://goflink.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://golfballalarm.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://gollinger.de/": {
   "description": "Gollinger PESS | SPS Solutions - Projektieren, Entwickeln, Schalten, Steuern nach Kundenanforderungen, Aufbauzeichnungen, Stromlaufpläne, SPS-Programme, Klemmenpläne, Pflichtenhefte sowie Stücklisten. Das Erstellen von professionellen Betriebsanleitungen gehört zu unserem Service.",
@@ -3528,6 +4171,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Sauter Hausmeisterdienste"
+ },
+ "https://hci.iwr.uni-heidelberg.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://heatit.de/": {
   "description": "Mit heat it® kannst du juckende Insektenstiche jederzeit und innerhalb weniger Augenblicke mit deinem Smartphone behandeln. Zur Linderung von Juckreiz & Schmerz wird die betroffene Hautstelle kurzzeitig auf rund 51 °C erwärmt. Dieses chemiefreie Wirkprinzip der lokalen Hyperthermie ist medizinisch bestätigt.",
@@ -3633,6 +4281,11 @@
   "status": "ok",
   "title": "Abschleppdienst Rhein-Neckar-Raum und Vorderpfalz 24h & Kfz-Werkstatt | Höhl Gruppe"
  },
+ "https://hoepfner-wertinvest.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://holzelementbau-nordbaden.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -3680,6 +4333,21 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Technische Hygiene & Raumlufthygiene | Igienair"
+ },
+ "https://ili-consulting.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://impressive-pages.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://inapa.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://infakom.de/": {
   "description": "Führung neu denken. Systeme entlasten. Menschen stärken Mein Name ist Uwe Janikovits und ich begleite als systemischer Coach sowohl Führungskräfte aller Hierarchieebenen als auch deren Teams aus den Bereichen Verwaltung, Gesundheit und Pädagogik. Mein zentraler Antrieb ist es, mehr Klarheit, spürbare Entlastung und neue Zuversicht im Arbeitsumfeld zu schaffen.",
@@ -3745,6 +4413,11 @@
   "status": "ok",
   "title": "WORLDWIDE | Intrepid Control Systems, Inc."
  },
+ "https://ipsen-pharma.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://isotox.de/": {
   "description": "Schutz vor Schädlingen für Privat- und Geschäftskunden. Kostenlose Inspektion, schnelle Reaktionszeiten, faire Preise und langjährige Erfahrung. Jetzt anrufen 07041/9382156",
   "fetched": "2026-09-24",
@@ -3805,6 +4478,11 @@
   "status": "ok",
   "title": "Joos Umwelttechnik GmbH - Joos Firmengruppe"
  },
+ "https://k-tc.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://k2-systems.com/": {
   "description": "We develop mounting systems for photovoltaic systems. Our customers benefit from our long­standing international experience and expertise.",
   "fetched": "2026-09-24",
@@ -3835,15 +4513,31 @@
   "status": "ok",
   "title": "Privatkunden - stadtmobil Karlsruhe"
  },
+ "https://kernitk.jimdo.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://kettlitz-gmbh.de/": {
   "description": "Kettlitz GmbH Schlosserei – Metallbau aus Ludwigshafen, das bedeutet geballte Kompetenz unter einem Dach. Auf uns können Sie sich verlassen!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Kompetent in Metall"
  },
+ "https://kfm-alarm.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://kgm-verlag.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
+ },
+ "https://kirchenbauer.de/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "- STARTSEITE"
  },
  "https://kks-hd.de/": {
   "description": "",
@@ -4065,6 +4759,11 @@
   "status": "ok",
   "title": "Spedition & Logistik Partner: LTG Doll KG"
  },
+ "https://lua.rlp.de/wir-ueber-uns/abteilungen-referate/humanmedizin/ihis-landau/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://lvg.landwirtschaft-bw.de/": {
   "description": "Informationen und Angebote der Lehr- und Versuchsanstalt für Gartenbau (LVG) Heidelberg",
   "fetched": "2026-09-24",
@@ -4082,6 +4781,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "maier solution – ELEKTROTECHNIK | SICHERHEITSTECHNIK"
+ },
+ "https://majolika-karlsruhe.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://malo7.com/": {
   "description": "MALO7 koordiniert Ihr Renovierungs- und Sanierungsprojekt im Rhein-Neckar-Kreis. Ein Ansprechpartner für Planung, Koordination und Umsetzung.",
@@ -4112,6 +4816,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Max-Simmel Maschinenbau GmbH"
+ },
+ "https://mb-mueller.com/de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://md-productions.com/": {
   "description": "PRODUKTION // POST-PRODUKTION // SPRACHFASSUNG – Wir lieben Film & Fernsehen, diese Leidenschaft möchten wir mit Ihnen teilen.",
@@ -4179,6 +4888,11 @@
   "status": "ok",
   "title": ""
  },
+ "https://mica-services.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://microjet.de/": {
   "description": "Minimalmengenschmiersysteme made in Germany - Wir haben uns konsequent der Entwicklung der Minimalmengenschmierung verschrieben. Seit 1989 ist es unser Anspruch mit minimalen Mengen an Schmierstoff in der Fertigung aus zu kommen.",
   "fetched": "2026-09-24",
@@ -4243,11 +4957,26 @@
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
  },
+ "https://naberdruck.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://navigate.de/": {
   "description": "Navigate ist eine Internetagentur mit Sitz in Karlsruhe. Seit dem Jahr 2000 entwickeln wir Webanwendungen, die performant, nachhaltig und barrierefrei sind. 0721 664714-0",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Webagentur aus Karlsruhe seit dem Jahr 2000 - Navigate AG - Die Internetagentur"
+ },
+ "https://net-mannheim.gmbh/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://neufraspedition.de/site_de/s_de_2_01_15.htm": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://nitrado.net/": {
   "description": "Spieleserver, Gameserver mieten, Hosting gÃ¼nstig und sofort | NITRADO",
@@ -4272,6 +5001,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "NTFS IT-SYSTEMHAUS - Unser Weg ist die Innovation"
+ },
+ "https://nuw.rptu.de/ags/eeres": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://nwe.de/": {
   "description": "IT-Security, Netzwerksicherheit, Managed Services und 24/7 IT-Support. ISO 27001-zertifizierter IT-Dienstleister für Unternehmen in Deutschland. Individuelle Sicherheits- und Netzwerklösungen.",
@@ -4362,6 +5096,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Zukunftssichere Energiestrategien - Path to Zero"
+ },
+ "https://pdmlab.com/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://peepz.net/": {
   "description": "Entdecken Sie unsere vielfältigen Personallösungen und profitieren Sie von flexiblem Outsourcing auf höchstem Niveau ✓ Empfangspersonal ✓ Telefonservice",
@@ -4511,6 +5250,11 @@
   "status": "ok",
   "title": "rami.io GmbH · Softwareentwicklung - Softwareentwicklung aus Heidelberg"
  },
+ "https://raquet.eu/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://rauch.de/": {
   "description": "Entdecken Sie RAUCH Düngerstreuer für präzise Düngung: moderne Streutechnik, maximale Effizienz und optimale Erträge für Betriebe jeder Größe.",
   "fetched": "2026-09-24",
@@ -4528,6 +5272,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Patentrecherche und Fachrecherche | Recherche und Beratung"
+ },
+ "https://reichert-tools.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://renumics.com/": {
   "description": "Renumics - Agentic AI for Engineering Teams",
@@ -4552,6 +5301,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Salvia Rhein-Neckar - Home"
+ },
+ "https://ride2go.engineering/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://ringside-zone.com/": {
   "description": "NIGHT OF THE HEAVYWEIGHTS Aftermovie https://www.youtube.com/embed/bDnRvyGIz_I?si=EJLvncwcnZg9QesZ Athleten PRESSE BILD + Sportschau ntv BILD + Sportschau ntv INFOS Was ist die RINGSIDE ZONE? Die RINGSIDE ZONE ist eine moderne Plattform rund um Boxsport, Events, Medien, Promotion und exklusive Erlebnisse. Kann man mit der RINGSIDE ZONE zusammenarbeiten? Ja. Wir sind offen für Kooperationen mit Mar",
@@ -4588,6 +5342,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite | RS Ingenieure"
+ },
+ "https://rs-it-management.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://rvm-mannheim.de/": {
   "description": "RVM Rückstandsverwertungs GmbH – metallhaltige Schlämme, Stäube und Rückstände intelligent aufbereiten.",
@@ -4630,6 +5389,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite - S.A.M. Elektrotechnik"
+ },
+ "https://sanlucar-group.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://sauer-rindfleisch.de/": {
   "description": "",
@@ -4791,6 +5555,16 @@
   "status": "ok",
   "title": "Innovate to differentiate mit sovanta - sovanta AG"
  },
+ "https://sparkteams.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://sped-martin.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://spedition-rau.de/": {
   "description": "Transporte & Holzhandel Achim Rau in Hochstadt/Pfalz. Anschrift: Edesheimer Weg 3 a in 76879 Hochstadt. Telefon (06347) 8800<br />",
   "fetched": "2026-09-24",
@@ -4814,6 +5588,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "IT-Systemhaus Mannheim | Managed IT & KI | Spruck IT"
+ },
+ "https://stahlbau-loew.de/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Stahlbau Löw GmbH - wirtschaftliches und innovatives Bauen - Ihr Stahlbau Experte - Stahlbau Löw GmbH & Co. KG"
  },
  "https://starface.com/": {
   "description": "STARFACE Telefonanlage für digitale Kommunikation. Cloud, Hardware und VM. IP Telefonie für kleine, mittlere und große Unternehmen.",
@@ -5049,6 +5829,12 @@
   "status": "ok",
   "title": "Home - VULCAN ENERGY RESOURCES"
  },
+ "https://vdvc.de/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": ""
+ },
  "https://verint.de/": {
   "description": "Close the AI outcomes gap with the Verint Open Platform. Embed agentic AI directly into your CX workflows to quickly drive measurable results.",
   "fetched": "2026-09-24",
@@ -5157,6 +5943,47 @@
   "status": "ok",
   "title": "Walter Kartonagen | Ihr Spezialist bei Verpackungsfragen."
  },
+ "https://wdb-raumdesign.branchenheld.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://web.archive.org/web/20030201223907/https://www.wolman.de/": {
+  "description": "Wir sind ein Unternehmen der BASF Gruppe und zählen zu den weltweit führenden Holzschutzmittelproduzenten. Traditionsbewusst, aber innovativ und zukunftsorientiert, so erklärt sich die Philosophie unseres Hauses.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Holzschutz, Holzimprägnierung, Holzschutzmittel, etc. von Dr. Wolman GmbH!"
+ },
+ "https://web.archive.org/web/20121227052250/http://www.yitp.de:80/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "YITP − Home"
+ },
+ "https://web.archive.org/web/20161017101923/http://www.progen.de/": {
+  "description": "Home of highest quality antibodies, research products and niche diagnostics.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "PROGEN Biotechnik GmbH"
+ },
+ "https://web.archive.org/web/20161118111452/http://www.pando-diferente.com/": {
+  "description": "pando diferente ist ein Zusammenschluss, ein Miteinander, ein Kollektiv und ein Füreinander, in dessen Fokus sich der Film mit all seinen Facetten befindet. Geht es um die Idee, um die Konzeptentwicklung, um das Drehbuch, um die Produktion, um den Dreh oder um die Postproduktion - in pando diferente vereinen sich Kräfte, die ihre Erfahrung aus den verschiedensten Welten der Filmindustrie einfließe",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "pando diferente - pando diferente Medien- und Filmproduktion"
+ },
+ "https://web.archive.org/web/20170913053017/http://hb-werbetechnik.de/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "H&B Werbe & Messetechnik GmbH"
+ },
+ "https://web.archive.org/web/20200219172529/http://www.woodcoatings.de/de/index.php": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Heidelberger Lackfabrik -Trendfarben-Lacke-Beize-Beschichtung"
+ },
  "https://weber-ing.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -5211,6 +6038,11 @@
   "status": "ok",
   "title": "High-Performance Waterjet Machines Techni Waterjet EMEA 2026"
  },
+ "https://ww.rinklef-landschaftspflege.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.1001couleurs-peinture.fr/": {
   "description": "Guides pratiques, simulateur de budget de travaux et barème de prix actualisés par des experts de terrain. Évitez les pièges de devis de peinture, béton ciré et isolation.",
   "fetched": "2026-09-24",
@@ -5229,6 +6061,11 @@
   "status": "ok",
   "title": "1&1 Mobilfunk und Internet > Alles aus einer Hand"
  },
+ "https://www.48design.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.5ding.de/": {
   "description": "Kreative 3D-Animation, Design & Social-Media-Content von Manuel Ding aus Schwetzingen. 5Ding.de bietet visuelles Storytelling, Motion Design und Content-Produktion fÃ¼r Film, Web und Werbung.",
   "fetched": "2026-09-24",
@@ -5240,6 +6077,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Cyber Security für Unternehmen und Behörden"
+ },
+ "https://www.Schrottabholung-Köhler.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.abd-dreherei.de/": {
   "description": "Ob für Maschinenbau, Antriebstechnik, Anlagenbau oder Werkzeugbau - wir finden eine Lösung. Seit 1992 Ihr Partner für CNC Fertigung aus Ettlingen.",
@@ -5264,6 +6106,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "absinthehouse.com - Absinthe 7 Styles - die größte Auswahl an Absinthen Online - Der Online Shop für Absinth"
+ },
+ "https://www.ackermann-cnc.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.across.net/": {
   "description": "Die Across Systems GmbH bietet innovative Übersetzungsmanagement-Lösungen (TMS) und den Across Language Server für effiziente Übersetzungsprozesse.",
@@ -5348,6 +6195,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Agosi – Agosi AG"
+ },
+ "https://www.agrardienst-huber.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.ahrex.de/": {
   "description": "Beratung, Konzepte & operative Umsetzung aus einer Hand, aus Mannheim, seit 2004. Für Startups & KMU.",
@@ -5609,6 +6461,11 @@
   "status": "ok",
   "title": "ascent - ganzheitliche Finanzberatung"
  },
+ "https://www.asia-europe.uni-heidelberg.de/de/ueber-uns/karl-jaspers-zentrum.html": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.asica.group/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
@@ -5618,6 +6475,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Datenlogger für Stoß, Schock & mehr – auch mit weltweitem live Tracking"
+ },
+ "https://www.aspiration-husky-67.fr/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.assecosolutions.com/": {
   "description": "✓ Erfahrung ✓ Zuverlässigkeit ✓ Sicherheit ✓ Innovation ✓ Fokus auf gehobenen Mittelstand - vereinfachen Sie Ihren Arbeitsalltag mit APplus. ▶ Mehr erfahren.",
@@ -5630,6 +6492,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Atevia | Home"
+ },
+ "https://www.autmatec.de/startseite/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.auto-bissinger.de/": {
   "description": "Wir bringen Sie schnell und zuverlässig zurück auf die Straße. Als professioneller Abschleppdienst und Pannendienst in Ihrer Nähe sind wir rund um die Uhr für",
@@ -5691,6 +6558,11 @@
   "status": "ok",
   "title": "Soziale Dienstleistungen mit Herz und hoher Qualität - AWO Karlsruhe"
  },
+ "https://www.axel.energy/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.bad-ziegler.de/": {
   "description": "Wolfgang Ziegler GmbH: Verkehrssicherung, mobile Ampelsysteme, Baustellenabsicherung und mobile Halteverbote in Mittelbaden.",
   "fetched": "2026-09-24",
@@ -5709,6 +6581,16 @@
   "status": "ok",
   "title": "Unsere Geschichte - Flughafen Karlsruhe / Baden-Baden (FKB)"
  },
+ "https://www.baden-board.de/ueber-baden-karton": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.baden-board.de/ueber-baden-packaging": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.baden-chemie.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -5724,6 +6606,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Ihr Versandhaus für Qualität: Top-Produkte online bestellen! | BADER"
+ },
+ "https://www.badisches-druckhaus.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.baeckerei-katz.de/": {
   "description": "",
@@ -5748,6 +6635,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - NEM Energy"
+ },
+ "https://www.barco.com/de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.barger-gmbh.de/index.php": {
   "description": "",
@@ -5887,6 +6779,11 @@
   "status": "ok",
   "title": "Complex glass projects | Glas Trösch"
  },
+ "https://www.big-gruppe.com/de/standorte/karlsruhe-management": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.binz-hoch3.de/": {
   "description": "Wir sind ein Ingenieurbüro, das von der Idee bis zum serienreifen Produkt alle Schritte der virtuellen Produktentwicklung als Dienstleistung bietet. Ihr Vorteil besteht darin, dass Sie durch das BINZ-Prinzip bei Ihrem Projekt immer das komplette Fachwissen aller unserer Mitarbeiter erhalten - für garantiert neue Impulse.",
   "fetched": "2026-09-24",
@@ -5964,6 +6861,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Homepage - BOA GROUP"
+ },
+ "https://www.bobcat.de/mannheim/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.bohle-gruppe.com/": {
   "description": "✔️ Als inhabergeführtes Unternehmen sind wir stolz darauf, dass wir seit vielen Jahren mit einem Stamm zuverlässiger und motivierter Mitarbeiter…",
@@ -6143,11 +7045,26 @@
   "status": "ok",
   "title": "cab Product Marking: Label Printer, Print and Apply, Marking Lasers"
  },
+ "https://www.cad-spanke.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.caddent.de/": {
   "description": "Profitieren Sie von unserem langjährigen CAD/CAM-Expertenwissen: große Produktpalette und Service auf Augenhöhe für gewerbliche Dental- und Praxislabore.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "CADdent®: Ihr Anbieter für 3D-Druck, Laser- & Frästechnik"
+ },
+ "https://www.caddie.fr/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.callatrucker.de/unsere-standorte/karlsruhe/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.cambaum.com/": {
   "description": "Cambaum provides innovative access control and fare management solutions for the public transport sector. Our highly professional engineering team develops ready-to-use systems, which meet highest standards in terms of innovation, security and quality. Cambaum’s range of products includes platform screen doors (PSD), ticket vending machines (TVM) as well as biometric access systems.",
@@ -6307,6 +7224,11 @@
   "status": "ok",
   "title": "Software Know-How trifft auf Technologie-Expertise"
  },
+ "https://www.cofely.de/de/cofely/kontakt/details/Mannheim/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.colibrex.com/": {
   "description": "Welcome to the Colibrex homepage! Learn more about the result of several years of R&D, testing and integration of the latest innovations regarding remote control flight, data transmission & storage, and radio frequency measurement.",
   "fetched": "2026-09-24",
@@ -6366,6 +7288,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Pfälzer Leberwurst. Einfach lecker, richtig gut!"
+ },
+ "https://www.cotac-group.eu/de/stationen/cotac-mannheim.php": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.cranetech.de/": {
   "description": "TeichmannGruppe - ein Zusammenschluss selbständiger Kranbau- und Serviceunternehmen",
@@ -6521,11 +7448,22 @@
   "status": "ok",
   "title": ""
  },
+ "https://www.des-etiketten.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.deutschebahn.com/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "DB Konzern"
+ },
+ "https://www.devino.de/": {
+  "description": "The premium domain devino.de is for sale on fruits.co. Secure the domain now and start your online success story. Safe payment and quick transfer are guaranteed.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "devino.de | fruits"
  },
  "https://www.dfs.de/": {
   "description": "",
@@ -6533,11 +7471,22 @@
   "status": "ok",
   "title": "Startpage | DFS Deutsche Flugsicherung GmbH"
  },
+ "https://www.dhu.de/": {
+  "description": "Erfahren Sie, wie Sie mit homöopathischen Heilmitteln Ihre Gesundheit und Wohlbefinden fördern. ►Wir informieren Sie gerne!",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "DHU - Gesundheit erfahren"
+ },
  "https://www.dicht.de/": {
   "description": "Hänssler - seit 40 Jahren Expertise in der Kunststoff- und Dichtungstechnik: Entwicklung ✔ Lohnfertigung ✔ Beratung ✔ → Jetzt mehr erfahren!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Hänssler - Ihr Partner für Kunststoff- und Dichtungstechnik"
+ },
+ "https://www.diebaufabrik.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.diebauingenieure.com/": {
   "description": "dieBauingenieure ist ein Ingenieurdienstleister für Generalplanung, Baubetreuung, Bauphysik, Gebäudezertifizierung, Energiemanagement, Objektbetreuung, Messtechnik und Sachverständigenleistungen mit Sitz in Karlsruhe und Berlin.",
@@ -6645,6 +7594,11 @@
   "status": "ok",
   "title": "Druckerpatronen & Toner für Büro & Gewerbe | Kauf auf Rechnung"
  },
+ "https://www.ds-tinyhouse.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.duk-gmbh.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -6674,6 +7628,16 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home | Easy Smart Grid"
+ },
+ "https://www.eaton.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.eberspaecher.com/produkte/automotive-controls.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.ebuch.net/": {
   "description": "eBuch eG – Ihr starker Partner für Buchhandlungen: Einkaufsvorteile, Kassensysteme, Onlineshop, Beratung & Services für Gründer, Übernahmen und Sortimentswechsel. Gemeinsam den Buchhandel stärken!",
@@ -6722,6 +7686,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Kranwaage und Wägezelle direkt vom Hersteller | Made in Germany"
+ },
+ "https://www.eichenlaub-logistik.de/deu/kontakt.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.eifer.kit.edu/": {
   "description": "",
@@ -6849,6 +7818,11 @@
   "status": "ok",
   "title": "Ihr Energieanbieter für Strom, Gas und Elektromobilität | EnBW"
  },
+ "https://www.endosmart.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.energieagentur-kreiska.de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
@@ -6925,6 +7899,11 @@
   "status": "ok",
   "title": "Strom, Gas, Solar- und Heizungslösungen | Erdgas Südwest"
  },
+ "https://www.ergosoft.info/tp3446/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.erste-reserve.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -6936,6 +7915,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "ESCde GmbH"
+ },
+ "https://www.esi-heidelberg.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.essert.com/": {
   "description": "Flexible, GMP-compliant robotic automation that evolves with your pipeline. Boost OEE, reduce TCO, and bring new therapies to market faster.",
@@ -6972,6 +7956,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Eurescom GmbH – Innovation through collaboration"
+ },
+ "https://www.eurobaustoff.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.euroflow.de/": {
   "description": "",
@@ -7033,11 +8022,22 @@
   "status": "ok",
   "title": "Flyerauslage, Promotionteams, Außenwerbung, Marketing, Kommunikation - Fahrwerk Ambient Marketing - Agentur für Umfeldmarketing"
  },
+ "https://www.fair-finance-institute.de/": {
+  "description": "Für ein Geld- und Finanzsystem, das dem Menschen dient und unsere Lebensgrundlagen schützt.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Startseite » Fair Finance Institute"
+ },
  "https://www.farmblick.de/": {
   "description": "FarmBlick verbindet Bodenanalyse, Bodenscanning und digitale Agrardaten zueinem Agrarservice aus einer Hand. Für Landwirte und Lohnunternehmer, überunser Systempartner-Netzwerk in Deutschland, Europa und weltweit aktiv.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "FarmBlick – Bodenanalyse, Bodenscanning & Smart Farming Software"
+ },
+ "https://www.fauthchemie.de/team.html": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.fc-gruppe.de/": {
   "description": "Die FC-Gruppe verbindet Ingenieurwesen, IT und Beratung, um mit Technologie das weiterzuentwickeln, was unsere Gesellschaft bewegt, versorgt und verbindet.",
@@ -7092,6 +8092,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "FES-Hermes – FES GmbH Fels Einrichtungsservice"
+ },
+ "https://www.fike.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.filippigmbh.de/": {
   "description": "Sandwichelemente, Trapezbleche, Wellbleche, Kantteile und Dachsanierungen in Achern. Lagerware, Sonderposten und direkte Anfrage bei Filippi.",
@@ -7165,11 +8170,21 @@
   "status": "ok",
   "title": "Fliesen vom Fink - Fliesenfachgeschäft in Güglingen"
  },
+ "https://www.floatspace.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.fm-systeme.de/": {
   "description": "Wir bieten Lösungen für individuelle Aufgabenstellungen zur Automatisierung Ihrer Produktion. Unsere Arbeitsplatzsysteme, Fördertechnik aus Aluprofil sowie das durchdachte Schutzzaunsystem sind international im Einsatz.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "FM Systeme - Spezialist für 5S und eine schlanke Fertigung"
+ },
+ "https://www.fmb-technik.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.foerch.de/unternehmen/verkaufsniederlassungen/mannheim/mannheim.aspx": {
   "description": "",
@@ -7411,6 +8426,11 @@
   "status": "ok",
   "title": "generic.de | KI-gestützte Softwareentwicklung für die Industrie"
  },
+ "https://www.genewerk.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.genodata.de/": {
   "description": "Software für Banken, Sparkassen und die gesamte Finanzindustrie",
   "fetched": "2026-09-24",
@@ -7555,11 +8575,21 @@
   "status": "ok",
   "title": "Metallrecycling Minze Oschd, Ihr Partner fÃ¼r Metall, Kupferschrott, Aluminium, Katalysatoren sowie Hartmetallschrott und HSS-Schrott"
  },
+ "https://www.globalworx.eu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.glueckskekse.de/": {
   "description": "Glücklich mit Glückskeksen… Höchste Qualität✓ Made in Germany✓ Vegan✓ Individualisierbar✓ Für Gewerbe- und Endkunden✓ Auch in Bio✓",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Glückskekse made in Germany | Sweet & Lucky"
+ },
+ "https://www.goldbeck.de/standorte/karlsruhe/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.golf-4-all.de/": {
   "description": "Willkommen bei Golf 4 All. Golfen Sie auf dem schönen Grün der Kurpfalz und unserer Partneranlagen.",
@@ -7637,6 +8667,11 @@
   "status": "ok",
   "title": "Guided Development - Home"
  },
+ "https://www.gummi-koerner.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.gummifabrik-simon.de/": {
   "description": "Weblication CMS Demoseite",
   "fetched": "2026-09-24",
@@ -7667,6 +8702,11 @@
   "status": "ok",
   "title": "h2-Systems | IT-Partner für ihr Unternehmen"
  },
+ "https://www.haag-mobility-center.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.haass-bau.de/": {
   "description": "Leistungen Wir bauen für Sie seit Generationen Hochbau Wohnbau Industrie- und Gewerbebau Bauwerke der öffentlichen Hand Umbau Mehr zu Hochbau Tiefbau Erdbau Straßen- und Wegbau Kanal- und Leitungsbau Hofanlagen- und Landschaftsbau Mehr zu Tiefbau Natursteinwerk Gesteinskörnungen aus Schilfsandstein 0-4mm 4-11mm 11-45mm 45mm und größer",
   "fetched": "2026-09-24",
@@ -7696,6 +8736,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Häussling Online Shop"
+ },
+ "https://www.hager.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.haimerl-lasertechnik.de/": {
   "description": "Wir schneiden, stanzen, biegen und schweißen Blech zu Bestform. Blechbearbeitung, Edelstahlblechbearbeitung und Metallbearbeitung ist eine Kunst für sich. Die Kunst besteht darin, tadellose Qualität in kürzester Zeit kostengünstig zu produzieren. Mit innovativer Lasertechnologie ist das alles möglich.",
@@ -7833,6 +8878,11 @@
   "status": "ok",
   "title": "Heidelberg Materials - Baustoffanbieter in Deutschland | Heidelberg Materials Deutschland"
  },
+ "https://www.heidelbergcement.de/de/beton/karlsruhe": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.heidelbergengineering.com/de/": {
   "fetched": "2026-09-24",
   "status": "robots_disallowed"
@@ -7861,6 +8911,11 @@
   "status": "ok",
   "title": "Home page - Heimerle + Meule GmbH"
  },
+ "https://www.heinrich-meier.de/": {
+  "error": "RetryError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.heinrich-schmid.com/": {
   "description": "Heinrich Schmid mit 200+ Standorten | Handwerker, Maler, Trockenbauer, Projekt- und Baumanager, Innenausbauer",
   "fetched": "2026-09-24",
@@ -7878,6 +8933,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "HENRY´s - Auktionen/Direktverkäufe von Schmuck, Uhren, Kunst, Antiquitäten, Orientteppichen und Mode"
+ },
+ "https://www.herbert-pemsel.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.herrmannultraschall.com/": {
   "description": "Herrmann Ultraschall: the leader in ultrasonic technology for plastics, packaging & nonwovens – sustainable, efficient & offering high process safety.",
@@ -7900,6 +8960,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite - Hettmannsperger Bohrgesellschaft mbH"
+ },
+ "https://www.hetzelstift.de/startseite": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.hhd-pflege.de/": {
   "description": "",
@@ -8001,6 +9066,11 @@
   "status": "ok",
   "title": "Süddeutschland Standorte Detail"
  },
+ "https://www.holzbau-sommerauer.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.holzwerkstatt-geiger.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -8085,6 +9155,11 @@
   "status": "ok",
   "title": "Diehl Apleona Wolfferts | Technische Gebäudesysteme"
  },
+ "https://www.hubl-gmbh.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.huefner-gartenbau.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -8103,6 +9178,11 @@
   "status": "ok",
   "title": "Hutchinson, multi-material solutions powered by science"
  },
+ "https://www.iabg.de/en/corporate-profile/regional-offices": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.iai.kit.edu/": {
   "description": "Das Institut betreibt Forschung und Entwicklung auf dem Gebiet innovativer, anwendungsorientierter Informations-, Automatisierungs- und Systemtechnik für zukunftsfähige Energiesysteme sowie komplexe Industrie- und Laborprozesse.",
   "fetched": "2026-09-24",
@@ -8120,6 +9200,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "KIT - IAP Home"
+ },
+ "https://www.ias-gruppe.de/die-ias-gruppe/standorte/details/standort/karlsruhe-1.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.iavf.de/": {
   "description": "Über 35 Jahre Erfahrung in Versuchs- und Entwicklungsarbeiten für nationale und internationale Fahrzeug- und Motorenhersteller.",
@@ -8180,6 +9265,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Willkommen bei VIVAVIS"
+ },
+ "https://www.ifeu.de/": {
+  "description": "Das ifeu forscht und berät weltweit zu wichtigen Umwelt- und Nachhaltigkeitsthemen für zahlreiche (inter-)nationale Fördermittel- und Auftraggeber.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "ifeu gGmbH: Institut für Energie- und Umweltforschung"
  },
  "https://www.iformatics.de/": {
   "description": "IT-Partner für IT & Digitalisierung: Lösungen für IT Architektur, IT Services, Projektmanagement und maximale IT-Sicherheit für Unternehmen.",
@@ -8307,6 +9398,11 @@
   "status": "ok",
   "title": "Home - www.INNESYS.de"
  },
+ "https://www.innoplexia.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.inovex.de/": {
   "description": "inovex ist ein innovations- und qualitätsgetriebenes IT-Projekthaus mit dem Leistungsschwerpunkt „Digitale Transformation“.",
   "fetched": "2026-09-24",
@@ -8348,6 +9444,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "invenio: Ihr Engineering- und Technologiepartner"
+ },
+ "https://www.invisiblepage.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.ionos.de/": {
   "description": "Leistungsstarke & hochverfÃ¼gbare Hosting-LÃ¶sungen aus Europa rund um Domain, Website, Online-Shop, Cloud. 30 Jahre Erfahrung & Top-Kundenservice.",
@@ -8397,11 +9498,22 @@
   "status": "ok",
   "title": "KIT - IQMT - IQMT - Startseite"
  },
+ "https://www.isb-ag.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.isb.net/": {
   "description": "Die Firma ISB GmbH in Karlsruhe - Sie brauchen eine maßgeschneiderte ERP-Software? Hier sind Sie genau richtig.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "ISB GmbH PPS-System und Mainframe Migration - ISB GmbH"
+ },
+ "https://www.iscar.de/newarticles.aspx/countryid/7/newarticleid/10892": {
+  "description": "About ISCAR - Certification, Special, Tools, Distributors, Contact, Career, Events",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "About Us"
  },
  "https://www.isdfeniqs.com/": {
   "description": "Focus on your business goals, while we run and secure your digital foundation.",
@@ -8415,6 +9527,11 @@
   "status": "ok",
   "title": "Fraunhofer ISI: gemeinsam | Zukunft | gestalten - Fraunhofer ISI"
  },
+ "https://www.iso-arzneimittel.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.isomat.com.de/": {
   "description": "ISOMAT ist eine Herstellerfirma bauchemischer Produkte und Mörtel. Sie wurde 1980 gegründet und ist heute einer der bedeutendsten Hersteller.",
   "fetched": "2026-09-24",
@@ -8426,6 +9543,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Tumordokumentation Gesundheitswesen IT - IT-Choice"
+ },
+ "https://www.it-sinsheim.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.it-structure.de/": {
   "description": "it-structure ist eine IT-Beratungsfirma. Wir analysieren Ihren Bedarf und setzen ihn in erfolgreiche Geschäftsprozesse, individuelle Softwaresystem und digitale Infrastrukturen um.",
@@ -8439,11 +9561,22 @@
   "status": "ok",
   "title": "KIT - ITAS - Institut für Technikfolgenabschätzung und Systemanalyse (ITAS)"
  },
+ "https://www.itb.de/": {
+  "description": "",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "itb Karlsruhe – Forschen für das Handwerk."
+ },
  "https://www.itd-hauser.de/": {
   "description": "",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "ITD - Hauser :: Ihr IT Business Partner in Haßloch"
+ },
+ "https://www.iteanova.com/de/index_de.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.itep.kit.edu/": {
   "description": "Das Institut f&uuml;r Technische Physik (ITEP) am Karlsruher Institut f&uuml;r Technologie (KIT) forscht zu Supraleitung, Kryotechnik, Magnet- und Energietechnik. Das Institut für Technische Physik (ITEP) am Karlsruher Institut für Technologie (KIT) forscht zu Supraleitung, Kryotechnik, Magnet- und Energietechnik.",
@@ -8462,6 +9595,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "KIT - ITES - Startseite"
+ },
+ "https://www.itg.kit.edu/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.itiv.kit.edu/": {
   "description": "ITIV, Institut für Technik der Informationsverarbeitung, Fakultät für Elektrotechnik und Informationstechnik, Universität Karlsruhe (TH): Homepage",
@@ -8553,6 +9691,11 @@
   "status": "ok",
   "title": "KIT - JKIP - Startseite"
  },
+ "https://www.jockel-brandschutz.de/zentrale.htm": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.joco.de/": {
   "description": "Ihr Spezialist für Fußbodenheizung im Trockensystem, Flächenheiz- und Flächenkühlsysteme für Boden, Wand und Decke. Wärme vor Glasfassaden.",
   "fetched": "2026-09-24",
@@ -8600,6 +9743,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "JKI: Rebenzüchtung"
+ },
+ "https://www.jvi-gmbh.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.kab24.de/": {
   "description": "Wir führen über 12.500 Kabel, Adapter und Zubehör ✓ günstige Preise ✓ 24 Stunden Lieferservice ✓ Direktabholung im Ladengeschäft möglich",
@@ -8797,6 +9945,11 @@
   "status": "ok",
   "title": "Herzlich Willkommen - Knappe 1a Agentur"
  },
+ "https://www.knettenbrech-gurdulic.de/standorte/karlsruhe": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.kobra-online.info/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -8983,6 +10136,11 @@
   "status": "ok",
   "title": "Labor Karlsruhe"
  },
+ "https://www.labor-koch.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.ladwig.de/": {
   "description": "Der Wintergarten: Die schönste Verbindung zu den vier Jahreszeiten.",
   "fetched": "2026-09-24",
@@ -9012,6 +10170,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Business-Netzwerklösungen „Engineered in Germany“: R&S Networks and Cybersecurity"
+ },
+ "https://www.langer-werbeteam.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.lauer-weiss.de/": {
   "description": "",
@@ -9067,6 +10230,11 @@
   "status": "ok",
   "title": "ÃbersetzungsbÃ¼ro Heidelberg | Ãbersetzer u. Dolmetscher | Lingua-World"
  },
+ "https://www.linuswiegand.de//": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.lisi-automotive.com/": {
   "description": "Innovante depuis 1777, LISI AUTOMOTIVE est une société familiale internationale spécialisée dans la conception de solutions d'assemblage rapides et composants de sécurité.",
   "fetched": "2026-09-24",
@@ -9096,6 +10264,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "LS telcom Website Home - LS telcom"
+ },
+ "https://www.ltb-leitungsbau.de/Bauabteilung_Sued.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.ltur.com/de/index": {
   "description": "Jetzt bei ltur Urlaub buchen und günstig verreisen ☀ Top-Pauschalreisen, Last-Minute-Angebote, Frühbucher-Deals und mehr! | ltur",
@@ -9127,6 +10300,11 @@
   "status": "ok",
   "title": "LUFA Speyer - 150 Jahre für Landwirtschaft, Umwelt und Verbraucherschutz | Lufa Speyer - Die Landwirtschaftliche Untersuchungs- und Forschungsanstalt (LUFA) Speyer"
  },
+ "https://www.luminatis.eu/start": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.lusshardt-kaffee-service.de/": {
   "description": "Lußhardt Kaffee Service in Hambrücken. Ihr Partner für Kaffeevollautomaten. Service, Instandsetzung, Verkauf und Zubehör.",
   "fetched": "2026-09-24",
@@ -9157,6 +10335,11 @@
   "status": "ok",
   "title": "Home - MAHLE Group"
  },
+ "https://www.maier-fussbodenbau.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.maier-spedition.com/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -9174,6 +10357,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Contact is under construction"
+ },
+ "https://www.markus-rose.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.marsfrance.fr/": {
   "fetched": "2026-09-24",
@@ -9221,6 +10409,11 @@
   "status": "ok",
   "title": "MC Building GmbH"
  },
+ "https://www.md-dienstleistungen.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.med-itservice.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -9242,6 +10435,16 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Medie Ambulanz GmbH & Co. KG - Notfallmedizin, Bildungszentrum, Krankentransporte, Ambulanz-Rückholdienst"
+ },
+ "https://www.medien-konferenztechnik.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.medifa.com/medifa-metall-und-medizintechnik-gmbh/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.meggsimum.de/": {
   "description": "meggsimum - BÃ¼ro fÃ¼r Geoinformatik",
@@ -9266,6 +10469,17 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Mentaltraining und Coaching in Kuppenheim, Baden-Baden, Rastatt"
+ },
+ "https://www.melter.de/": {
+  "description": "Wir heben Ihr Dialogmarketing auf das nächste Level - profitieren Sie von modernen datengetriebenen Lösungen für Ihr Printmarketing.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Melter Mail Service - Ihr Experte für datengetriebenes Dialogmarketing"
+ },
+ "https://www.mencke-spedition.de/de/standorte.php": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.mercedes-benz-techinnovation.com/": {
   "description": "",
@@ -9297,6 +10511,11 @@
   "status": "ok",
   "title": "Start | Cembalobau Merzdorf"
  },
+ "https://www.metallbau-greulich.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.metallform.de/": {
   "description": "PASSION EDELSTAHL PASSION EDELSTAHL Unser Know-how Fast 40 Jahre Erfahrung Erfahrung ist durch nichts zu ersetzen. Profitieren Sie von unserem jahrzehntelangen Know-how in der Herstellung von Produkten aus Edelstahl. Unsere Kompetenzen Die wichtigsten Weichen",
   "fetched": "2026-09-24",
@@ -9320,6 +10539,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Metzger, Der Komplett-Ausbauer aus Mutterstadt"
+ },
+ "https://www.mexacare.com/en/home-2/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.mg-industrieelektronik.de/": {
   "description": "Seit über 40 Jahren planen, entwickeln und vermarkten wir erfolgreich Informationssysteme für den öffentlichen Personenverkehr (ÖPV).",
@@ -9350,6 +10574,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Millestelle Group: Home"
+ },
+ "https://www.mineralix-gmbh.de/de/standorte/rez-karlsruhe.html": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.mint-medical.com/": {
   "description": "Assisted data capture in radiology through context-knowledge in an easy-to-use software – leave no data behind on the image with mint Lesion™",
@@ -9465,6 +10694,11 @@
   "status": "ok",
   "title": "Müller & Kaya GmbH Elektroanlagen — Home"
  },
+ "https://www.mueller-schachttechnik.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.muffenrohr.de/": {
   "description": "Gemeinsam für Qualität. Top Leistung im Tiefbau in den Bereichen Versorgung, Entsorgung und Oberfläche.",
   "fetched": "2026-09-24",
@@ -9513,11 +10747,22 @@
   "status": "ok",
   "title": "Startseite - Mönch Holzbau, Inhaber Sebastian Mönch"
  },
+ "https://www.n-able-innovation.com/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.nacona.de/": {
   "description": "Das junge Team von NACONA Filmproduktion konzipiert & produziert international VISUAL BRAND STORIES in den Bereichen LIFESTYLE, CORPORATE, EVENT und SPORT.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "NACONA - Filmproduktion, Werbefilme & Imagefilme aus Karlsruhe"
+ },
+ "https://www.nanoscribe.com/": {
+  "description": "Nanoscribe enables high-resolution 3D printing for industry and research in photonics, microoptics, life sciences, and advanced additive manufacturing.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Nanoscribe | Leader in high-resolution 3D printing solutions"
  },
  "https://www.natursteine-kohler.de/": {
   "description": "Baustoffe, Handwerkszeug, Garten und Landschaftsbau und eine exzellente und kompetente Beratung gleich an zwei Standorten – Gillet Baustoffe GmbH",
@@ -9587,6 +10832,11 @@
   "status": "ok",
   "title": "Niemann Betonwerk"
  },
+ "https://www.nolte-moebel.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.notter.com/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -9610,6 +10860,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Oberacker Natur & Technik"
+ },
+ "https://www.obermeyer-group.com/kontakt/nationale-standorte": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.oehf-aufzuege.de/": {
   "description": "",
@@ -9665,11 +10920,21 @@
   "status": "ok",
   "title": "Jobs, Arbeitnehmerüberlassung und Zeitarbeit - Orizon"
  },
+ "https://www.otisworldwide.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.otto-zimmermann.de/de/": {
   "description": "Otto Zimmermann Bremsen stehen für Sicherheit und Leistung – und das seit mehr als 6 Jahrzehnten ► Lernen Sie uns und unsere Produkte kennen!",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Otto Zimmermann Bremsen | Qualität Made in Germany"
+ },
+ "https://www.outokumpu.com/de-de/locations/hockenheim": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.oxaion.de/": {
   "description": "ERP Software für den Mittelstand. Der Anbieter oxaion steht seit über 40 Jahren für maßgeschneiderte ERP-Systeme und Softwarelösungen. Offen. Flexibel. Anders.",
@@ -9783,6 +11048,21 @@
   "status": "ok",
   "title": "Home"
  },
+ "https://www.pharmsystems.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.phenex-pharma.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
+ "https://www.phonotherm-online.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.physi.uni-heidelberg.de/Einrichtungen/IT-Department/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -9806,6 +11086,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Prozessautomatisierung mit KI | Automatisierungsexperten | Pickert"
+ },
+ "https://www.picosens.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.pictura.de/": {
   "description": "",
@@ -9837,6 +11122,11 @@
   "status": "ok",
   "title": "Women's Sweater Vests Women's Ribbed Knit Sweater Vest - V Neck Sleeveless Pullover For Fall Winter Layering (Multiple Colors, S-XXXL)"
  },
+ "https://www.planat.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.plantec-mannheim.de/": {
   "description": "Ihr Partner in Sachen Beschriftungen, (LKW-)Planen, Reparaturservice, Mietservice, Werbebanner, Schilder, Digitaldruck und Car Wrapping in Mannheim-Rheinau",
   "fetched": "2026-09-24",
@@ -9848,6 +11138,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Plasma Spenden 2025 - csl2025"
+ },
+ "https://www.pluradent.de/de/unternehmen/standorte/karlsruhe/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.plurale-oekonomik.de/": {
   "description": "Wirtschaft anders denken! Wir sind Teil der internationalen Bewegung für mehr Vielfalt in der Ökonomik und vernetzen kritische Studierende. Wir engagieren uns für einen zukunfts­orientierten Wandel der Wirtschafts­wissenschaften. Für neue […]",
@@ -9884,6 +11179,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "POPICE - REAL FRUITS, REAL TASTE"
+ },
+ "https://www.poth-metallwaren.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.pottiez.de/": {
   "description": "Walter Pottiez GmbH, Ihr Werkzeugbau, Stanzbetrieb und Lohnbearbeiter. Bau jeglicher Art von Stanz- und Folgeverbundwerkzeugen mit Stanzerei bis 500 to Presskraft und Dienstleister von Lohnarbeiten",
@@ -9949,6 +11249,11 @@
   "status": "ok",
   "title": "Profitec | Home"
  },
+ "https://www.proflexgmbh.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.progroup.ag/": {
   "description": "Progroup ist einer der führenden Wellpappenrohpapier- und Wellpapphersteller in Europa.",
   "fetched": "2026-09-24",
@@ -9972,6 +11277,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Promega Corporation"
+ },
+ "https://www.prones.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.proserv-dienstleistungen.de/de/Buehl.html": {
   "description": "",
@@ -10027,6 +11337,11 @@
   "status": "ok",
   "title": "Routing, optimization and delivery management software | PTV Logistics"
  },
+ "https://www.puresoundsystems.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.pvm.de/": {
   "description": "Seit über 100 Jahren führend in der Entwicklung und Herstellung hochwertiger Aluminiumräder, Bremssysteme und Maschinenbauteile. #PVM Made in Germany I Motorradräder I Anbauteile I Autoräder I Maschinenbau",
   "fetched": "2026-09-24",
@@ -10050,6 +11365,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Quality Match"
+ },
+ "https://www.qudosoft.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.qwertiko.de/": {
   "description": "Managed Hosting und Firewall-Lösungen aus Deutschland: individuelle Infrastrukturen, persönliche Betreuung und sichere IT für Unternehmen.",
@@ -10126,6 +11446,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Ihr Spezialist für komplexe Logistik: REBER Logistik GmbH"
+ },
+ "https://www.rebveredlung-schweizer.de/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.reck-elektrotechnik.de/": {
   "description": "Kompetenz, Expertise und Fachwissen im Bereich der Elektrotechnik sind die Stärken von Reck Elektrotechnik aus Mannheim.",
@@ -10277,6 +11602,11 @@
   "status": "ok",
   "title": "Rüttiger Maschinen GmbH"
  },
+ "https://www.ruf-betten.de/de": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.ruppertsberger.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -10389,6 +11719,11 @@
   "status": "ok",
   "title": "Dentallabor Hockenheim und Umgebung - Sauerzapf Zahntechnik"
  },
+ "https://www.sautter-elektrotechnik.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.saxon-design.com/": {
   "description": "Flyer Folder Prospekte Visitenkarten Handout Gutscheine Kalender Stempel Kuelschrieber Zollstöcke T Shirt Druck Arbeitskleidung Werbe Banner Planen Aufkleber Briefpapier Roll Up Magnetfolien Firmenschilder Fahnen Flaggen Solventdruck 4 Farbdruck Poster Plakate Klebefolien",
   "fetched": "2026-09-24",
@@ -10416,6 +11751,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Manufacturer of elevators, escalators, & moving walkways | Schindler U.S."
+ },
+ "https://www.schlosserei-peter-mann.de/": {
+  "description": "Großes Angebot an verschiedenen Leistungen – Schlüsseldienst, Brandschutz-Türen, Treppengeländer – Jetzt Kontakt aufnehmen!",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Peter & Mann Metallbau Karlsruhe"
  },
  "https://www.schobertechnologies.de/": {
   "description": "Schobertechnologies ist Hersteller von Rotationswerkzeugen ✓ Sondermaschinen ✓ Stanzmaschinen ✓ Schneidwerkzeugen ✓ Nutwerkzeugen ✓",
@@ -10507,6 +11848,11 @@
   "status": "ok",
   "title": "Schwarzwaldfleisch GmbH - Unternehmen"
  },
+ "https://www.schweickert.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.schwepa.com/": {
   "description": "Vom klassischen Innenputz über die Gestaltung von Lebensräumen bis hin zur energiesparenden Wärmedämmung. Schwepa bietet dem Verarbeiter nachhaltige Lösungen für die stetig anwachsenden Herausforderungen im Hochbau.",
   "fetched": "2026-09-24",
@@ -10554,6 +11900,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Infos rund um das Thema Selbsthilfegruppen | Heidelberger SelbsthilfebÃ¼ro"
+ },
+ "https://www.semantha.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.sentronics-metrology.de/": {
   "description": "",
@@ -10663,6 +12014,11 @@
   "status": "ok",
   "title": "SiS | Seminare im Schloss - Herzlich willkommen"
  },
+ "https://www.sita-deutschland.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.skb-buehlertal.de/": {
   "description": "Herzlich Willkommen auf unserer Startseite: Informieren Sie sich hier Ã¼ber unsere Produkte und Leistungen. Wir helfen Ihnen gern weiter.",
   "fetched": "2026-09-24",
@@ -10747,11 +12103,21 @@
   "status": "ok",
   "title": "Solutive-Website"
  },
+ "https://www.sonocoeurope.com/de/default.aspx": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.spaeth.eu/": {
   "description": "Wir sind eine Druckerei in Baden-Baden und haben uns auf die Bereiche Digitaldruck, Programmatic Printing, Lettershop und Web-to-Print spezialisiert.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Home - Druckerei Späth Media in Baden-Baden | Web-to-Print Druckerei Lettershop Programmatic Printing in Baden-Baden"
+ },
+ "https://www.spatzek.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.spedition-humbert.de/": {
   "description": "",
@@ -10843,6 +12209,11 @@
   "status": "ok",
   "title": "Stadtwerke Karlsruhe | Besser versorgt, weiter gedacht."
  },
+ "https://www.stadtwerke-karlsruhe.de/swk/regionales/engagement/gaspluslab.php": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.stadtwerke-pforzheim.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -10879,6 +12250,11 @@
   "status": "ok",
   "title": "Start - Schrempp Stahl- und Metallbau"
  },
+ "https://www.stahlinform-gmbh.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.staib-stanztechnik.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -10914,6 +12290,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Straßenerhaltung & Asphaltreparatur | STM Malsch"
+ },
+ "https://www.sto.de/de/unternehmen/standorte/deutschland_5154.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.stockhausen.com/de/standorte": {
   "description": "",
@@ -10998,6 +12379,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Südwestenergie - Ihr Energieexperte aus der Region"
+ },
+ "https://www.suewag.de/web/cms/de/2051868/privatkunden/suewag-vor-ort/service-vor-ort/achern/": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.superpatch.com/": {
   "description": "The Super Patch Company Limited LLC",
@@ -11123,11 +12509,21 @@
   "status": "ok",
   "title": "TECO - Technology for Pervasive Computing"
  },
+ "https://www.telematis.de/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.telemaxx.de/": {
   "description": "TelemaxX bietet individuelle Rechenzentrumsfläche, Housing- & Managed-Service-Lösungen für Geschäftskunden sowie Telekommunikation in Deutschland.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "TelemaxX: Rechenzentrum, Managed Services & Colocation"
+ },
+ "https://www.telena.de/": {
+  "error": "ConnectTimeout",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.tensid-chemie.com/": {
   "description": "Ihr zuverlässiger Partner für Reinigung und Desinfektion. Wir bieten Ihnen auch Brauereibedarf, Bandschmiermittel und Schimmelschutzfarben.",
@@ -11164,6 +12560,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Startseite - tf-network - Ihr IT Dienstleister aus Baden"
+ },
+ "https://www.thaletec.com/de/kontakt/vertrieb.php": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.the-maked-team.com/": {
   "description": "Die Macher unter den Beratern: Wir begleiten familiengeführte Unternehmen bei Nachfolge, Wachstum, Restrukturierung und Digitalisierung. Seit 2013.",
@@ -11212,6 +12613,17 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Projektmanagement und Projektsteuerung international und in DE"
+ },
+ "https://www.thunder-it.com/": {
+  "description": "Die Thunder-IT GmbH wurde im Dezember 2001 gegründet und ist seither als Systemhaus im internationalen Distributionsgeschäft tätig.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Thunder-IT : Thunder-IT GmbH"
+ },
+ "https://www.thyssenkrupp-schulte.de/mannheim.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.timo-rehorn.de/": {
   "description": "",
@@ -11279,6 +12691,12 @@
   "status": "ok",
   "title": "TUP Warehouse Management Solutions - Willkommen"
  },
+ "https://www.tvsscs.com/": {
+  "description": "We are global experts in transforming supply chain and logistics. Our integrated solutions improve performance, add value and reduce operational costs.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "TVS Supply Chain Solutions | TVS SCS | Global"
+ },
  "https://www.twk-karlsruhe.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -11303,11 +12721,22 @@
   "status": "ok",
   "title": "HOME - UEF Eisenbahn-Verkehrsgesellschaft"
  },
+ "https://www.ufer.de/standorte-oeffnungszeiten/": {
+  "description": "Unsere Standorte und großzügigen Öffnungszeiten bieten ein hohes Maß an Erreichbarkeit. Kurzfristige Bedarfe werden über die UPLs (Ufer Profi Lager) gedeckt",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Unsere Standorte & Öffnungszeiten - Ufer"
+ },
  "https://www.uhu.de/": {
   "description": "UHU - die bekannte Klebstoffmarke - ist immer ein zuverlässiger Partner in Sachen Kleben und Basteln, Reparieren oder Montieren. Im Falle eines Falles hat UHU das richtige Produkt.",
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "UHU | Im Falle eines Falles"
+ },
+ "https://www.ulrich-kunststofftechnik.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.uni-heidelberg.de/zsl/": {
   "description": "",
@@ -11445,6 +12874,12 @@
   "status": "ok",
   "title": ""
  },
+ "https://www.visteon.com/": {
+  "description": "Visteon Corporation is a global automotive technology company delivering digital cockpit and electrification solutions for the modern vehicle.",
+  "fetched": "2026-09-25",
+  "status": "ok",
+  "title": "Visteon Corporation | Automotive Technology"
+ },
  "https://www.vital-fleisch.de/": {
   "description": "Schlachtung und Zerlegung von QS- und Biofleisch. Von der Züchtung über die Schlachtung bis zur etikettierten Verpackung: Mit höchsten Qualitätsstandards. Seit 1998 Familienunternehmen und zuverlässiger Dienstleister.",
   "fetched": "2026-09-24",
@@ -11533,6 +12968,11 @@
   "status": "ok",
   "title": "Dosiertechnik für Industrie & Produktion | Walther Systemtechnik"
  },
+ "https://www.wat-ingenieurgesellschaft-2020.com/": {
+  "error": "ConnectionError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.weber-edv.net/": {
   "description": "Thorsten Weber EDV-Consulting, Karlsruhe",
   "fetched": "2026-09-24",
@@ -11592,6 +13032,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Maschinenbau - Großküchentechnik - Küchenstudio - Weisser GmbH"
+ },
+ "https://www.welcon-tec.eu/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.weliver-ld.de/": {
   "description": "",
@@ -11707,6 +13152,11 @@
   "status": "ok",
   "title": "Vermessungsbüro Wolfert - Start"
  },
+ "https://www.wolff-mueller.de/standorte-bauleistungen-tief-und-strassenbau.html": {
+  "error": "HTTPError",
+  "fetched": "2026-09-25",
+  "status": "error"
+ },
  "https://www.wolff-stefan.de/": {
   "description": "",
   "fetched": "2026-09-24",
@@ -11748,6 +13198,11 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Spezialist für DSGVO-konforme Karten- und Finderlösungen | YellowMap"
+ },
+ "https://www.yoga-heidelberg.com/": {
+  "error": "SSLError",
+  "fetched": "2026-09-25",
+  "status": "error"
  },
  "https://www.zachmann-ing.de/": {
   "description": "Zachmann Ingenieurbüro: Tragwerksplanung, die Wirtschaftlichkeit, technische Präzision und ökologische Verantwortung vereint.",

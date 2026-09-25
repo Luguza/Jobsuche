@@ -57,7 +57,7 @@
   "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
   "distance_km": 33.0,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Ausbildung",
+  "industry": "Ausbildung; künstliche Intelligenz",
   "key": "a-leecon",
   "lat": 49.293333,
   "loc_source": "wikidata_hq",
@@ -2600,6 +2600,8 @@
   "lat": 49.415164,
   "loc_source": "osm",
   "lon": 8.680072,
+  "meta_description": "Das ifeu forscht und berät weltweit zu wichtigen Umwelt- und Nachhaltigkeitsthemen für zahlreiche (inter-)nationale Fördermittel- und Auftraggeber.",
+  "meta_title": "ifeu gGmbH: Institut für Energie- und Umweltforschung",
   "name": "ifeu - Institut für Energie- und Umweltforschung Heidelberg GmbH",
   "reason": "Methodik: Institut; Sektor: Energie, Umweltforschung.",
   "refs": {
@@ -3630,6 +3632,34 @@
   "website": "https://www.mehrwerk-ag.de/"
  },
  {
+  "address": "Lugwaldstraße 10, 75417 Mühlacker",
+  "city": "Mühlacker",
+  "distance_km": 34.8,
+  "first_seen": "2026-09-25",
+  "key": "melter-druck-mailservice",
+  "lat": 48.955733,
+  "loc_source": "osm",
+  "lon": 8.872796,
+  "meta_description": "Wir heben Ihr Dialogmarketing auf das nächste Level - profitieren Sie von modernen datengetriebenen Lösungen für Ihr Printmarketing.",
+  "meta_title": "Melter Mail Service - Ihr Experte für datengetriebenes Dialogmarketing",
+  "name": "Melter Druck & Mailservice GmbH",
+  "reason": "Methodik: datengetriebenes.",
+  "refs": {
+   "osm": [
+    "way/819916867"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://www.melter.de/"
+ },
+ {
   "address": "Zeppelinstraße 21, 76275 Ettlingen",
   "city": "Ettlingen",
   "distance_km": 44.6,
@@ -3822,6 +3852,30 @@
    "Firma"
   ],
   "website": "http://www.nanofocus.de/"
+ },
+ {
+  "description": "Unternehmen in Eggenstein-Leopoldshafen, ist weltweit Markt- und Technologieführer für den 3D-Druck im Nano- und Mikrometerbereich",
+  "distance_km": 9.6,
+  "first_seen": "2026-09-25",
+  "key": "nanoscribe",
+  "lat": 49.091091,
+  "loc_source": "wikidata",
+  "lon": 8.430105,
+  "meta_description": "Nanoscribe enables high-resolution 3D printing for industry and research in photonics, microoptics, life sciences, and advanced additive manufacturing.",
+  "meta_title": "Nanoscribe | Leader in high-resolution 3D printing solutions",
+  "name": "Nanoscribe GmbH & Co. KG",
+  "reason": "Methodik: Nanoscribe, research.",
+  "refs": {
+   "wikidata": [
+    "Q107518560"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.nanoscribe.com/"
  },
  {
   "address": "Kurfürsten-Anlage 36, 69115 Heidelberg",
@@ -4996,7 +5050,6 @@
   "distance_km": 50.0,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12117-YF-46691-YF-S",
    "19470-471378584-S"
   ],
   "key": "sew-eurodrive",
@@ -5004,7 +5057,7 @@
   "loc_source": "osm",
   "lon": 8.52209,
   "name": "SEW-EURODRIVE GmbH & Co KG",
-  "reason": "Methodik: AI, Modellierung.",
+  "reason": "Methodik: AI.",
   "refs": {
    "osm": [
     "node/2881226175",
@@ -5015,7 +5068,7 @@
     "Q321205"
    ]
   },
-  "score": 4,
+  "score": 2,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -5133,7 +5186,7 @@
   "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
   "distance_km": 25.4,
   "first_seen": "2026-09-24",
-  "industry": "Event-Management; Messewirtschaft",
+  "industry": "Messewirtschaft; Event-Management",
   "key": "solar-promotion",
   "lat": 48.890885,
   "loc_source": "wikidata_hq",
