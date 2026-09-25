@@ -24262,7 +24262,9 @@
   "lon": 8.379614,
   "name": "Pfalz Immobilienverwaltung GmbH",
   "tags": {
+   "addr:city": "Schifferstadt",
    "addr:housenumber": "44",
+   "addr:postcode": "67105",
    "addr:street": "Kugelfangstraße",
    "office": "company"
   }

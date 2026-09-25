@@ -30,5 +30,46 @@
    }
   ],
   "timestamp": "2026-09-25T09:04:27+00:00"
+ },
+ {
+  "companies": 232,
+  "jobs": 101,
+  "new_companies": [],
+  "new_jobs": [
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003765260-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "Siemens AG",
+    "refnr": "12465-1636428-1-S",
+    "title": "Pflichtpraktikum Digitale Fabrikplanung und Materialflusssimulation in der Elektronikfertigung"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270258250926-S",
+    "title": "Solution Architect KI und Prozessautomatisierung - Finance/Controlling (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270406250926-S",
+    "title": "IT Consultant - Tracking & Analytics (w/m/d)"
+   }
+  ],
+  "removed_companies": [],
+  "removed_jobs": [
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003730630-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270258240926-S",
+    "title": "Solution Architect KI und Prozessautomatisierung - Finance/Controlling (w/m/d)"
+   }
+  ],
+  "timestamp": "2026-09-25T15:55:12+00:00"
  }
 ]

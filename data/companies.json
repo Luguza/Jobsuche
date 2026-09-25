@@ -1166,20 +1166,21 @@
    "12787-266297290726-S",
    "12787-268129250826-S",
    "12787-269097080926-S",
-   "12787-270258240926-S"
+   "12787-270258250926-S",
+   "12787-270406250926-S"
   ],
   "key": "dmtech",
   "lat": 49.002831,
   "loc_source": "osm",
   "lon": 8.456892,
   "name": "dmTECH GmbH",
-  "reason": "Methodik: AI, Software.",
+  "reason": "Methodik: AI, Analytics, Software.",
   "refs": {
    "osm": [
     "node/6848347046"
    ]
   },
-  "score": 3,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -4195,7 +4196,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
+  "industry": "künstliche Intelligenz; Softwareindustrie; Unternehmenssoftware; Beschaffung",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -5115,15 +5116,16 @@
   "distance_km": 0.8,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12465-1635995-1-S"
+   "12465-1635995-1-S",
+   "12465-1636428-1-S"
   ],
   "key": "siemens",
   "lat": 49.0069955,
   "loc_source": "ba",
   "lon": 8.4139873,
   "name": "Siemens AG",
-  "reason": "Methodik: ML, Masterarbeit.",
-  "score": 3,
+  "reason": "Methodik: ML, Masterarbeit, Materialflusssimulation.",
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -5186,7 +5188,7 @@
   "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
   "distance_km": 25.4,
   "first_seen": "2026-09-24",
-  "industry": "Messewirtschaft; Event-Management",
+  "industry": "Event-Management; Messewirtschaft",
   "key": "solar-promotion",
   "lat": 48.890885,
   "loc_source": "wikidata_hq",
@@ -5910,7 +5912,7 @@
   "first_seen": "2026-09-24",
   "industry": "Erziehung und Unterricht",
   "job_refs": [
-   "10001-1003730630-S"
+   "10001-1003765260-S"
   ],
   "key": "vorest",
   "lat": 48.890885,

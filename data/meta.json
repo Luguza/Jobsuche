@@ -3,7 +3,7 @@
  "counts": {
   "companies": 232,
   "companies_with_jobs": 45,
-  "jobs": 99,
+  "jobs": 101,
   "osm_raw": 3165,
   "seed": 6,
   "wikidata_raw": 583
@@ -21,5 +21,5 @@
   "osm": "aktuell",
   "wikidata": "aktuell"
  },
- "updated": "2026-09-25T09:04:27+00:00"
+ "updated": "2026-09-25T15:55:12+00:00"
 }

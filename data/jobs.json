@@ -3,9 +3,14 @@
   "city": "Waghäusel",
   "company": "Wirsol Aufdach GmbH",
   "company_key": "wirsol-aufdach",
+  "contract": "unbefristet",
   "distance_km": 28.4,
   "first_published": "2025-09-11",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.2457889,
   "lon": 8.5418747,
   "occupation": "Fachplaner/in - Energie- und Gebäudetechnik",
@@ -13,6 +18,8 @@
   "plz": "68753",
   "published": "2025-09-11",
   "refnr": "10000-1203736564-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Photovoltaik"
   ],
@@ -24,9 +31,14 @@
   "city": "Pforzheim",
   "company": "Wellendorff Gold-Creationen GmbH & Co. KG",
   "company_key": "wellendorff-gold-creationen",
+  "contract": null,
   "distance_km": 26.1,
   "first_published": "2026-05-06",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.8827645,
   "lon": 8.7068699,
   "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
@@ -34,6 +46,8 @@
   "plz": null,
   "published": "2026-05-06",
   "refnr": "10000-1206380119-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz"
   ],
@@ -45,9 +59,14 @@
   "city": "Weil der Stadt",
   "company": "Krannich Solar GmbH & Co. KG",
   "company_key": "krannich-solar",
+  "contract": "unbefristet",
   "distance_km": 39.9,
   "first_published": "2026-06-18",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.79206,
   "lon": 8.8387785,
   "occupation": "Einkäufer/in",
@@ -55,6 +74,8 @@
   "plz": "71263",
   "published": "2026-06-18",
   "refnr": "10000-1206574506-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende"
   ],
@@ -66,9 +87,15 @@
   "city": "Ubstadt-Weiher",
   "company": "Gemeinde Ubstadt-Weiher",
   "company_key": "gemeinde-ubstadt-weiher",
+  "contract": "befristet",
   "distance_km": 23.6,
   "first_published": "2026-09-14",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.158414,
   "lon": 8.6308695,
   "occupation": "Klimaschutzmanager/in",
@@ -76,6 +103,8 @@
   "plz": "76698",
   "published": "2026-09-14",
   "refnr": "10000-1207887668-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Klimaschutz"
   ],
@@ -87,9 +116,14 @@
   "city": "Neuenbürg, Württemberg",
   "company": "1Komma5 Grad GmbH",
   "company_key": "1komma5-grad",
+  "contract": "unbefristet",
   "distance_km": 21.3,
   "first_published": "2024-08-29",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.8528004,
   "lon": 8.5772009,
   "occupation": "Projektleiter/in / Projektmanager/in",
@@ -97,6 +131,8 @@
   "plz": "75305",
   "published": "2024-08-29",
   "refnr": "10001-1000605083-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende",
    "Photovoltaik"
@@ -109,9 +145,14 @@
   "city": "Rülzheim",
   "company": "Promedia ITK GmbH",
   "company_key": "promedia-itk",
+  "contract": "unbefristet",
   "distance_km": 19.3,
   "first_published": "2025-07-17",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.1660162,
   "lon": 8.2993149,
   "occupation": "Sales-Manager/in",
@@ -119,6 +160,8 @@
   "plz": "76761",
   "published": "2026-08-03",
   "refnr": "10001-1001597738-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -130,9 +173,14 @@
   "city": "Karlsdorf-Neuthard",
   "company": "Planville GmbH",
   "company_key": "planville",
+  "contract": "unbefristet",
   "distance_km": 15.5,
   "first_published": "2025-08-19",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.1236254,
   "lon": 8.5195886,
   "occupation": "Solarmonteur/in",
@@ -140,6 +188,8 @@
   "plz": "76689",
   "published": "2025-08-19",
   "refnr": "10001-1001699133-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende",
    "Photovoltaik"
@@ -152,9 +202,14 @@
   "city": "Neustadt an der Weinstraße",
   "company": "8com GmbH & Co. KG",
   "company_key": "8com",
+  "contract": "unbefristet",
   "distance_km": 41.3,
   "first_published": "2025-09-23",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.3396061,
   "lon": 8.1534779,
   "occupation": "Managementassistent/in",
@@ -162,6 +217,8 @@
   "plz": "67433",
   "published": "2026-08-20",
   "refnr": "10001-1001886249-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -174,9 +231,14 @@
   "city": "Speyer",
   "company": "soNachhaltig GmbH",
   "company_key": "sonachhaltig",
+  "contract": "befristet",
   "distance_km": 36.6,
   "first_published": "2026-02-18",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.335237,
   "lon": 8.44002,
   "occupation": "Solarmonteur/in",
@@ -184,6 +246,8 @@
   "plz": "67346",
   "published": "2026-02-18",
   "refnr": "10001-1002624881-S",
+  "salary_from": 20.0,
+  "salary_to": 21.0,
   "search_terms": [
    "Photovoltaik"
   ],
@@ -195,9 +259,14 @@
   "city": "Karlsruhe, Baden",
   "company": "IONOS SE",
   "company_key": "ionos",
+  "contract": null,
   "distance_km": 1.6,
   "first_published": "2026-03-23",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.992319,
   "lon": 8.40294,
   "occupation": "UX-Designer/in",
@@ -205,6 +274,8 @@
   "plz": "76137",
   "published": "2026-08-14",
   "refnr": "10001-1002808233-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -216,9 +287,14 @@
   "city": "Weingarten (Baden)",
   "company": "SAV Pflegeleicht GmbH",
   "company_key": "sav-pflegeleicht",
+  "contract": "unbefristet",
   "distance_km": 10.2,
   "first_published": "2026-05-04",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Teilzeit"
+  ],
   "lat": 49.0558989,
   "lon": 8.5217845,
   "occupation": "Social-Media-Manager/in",
@@ -226,6 +302,8 @@
   "plz": "76356",
   "published": "2026-09-04",
   "refnr": "10001-1003016888-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -238,9 +316,14 @@
   "city": "Graben-Neudorf",
   "company": "AzuraIQ Technologies GmbH",
   "company_key": "azuraiq-technologies",
+  "contract": "unbefristet",
   "distance_km": 19.1,
   "first_published": "2026-05-18",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.168368,
   "lon": 8.4944655,
   "occupation": "Softwareentwickler/in",
@@ -248,6 +331,8 @@
   "plz": "76676",
   "published": "2026-05-18",
   "refnr": "10001-1003088324-S",
+  "salary_from": 40000.0,
+  "salary_to": 70000.0,
   "search_terms": [
    "KI"
   ],
@@ -259,9 +344,14 @@
   "city": "Karlsruhe, Baden",
   "company": "PTA GmbH",
   "company_key": "pta",
+  "contract": "unbefristet",
   "distance_km": 0.8,
   "first_published": "2026-07-08",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "IT-Berater/in",
@@ -269,6 +359,8 @@
   "plz": null,
   "published": "2026-07-08",
   "refnr": "10001-1003349778-S",
+  "salary_from": 55000.0,
+  "salary_to": 75000.0,
   "search_terms": [
    "Data Science",
    "Data Engineer",
@@ -283,9 +375,14 @@
   "city": "Karlsruhe, Baden",
   "company": "PTA GmbH",
   "company_key": "pta",
+  "contract": "unbefristet",
   "distance_km": 0.8,
   "first_published": "2026-07-08",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "IT-Tester/in",
@@ -293,6 +390,8 @@
   "plz": null,
   "published": "2026-07-08",
   "refnr": "10001-1003349792-S",
+  "salary_from": 50000.0,
+  "salary_to": 55000.0,
   "search_terms": [
    "KI"
   ],
@@ -304,9 +403,14 @@
   "city": "Karlsruhe, Baden",
   "company": "CyberForum e.V.",
   "company_key": "cyberforum",
+  "contract": null,
   "distance_km": 1.8,
   "first_published": "2026-07-08",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.012434,
   "lon": 8.426529,
   "occupation": "Business-Development-Manager/in",
@@ -314,6 +418,8 @@
   "plz": "76131",
   "published": "2026-07-08",
   "refnr": "10001-1003355297-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -325,9 +431,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Volksbank pur eG",
   "company_key": "volksbank-pur",
+  "contract": "unbefristet",
   "distance_km": 0.7,
   "first_published": "2026-07-15",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.00608,
   "lon": 8.4127995,
   "occupation": "Datenbankadministrator/in",
@@ -335,6 +446,8 @@
   "plz": "76131",
   "published": "2026-07-15",
   "refnr": "10001-1003389287-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -346,9 +459,14 @@
   "city": "Heidelberg, Neckar",
   "company": "Aristech GmbH",
   "company_key": "aristech",
+  "contract": "unbefristet",
   "distance_km": 48.3,
   "first_published": "2026-07-27",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.404564,
   "lon": 8.66907,
   "occupation": "Vertriebsberater/in",
@@ -356,6 +474,8 @@
   "plz": "69115",
   "published": "2026-09-01",
   "refnr": "10001-1003445121-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -368,9 +488,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Tax  Network GmbH",
   "company_key": "tax-network",
+  "contract": "unbefristet",
   "distance_km": 3.9,
   "first_published": "2026-07-27",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Teilzeit"
+  ],
   "lat": 49.011867,
   "lon": 8.350488,
   "occupation": "KI-Manager/in",
@@ -378,6 +503,8 @@
   "plz": "76185",
   "published": "2026-07-27",
   "refnr": "10001-1003449525-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -389,9 +516,14 @@
   "city": "Weil der Stadt",
   "company": "Krannich Group GmbH",
   "company_key": "krannich",
+  "contract": "unbefristet",
   "distance_km": 39.9,
   "first_published": "2026-08-11",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.79206,
   "lon": 8.8387785,
   "occupation": "Produktmanager/in",
@@ -399,6 +531,8 @@
   "plz": "71263",
   "published": "2026-08-11",
   "refnr": "10001-1003523801-S",
+  "salary_from": 55000.0,
+  "salary_to": 70000.0,
   "search_terms": [
    "Photovoltaik"
   ],
@@ -410,9 +544,14 @@
   "city": "Brühl, Baden",
   "company": "engenious GmbH",
   "company_key": "engenious",
+  "contract": "unbefristet",
   "distance_km": 45.7,
   "first_published": "2026-08-11",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.408578,
   "lon": 8.534583,
   "occupation": "KI-Engineer",
@@ -420,6 +559,8 @@
   "plz": "68782",
   "published": "2026-08-12",
   "refnr": "10001-1003523811-S",
+  "salary_from": 58000.0,
+  "salary_to": 78000.0,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -435,9 +576,14 @@
   "city": "Karlsruhe, Baden",
   "company": "IONOS SE",
   "company_key": "ionos",
+  "contract": "unbefristet",
   "distance_km": 1.6,
   "first_published": "2026-08-14",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.992319,
   "lon": 8.40294,
   "occupation": "Produktmanager/in",
@@ -445,6 +591,8 @@
   "plz": "76137",
   "published": "2026-08-14",
   "refnr": "10001-1003543627-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -456,9 +604,14 @@
   "city": "Karlsruhe, Baden",
   "company": "IONOS SE",
   "company_key": "ionos",
+  "contract": null,
   "distance_km": 1.6,
   "first_published": "2026-08-14",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.992319,
   "lon": 8.40294,
   "occupation": "E-Commerce-Manager/in",
@@ -466,6 +619,8 @@
   "plz": "76137",
   "published": "2026-09-22",
   "refnr": "10001-1003546069-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -477,9 +632,15 @@
   "city": "Bornheim, Pfalz",
   "company": "HORNBACH Baumarkt AG Zentralverwaltung",
   "company_key": "hornbach-baumarkt-zentralverwaltung",
+  "contract": "unbefristet",
   "distance_km": 28.6,
   "first_published": "2026-08-25",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.21497,
   "lon": 8.1745515,
   "occupation": "Informatiker/in",
@@ -487,6 +648,8 @@
   "plz": "76879",
   "published": "2026-09-10",
   "refnr": "10001-1003596049-S",
+  "salary_from": 60000.0,
+  "salary_to": 80000.0,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -501,9 +664,14 @@
   "city": "Karlsruhe, Baden",
   "company": "IONOS SE",
   "company_key": "ionos",
+  "contract": "unbefristet",
   "distance_km": 1.6,
   "first_published": "2026-08-27",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.992319,
   "lon": 8.40294,
   "occupation": "Sales-Manager/in",
@@ -511,6 +679,8 @@
   "plz": "76137",
   "published": "2026-08-27",
   "refnr": "10001-1003612530-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -522,9 +692,15 @@
   "city": "Karlsruhe, Baden",
   "company": "Badischer Landesverein f. Innere Mission KdÖR",
   "company_key": "badischer-landesverein-f-innere-mission-kdoer",
+  "contract": "befristet",
   "distance_km": 1.2,
   "first_published": "2026-09-01",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 48.998502,
   "lon": 8.3928645,
   "occupation": "Umweltwissenschaftler/in",
@@ -532,6 +708,8 @@
   "plz": "76137",
   "published": "2026-09-01",
   "refnr": "10001-1003634863-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Klimaschutz"
   ],
@@ -543,9 +721,14 @@
   "city": "Neustadt an der Weinstraße",
   "company": "8com GmbH & Co. KG",
   "company_key": "8com",
+  "contract": "unbefristet",
   "distance_km": 41.3,
   "first_published": "2026-09-02",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.339602,
   "lon": 8.153478,
   "occupation": "KI-Engineer",
@@ -553,6 +736,8 @@
   "plz": "67433",
   "published": "2026-09-21",
   "refnr": "10001-1003638664-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -565,9 +750,14 @@
   "city": "Ettlingen",
   "company": "BRC Solar GmbH",
   "company_key": "brc-solar",
+  "contract": "unbefristet",
   "distance_km": 6.6,
   "first_published": "2026-09-07",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Teilzeit"
+  ],
   "lat": 48.948525,
   "lon": 8.389962,
   "occupation": "Vertriebsassistent/in",
@@ -575,6 +765,8 @@
   "plz": "76275",
   "published": "2026-09-07",
   "refnr": "10001-1003660319-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende",
    "Photovoltaik"
@@ -587,9 +779,15 @@
   "city": "Bornheim, Pfalz",
   "company": "HORNBACH Baumarkt AG Zentralverwaltung",
   "company_key": "hornbach-baumarkt-zentralverwaltung",
+  "contract": "unbefristet",
   "distance_km": 28.6,
   "first_published": "2026-09-07",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.21497,
   "lon": 8.1745515,
   "occupation": "Softwareentwickler/in",
@@ -597,6 +795,8 @@
   "plz": "76879",
   "published": "2026-09-07",
   "refnr": "10001-1003662047-S",
+  "salary_from": 60000.0,
+  "salary_to": 75000.0,
   "search_terms": [
    "KI"
   ],
@@ -608,9 +808,14 @@
   "city": "Weil der Stadt",
   "company": "Krannich Solar GmbH & Co. KG",
   "company_key": "krannich-solar",
+  "contract": "unbefristet",
   "distance_km": 39.9,
   "first_published": "2026-09-10",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.79206,
   "lon": 8.8387785,
   "occupation": "Technische/r Assistent/in - Energietechnik",
@@ -618,6 +823,8 @@
   "plz": "71263",
   "published": "2026-09-10",
   "refnr": "10001-1003684183-S",
+  "salary_from": 50000.0,
+  "salary_to": 65000.0,
   "search_terms": [
    "Energiewende",
    "Photovoltaik"
@@ -630,9 +837,14 @@
   "city": "Weil der Stadt",
   "company": "Krannich Solar GmbH & Co. KG",
   "company_key": "krannich-solar",
+  "contract": "unbefristet",
   "distance_km": 39.9,
   "first_published": "2026-09-10",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.79206,
   "lon": 8.8387785,
   "occupation": "Data Scientist",
@@ -640,6 +852,8 @@
   "plz": "71263",
   "published": "2026-09-10",
   "refnr": "10001-1003685161-S",
+  "salary_from": 50000.0,
+  "salary_to": 70000.0,
   "search_terms": [
    "Data Scientist",
    "Data Science",
@@ -655,9 +869,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Nodeline GmbH",
   "company_key": "nodeline",
+  "contract": "unbefristet",
   "distance_km": 1.6,
   "first_published": "2026-09-10",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.002993,
   "lon": 8.3831175,
   "occupation": "KI-Engineer",
@@ -665,6 +884,8 @@
   "plz": "76135",
   "published": "2026-09-10",
   "refnr": "10001-1003689162-S",
+  "salary_from": 62000.0,
+  "salary_to": 72000.0,
   "search_terms": [
    "Data Science",
    "Data Engineer",
@@ -678,9 +899,14 @@
   "city": "Haßloch, Pfalz",
   "company": "SEMMELweiss Holding GmbH",
   "company_key": "semmelweiss",
+  "contract": "unbefristet",
   "distance_km": 42.5,
   "first_published": "2026-09-11",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.376187,
   "lon": 8.254332,
   "occupation": "Projektleiter/in / Projektmanager/in",
@@ -688,6 +914,8 @@
   "plz": "67454",
   "published": "2026-09-11",
   "refnr": "10001-1003693552-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Photovoltaik"
   ],
@@ -699,9 +927,15 @@
   "city": "Heidelberg, Neckar",
   "company": "Deutsches Krebsforschungszentrum",
   "company_key": "deutsches-krebsforschungszentrum",
+  "contract": "befristet",
   "distance_km": 49.4,
   "first_published": "2026-09-15",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.414482,
   "lon": 8.671617,
   "occupation": "Softwareentwickler/in",
@@ -709,6 +943,8 @@
   "plz": "69120",
   "published": "2026-09-15",
   "refnr": "10001-1003709573-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science",
    "Data Engineer"
@@ -721,9 +957,15 @@
   "city": "Heidelberg, Neckar",
   "company": "Deutsches Krebsforschungszentrum",
   "company_key": "deutsches-krebsforschungszentrum",
+  "contract": "befristet",
   "distance_km": 49.4,
   "first_published": "2026-09-16",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.414482,
   "lon": 8.671617,
   "occupation": "Bioinformatiker/in",
@@ -731,6 +973,8 @@
   "plz": "69120",
   "published": "2026-09-16",
   "refnr": "10001-1003716531-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science"
   ],
@@ -739,34 +983,18 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003716531-S"
  },
  {
-  "city": "Pforzheim",
-  "company": "VOREST AG",
-  "company_key": "vorest",
-  "distance_km": 25.3,
-  "first_published": "2026-09-18",
-  "first_seen": "2026-09-24",
-  "lat": 48.8873478,
-  "lon": 8.6974847,
-  "occupation": "Medieninformatiker/in",
-  "offer_type": "ARBEIT",
-  "plz": "75173",
-  "published": "2026-09-18",
-  "refnr": "10001-1003730630-S",
-  "search_terms": [
-   "Machine Learning",
-   "KI"
-  ],
-  "street": "Bleichstr. 21",
-  "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003730630-S"
- },
- {
   "city": "Karlsruhe, Baden",
   "company": "Freunde der Erziehungskunst e.V.",
   "company_key": "freunde-der-erziehungskunst",
+  "contract": "befristet",
   "distance_km": 5.2,
   "first_published": "2026-09-21",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.035402,
   "lon": 8.459874,
   "occupation": "Softwareentwickler/in",
@@ -774,6 +1002,8 @@
   "plz": "76139",
   "published": "2026-09-21",
   "refnr": "10001-1003737151-S",
+  "salary_from": 45500,
+  "salary_to": 48750,
   "search_terms": [
    "KI"
   ],
@@ -785,9 +1015,14 @@
   "city": "Neustadt an der Weinstraße",
   "company": "8com GmbH & Co. KG",
   "company_key": "8com",
+  "contract": "unbefristet",
   "distance_km": 41.3,
   "first_published": "2026-09-23",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.339602,
   "lon": 8.153478,
   "occupation": "Projektleiter/in / Projektmanager/in",
@@ -795,6 +1030,8 @@
   "plz": "67433",
   "published": "2026-09-23",
   "refnr": "10001-1003750323-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -803,33 +1040,74 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003750323-S"
  },
  {
+  "city": "Pforzheim",
+  "company": "VOREST AG",
+  "company_key": "vorest",
+  "contract": "unbefristet",
+  "distance_km": 25.3,
+  "first_published": "2026-09-25",
+  "first_seen": "2026-09-25",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.8873478,
+  "lon": 8.6974847,
+  "occupation": "Medieninformatiker/in",
+  "offer_type": "ARBEIT",
+  "plz": "75173",
+  "published": "2026-09-25",
+  "refnr": "10001-1003765260-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning",
+   "KI"
+  ],
+  "street": "Bleichstr. 21",
+  "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003765260-S"
+ },
+ {
   "city": "St. Leon-Rot",
   "company": "SAP",
   "company_key": "sap",
+  "contract": null,
   "distance_km": 32.4,
   "first_published": "2026-09-17",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.2623571,
   "lon": 8.6181929,
   "occupation": "Data Scientist",
   "offer_type": "PRAKTIKUM_TRAINEE",
   "plz": "68789",
-  "published": "2026-09-17",
+  "published": "2026-09-25",
   "refnr": "11070-1633357-1-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist"
   ],
   "street": "",
   "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1633357-1-S"
+  "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-machine-translationnatural-language-processing-sap-68789-st-leon-rot--2413832.html"
  },
  {
   "city": "Weil der Stadt",
   "company": "Krannich Group GmbH",
   "company_key": "krannich",
+  "contract": null,
   "distance_km": 43.6,
   "first_published": "2026-08-31",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7577926,
   "lon": 8.8624313,
   "occupation": "Produktmanager/in",
@@ -837,20 +1115,27 @@
   "plz": "71263",
   "published": "2026-08-31",
   "refnr": "11858-SDE-114946-STA-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Photovoltaik"
   ],
   "street": "",
   "title": "(Senior) Produktmanager m/w/d im Photovoltaik-Großhandel",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-114946-STA-S"
+  "url": "https://www.stellenanzeigen.de/job/detail/SDE-114946/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000"
  },
  {
   "city": "Weil der Stadt",
   "company": "Krannich Group GmbH",
   "company_key": "krannich",
+  "contract": null,
   "distance_km": 43.6,
   "first_published": "2026-09-11",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7577926,
   "lon": 8.8624313,
   "occupation": "Data Scientist",
@@ -858,6 +1143,8 @@
   "plz": "71263",
   "published": "2026-09-11",
   "refnr": "11858-SDE-120192-STA-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist",
    "Data Science",
@@ -865,15 +1152,20 @@
   ],
   "street": "",
   "title": "Data Science Engineer m/w/d",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-120192-STA-S"
+  "url": "https://www.stellenanzeigen.de/job/detail/SDE-120192/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000"
  },
  {
   "city": "Pforzheim",
   "company": "THOST Projektmanagement GmbH",
   "company_key": "thost-projektmanagement",
+  "contract": "unbefristet",
   "distance_km": 22.7,
   "first_published": "2026-09-03",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.8945025,
   "lon": 8.6623118,
   "occupation": "KI-Engineer",
@@ -881,20 +1173,27 @@
   "plz": "75179",
   "published": "2026-09-03",
   "refnr": "12288-4929292147-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
   "street": "",
   "title": "#THO2601 | AI Automation Engineer (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4929292147-S"
+  "url": "https://www.persy.jobs/persy/l/job-jhjkm-b"
  },
  {
   "city": "Karlsruhe, Baden",
   "company": "Siemens AG",
   "company_key": "siemens",
+  "contract": "unbefristet",
   "distance_km": 0.8,
   "first_published": "2026-09-24",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "Informatiker/in",
@@ -902,6 +1201,8 @@
   "plz": "76131",
   "published": "2026-09-24",
   "refnr": "12465-1635995-1-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science"
@@ -911,12 +1212,45 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635995-1-S"
  },
  {
+  "city": "Rastatt",
+  "company": "Siemens AG",
+  "company_key": "siemens",
+  "contract": "unbefristet",
+  "distance_km": 23.0,
+  "first_published": "2026-09-25",
+  "first_seen": "2026-09-25",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.8562279,
+  "lon": 8.1883049,
+  "occupation": "Wirtschaftsingenieur/in",
+  "offer_type": "PRAKTIKUM_TRAINEE",
+  "plz": "76437",
+  "published": "2026-09-25",
+  "refnr": "12465-1636428-1-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Simulation"
+  ],
+  "street": "",
+  "title": "Pflichtpraktikum Digitale Fabrikplanung und Materialflusssimulation in der Elektronikfertigung",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1636428-1-S"
+ },
+ {
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-07-01",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
@@ -924,6 +1258,8 @@
   "plz": "76227",
   "published": "2026-07-01",
   "refnr": "12787-264328010726-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -936,9 +1272,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-08-21",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Softwareentwickler/in",
@@ -946,6 +1287,8 @@
   "plz": "76227",
   "published": "2026-08-21",
   "refnr": "12787-265028210826-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -957,9 +1300,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-07-29",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "KI-Engineer",
@@ -967,6 +1315,8 @@
   "plz": "76227",
   "published": "2026-07-29",
   "refnr": "12787-266297290726-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -978,9 +1328,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-08-12",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Data Scientist",
@@ -988,6 +1343,8 @@
   "plz": "76227",
   "published": "2026-08-12",
   "refnr": "12787-267279120826-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist",
    "Data Science",
@@ -1001,9 +1358,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-08-25",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "DevOps Engineer",
@@ -1011,6 +1373,8 @@
   "plz": "76227",
   "published": "2026-08-25",
   "refnr": "12787-268129250826-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -1023,9 +1387,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-08-26",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Data Scientist",
@@ -1033,6 +1402,8 @@
   "plz": "76227",
   "published": "2026-08-26",
   "refnr": "12787-268183250826-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist",
    "Data Science",
@@ -1046,9 +1417,15 @@
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-09-08",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Softwareentwickler/in",
@@ -1056,6 +1433,8 @@
   "plz": "76227",
   "published": "2026-09-08",
   "refnr": "12787-269097080926-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -1067,9 +1446,14 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
+  "contract": "unbefristet",
   "distance_km": 3.8,
   "first_published": "2026-09-22",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Data Scientist",
@@ -1077,6 +1461,8 @@
   "plz": "76227",
   "published": "2026-09-22",
   "refnr": "12787-270129220926-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist",
    "KI"
@@ -1089,30 +1475,68 @@
   "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
+  "contract": "unbefristet",
   "distance_km": 3.8,
-  "first_published": "2026-09-24",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-09-25",
+  "first_seen": "2026-09-25",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.003011,
   "lon": 8.455581,
   "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
   "offer_type": "ARBEIT",
   "plz": "76227",
-  "published": "2026-09-24",
-  "refnr": "12787-270258240926-S",
+  "published": "2026-09-25",
+  "refnr": "12787-270258250926-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
   "street": "Am dm-Platz 1",
   "title": "Solution Architect KI und Prozessautomatisierung - Finance/Controlling (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270258240926-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270258250926-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-09-25",
+  "first_seen": "2026-09-25",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "IT-Berater/in",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-09-25",
+  "refnr": "12787-270406250926-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "IT Consultant - Tracking & Analytics (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270406250926-S"
  },
  {
   "city": "Waghäusel",
   "company": "WIRSOL Aufdach GmbH",
   "company_key": "wirsol-aufdach",
+  "contract": null,
   "distance_km": 26.3,
   "first_published": "2026-07-29",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": null,
   "lat": 49.229763,
   "lon": 8.5236584,
   "occupation": "Elektrotechnikermeister/in/Bachelor Professional im Elektrotechniker-Handwerk",
@@ -1120,21 +1544,28 @@
   "plz": "68753",
   "published": "2026-07-29",
   "refnr": "12908-063451996-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Batterie",
    "Photovoltaik"
   ],
   "street": "",
   "title": "Senior-Elektroplaner Photovoltaik / Batteriespeicher (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063451996-S"
+  "url": "https://www.jobware.de/job/063451996?jw_chl_seg=ARBEITSAGENTUR"
  },
  {
   "city": "Karlsruhe, Baden",
   "company": "ZG Raiffeisen eG",
   "company_key": "zg-raiffeisen",
+  "contract": null,
   "distance_km": 1.3,
   "first_published": "2026-09-08",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.999942,
   "lon": 8.417547,
   "occupation": "Betriebswirt/in (Hochschule) - Kostenrechnung und Kalkulation",
@@ -1142,21 +1573,28 @@
   "plz": "76137",
   "published": "2026-09-08",
   "refnr": "12951-0eb81ecb-9778-49fb--S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Batterie",
    "Photovoltaik"
   ],
   "street": "Luisenstraße 88",
   "title": "Kalkulator / Projektierer (m/w/d) - Photovoltaik & Batteriespeicher in Karlsruhe oder remote",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-0eb81ecb-9778-49fb--S"
+  "url": "https://www.heyjobs.co/de-de/jobs/0eb81ecb-9778-49fb-9b48-fccc8e6a9611?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse"
  },
  {
   "city": "Rastatt",
   "company": "Mercedes-Benz Group AG",
   "company_key": "mercedes-benz",
+  "contract": null,
   "distance_km": 23.0,
   "first_published": "2026-09-17",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Teilzeit"
+  ],
   "lat": 48.8562279,
   "lon": 8.1883049,
   "occupation": "Informatiker/in",
@@ -1164,6 +1602,8 @@
   "plz": "76437",
   "published": "2026-09-17",
   "refnr": "13151-1633950-1-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science"
   ],
@@ -1175,9 +1615,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Karlsruher Institut für Technologie (KIT) Campus Nord",
   "company_key": "karlsruher-institut-fuer-technologie-kit-campus-nord",
+  "contract": null,
   "distance_km": 0.8,
   "first_published": "2026-09-21",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "KI-Manager/in",
@@ -1185,20 +1630,28 @@
   "plz": "76131",
   "published": "2026-09-21",
   "refnr": "13243-16418448-JB-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
   "street": "",
   "title": "Software Developer für KI-Plattformen (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-16418448-JB-S"
+  "url": "https://www.jobblitz.de/jobad/16418448/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000"
  },
  {
   "city": "Heidelberg, Neckar",
   "company": "Bürgerwerke eG",
   "company_key": "buergerwerke",
+  "contract": "unbefristet",
   "distance_km": 48.7,
   "first_published": "2026-09-10",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
   "lat": 49.404218,
   "lon": 8.683354,
   "occupation": "Fachkraft - Marketing/Verkauf/Vertrieb",
@@ -1206,20 +1659,25 @@
   "plz": "69123",
   "published": "2026-09-10",
   "refnr": "13635-41619565_JB5244327-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende"
   ],
   "street": "",
   "title": "Vertriebsmanager:in B2B für die Energiewende in Bürgerhand (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-41619565_JB5244327-S"
+  "url": "https://www.jobexport.de/job/5244327.html?exp=81&cid=41619565-14ff-42bf-8da2-05f77d4b2648"
  },
  {
   "city": "Heidelberg, Neckar",
   "company": "Novotrend",
   "company_key": "novotrend",
+  "contract": null,
   "distance_km": 48.6,
   "first_published": "2026-09-03",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": null,
   "lat": 49.4045988,
   "lon": 8.6809657,
   "occupation": "Anwendungsprogrammierer/in",
@@ -1227,20 +1685,25 @@
   "plz": "69115",
   "published": "2026-09-03",
   "refnr": "13644-120137-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Physiker"
   ],
   "street": "",
   "title": "Informatiker/Ingenieur/Physiker als Software-Entwickler (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-120137-S"
+  "url": "https://www.get-in-it.de/jobsuche/p120137?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
   "city": "Heidelberg, Neckar",
   "company": "Novotrend",
   "company_key": "novotrend",
+  "contract": null,
   "distance_km": 48.6,
   "first_published": "2026-09-03",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": null,
   "lat": 49.4045988,
   "lon": 8.6809657,
   "occupation": "IT-Projektkoordinator/in",
@@ -1248,20 +1711,25 @@
   "plz": "69115",
   "published": "2026-09-03",
   "refnr": "13644-150972-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Physiker"
   ],
   "street": "",
   "title": "Informatiker/Ingenieure/Physiker als Projektingenieure (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-150972-S"
+  "url": "https://www.get-in-it.de/jobsuche/p150972?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
   "city": "Heidelberg, Neckar",
   "company": "HMS Analytical Software",
   "company_key": "hms-analytical-software",
+  "contract": null,
   "distance_km": 48.6,
   "first_published": "2026-09-03",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": null,
   "lat": 49.4045988,
   "lon": 8.6809657,
   "occupation": "Anwendungsprogrammierer/in",
@@ -1269,21 +1737,28 @@
   "plz": "69115",
   "published": "2026-09-03",
   "refnr": "13644-296843-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Engineer",
    "Physiker"
   ],
   "street": "",
   "title": "Quereinsteiger Physiker / Mathematiker als Software Engineer Data Analytics (mwd)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-296843-S"
+  "url": "https://www.get-in-it.de/jobsuche/p296843?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co. KG",
   "company_key": "dm-drogerie-markt",
+  "contract": null,
   "distance_km": 5.4,
   "first_published": "2026-09-15",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9905167,
   "lon": 8.473825,
   "occupation": "Data Scientist",
@@ -1291,21 +1766,28 @@
   "plz": "76227",
   "published": "2026-09-15",
   "refnr": "13649-13206731AB-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Scientist",
    "Simulation"
   ],
   "street": "",
   "title": "Data Scientist Logistics Network Simulation and Optimization",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13649-13206731AB-S"
+  "url": "https://www.absolventa.de/stellenangebote/13206731?utm_campaign=job&utm_medium=premiumcpc&utm_source=BAG&utm_content=job"
  },
  {
   "city": "Pforzheim",
   "company": "THOST Projektmanagement GmbH",
   "company_key": "thost-projektmanagement",
+  "contract": "unbefristet",
   "distance_km": 22.7,
   "first_published": "2026-07-30",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.894502473001,
   "lon": 8.662311822,
   "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
@@ -1313,6 +1795,8 @@
   "plz": "75179",
   "published": "2026-07-30",
   "refnr": "14446-2026asl5yiyi-000-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science",
    "Data Engineer",
@@ -1326,9 +1810,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Siemens Energy Global GmbH & Co. KG",
   "company_key": "siemens-energy-global",
+  "contract": "unbefristet",
   "distance_km": 5.7,
   "first_published": "2026-07-10",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0371748,
   "lon": 8.340292,
   "occupation": "Vertriebsingenieur/in",
@@ -1336,6 +1825,8 @@
   "plz": "76187",
   "published": "2026-07-13",
   "refnr": "15170-470192085-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiewende"
   ],
@@ -1347,9 +1838,14 @@
   "city": "Karlsruhe, Baden",
   "company": "BridgingIT GmbH",
   "company_key": "bridgingit",
+  "contract": "unbefristet",
   "distance_km": 4.0,
   "first_published": "2025-07-17",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.027158832001,
   "lon": 8.448173185,
   "occupation": "IT-Berater/in",
@@ -1357,6 +1853,8 @@
   "plz": "76139",
   "published": "2026-06-30",
   "refnr": "15835-0009030049f001-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI",
    "Modellierung"
@@ -1369,9 +1867,14 @@
   "city": "Karlsruhe, Baden",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 5.4,
   "first_published": "2026-06-10",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9905167,
   "lon": 8.473825,
   "occupation": "Finanzwirt/in",
@@ -1379,6 +1882,8 @@
   "plz": "76227",
   "published": "2026-04-22",
   "refnr": "15986-REF284268M-49ede5f-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "KI"
@@ -1391,9 +1896,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-07-17",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1401,6 +1911,8 @@
   "plz": "71272",
   "published": "2026-07-15",
   "refnr": "15986-REF289080A-92a065d-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -1413,9 +1925,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-07-10",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1423,6 +1940,8 @@
   "plz": "71272",
   "published": "2026-07-08",
   "refnr": "15986-REF290999O-54a5d12-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Künstliche Intelligenz",
@@ -1436,9 +1955,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-07-13",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1446,6 +1970,8 @@
   "plz": "71272",
   "published": "2026-07-10",
   "refnr": "15986-REF291272K-f4e7466-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "KI"
@@ -1458,9 +1984,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-07-21",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1468,6 +1999,8 @@
   "plz": "71272",
   "published": "2026-07-20",
   "refnr": "15986-REF292117B-cc77f8b-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Simulation"
   ],
@@ -1479,9 +2012,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-13",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1489,6 +2027,8 @@
   "plz": "71272",
   "published": "2026-08-13",
   "refnr": "15986-REF293881R-32fd3d7-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -1502,9 +2042,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-15",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1512,6 +2057,8 @@
   "plz": "71272",
   "published": "2026-08-15",
   "refnr": "15986-REF294182K-d313c26-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Simulation",
    "Modellierung"
@@ -1524,9 +2071,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-18",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1534,6 +2086,8 @@
   "plz": "71272",
   "published": "2026-08-18",
   "refnr": "15986-REF294336H-a94ff12-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Modellierung"
   ],
@@ -1545,9 +2099,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-19",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1555,6 +2114,8 @@
   "plz": "71272",
   "published": "2026-08-19",
   "refnr": "15986-REF294467J-a27ea4e-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Simulation"
   ],
@@ -1566,9 +2127,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-26",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1576,6 +2142,8 @@
   "plz": "71272",
   "published": "2026-08-26",
   "refnr": "15986-REF294932S-53f2a87-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science",
    "Deep Learning"
@@ -1588,9 +2156,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-08-26",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1598,6 +2171,8 @@
   "plz": "71272",
   "published": "2026-08-26",
   "refnr": "15986-REF294949Y-168d23d-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "KI"
@@ -1610,9 +2185,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-09-04",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1620,6 +2200,8 @@
   "plz": "71272",
   "published": "2026-09-04",
   "refnr": "15986-REF295672C-d75a959-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Modellierung"
   ],
@@ -1631,9 +2213,14 @@
   "city": "Bühlertal",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 39.5,
   "first_published": "2026-09-10",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.6773893,
   "lon": 8.2031205,
   "occupation": "Maschinenbaumechaniker/in",
@@ -1641,6 +2228,8 @@
   "plz": "77830",
   "published": "2026-09-10",
   "refnr": "15986-REF296008N-171cc98-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science"
@@ -1653,9 +2242,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-09-15",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1663,6 +2257,8 @@
   "plz": "71272",
   "published": "2026-09-15",
   "refnr": "15986-REF296289E-858b55e-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Energiesystem"
   ],
@@ -1674,9 +2270,14 @@
   "city": "Renningen",
   "company": "Robert Bosch GmbH",
   "company_key": "robert-bosch",
+  "contract": "befristet",
   "distance_km": 46.7,
   "first_published": "2026-09-17",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.7689256,
   "lon": 8.928216,
   "occupation": "Fachwirt/in - Marktforschung",
@@ -1684,6 +2285,8 @@
   "plz": "71272",
   "published": "2026-09-17",
   "refnr": "15986-REF296490W-e6a732c-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Werkstoffwissenschaft"
   ],
@@ -1695,9 +2298,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 0.8,
   "first_published": "2026-04-01",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "Softwareentwickler/in",
@@ -1705,6 +2313,8 @@
   "plz": "76131",
   "published": "2026-06-30",
   "refnr": "16752-r14241-S",
+  "salary_from": 75000.0,
+  "salary_to": 90000.0,
   "search_terms": [
    "Data Science",
    "Data Engineer",
@@ -1718,9 +2328,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 0.8,
   "first_published": "2026-06-15",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "Data Engineer",
@@ -1728,6 +2343,8 @@
   "plz": "76131",
   "published": "2026-06-15",
   "refnr": "16752-r15302-S",
+  "salary_from": 75000.0,
+  "salary_to": 85000.0,
   "search_terms": [
    "Data Engineer",
    "KI"
@@ -1740,9 +2357,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 0.8,
   "first_published": "2026-06-15",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "Data-Consultant",
@@ -1750,6 +2372,8 @@
   "plz": "76131",
   "published": "2026-06-15",
   "refnr": "16752-r15303-S",
+  "salary_from": 75000.0,
+  "salary_to": 85000.0,
   "search_terms": [
    "Machine Learning",
    "KI"
@@ -1762,9 +2386,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": "unbefristet",
   "distance_km": 0.8,
   "first_published": "2026-07-22",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0069955,
   "lon": 8.4139873,
   "occupation": "Data Engineer",
@@ -1772,6 +2401,8 @@
   "plz": "76131",
   "published": "2026-07-22",
   "refnr": "16752-r18165-S",
+  "salary_from": 60000.0,
+  "salary_to": 75000.0,
   "search_terms": [
    "Data Engineer",
    "KI"
@@ -1784,9 +2415,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 0.8,
   "first_published": "2026-07-27",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Teilzeit"
+  ],
   "lat": 49.006995512,
   "lon": 8.413987327,
   "occupation": "Softwareentwickler/in",
@@ -1794,6 +2430,8 @@
   "plz": "76131",
   "published": "2026-07-27",
   "refnr": "16752-r18191-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science"
@@ -1806,9 +2444,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 2.4,
   "first_published": "2025-05-22",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0238673,
   "lon": 8.424842,
   "occupation": "Data Engineer",
@@ -1816,6 +2459,8 @@
   "plz": "76131",
   "published": "2026-01-21",
   "refnr": "16752-r5333-S",
+  "salary_from": 70000.0,
+  "salary_to": 85000.0,
   "search_terms": [
    "Machine Learning",
    "Data Engineer"
@@ -1828,9 +2473,14 @@
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
+  "contract": null,
   "distance_km": 2.4,
   "first_published": "2025-05-22",
   "first_seen": "2026-09-24",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.0238673,
   "lon": 8.424842,
   "occupation": "Data Engineer",
@@ -1838,6 +2488,8 @@
   "plz": "76131",
   "published": "2026-01-21",
   "refnr": "16752-r5446-S",
+  "salary_from": 65000.0,
+  "salary_to": 75000.0,
   "search_terms": [
    "Machine Learning",
    "Data Engineer",
@@ -1851,9 +2503,14 @@
   "city": "Heidelberg, Neckar",
   "company": "Almato AG",
   "company_key": "almato",
+  "contract": null,
   "distance_km": 48.6,
   "first_published": "2026-07-28",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.4045988,
   "lon": 8.6809657,
   "occupation": "Sales-Manager/in",
@@ -1861,6 +2518,8 @@
   "plz": "69115",
   "published": "2026-07-28",
   "refnr": "17700-0066368168-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -1873,9 +2532,14 @@
   "city": "Graben-Neudorf",
   "company": "SEW-EURODRIVE GmbH & Co KG",
   "company_key": "sew-eurodrive",
+  "contract": "unbefristet",
   "distance_km": 18.5,
   "first_published": "2026-07-17",
   "first_seen": "2026-09-24",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 49.1643012,
   "lon": 8.4855401,
   "occupation": "Informatiker/in",
@@ -1883,6 +2547,8 @@
   "plz": "76676",
   "published": "2026-07-17",
   "refnr": "19470-471378584-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -1896,9 +2562,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-18",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Engineer",
@@ -1906,6 +2577,8 @@
   "plz": "76275",
   "published": "2026-09-18",
   "refnr": "19913-3000711789682401-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Engineer",
    "KI"
@@ -1918,9 +2591,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-11",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "Software-Architect",
@@ -1928,6 +2606,8 @@
   "plz": "76275",
   "published": "2026-09-11",
   "refnr": "19913-3014801789077601-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Engineer",
    "KI"
@@ -1940,9 +2620,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-22",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -1950,6 +2635,8 @@
   "plz": "76275",
   "published": "2026-09-22",
   "refnr": "19913-3042021790028001-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -1961,9 +2648,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-23",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "ERP-Berater/in - ERP-Consultant",
@@ -1971,6 +2663,8 @@
   "plz": "76275",
   "published": "2026-09-23",
   "refnr": "19913-3042981790114401-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -1982,9 +2676,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-15",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -1992,6 +2691,8 @@
   "plz": "76275",
   "published": "2026-09-15",
   "refnr": "19913-3044801789423201-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
@@ -2004,9 +2705,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-16",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -2014,6 +2720,8 @@
   "plz": "76275",
   "published": "2026-09-16",
   "refnr": "19913-3045381789509601-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -2025,9 +2733,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-16",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -2035,6 +2748,8 @@
   "plz": "76275",
   "published": "2026-09-16",
   "refnr": "19913-3045491789509601-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "KI"
@@ -2047,9 +2762,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-16",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -2057,6 +2777,8 @@
   "plz": "76275",
   "published": "2026-09-16",
   "refnr": "19913-3045601789509601-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -2070,9 +2792,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-24",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "KI-Manager/in",
@@ -2080,6 +2807,8 @@
   "plz": "76275",
   "published": "2026-09-24",
   "refnr": "19913-3048051790200801-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Data Science",
    "Künstliche Intelligenz",
@@ -2093,9 +2822,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-23",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "Software-Architect",
@@ -2103,6 +2837,8 @@
   "plz": "76275",
   "published": "2026-09-23",
   "refnr": "19913-3056331790114401-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Machine Learning",
    "Data Science",
@@ -2117,9 +2853,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-24",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "ERP-Berater/in - ERP-Consultant",
@@ -2127,6 +2868,8 @@
   "plz": "76275",
   "published": "2026-09-24",
   "refnr": "19913-3061651790200801-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "KI"
   ],
@@ -2138,9 +2881,14 @@
   "city": "Ettlingen",
   "company": "NTT DATA Deutschland SE",
   "company_key": "ntt-data-deutschland",
+  "contract": null,
   "distance_km": 8.6,
   "first_published": "2026-09-18",
   "first_seen": "2026-09-24",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
   "lat": 48.9299217,
   "lon": 8.4036437,
   "occupation": "Leiter/in - Unternehmensentwicklung",
@@ -2148,6 +2896,8 @@
   "plz": "76275",
   "published": "2026-09-18",
   "refnr": "19913-3065481789682400-S",
+  "salary_from": null,
+  "salary_to": null,
   "search_terms": [
    "Künstliche Intelligenz",
    "KI"
