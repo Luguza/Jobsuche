@@ -1,5 +1,9 @@
 # Jobkarte Karlsruhe: ML, Materialien & Energiewende
 
+[![Karte aktualisieren](https://github.com/Luguza/Jobsuche/actions/workflows/update-map.yml/badge.svg)](https://github.com/Luguza/Jobsuche/actions/workflows/update-map.yml)
+[![Tests](https://github.com/Luguza/Jobsuche/actions/workflows/tests.yml/badge.svg)](https://github.com/Luguza/Jobsuche/actions/workflows/tests.yml)
+· **[Zur Karte](https://luguza.github.io/Jobsuche/)**
+
 Interaktive Karte des Arbeitsmarkts im Umkreis von 50 km um Karlsruhe für
 **Machine Learning / Data Science**, **Materialwissenschaft & Simulation** und Sektoren mit
 gesellschaftlichem Nutzen (**erneuerbare Energien, Batterien, Wasserstoff, Netze, Klimaschutz,
@@ -17,7 +21,7 @@ die passenden Stellen und die Website. Über das Suchfeld lässt sich nach Firme
 Stichwort filtern, der Schieberegler setzt einen Mindest-Score und „nur neue Einträge“ zeigt,
 was in der letzten Woche dazugekommen ist.
 
-**Karte:** `https://luguza.github.io/Jobsuche/` (nach der Einrichtung, siehe unten)
+**Karte:** https://luguza.github.io/Jobsuche/
 
 ## Datenquellen
 

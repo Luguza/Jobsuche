@@ -1,3 +1,5 @@
+# Voraussetzung: Settings → Pages → Source „GitHub Actions“.
+# Optional: Secret ANTHROPIC_API_KEY für die Bewertung per Claude (sonst Stichwort-Score).
 name: Daten aktualisieren & Karte veröffentlichen
 
 on:
