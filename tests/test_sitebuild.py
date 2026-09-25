@@ -23,8 +23,12 @@ def test_build_site_renders_both_layers(cfg, tmp_path):
     index = build_site(cfg, tmp_path / "site", data_dir=data)
     page = index.read_text()
     assert "Stand: 24.09.2026" in page
-    assert "Offene Stellen (1)" in page
-    assert "Passende Firmen ohne Ausschreibung (1)" in page  # "Unpassend" liegt unter der Schwelle
+    # "Unpassend" liegt unter der Schwelle für Firmen ohne Ausschreibung
+    assert "1 Stellen bei 1 Arbeitgebern · 1 passende Firmen ohne Ausschreibung" in page
+    # Filter: Branchen per Stichwort, Anstellungsart aus dem Titel
+    assert 'value="Batterien &amp; Speicher"' in page
+    assert 'value="Forschung &amp; Hochschule"' in page
+    assert 'value="Festanstellung"' in page
     assert "Akku &lt;Sim&gt; GmbH" in page and "Akku <Sim> GmbH" not in page
     assert "Unpassend GmbH" not in page
     assert (tmp_path / "site" / "data" / "companies.json").exists()
@@ -37,3 +41,13 @@ def test_first_run_is_never_marked_new():
 
     assert new_since({"updated": "2026-09-24T06:00:00+00:00", "baseline": "2026-09-24"}) == date(2026, 9, 25)
     assert new_since({"updated": "2026-10-20T06:00:00+00:00", "baseline": "2026-09-24"}) == date(2026, 10, 13)
+
+
+def test_salary_units():
+    from jobmap.sitebuild import _salary
+
+    assert _salary({"salary_from": 20.0, "salary_to": 21.0}) == "20–21 €/Std."
+    assert _salary({"salary_from": 3500, "salary_to": 4200}) == "3.500–4.200 €/Monat"
+    assert _salary({"salary_from": 55000.0, "salary_to": 70000.0}) == "55–70 T€/Jahr"
+    assert _salary({"salary_from": 60000}) == "ab 60 T€/Jahr"
+    assert _salary({}) is None

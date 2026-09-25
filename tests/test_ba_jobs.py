@@ -13,7 +13,16 @@ def test_parse_v6_item_picks_nearest_location():
     assert job["company"] == "Beispiel Batterie GmbH"
     assert job["city"] == "Karlsruhe, Baden"  # nicht der Standort in München
     assert job["distance_km"] < 5
-    assert job["url"].endswith("/jobdetail/10000-1111111111-S")
+    assert job["url"] == "https://karriere.example/ml-engineer"
+    assert job["hours"] == ["Vollzeit", "Teilzeit"]
+    assert job["homeoffice"] is True and job["contract"] == "unbefristet"
+    assert (job["salary_from"], job["salary_to"]) == (60000, 75000)
+
+
+def test_parse_without_external_url_links_to_ba():
+    job = parse_job(FIXTURE["ergebnisliste"][1], CENTER)
+    assert job["url"] == "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-2222222222-S"
+    assert job["hours"] is None and job["contract"] is None
 
 
 def test_parse_legacy_schema():

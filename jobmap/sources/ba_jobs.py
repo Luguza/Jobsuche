@@ -72,6 +72,12 @@ def parse_job(item: dict, center: tuple[float, float]) -> dict | None:
 
     published = (item.get("veroeffentlichungszeitraum") or {}).get("von") or item.get(
         "aktuelleVeroeffentlichungsdatum")
+    hours = []
+    if item.get("arbeitszeitVollzeit"):
+        hours.append("Vollzeit")
+    if any(v for k, v in item.items() if k.startswith("arbeitszeitTeilzeit")):
+        hours.append("Teilzeit")
+    contract = {"BEFRISTET": "befristet", "UNBEFRISTET": "unbefristet"}.get(item.get("vertragsdauer"))
     return {
         "refnr": refnr,
         "title": title,
@@ -87,7 +93,12 @@ def parse_job(item: dict, center: tuple[float, float]) -> dict | None:
         "plz": best.get("plz"),
         "city": best.get("city"),
         "distance_km": round(best_dist, 1) if best_dist is not None else None,
-        "url": item.get("externeUrl") or JOB_PAGE_URL.format(refnr=refnr),
+        "hours": hours or None,
+        "homeoffice": item.get("homeofficemoeglich"),
+        "contract": contract,
+        "salary_from": item.get("gehaltsspanneVon"),
+        "salary_to": item.get("gehaltsspanneBis"),
+        "url": item.get("externeURL") or item.get("externeUrl") or JOB_PAGE_URL.format(refnr=refnr),
     }
 
 

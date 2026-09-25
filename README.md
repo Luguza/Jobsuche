@@ -16,10 +16,24 @@ Die Karte zeigt zwei getrennt schaltbare Ebenen:
 - **Passende Firmen ohne Ausschreibung** (Kreis-Marker): Firmen und Forschungseinrichtungen
   ohne aktuelle Stelle, als Ziel für Initiativbewerbungen.
 
-Farbe und Zahl im Marker sind der **Relevanz-Score (0–10)**. Das Popup zeigt die Begründung,
-die passenden Stellen und die Website. Über das Suchfeld lässt sich nach Firmenname und
-Stichwort filtern, der Schieberegler setzt einen Mindest-Score und „nur neue Einträge“ zeigt,
-was in der letzten Woche dazugekommen ist.
+Farbe und Zahl im Marker sind die **Priorität (Relevanz-Score 0–10)**. Das Popup zeigt die
+Begründung, die Branche, die passenden Stellen (mit Anstellungsart, Arbeitszeit, Befristung,
+Homeoffice und, falls angegeben, Gehalt) und die Website.
+
+Filter im Panel links (auf dem Handy über die Kopfzeile aufklappen):
+
+- **Suche** nach Firmenname oder Stichwort, mit Trefferliste zum Antippen
+- **Ebenen** „Offene Stellen“ und „Firmen ohne Ausschreibung“ ein- und ausblenden
+- **Mindest-Priorität** (x/10) und **maximale Entfernung** von Karlsruhe
+- **Branche**, z. B. KI & Data Science, Batterien & Speicher, Wasserstoff, Netze (mit
+  `ANTHROPIC_API_KEY` ordnet Claude zu, sonst Stichwörter aus `config.yaml` → `categories`)
+- nur für Stellen: **Anstellungsart** (Festanstellung, Werkstudent, Abschlussarbeit, Praktikum,
+  Promotion/Postdoc, Trainee), **Arbeitszeit** (Vollzeit/Teilzeit), **Homeoffice** und
+  **Veröffentlichungsdatum**
+- **nur neue Einträge** der letzten Woche
+
+Innerhalb einer Filtergruppe genügt ein Treffer (oder), verschiedene Gruppen gelten zusammen
+(und). Im Popup einer Firma werden Stellen, die nicht zu den Filtern passen, ausgeblendet.
 
 **Karte:** https://luguza.github.io/Jobsuche/
 
@@ -116,5 +130,7 @@ werden. Weitere Läufe nutzen die Caches.
   (reguläre Ausdrücke)
 - **Profil für die Claude-Bewertung und Modell:** `config.yaml` → `scoring.profile`, `scoring.llm`
 - **Schwelle für Firmen ohne Stelle:** `config.yaml` → `map.min_score_companies`
+- **Branchen für den Filter:** `config.yaml` → `categories`
+- **Gruppieren naher Marker:** `config.yaml` → `map.cluster_radius_px` (kleiner = später gruppiert)
 - **Eigene Firmen:** `data/seed_companies.yaml`, optional mit festem `score` und `reason`
 - **Neu bewerten lassen:** Eintrag aus `data/score_cache.json` löschen (oder die ganze Datei)

@@ -11,6 +11,7 @@ import logging
 import os
 from datetime import date
 
+from jobmap.classify import OTHER_CATEGORY
 from jobmap.textutil import KeywordMatcher
 
 log = logging.getLogger(__name__)
@@ -29,28 +30,32 @@ Bewerte jede Organisation mit einer ganzen Zahl von 0 bis 10 danach, wie gut sie
 
 Stütze dich auf die gelieferten Angaben und auf gesichertes Allgemeinwissen über bekannte Organisationen; erfinde keine Details. Sind die Angaben dünn, bewerte vorsichtig und sag das.
 Die Begründung besteht aus ein bis zwei kurzen, konkreten Sätzen auf Deutsch: was passt, was fehlt.
+Ordne jede Organisation außerdem einer bis drei passenden Branchen aus dieser Liste zu: {categories}.
 Gib für jede übergebene id genau ein Ergebnis zurück."""
 
-OUTPUT_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "results": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "id": {"type": "string"},
-                    "score": {"type": "integer"},
-                    "reason": {"type": "string"},
+
+def output_schema(categories: list[str]) -> dict:
+    return {
+        "type": "object",
+        "properties": {
+            "results": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "id": {"type": "string"},
+                        "score": {"type": "integer"},
+                        "reason": {"type": "string"},
+                        "categories": {"type": "array", "items": {"type": "string", "enum": categories}},
+                    },
+                    "required": ["id", "score", "reason", "categories"],
+                    "additionalProperties": False,
                 },
-                "required": ["id", "score", "reason"],
-                "additionalProperties": False,
-            },
-        }
-    },
-    "required": ["results"],
-    "additionalProperties": False,
-}
+            }
+        },
+        "required": ["results"],
+        "additionalProperties": False,
+    }
 
 
 def company_text(company: dict) -> str:
@@ -92,7 +97,9 @@ class ClaudeScorer:
         self.anthropic = anthropic
         self.llm_cfg = cfg["scoring"]["llm"]
         self.client = client or anthropic.Anthropic()
-        self.system = SYSTEM_PROMPT.format(profile=cfg["scoring"]["profile"].strip())
+        self.categories = list(cfg.get("categories", {})) + [OTHER_CATEGORY]
+        self.system = SYSTEM_PROMPT.format(profile=cfg["scoring"]["profile"].strip(),
+                                           categories=", ".join(self.categories))
 
     def _request(self, batch: list[dict]):
         content = "Bewerte die folgenden Organisationen:\n" + "\n".join(
@@ -104,7 +111,7 @@ class ClaudeScorer:
             messages=[{"role": "user", "content": content}],
             output_config={
                 "effort": self.llm_cfg.get("effort", "low"),
-                "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA},
+                "format": {"type": "json_schema", "schema": output_schema(self.categories)},
             },
         )
         fallbacks = self.llm_cfg.get("fallbacks")
@@ -135,7 +142,11 @@ class ClaudeScorer:
             return {}
         wanted = {c["key"] for c in batch}
         return {
-            r["id"]: {"score": max(0, min(10, int(r["score"]))), "reason": r["reason"].strip()}
+            r["id"]: {
+                "score": max(0, min(10, int(r["score"]))),
+                "reason": r["reason"].strip(),
+                "categories": [c for c in r.get("categories", []) if c in self.categories],
+            }
             for r in results if r.get("id") in wanted
         }
 
@@ -158,7 +169,8 @@ def score_companies(companies: list[dict], cfg: dict, cache: dict, use_llm: bool
             continue
         cached = cache.get(company["key"])
         if cached and cached.get("model"):
-            company.update(score=cached["score"], reason=cached["reason"], score_method="claude")
+            company.update(score=cached["score"], reason=cached["reason"], score_method="claude",
+                           categories=cached.get("categories") or None)
             continue
         score, reason = matcher.score(company_text(company))
         company.update(score=score, reason=reason, score_method="stichwörter")
@@ -189,7 +201,8 @@ def score_companies(companies: list[dict], cfg: dict, cache: dict, use_llm: bool
                 continue  # Stichwort-Score bleibt, nächster Lauf versucht es erneut
             cache[company["key"]] = {**result, "model": llm_cfg["model"], "scored": today,
                                      "name": company["name"]}
-            company.update(score=result["score"], reason=result["reason"], score_method="claude")
+            company.update(score=result["score"], reason=result["reason"], score_method="claude",
+                           categories=result["categories"] or None)
             done += 1
         log.info("Claude-Bewertung: %d/%d", min(start + size, len(todo)), len(todo))
     log.info("Claude hat %d Firmen neu bewertet", done)

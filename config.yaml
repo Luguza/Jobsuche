@@ -180,9 +180,28 @@ scoring:
       - 'bagger|abbruch|abriss|laborbedarf'
       - 'druckerei|werbeagentur|fotograf|webdesign'
 
+# Branchen für den Filter auf der Karte (eine Firma kann mehrere haben).
+# Mit ANTHROPIC_API_KEY ordnet Claude die Branchen zu, sonst entscheiden diese Stichwörter.
+# Firmen ohne Treffer landen unter "Sonstige".
+categories:
+  KI & Data Science: 'machine.?learning|künstliche intelligenz|artificial intelligence|\bki\b|\bai\b|\.ai\b|\bml\b|deep.?learning|data.?scien|data.?analy|analytics|big data|data.?engineer|datengetrieben'
+  Materialien & Chemie: 'material|werkstoff|chemi|nano|polymer|beschichtung|oberflächentechn|katalys'
+  Batterien & Speicher: 'batter|akku|energiespeicher|speichertechn|lithium|zellchemie'
+  Wasserstoff & Brennstoffzellen: 'wasserstoff|hydrogen|brennstoffzell|fuel cell|elektrolys'
+  Erneuerbare Energien: 'erneuerbar|renewable|photovoltai|\bpv\b|solar|windenergie|windkraft|wind power|geotherm|biogas|wasserkraft'
+  Netze & Energieversorgung: 'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|\bnetze\b|energieversorg|stadtwerke|energiehandel|energiesystem|energiewirtschaft'
+  Klima & Umwelt: 'klima(schutz|anpassung|folgen|forschung|neutral)|climate|\bco2\b|emission|umwelt|environment|nachhaltig|sustainab|kreislauf|recycling'
+  Simulation & Engineering: 'simulation|modellierung|modelling|modeling|computational|numerisch|ingenieur|engineering|konstruktion'
+  Forschung & Hochschule: 'forschung|research|institut|fraunhofer|helmholtz|\bkit\b|universit|hochschule|max-planck|leibniz'
+  IT & Software: 'software|informatik|\bit\b|\bit-|cloud|digitalisierung|devops|cyber'
+  Mobilität & Fahrzeuge: 'mobilität|mobility|fahrzeug|automotive|e-mobil|elektromobil|antrieb|bahn|verkehr'
+
 map:
   # Firmen ohne offene Stelle erscheinen erst ab diesem Score auf der Karte.
   min_score_companies: 4
+  # Abstand in Pixeln, ab dem nahe Marker zu einer Gruppe zusammengefasst werden.
+  # Kleiner = Gruppen erst weiter herausgezoomt (Leaflet-Standard: 80).
+  cluster_radius_px: 20
   zoom_start: 10
   title: Jobkarte Karlsruhe – ML, Materialien & Energiewende
   repo_url: https://github.com/Luguza/Jobsuche

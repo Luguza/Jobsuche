@@ -1,38 +1,65 @@
 {% macro header(this, kwargs) %}
-<title>{{ this.title }}</title>
+<title>{{ this.title|e }}</title>
 <meta name="description" content="Interaktive Karte: Arbeitgeber für Machine Learning, Materialwissenschaft und Energiewende im Umkreis von {{ this.radius_km }} km um {{ this.region_name }}.">
 <meta name="theme-color" content="#1f3b73">
 <style>
-  :root { --jm-ink: #1d2433; --jm-muted: #5b6475; --jm-line: #d9dde5; --jm-accent: #1f3b73; }
+  :root { --jm-ink: #1d2433; --jm-muted: #5b6475; --jm-line: #d9dde5; --jm-accent: #1f3b73; --jm-soft: #eef2f8; }
   html, body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-  .jm-panel { position: absolute; top: 10px; left: 10px; z-index: 1000; width: 330px;
-    max-width: calc(100vw - 76px); max-height: calc(100vh - 20px); display: flex; flex-direction: column;
+
+  /* Panel: links oben; unten rechts bleibt Platz für Zoom und Standort */
+  .jm-panel { position: absolute; top: 10px; left: 10px; z-index: 1000; width: 350px;
+    max-height: calc(100% - 20px); display: flex; flex-direction: column; box-sizing: border-box;
     background: #fff; color: var(--jm-ink); border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,.25);
     font-size: 14px; line-height: 1.35; }
-  .jm-head { display: flex; align-items: center; gap: 8px; padding: 10px 12px; cursor: pointer;
+  @media (max-width: 700px) {
+    .jm-panel { right: 10px; width: auto; max-height: calc(100% - 150px); font-size: 15px; }
+  }
+  .jm-head { display: flex; align-items: center; gap: 8px; padding: 10px 12px; cursor: pointer; flex: none;
     border: 0; background: none; width: 100%; text-align: left; font: inherit; color: inherit; }
   .jm-head h1 { font-size: 15px; margin: 0; flex: 1; }
   .jm-head small { display: block; font-weight: normal; color: var(--jm-muted); font-size: 12px; }
   .jm-toggle { font-size: 18px; color: var(--jm-muted); transition: transform .15s; }
   .jm-panel.jm-collapsed .jm-toggle { transform: rotate(-90deg); }
   .jm-panel.jm-collapsed .jm-body { display: none; }
-  .jm-body { padding: 0 12px 12px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
-  .jm-body input[type=search] { width: 100%; box-sizing: border-box; font-size: 16px; padding: 9px 10px;
-    border: 1px solid var(--jm-line); border-radius: 8px; }
-  .jm-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
-  .jm-row input[type=range] { flex: 1; min-height: 28px; }
-  .jm-row label { display: flex; align-items: center; gap: 6px; min-height: 28px; }
-  .jm-count { margin-top: 8px; color: var(--jm-muted); font-size: 13px; }
-  .jm-results { list-style: none; margin: 8px 0 0; padding: 0; border-top: 1px solid var(--jm-line); }
+  .jm-body { padding: 0 12px 12px; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+  .jm-body input[type=search], .jm-body select { width: 100%; box-sizing: border-box; font: inherit;
+    font-size: 16px; padding: 8px 10px; border: 1px solid var(--jm-line); border-radius: 8px; background: #fff; }
+  .jm-count { margin: 8px 0 4px; color: var(--jm-muted); font-size: 13px; }
+
+  .jm-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .jm-chip { position: relative; display: inline-flex; align-items: center; gap: 4px; padding: 5px 10px;
+    border: 1px solid var(--jm-line); border-radius: 16px; font-size: 13px; cursor: pointer; user-select: none;
+    background: #fff; }
+  .jm-chip small { color: var(--jm-muted); }
+  .jm-chip input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+  .jm-chip.jm-on { background: var(--jm-accent); border-color: var(--jm-accent); color: #fff; }
+  .jm-chip.jm-on small { color: #d6def0; }
+  .jm-chip:focus-within { outline: 2px solid var(--jm-accent); outline-offset: 1px; }
+  .jm-layers .jm-chip:not(.jm-on) { text-decoration: line-through; color: var(--jm-muted); }
+
+  .jm-sec { margin-top: 10px; border-top: 1px solid var(--jm-line); }
+  .jm-sec > summary { cursor: pointer; padding: 9px 0 6px; font-weight: 600; list-style-position: inside; }
+  .jm-pill { display: inline-block; min-width: 18px; padding: 0 6px; border-radius: 9px; background: var(--jm-accent);
+    color: #fff; font-size: 12px; text-align: center; margin-left: 4px; }
+  .jm-pill:empty { display: none; }
+  .jm-field { margin: 8px 0 10px; border: 0; padding: 0; }
+  .jm-field > legend, .jm-field > .jm-label { display: flex; justify-content: space-between; align-items: center;
+    width: 100%; padding: 0; margin-bottom: 6px; font-size: 13px; color: var(--jm-muted); }
+  .jm-field input[type=range] { width: 100%; min-height: 28px; margin: 0; }
+  .jm-check { display: flex; align-items: center; gap: 8px; min-height: 30px; }
+  .jm-reset { margin-top: 4px; font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 8px;
+    border: 1px solid var(--jm-line); background: var(--jm-soft); color: var(--jm-ink); cursor: pointer; }
+
+  .jm-results { list-style: none; margin: 0; padding: 0; }
   .jm-results li { display: flex; align-items: center; gap: 8px; padding: 8px 2px; min-height: 28px;
     border-bottom: 1px solid var(--jm-line); cursor: pointer; }
   .jm-results li:hover { background: #f4f6fa; }
   .jm-results .jm-kind { color: var(--jm-muted); font-size: 12px; margin-left: auto; white-space: nowrap; }
-  .jm-legend { margin-top: 10px; font-size: 12px; color: var(--jm-muted); }
   .jm-gradient { height: 10px; border-radius: 5px; margin: 4px 0 2px; }
   .jm-legend-scale { display: flex; justify-content: space-between; }
-  .jm-foot { margin-top: 10px; font-size: 11px; color: var(--jm-muted); }
-  .jm-foot a { color: var(--jm-accent); }
+  .jm-small { font-size: 12px; color: var(--jm-muted); }
+  .jm-small a { color: var(--jm-accent); }
+
   .jm-badge { display: inline-block; min-width: 22px; padding: 1px 6px; border-radius: 10px; text-align: center;
     font-weight: 600; font-size: 12px; }
   .jm-new { display: inline-block; padding: 0 6px; border-radius: 8px; background: #ffe08a; color: #5a4500;
@@ -45,15 +72,13 @@
   .jm-pop li { margin-bottom: 4px; }
   .jm-pop a { color: var(--jm-accent); }
   .leaflet-popup-content { margin: 12px 14px; max-height: 55vh; overflow-y: auto; }
-  .jm-cluster div { width: 34px; height: 34px; display: flex; align-items: center; justify-content: center;
-    font-weight: 700; font-size: 12px; background: #fff; color: var(--jm-ink); border: 4px solid;
+  @media (max-width: 700px) { .leaflet-popup-content { max-height: 45vh; } }
+
+  .jm-cluster div { width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 12px; background: #fff; color: var(--jm-ink); border: 3px solid;
     box-shadow: 0 1px 5px rgba(0,0,0,.4); }
   .jm-cluster-job div { border-radius: 8px; }
   .jm-cluster-company div { border-radius: 50%; }
-  @media (max-width: 600px) {
-    .jm-panel { font-size: 15px; }
-    .leaflet-popup-content { max-height: 45vh; }
-  }
 </style>
 <script>
   var JM_COLORS = {{ this.colors|tojson }};
@@ -65,46 +90,94 @@
       return L.divIcon({
         html: '<div style="border-color:' + JM_COLORS[best] + '">' + cluster.getChildCount() + '</div>',
         className: 'jm-cluster jm-cluster-' + kind,
-        iconSize: L.point(40, 40)
+        iconSize: L.point(34, 34)
       });
     };
   }
 </script>
 {% endmacro %}
 
+{% macro chips(name, items) %}
+<div class="jm-chips" data-group="{{ name }}">
+  {% for label, count in items %}
+  <label class="jm-chip"><input type="checkbox" value="{{ label|e }}">{{ label|e }} <small>{{ count }}</small></label>
+  {% endfor %}
+</div>
+{% endmacro %}
+
 {% macro html(this, kwargs) %}
 <div class="jm-panel" id="jm-panel">
   <button class="jm-head" id="jm-head" type="button" aria-expanded="true" aria-controls="jm-body">
-    <h1>{{ this.heading }}<small>Stand: {{ this.updated }}</small></h1>
+    <h1>{{ this.heading|e }}<small>Stand: {{ this.updated }}</small></h1>
     <span class="jm-toggle" aria-hidden="true">▾</span>
   </button>
   <div class="jm-body" id="jm-body">
     <input type="search" id="jm-q" placeholder="Firma oder Stichwort, z. B. Batterie" autocomplete="off"
            aria-label="Firma oder Stichwort suchen">
-    <div class="jm-row">
-      <label for="jm-min">Mindest-Score</label>
-      <input type="range" id="jm-min" min="0" max="10" step="1" value="0">
-      <span class="jm-badge" id="jm-min-val" style="background:#eee">0</span>
+    <div class="jm-count" id="jm-count" aria-live="polite"></div>
+    <div class="jm-chips jm-layers" role="group" aria-label="Ebenen">
+      <label class="jm-chip jm-on"><input type="checkbox" id="jm-layer-job" checked>Offene Stellen</label>
+      <label class="jm-chip jm-on"><input type="checkbox" id="jm-layer-company" checked>Firmen ohne Ausschreibung</label>
     </div>
-    <div class="jm-row"><label><input type="checkbox" id="jm-new"> nur neue Einträge (letzte 7 Tage)</label></div>
-    <div class="jm-count" id="jm-count"></div>
-    <ul class="jm-results" id="jm-results"></ul>
-    <div class="jm-legend">
-      Farbe und Zahl = Relevanz-Score
-      <div class="jm-gradient" style="background: linear-gradient(to right, {{ this.colors|join(', ') }});"></div>
-      <div class="jm-legend-scale"><span>0 passt kaum</span><span>10 passt sehr gut</span></div>
-      <div style="margin-top:4px">Tropfen = offene Stellen · Kreis = Firma ohne passende Ausschreibung ·
-        weiße Gruppen mit farbigem Rand = mehrere Einträge (Zahl = Anzahl, Randfarbe = bester Score).
-        Ebenen oben rechts ein-/ausblenden.</div>
-    </div>
-    <div class="jm-foot">
-      {{ this.stats }}<br>
-      Stellen: Jobsuche der Bundesagentur für Arbeit · Firmen: © OpenStreetMap-Mitwirkende (ODbL), Wikidata (CC0),
-      eigene Liste · Bewertung: {{ this.scoring_note }}.<br>
-      <a href="{{ this.repo_url }}" target="_blank" rel="noopener">Quellcode &amp; Daten</a> ·
-      <a href="data/companies.json" target="_blank" rel="noopener">Firmen (JSON)</a> ·
-      <a href="data/jobs.json" target="_blank" rel="noopener">Stellen (JSON)</a>
-    </div>
+
+    <details class="jm-sec" id="jm-filters">
+      <summary>Filter<span class="jm-pill" id="jm-active"></span></summary>
+      <div class="jm-field">
+        <label class="jm-label" for="jm-min">Mindest-Priorität <span class="jm-badge" id="jm-min-val">0/10</span></label>
+        <input type="range" id="jm-min" min="0" max="10" step="1" value="0">
+      </div>
+      <div class="jm-field">
+        <label class="jm-label" for="jm-dist">Max. Entfernung von {{ this.region_name }} <b id="jm-dist-val"></b></label>
+        <input type="range" id="jm-dist" min="5" max="{{ this.radius_km }}" step="5" value="{{ this.radius_km }}">
+      </div>
+      <fieldset class="jm-field">
+        <legend>Branche</legend>
+        {{ chips('cats', this.categories) }}
+      </fieldset>
+      <fieldset class="jm-field">
+        <legend>Anstellungsart <span>nur Stellen</span></legend>
+        {{ chips('types', this.job_types) }}
+      </fieldset>
+      <fieldset class="jm-field">
+        <legend>Arbeitszeit <span>nur Stellen</span></legend>
+        {{ chips('hours', this.hours) }}
+        <label class="jm-check"><input type="checkbox" id="jm-ho"> Homeoffice möglich
+          <small class="jm-small">({{ this.homeoffice_count }})</small></label>
+      </fieldset>
+      <div class="jm-field">
+        <label class="jm-label" for="jm-age">Veröffentlicht <span>nur Stellen</span></label>
+        <select id="jm-age">
+          <option value="0">beliebig</option>
+          <option value="7">in den letzten 7 Tagen</option>
+          <option value="14">in den letzten 14 Tagen</option>
+          <option value="30">in den letzten 30 Tagen</option>
+        </select>
+      </div>
+      <label class="jm-check"><input type="checkbox" id="jm-new"> nur neue Einträge (seit der letzten Woche)</label>
+      <button type="button" class="jm-reset" id="jm-reset">Filter zurücksetzen</button>
+    </details>
+
+    <details class="jm-sec" id="jm-list-sec">
+      <summary>Trefferliste<span class="jm-pill" id="jm-list-n"></span></summary>
+      <ul class="jm-results" id="jm-results"></ul>
+    </details>
+
+    <details class="jm-sec">
+      <summary>Legende &amp; Quellen</summary>
+      <div class="jm-small">
+        Farbe und Zahl im Marker = Priorität (Relevanz-Score 0–10)
+        <div class="jm-gradient" style="background: linear-gradient(to right, {{ this.colors|join(', ') }});"></div>
+        <div class="jm-legend-scale"><span>0 passt kaum</span><span>10 passt sehr gut</span></div>
+        <p>Tropfen = offene Stellen · Kreis = Firma ohne passende Ausschreibung · weiße Gruppen mit farbigem
+          Rand = mehrere Einträge (Zahl = Anzahl, Randfarbe = beste Priorität).</p>
+        <p>{{ this.stats }}</p>
+        <p>Stellen: Jobsuche der Bundesagentur für Arbeit · Firmen: © OpenStreetMap-Mitwirkende (ODbL),
+          Wikidata (CC0), eigene Liste · Bewertung: {{ this.scoring_note }}.</p>
+        <a href="{{ this.repo_url }}" target="_blank" rel="noopener">Quellcode &amp; Daten</a> ·
+        <a href="data/companies.json" target="_blank" rel="noopener">Firmen (JSON)</a> ·
+        <a href="data/jobs.json" target="_blank" rel="noopener">Stellen (JSON)</a>
+      </div>
+    </details>
   </div>
 </div>
 {% endmacro %}
@@ -112,33 +185,77 @@
 {% macro script(this, kwargs) %}
 (function () {
   var map = {{ this._parent.get_name() }};
+  var RADIUS = {{ this.radius_km }};
+  var NARROW = 700;
   var groups = [
-    { kind: 'job', label: 'Stellen', cluster: {{ this.jobs_cluster }}, markers: [] },
-    { kind: 'company', label: 'Firmen ohne Ausschreibung', cluster: {{ this.companies_cluster }}, markers: [] }
+    { kind: 'job', cluster: {{ this.jobs_cluster }}, toggle: 'jm-layer-job', markers: [] },
+    { kind: 'company', cluster: {{ this.companies_cluster }}, toggle: 'jm-layer-company', markers: [] }
   ];
   groups.forEach(function (g) { g.markers = g.cluster.getLayers(); });
-  // Auf Touch-Geräten bleiben Tooltips nach dem Antippen stehen und verdecken die Karte
-  if (window.matchMedia('(hover: none)').matches) {
-    groups.forEach(function (g) { g.markers.forEach(function (m) { m.unbindTooltip(); }); });
-  }
 
-  var panel = document.getElementById('jm-panel');
-  var head = document.getElementById('jm-head');
-  var q = document.getElementById('jm-q');
-  var min = document.getElementById('jm-min');
-  var minVal = document.getElementById('jm-min-val');
-  var onlyNew = document.getElementById('jm-new');
-  var count = document.getElementById('jm-count');
-  var results = document.getElementById('jm-results');
+  var $ = function (id) { return document.getElementById(id); };
+  var panel = $('jm-panel'), head = $('jm-head'), results = $('jm-results'), listSec = $('jm-list-sec');
   L.DomEvent.disableClickPropagation(panel);
   L.DomEvent.disableScrollPropagation(panel);
 
+  function narrow() { return window.innerWidth <= NARROW; }
   function setCollapsed(collapsed) {
     panel.classList.toggle('jm-collapsed', collapsed);
     head.setAttribute('aria-expanded', String(!collapsed));
   }
   head.addEventListener('click', function () { setCollapsed(!panel.classList.contains('jm-collapsed')); });
-  if (window.innerWidth < 600) { setCollapsed(true); }
+  if (narrow()) { setCollapsed(true); } else { $('jm-filters').open = true; }
+
+  // Popups so verschieben, dass sie nicht unter dem Panel landen
+  function popupPadding() {
+    L.Popup.prototype.options.autoPanPaddingTopLeft =
+      narrow() ? L.point(10, panel.offsetHeight + 20) : L.point(panel.offsetWidth + 30, 10);
+  }
+  popupPadding();
+  window.addEventListener('resize', popupPadding);
+
+  // Auf Touch-Geräten bleiben Tooltips nach dem Antippen stehen und verdecken die Karte
+  if (window.matchMedia('(hover: none)').matches) {
+    groups.forEach(function (g) { g.markers.forEach(function (m) { m.unbindTooltip(); }); });
+  }
+
+  function checked(group) {
+    var set = new Set();
+    panel.querySelectorAll('[data-group="' + group + '"] input:checked').forEach(function (i) { set.add(i.value); });
+    return set;
+  }
+  function readState() {
+    return {
+      terms: $('jm-q').value.toLowerCase().split(/\s+/).filter(Boolean),
+      min: parseInt($('jm-min').value, 10),
+      dist: parseInt($('jm-dist').value, 10),
+      cats: checked('cats'), types: checked('types'), hours: checked('hours'),
+      ho: $('jm-ho').checked, age: parseInt($('jm-age').value, 10), onlyNew: $('jm-new').checked
+    };
+  }
+  var state = readState();
+
+  function jobMatches(j) {
+    var s = state;
+    if (s.types.size && !s.types.has(j.t)) return false;
+    if (s.hours.size && !j.h.some(function (h) { return s.hours.has(h); })) return false;
+    if (s.ho && !j.ho) return false;
+    if (s.age && (j.age === null || j.age > s.age)) return false;
+    if (j.d !== null && j.d > s.dist) return false;
+    if (s.onlyNew && !j.n) return false;
+    return true;
+  }
+  // Anzahl passender Einträge eines Markers (Stellen-Marker: passende Stellen, sonst 0 oder 1)
+  function matches(m, kind) {
+    var o = m.options, s = state;
+    if (o.score < s.min) return 0;
+    if (s.cats.size && !o.cats.some(function (c) { return s.cats.has(c); })) return 0;
+    if (!s.terms.every(function (t) { return o.search.indexOf(t) !== -1; })) return 0;
+    if (kind === 'job') return o.jobs.filter(jobMatches).length;
+    if (o.dist !== null && o.dist > s.dist) return 0;
+    if (s.onlyNew && !o.isnew) return 0;
+    return 1;
+  }
 
   function esc(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
@@ -147,51 +264,81 @@
   }
 
   function apply() {
-    var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
-    var minScore = parseInt(min.value, 10);
-    minVal.textContent = minScore;
-    minVal.style.background = JM_COLORS[minScore];
-    minVal.style.color = JM_TEXT[minScore];
-    var hits = [], summary = [];
+    state = readState();
+    $('jm-min-val').textContent = state.min + '/10';
+    $('jm-min-val').style.background = JM_COLORS[state.min];
+    $('jm-min-val').style.color = JM_TEXT[state.min];
+    $('jm-dist-val').textContent = state.dist + ' km';
+    var active = (state.min > 0) + (state.dist < RADIUS) + state.cats.size + state.types.size +
+      state.hours.size + state.ho + (state.age > 0) + state.onlyNew;
+    $('jm-active').textContent = active || '';
+    panel.querySelectorAll('.jm-chip input').forEach(function (i) {
+      i.parentNode.classList.toggle('jm-on', i.checked);
+    });
+
+    var hits = [], nJobs = 0, nCompanies = 0;
     groups.forEach(function (g) {
-      var visible = g.markers.filter(function (m) {
-        var o = m.options;
-        return o.score >= minScore && (!onlyNew.checked || o.isnew) &&
-          terms.every(function (t) { return o.search.indexOf(t) !== -1; });
+      var on = $(g.toggle).checked;
+      var visible = [];
+      g.markers.forEach(function (m) {
+        var n = matches(m, g.kind);
+        if (n > 0) { visible.push(m); if (on) hits.push({ marker: m, group: g, n: n }); }
+        if (g.kind === 'job') { nJobs += on ? n : 0; } else { nCompanies += on ? n : 0; }
       });
       g.cluster.clearLayers();
       g.cluster.addLayers(visible);
-      var n = visible.reduce(function (sum, m) { return sum + (m.options.njobs || 1); }, 0);
-      summary.push(n + ' ' + g.label);
-      if (terms.length) {
-        visible.forEach(function (m) { hits.push({ marker: m, group: g }); });
-      }
+      if (on && !map.hasLayer(g.cluster)) map.addLayer(g.cluster);
+      if (!on && map.hasLayer(g.cluster)) map.removeLayer(g.cluster);
     });
-    count.textContent = 'Sichtbar: ' + summary.join(' · ');
+    $('jm-count').textContent = 'Sichtbar: ' + nJobs + ' Stellen · ' + nCompanies + ' Firmen ohne Ausschreibung';
+
     hits.sort(function (a, b) { return b.marker.options.score - a.marker.options.score; });
+    $('jm-list-n').textContent = hits.length;
     results.innerHTML = '';
-    hits.slice(0, 40).forEach(function (h) {
+    hits.slice(0, 150).forEach(function (h) {
       var o = h.marker.options;
       var li = document.createElement('li');
       li.innerHTML = '<span class="jm-badge" style="background:' + JM_COLORS[o.score] + ';color:' +
         JM_TEXT[o.score] + '">' + o.score + '</span><span>' + esc(o.label) + '</span>' +
-        '<span class="jm-kind">' + (h.group.kind === 'job' ? 'Stelle' : 'Firma') + '</span>';
+        '<span class="jm-kind">' + (h.group.kind === 'job' ? h.n + (h.n === 1 ? ' Stelle' : ' Stellen') : 'Firma') +
+        '</span>';
       li.addEventListener('click', function () {
-        if (!map.hasLayer(h.group.cluster)) { map.addLayer(h.group.cluster); }
-        if (window.innerWidth < 600) { setCollapsed(true); }
+        if (narrow()) setCollapsed(true);
         // Popups sind "lazy": der Inhalt wird erst beim ersten Klick gesetzt, daher Klick auslösen
         h.group.cluster.zoomToShowLayer(h.marker, function () {
-          if (!h.marker.isPopupOpen()) { h.marker.fire('click'); }
+          if (!h.marker.isPopupOpen()) h.marker.fire('click');
         });
       });
       results.appendChild(li);
     });
+    if (state.terms.length) listSec.open = true;
   }
 
+  // Im Popup nur die Stellen zeigen, die zu den Filtern passen
+  map.on('popupopen', function (e) {
+    if (narrow()) setCollapsed(true);
+    var marker = e.popup._source, root = e.popup.getElement();
+    if (!marker || !marker.options.jobs || !root) return;
+    var hidden = 0;
+    root.querySelectorAll('li[data-job]').forEach(function (li) {
+      var ok = jobMatches(marker.options.jobs[+li.getAttribute('data-job')]);
+      li.style.display = ok ? '' : 'none';
+      hidden += ok ? 0 : 1;
+    });
+    var note = root.querySelector('.jm-hidden-note');
+    if (note) note.textContent = hidden ? hidden + ' weitere durch Filter ausgeblendet' : '';
+    e.popup.update();
+  });
+
   var timer;
-  q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(apply, 150); });
-  min.addEventListener('input', apply);
-  onlyNew.addEventListener('change', apply);
+  $('jm-q').addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(apply, 150); });
+  panel.querySelectorAll('input[type=range]').forEach(function (i) { i.addEventListener('input', apply); });
+  panel.querySelectorAll('input[type=checkbox], select').forEach(function (i) { i.addEventListener('change', apply); });
+  $('jm-reset').addEventListener('click', function () {
+    $('jm-min').value = 0; $('jm-dist').value = RADIUS; $('jm-age').value = 0;
+    panel.querySelectorAll('#jm-filters input[type=checkbox]').forEach(function (i) { i.checked = false; });
+    apply();
+  });
   apply();
 })();
 {% endmacro %}

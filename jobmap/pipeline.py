@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 COMPANY_FIELDS = (
     "key", "name", "sources", "refs", "lat", "lon", "loc_source", "city", "address", "website",
     "description", "industry", "tags", "notes", "meta_title", "meta_description", "job_refs",
-    "score", "reason", "score_method", "first_seen", "distance_km",
+    "score", "reason", "score_method", "categories", "first_seen", "distance_km",
 )
 
 
