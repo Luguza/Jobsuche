@@ -36,6 +36,16 @@
   .jm-chip.jm-on small { color: #d6def0; }
   .jm-chip:focus-within { outline: 2px solid var(--jm-accent); outline-offset: 1px; }
   .jm-layers .jm-chip:not(.jm-on) { text-decoration: line-through; color: var(--jm-muted); }
+  .jm-chip.jm-zero:not(.jm-on) { opacity: .45; }
+  .jm-mode { display: inline-flex; gap: 10px; font-size: 12px; }
+  .jm-mode label { display: inline-flex; align-items: center; gap: 3px; cursor: pointer; }
+  .jm-note { color: #8a5a00; font-size: 12px; margin: 2px 0 4px; }
+  .jm-note:empty { display: none; }
+  .jm-actions { position: sticky; bottom: 0; background: #fff; padding: 8px 0 0; margin-top: 8px;
+    border-top: 1px solid var(--jm-line); }
+  .jm-primary { width: 100%; font: inherit; font-weight: 600; padding: 10px 12px; border-radius: 8px; border: 0;
+    background: var(--jm-accent); color: #fff; cursor: pointer; }
+  .jm-primary:disabled { background: #9aa3b5; cursor: default; }
 
   .jm-sec { margin-top: 10px; border-top: 1px solid var(--jm-line); }
   .jm-sec > summary { cursor: pointer; padding: 9px 0 6px; font-weight: 600; list-style-position: inside; }
@@ -115,6 +125,7 @@
     <input type="search" id="jm-q" placeholder="Firma oder Stichwort, z. B. Batterie" autocomplete="off"
            aria-label="Firma oder Stichwort suchen">
     <div class="jm-count" id="jm-count" aria-live="polite"></div>
+    <div class="jm-note" id="jm-note"></div>
     <div class="jm-chips jm-layers" role="group" aria-label="Ebenen">
       <label class="jm-chip jm-on"><input type="checkbox" id="jm-layer-job" checked>Offene Stellen</label>
       <label class="jm-chip jm-on"><input type="checkbox" id="jm-layer-company" checked>Firmen ohne Ausschreibung</label>
@@ -131,7 +142,12 @@
         <input type="range" id="jm-dist" min="5" max="{{ this.radius_km }}" step="5" value="{{ this.radius_km }}">
       </div>
       <fieldset class="jm-field">
-        <legend>Branche</legend>
+        <legend>Branche
+          <span class="jm-mode" role="radiogroup" aria-label="Verknüpfung der Branchen">
+            <label title="Nur Einträge, die zu allen gewählten Branchen passen"><input type="radio" name="jm-catmode" value="all" checked>alle</label>
+            <label title="Einträge, die zu mindestens einer gewählten Branche passen"><input type="radio" name="jm-catmode" value="any">mind. eine</label>
+          </span>
+        </legend>
         {{ chips('cats', this.categories) }}
       </fieldset>
       <fieldset class="jm-field">
@@ -155,6 +171,8 @@
       </div>
       <label class="jm-check"><input type="checkbox" id="jm-new"> nur neue Einträge (seit der letzten Woche)</label>
       <button type="button" class="jm-reset" id="jm-reset">Filter zurücksetzen</button>
+      <p class="jm-small">Die Zahlen an den Feldern zeigen, wie viele Einträge (Stellen und Firmen) mit dieser
+        Auswahl übrig blieben. Filter mit „nur Stellen“ blenden Firmen ohne Ausschreibung aus.</p>
     </details>
 
     <details class="jm-sec" id="jm-list-sec">
@@ -178,6 +196,7 @@
         <a href="data/jobs.json" target="_blank" rel="noopener">Stellen (JSON)</a>
       </div>
     </details>
+    <div class="jm-actions"><button type="button" class="jm-primary" id="jm-show">Treffer auf Karte zeigen</button></div>
   </div>
 </div>
 {% endmacro %}
@@ -229,32 +248,68 @@
       terms: $('jm-q').value.toLowerCase().split(/\s+/).filter(Boolean),
       min: parseInt($('jm-min').value, 10),
       dist: parseInt($('jm-dist').value, 10),
-      cats: checked('cats'), types: checked('types'), hours: checked('hours'),
-      ho: $('jm-ho').checked, age: parseInt($('jm-age').value, 10), onlyNew: $('jm-new').checked
+      cats: checked('cats'), catMode: panel.querySelector('input[name=jm-catmode]:checked').value,
+      types: checked('types'), hours: checked('hours'),
+      ho: $('jm-ho').checked, age: parseInt($('jm-age').value, 10), onlyNew: $('jm-new').checked,
+      layers: { job: $('jm-layer-job').checked, company: $('jm-layer-company').checked }
     };
   }
   var state = readState();
 
-  function jobMatches(j) {
-    var s = state;
+  // Filter, die sich nur auf Stellen beziehen: Firmen ohne Ausschreibung können sie nie erfüllen
+  function jobFiltersActive(s) { return s.types.size || s.hours.size || s.ho || s.age > 0; }
+  function catsOk(cats, s) {
+    if (!s.cats.size) return true;
+    var sel = Array.from(s.cats);
+    return s.catMode === 'all' ? sel.every(function (c) { return cats.indexOf(c) !== -1; })
+                               : sel.some(function (c) { return cats.indexOf(c) !== -1; });
+  }
+  function termsOk(text, s) { return s.terms.every(function (t) { return text.indexOf(t) !== -1; }); }
+
+  // Jede Stelle wird einzeln geprüft, jede Firma ohne Ausschreibung als ein Eintrag
+  function jobOk(o, j, s) {
+    if (!s.layers.job || o.score < s.min) return false;
+    if (!termsOk(o.search + ' ' + j.s, s) || !catsOk(j.c, s)) return false;
     if (s.types.size && !s.types.has(j.t)) return false;
     if (s.hours.size && !j.h.some(function (h) { return s.hours.has(h); })) return false;
     if (s.ho && !j.ho) return false;
     if (s.age && (j.age === null || j.age > s.age)) return false;
-    if (j.d !== null && j.d > s.dist) return false;
+    if ((j.d !== null ? j.d : o.dist) > s.dist) return false;
     if (s.onlyNew && !j.n) return false;
     return true;
   }
-  // Anzahl passender Einträge eines Markers (Stellen-Marker: passende Stellen, sonst 0 oder 1)
-  function matches(m, kind) {
-    var o = m.options, s = state;
-    if (o.score < s.min) return 0;
-    if (s.cats.size && !o.cats.some(function (c) { return s.cats.has(c); })) return 0;
-    if (!s.terms.every(function (t) { return o.search.indexOf(t) !== -1; })) return 0;
-    if (kind === 'job') return o.jobs.filter(jobMatches).length;
-    if (o.dist !== null && o.dist > s.dist) return 0;
-    if (s.onlyNew && !o.isnew) return 0;
-    return 1;
+  function companyOk(o, s) {
+    if (!s.layers.company || jobFiltersActive(s) || o.score < s.min) return false;
+    if (!termsOk(o.search, s) || !catsOk(o.cats, s)) return false;
+    if (o.dist !== null && o.dist > s.dist) return false;
+    if (s.onlyNew && !o.isnew) return false;
+    return true;
+  }
+  // Anzahl passender Einträge eines Markers
+  function matches(m, kind, s) {
+    var o = m.options;
+    if (kind === 'job') return o.jobs.filter(function (j) { return jobOk(o, j, s); }).length;
+    return companyOk(o, s) ? 1 : 0;
+  }
+  function total(s) {
+    var n = 0;
+    groups.forEach(function (g) { g.markers.forEach(function (m) { n += matches(m, g.kind, s); }); });
+    return n;
+  }
+
+  // Zahl an jedem Filterfeld: so viele Einträge blieben übrig, wenn man es (zusätzlich) wählt
+  function updateFacetCounts() {
+    ['cats', 'types', 'hours'].forEach(function (group) {
+      panel.querySelectorAll('[data-group="' + group + '"] input').forEach(function (input) {
+        var trial = Object.assign({}, state);
+        var set = (group === 'cats' && state.catMode === 'all') ? new Set(state[group]) : new Set();
+        set.add(input.value);
+        trial[group] = set;
+        var n = total(trial);
+        input.parentNode.querySelector('small').textContent = n;
+        input.parentNode.classList.toggle('jm-zero', n === 0);
+      });
+    });
   }
 
   function esc(s) {
@@ -263,6 +318,7 @@
     });
   }
 
+  var visibleMarkers = [];
   function apply() {
     state = readState();
     $('jm-min-val').textContent = state.min + '/10';
@@ -276,21 +332,28 @@
       i.parentNode.classList.toggle('jm-on', i.checked);
     });
 
-    var hits = [], nJobs = 0, nCompanies = 0;
+    var hits = [], counts = { job: 0, company: 0 };
+    visibleMarkers = [];
     groups.forEach(function (g) {
-      var on = $(g.toggle).checked;
-      var visible = [];
+      var on = state.layers[g.kind], visible = [];
       g.markers.forEach(function (m) {
-        var n = matches(m, g.kind);
-        if (n > 0) { visible.push(m); if (on) hits.push({ marker: m, group: g, n: n }); }
-        if (g.kind === 'job') { nJobs += on ? n : 0; } else { nCompanies += on ? n : 0; }
+        var n = matches(m, g.kind, state);
+        if (n > 0) { visible.push(m); hits.push({ marker: m, group: g, n: n }); counts[g.kind] += n; }
       });
       g.cluster.clearLayers();
       g.cluster.addLayers(visible);
+      visibleMarkers = visibleMarkers.concat(visible);
       if (on && !map.hasLayer(g.cluster)) map.addLayer(g.cluster);
       if (!on && map.hasLayer(g.cluster)) map.removeLayer(g.cluster);
     });
-    $('jm-count').textContent = 'Sichtbar: ' + nJobs + ' Stellen · ' + nCompanies + ' Firmen ohne Ausschreibung';
+    $('jm-count').textContent = 'Sichtbar: ' + counts.job + ' Stellen · ' + counts.company +
+      ' Firmen ohne Ausschreibung';
+    $('jm-note').textContent = state.layers.company && jobFiltersActive(state)
+      ? 'Firmen ohne Ausschreibung sind ausgeblendet, weil ein Stellen-Filter aktiv ist.' : '';
+    var nHits = counts.job + counts.company;
+    $('jm-show').textContent = nHits ? nHits + ' Treffer auf Karte zeigen' : 'Keine Treffer';
+    $('jm-show').disabled = !nHits;
+    updateFacetCounts();
 
     hits.sort(function (a, b) { return b.marker.options.score - a.marker.options.score; });
     $('jm-list-n').textContent = hits.length;
@@ -314,6 +377,17 @@
     if (state.terms.length) listSec.open = true;
   }
 
+  // Panel zuklappen (Handy) und auf alle sichtbaren Treffer zoomen
+  $('jm-show').addEventListener('click', function () {
+    if (!visibleMarkers.length) return;
+    if (narrow()) setCollapsed(true);
+    var bounds = L.latLngBounds(visibleMarkers.map(function (m) { return m.getLatLng(); }));
+    map.fitBounds(bounds, {
+      paddingTopLeft: narrow() ? L.point(30, panel.offsetHeight + 30) : L.point(panel.offsetWidth + 40, 30),
+      paddingBottomRight: L.point(60, 30), maxZoom: 14
+    });
+  });
+
   // Im Popup nur die Stellen zeigen, die zu den Filtern passen
   map.on('popupopen', function (e) {
     if (narrow()) setCollapsed(true);
@@ -321,7 +395,7 @@
     if (!marker || !marker.options.jobs || !root) return;
     var hidden = 0;
     root.querySelectorAll('li[data-job]').forEach(function (li) {
-      var ok = jobMatches(marker.options.jobs[+li.getAttribute('data-job')]);
+      var ok = jobOk(marker.options, marker.options.jobs[+li.getAttribute('data-job')], state);
       li.style.display = ok ? '' : 'none';
       hidden += ok ? 0 : 1;
     });
@@ -333,7 +407,9 @@
   var timer;
   $('jm-q').addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(apply, 150); });
   panel.querySelectorAll('input[type=range]').forEach(function (i) { i.addEventListener('input', apply); });
-  panel.querySelectorAll('input[type=checkbox], select').forEach(function (i) { i.addEventListener('change', apply); });
+  panel.querySelectorAll('input[type=checkbox], input[type=radio], select').forEach(function (i) {
+    i.addEventListener('change', apply);
+  });
   $('jm-reset').addEventListener('click', function () {
     $('jm-min').value = 0; $('jm-dist').value = RADIUS; $('jm-age').value = 0;
     panel.querySelectorAll('#jm-filters input[type=checkbox]').forEach(function (i) { i.checked = false; });

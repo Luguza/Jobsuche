@@ -27,7 +27,18 @@ def job_type(job: dict) -> str:
     return FULL_EMPLOYMENT
 
 
-def keyword_categories(text: str, patterns: dict[str, str]) -> list[str]:
+def keyword_categories(text: str, patterns: dict[str, str], fallback: bool = True) -> list[str]:
     """Branchen, deren Stichwort-Muster (config.yaml: categories) im Text vorkommen."""
     found = [name for name, pattern in patterns.items() if re.search(pattern, text, re.I)]
-    return found or [OTHER_CATEGORY]
+    return found or ([OTHER_CATEGORY] if fallback else [])
+
+
+def job_categories(title: str, company_categories: list[str], patterns: dict[str, str]) -> list[str]:
+    """Branchen einer Stelle: die der Firma plus die, die der Stellentitel selbst nennt.
+
+    So zählt bei einem Großunternehmen nicht jede Stelle zu "Batterien", nur weil eine andere
+    Stelle derselben Firma das Wort im Titel hat.
+    """
+    cats = [c for c in company_categories if c != OTHER_CATEGORY]
+    cats += [c for c in keyword_categories(title, patterns, fallback=False) if c not in cats]
+    return cats or [OTHER_CATEGORY]

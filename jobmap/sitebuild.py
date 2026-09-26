@@ -14,7 +14,7 @@ from branca.colormap import LinearColormap
 from folium.plugins import BeautifyIcon, LocateControl, MarkerCluster
 from jinja2 import Template
 
-from jobmap.classify import JOB_TYPE_NAMES, OTHER_CATEGORY, job_type, keyword_categories
+from jobmap.classify import JOB_TYPE_NAMES, OTHER_CATEGORY, job_categories, job_type, keyword_categories
 from jobmap.config import DATA_DIR, read_json
 from jobmap.scoring import company_text
 
@@ -154,13 +154,15 @@ def _job_filter_data(job: dict, reference: date, since: date) -> dict:
     except (KeyError, TypeError, ValueError):
         age = None
     return {"t": job_type(job), "h": job.get("hours") or [], "ho": bool(job.get("homeoffice")),
-            "age": age, "d": job.get("distance_km"), "n": _is_new(job.get("first_seen"), since)}
+            "age": age, "d": job.get("distance_km"), "n": _is_new(job.get("first_seen"), since),
+            "c": job["categories"], "s": job["title"].lower()}
 
 
-def _search_text(company: dict, jobs: list[dict]) -> str:
+def _search_text(company: dict) -> str:
+    """Suchtext der Firma; Stellentitel werden je Stelle geprüft (siehe _job_filter_data)."""
     fields = [company["name"], company.get("city"), company.get("industry"), company.get("description"),
-              company.get("meta_description"), company.get("reason"), " ".join(company.get("tags") or [])]
-    fields += [j["title"] for j in jobs]
+              company.get("meta_description"), company.get("reason"), " ".join(company.get("tags") or []),
+              " ".join(company["categories_display"])]
     return " ".join(f for f in fields if f).lower()
 
 
@@ -183,7 +185,7 @@ def _marker(location, company, jobs, kind, colors, text, since: date, reference:
         tooltip=html.escape(company["name"]),
         popup=folium.Popup(company_popup(company, jobs, colors, text, since), max_width=300, lazy=True),
         score=score,
-        search=_search_text(company, jobs),
+        search=_search_text(company),
         label=company["name"],
         isnew=is_new,
         cats=company["categories_display"],
@@ -200,13 +202,15 @@ def build_map(cfg: dict, companies: list[dict], jobs: list[dict], meta: dict) ->
     reference = datetime.fromisoformat(updated).date() if updated else date.today()
     since = new_since(meta)
     by_key = {c["key"]: c for c in companies}
-    titles: dict[str, list[str]] = defaultdict(list)
-    for job in jobs:
-        titles[job.get("company_key")].append(job["title"])
+    patterns = cfg.get("categories", {})
     for company in companies:
-        # Branchen von Claude, sonst per Stichwort (auch aus den Stellentiteln)
+        # Branchen der Firma: von Claude, sonst per Stichwort aus Name, Beschreibung und Website
         company["categories_display"] = company.get("categories") or keyword_categories(
-            company_text({**company, "job_titles": titles.get(company["key"])}), cfg.get("categories", {}))
+            company_text(company), patterns)
+    for job in jobs:
+        company = by_key.get(job.get("company_key"))
+        job["categories"] = job_categories(job["title"], company["categories_display"] if company else [],
+                                           patterns)
 
     fmap = folium.Map(location=[region["lat"], region["lon"]], zoom_start=mcfg.get("zoom_start", 10),
                       tiles=None, zoom_control="bottomright", control_scale=True)
@@ -243,11 +247,12 @@ def build_map(cfg: dict, companies: list[dict], jobs: list[dict], meta: dict) ->
     companies_cluster.add_to(fmap)
     LocateControl(position="bottomright", strings={"title": "Mein Standort"}).add_to(fmap)
 
-    shown_companies = [by_key[key] for key in job_companies] + open_companies
-    category_counts = Counter(c for company in shown_companies for c in company["categories_display"])
-    categories = [(name, category_counts[name]) for name in [*cfg.get("categories", {}), OTHER_CATEGORY]
-                  if category_counts[name]]
+    # Zähler für die Filter: Stellen und Firmen ohne Ausschreibung zusammen (im Browser live aktualisiert)
     shown_job_list = [j for group in job_groups.values() for j in group]
+    category_counts = Counter(c for j in shown_job_list for c in j["categories"])
+    category_counts.update(c for company in open_companies for c in company["categories_display"])
+    categories = [(name, category_counts[name]) for name in [*patterns, OTHER_CATEGORY]
+                  if category_counts[name]]
     type_counts = Counter(job_type(j) for j in shown_job_list)
     hour_counts = Counter(h for j in shown_job_list for h in (j.get("hours") or []))
 

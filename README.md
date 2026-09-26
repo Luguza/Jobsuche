@@ -32,8 +32,18 @@ Filter im Panel links (auf dem Handy über die Kopfzeile aufklappen):
   **Veröffentlichungsdatum**
 - **nur neue Einträge** der letzten Woche
 
-Innerhalb einer Filtergruppe genügt ein Treffer (oder), verschiedene Gruppen gelten zusammen
-(und). Im Popup einer Firma werden Stellen, die nicht zu den Filtern passen, ausgeblendet.
+So wirken die Filter zusammen:
+
+- Jede Stelle wird einzeln geprüft. Die Branche einer Stelle ist die Branche ihrer Firma plus das,
+  was der Stellentitel selbst nennt; so zählt nicht jede Bosch-Stelle zu „Batterien“, nur weil
+  eine andere Bosch-Stelle das Wort im Titel hat.
+- Mehrere Branchen: standardmäßig müssen **alle** gewählten passen (umschaltbar auf
+  „mind. eine“). Bei Anstellungsart und Arbeitszeit genügt eine der gewählten.
+- Filter mit „nur Stellen“ blenden die Firmen ohne Ausschreibung aus, weil diese sie nie erfüllen.
+- Die Zahl an jedem Filterfeld zeigt, wie viele Einträge mit dieser Auswahl übrig blieben;
+  Felder mit 0 sind abgeblendet.
+- „Treffer auf Karte zeigen“ klappt das Panel zu und zoomt auf alle Treffer.
+- Im Popup einer Firma sind Stellen ausgeblendet, die nicht zu den Filtern passen.
 
 **Karte:** https://luguza.github.io/Jobsuche/
 
