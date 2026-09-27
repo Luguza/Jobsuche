@@ -224,8 +224,9 @@ def build_map(cfg: dict, companies: list[dict], jobs: list[dict], meta: dict) ->
         if job.get("company_key") in by_key and job.get("lat") is not None:
             job_groups[(job["company_key"], round(job["lat"], 3), round(job["lon"], 3))].append(job)
     job_companies = {key for key, _, _ in job_groups}
-    open_companies = [c for c in companies if c["key"] not in job_companies
-                      and not c.get("job_refs") and c["score"] >= mcfg.get("min_score_companies", 5)]
+    # Einträge aus der eigenen Seed-Liste werden immer gezeigt, alle anderen erst ab der Schwelle
+    open_companies = [c for c in companies if c["key"] not in job_companies and not c.get("job_refs")
+                      and (c["score"] >= mcfg.get("min_score_companies", 5) or "seed" in c.get("sources", []))]
 
     cluster_opts = {"showCoverageOnHover": False, "spiderfyOnMaxZoom": True,
                     "maxClusterRadius": mcfg.get("cluster_radius_px", 20)}

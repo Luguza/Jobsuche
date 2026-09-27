@@ -74,6 +74,7 @@ def from_seed(entry: dict, lat: float | None, lon: float | None) -> dict:
         "tags": entry.get("tags") or [],
         "manual_score": entry.get("score"),
         "manual_reason": entry.get("reason"),
+        "aliases": entry.get("aliases") or [],
     }
 
 
@@ -94,18 +95,37 @@ class CompanyIndex:
 
     def __init__(self):
         self.by_key: dict[str, dict] = {}
+        self.aliases: dict[str, str] = {}  # Schlüssel eines anderen Namens -> Schlüssel der Firma
+
+    def _key(self, name: str) -> str:
+        key = company_key(name)
+        return self.aliases.get(key, key)
 
     def add(self, record: dict) -> dict:
-        key = company_key(record["name"])
+        key = self._key(record["name"])
         if not key:
             return record
         record["key"] = key
         existing = self.by_key.get(key)
         if existing is None:
             self.by_key[key] = record
-            return record
-        self._merge(existing, record)
-        return existing
+            target = record
+        else:
+            self._merge(existing, record)
+            target = existing
+        # Seed-Einträge können andere Namen derselben Firma nennen ("EnBW" in Wikidata,
+        # "Kundencenter Stadtwerke Karlsruhe" in OSM): diese Einträge werden hier eingegliedert.
+        for alias in record.get("aliases") or []:
+            alias_key = company_key(alias)
+            if not alias_key or alias_key == key:
+                continue
+            self.aliases[alias_key] = key
+            other = self.by_key.pop(alias_key, None)
+            if other is not None:
+                other_name = other.pop("name")
+                self._merge(target, {**other, "name": target["name"]})
+                log.debug("%r als Alias von %r zusammengeführt", other_name, target["name"])
+        return target
 
     @staticmethod
     def _merge(target: dict, other: dict) -> None:
@@ -136,8 +156,8 @@ class CompanyIndex:
 
     def match_job_company(self, name: str, lat: float | None, lon: float | None,
                           max_km: float = 30.0, cutoff: float = 92) -> dict | None:
-        """Exakter Schlüssel oder, falls nicht vorhanden, ähnlicher Name in der Nähe."""
-        key = company_key(name)
+        """Exakter Schlüssel (auch über Aliase) oder, falls nicht vorhanden, ähnlicher Name in der Nähe."""
+        key = self._key(name)
         if key in self.by_key:
             return self.by_key[key]
         choices = {k: k.replace("-", " ") for k in self.by_key}  # Schlüssel = normalisierter Name

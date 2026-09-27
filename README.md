@@ -142,5 +142,7 @@ werden. Weitere Läufe nutzen die Caches.
 - **Schwelle für Firmen ohne Stelle:** `config.yaml` → `map.min_score_companies`
 - **Branchen für den Filter:** `config.yaml` → `categories`
 - **Gruppieren naher Marker:** `config.yaml` → `map.cluster_radius_px` (kleiner = später gruppiert)
-- **Eigene Firmen:** `data/seed_companies.yaml`, optional mit festem `score` und `reason`
+- **Eigene Firmen:** `data/seed_companies.yaml`, optional mit festem `score` und `reason`.
+  Seed-Einträge erscheinen immer auf der Karte; mit `aliases` werden andere Namen derselben Firma
+  (z. B. „EnBW“ in Wikidata, „Kundencenter Stadtwerke Karlsruhe“ in OSM) zusammengeführt
 - **Neu bewerten lassen:** Eintrag aus `data/score_cache.json` löschen (oder die ganze Datei)

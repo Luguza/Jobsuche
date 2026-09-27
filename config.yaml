@@ -162,7 +162,8 @@ scoring:
       'wasserstoff|hydrogen|brennstoffzell|fuel cell|elektrolys': 3
       'erneuerbar|renewable|photovoltai|\bpv\b|solar|windenergie|windkraft|wind power|geotherm': 3
       'energiewende|energiesystem|energy system|sektorkopplung|dekarbonis|decarboni': 3
-      'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|netzleit|\bnetze\b': 2
+      # Netze und Energieversorger (EnBW, TransnetBW, Stadtwerke, ...) sind ausdrücklich gewünschte Sektoren
+      'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|netzleit|\bnetze\b|energieversorg|versorgungsunternehmen|stadtwerke|energy supplier|\butilit(y|ies)\b': 3
       'klimaschutz|klimaanpassung|klimafolgen|klimaforschung|climate|klimaneutral|\bco2\b|emission': 3
       'energie|energy|strom\b|elektromobil|e-mobil': 1
       'umwelt|environment|nachhaltig|sustainab|kreislauf|recycling': 1
@@ -189,7 +190,7 @@ categories:
   Batterien & Speicher: 'batter|akku|energiespeicher|speichertechn|lithium|zellchemie'
   Wasserstoff & Brennstoffzellen: 'wasserstoff|hydrogen|brennstoffzell|fuel cell|elektrolys'
   Erneuerbare Energien: 'erneuerbar|renewable|photovoltai|\bpv\b|solar|windenergie|windkraft|wind power|geotherm|biogas|wasserkraft'
-  Netze & Energieversorgung: 'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|\bnetze\b|energieversorg|stadtwerke|energiehandel|energiesystem|energiewirtschaft'
+  Netze & Energieversorgung: 'smart.?grid|stromnetz|verteilnetz|übertragungsnetz|netzbetreib|\bnetze\b|energieversorg|versorgungsunternehmen|stadtwerke|energy supplier|\butilit(y|ies)\b|energiehandel|energiesystem|energiewirtschaft'
   Klima & Umwelt: 'klima(schutz|anpassung|folgen|forschung|neutral)|climate|\bco2\b|emission|umwelt|environment|nachhaltig|sustainab|kreislauf|recycling'
   Simulation & Engineering: 'simulation|modellierung|modelling|modeling|computational|numerisch|ingenieur|engineering|konstruktion'
   Forschung & Hochschule: 'forschung|research|institut|fraunhofer|helmholtz|\bkit\b|universit|hochschule|max-planck|leibniz'

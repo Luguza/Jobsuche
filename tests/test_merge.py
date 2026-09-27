@@ -44,3 +44,21 @@ def test_jobs_attach_exact_fuzzy_and_new():
     assert index.by_key["stadtwerke-karlsruhe"]["job_titles"] == ["Data Engineer"]
     assert index.by_key["neue-firma"]["sources"] == ["ba"]
     assert jobs[2]["company_key"] == "neue-firma"
+
+
+def test_seed_aliases_merge_other_names_and_jobs():
+    index = CompanyIndex()
+    index.add(from_wikidata({"id": "Q644304", "name": "EnBW", "lat": 49.0167, "lon": 8.4,
+                             "description": "deutsches Energieversorgungsunternehmen",
+                             "approximate_location": True}))
+    index.add(from_osm(osm("EnBW Energie Baden-Württemberg", lat=49.0063, lon=8.4369, office="company")))
+    index.add(from_seed({"name": "EnBW Energie Baden-Württemberg AG", "aliases": ["EnBW"]}, 49.0063, 8.4369))
+    assert list(index.by_key) == ["enbw-energie-baden-wuerttemberg"]
+    enbw = index.by_key["enbw-energie-baden-wuerttemberg"]
+    assert set(enbw["sources"]) == {"osm", "seed", "wikidata"}
+    assert enbw["description"] == "deutsches Energieversorgungsunternehmen"
+    assert enbw["name"] == "EnBW Energie Baden-Württemberg AG"
+    # Stellen unter einem Alias-Namen landen ebenfalls bei der Seed-Firma
+    jobs = [{"refnr": "9", "company": "EnBW", "title": "Data Scientist Netze", "lat": 49.0, "lon": 8.4}]
+    attach_jobs(index, jobs)
+    assert jobs[0]["company_key"] == "enbw-energie-baden-wuerttemberg"

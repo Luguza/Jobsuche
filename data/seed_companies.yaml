@@ -13,6 +13,10 @@
 #   tags       (optional) Stichwörter, fließen in die Bewertung ein
 #   score      (optional) feste Bewertung 0-10 statt automatischer Bewertung
 #   reason     (optional) Begründung zur festen Bewertung
+#   aliases    (optional) andere Namen derselben Firma in OSM, Wikidata oder Stellenanzeigen;
+#              solche Einträge werden mit diesem zusammengeführt
+#
+# Seed-Einträge erscheinen immer auf der Karte, auch unterhalb der Score-Schwelle.
 #
 # Beispiele, bitte nach Belieben ergänzen oder löschen:
 
@@ -46,3 +50,39 @@ companies:
     address: Haid-und-Neu-Straße 10-14, 76131 Karlsruhe
     website: https://www.fzi.de
     tags: [Künstliche Intelligenz, Energie, Smart Grids]
+
+  # Große Energieversorger und Netzbetreiber der Region. Sie schreiben kaum Stellen in der
+  # BA-Jobbörse aus (eigene Karriereportale), sind aber für Netze/Energiewende zentral.
+  - name: EnBW Energie Baden-Württemberg AG
+    address: Durlacher Allee 93, 76131 Karlsruhe
+    website: https://www.enbw.com
+    tags: [Energieversorgung, Netze, Erneuerbare Energien, Energiehandel]
+    notes: Stellen über das eigene Karriereportal, nicht in der BA-Jobbörse
+    aliases: [EnBW, EnBW Energie Baden-Württemberg]
+
+  - name: EnBW Energie Baden-Württemberg AG InnovationsCampus Forschung und Entwicklung
+    address: Fettweisstraße 44, 76189 Karlsruhe
+    tags: [Forschung und Entwicklung, Energiewende, Energiesysteme]
+
+  - name: Stadtwerke Karlsruhe GmbH
+    address: Daxlander Straße 72, 76185 Karlsruhe
+    website: https://www.stadtwerke-karlsruhe.de
+    tags: [Energieversorgung, Netze, Fernwärme]
+    aliases: [Kundencenter Stadtwerke Karlsruhe, "Stadtwerke Karlsruhe, Betriebsstätte Ost",
+              Stadtwerke Karlsruhe Netze GmbH, Stadtwerke Karlsruhe Netzservice]
+
+  - name: Netze BW GmbH
+    city: Karlsruhe
+    lat: 49.027546    # Betriebsstelle Karlsruhe laut OpenStreetMap
+    lon: 8.47396
+    website: https://www.netze-bw.de
+    tags: [Verteilnetzbetreiber, Netze, Smart Grid]
+    aliases: [Netze BW Betriebsstelle Karlsruhe]
+
+  - name: TransnetBW GmbH
+    city: Karlsruhe
+    lat: 49.00999     # Standort laut OpenStreetMap
+    lon: 8.308048
+    website: https://www.transnetbw.de
+    tags: [Übertragungsnetzbetreiber, Netze, Energiewende]
+

@@ -12,6 +12,8 @@ def test_build_site_renders_both_layers(cfg, tmp_path):
          "refs": {"osm": ["node/1"]}},
         {"key": "c", "name": "Unpassend GmbH", "lat": 49.0, "lon": 8.3, "score": 2, "reason": "-",
          "score_method": "stichwörter", "sources": ["osm"]},
+        {"key": "d", "name": "Eigene Wahl GmbH", "lat": 49.02, "lon": 8.35, "score": 1, "reason": "-",
+         "score_method": "stichwörter", "sources": ["seed"]},
     ])
     write_json(data / "jobs.json", [
         {"refnr": "1", "title": "ML Engineer Batterie", "company": "Akku Sim GmbH", "company_key": "a",
@@ -24,7 +26,9 @@ def test_build_site_renders_both_layers(cfg, tmp_path):
     page = index.read_text()
     assert "Stand: 24.09.2026" in page
     # "Unpassend" liegt unter der Schwelle für Firmen ohne Ausschreibung
-    assert "1 Stellen bei 1 Arbeitgebern · 1 passende Firmen ohne Ausschreibung" in page
+    # Seed-Einträge erscheinen immer, auch mit Score 1
+    assert "1 Stellen bei 1 Arbeitgebern · 2 passende Firmen ohne Ausschreibung" in page
+    assert "Eigene Wahl GmbH" in page
     # Filter: Branchen per Stichwort, Anstellungsart aus dem Titel
     assert 'value="Batterien &amp; Speicher"' in page
     assert 'value="Forschung &amp; Hochschule"' in page

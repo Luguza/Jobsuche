@@ -17,6 +17,7 @@ def load_seed(path: Path) -> list[dict]:
         if not isinstance(entry, dict) or not entry.get("name"):
             raise ValueError(f"{path.name}: Eintrag {i + 1} braucht mindestens ein Feld 'name'")
         tags = entry.get("tags") or []
+        aliases = entry.get("aliases") or []
         entries.append({
             "name": str(entry["name"]).strip(),
             "address": entry.get("address"),
@@ -28,5 +29,6 @@ def load_seed(path: Path) -> list[dict]:
             "tags": [str(t) for t in (tags if isinstance(tags, list) else [tags])],
             "score": entry.get("score"),
             "reason": entry.get("reason"),
+            "aliases": [str(a) for a in (aliases if isinstance(aliases, list) else [aliases])],
         })
     return entries
