@@ -71,5 +71,228 @@
    }
   ],
   "timestamp": "2026-09-25T15:55:12+00:00"
+ },
+ {
+  "companies": 260,
+  "jobs": 101,
+  "new_companies": [
+   {
+    "key": "dig-deutsche-industrie-gas",
+    "name": "DIG Deutsche Industrie Gas GmbH",
+    "score": 4
+   },
+   {
+    "key": "dresser",
+    "name": "Dresser",
+    "score": 3
+   },
+   {
+    "key": "enbw-energie-baden-wuerttemberg",
+    "name": "EnBW Energie Baden-Württemberg AG",
+    "score": 5
+   },
+   {
+    "key": "energie-althengstett",
+    "name": "Energie Althengstett",
+    "score": 4
+   },
+   {
+    "key": "enwds",
+    "name": "EnWdS",
+    "score": 4
+   },
+   {
+    "key": "gemeindewerke-herxheim",
+    "name": "Gemeindewerke Herxheim",
+    "score": 3
+   },
+   {
+    "key": "hofmann-energien",
+    "name": "Hofmann Energien",
+    "score": 4
+   },
+   {
+    "key": "ls-telcom",
+    "name": "LS Telcom",
+    "score": 3
+   },
+   {
+    "key": "miro",
+    "name": "MiRO",
+    "score": 4
+   },
+   {
+    "key": "miro-mineraloelraffinerie-oberrhein-werk-1",
+    "name": "MiRO Mineralölraffinerie Oberrhein - Werk 1",
+    "score": 4
+   },
+   {
+    "key": "miro-mineraloelraffinerie-oberrhein-werk-2",
+    "name": "MiRO Mineralölraffinerie Oberrhein - Werk 2",
+    "score": 4
+   },
+   {
+    "key": "powercloud",
+    "name": "powercloud GmbH",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-bad-bergzabern",
+    "name": "Stadtwerke Bad Bergzabern",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-bad-herrenalb",
+    "name": "Stadtwerke Bad Herrenalb",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-baden-baden",
+    "name": "Stadtwerke Baden-Baden",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-germersheim",
+    "name": "Stadtwerke Germersheim",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-germersheim-kundencenter",
+    "name": "Stadtwerke Germersheim Kundencenter",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-heidelberg-energie",
+    "name": "Stadtwerke Heidelberg Energie",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-heidelberg-werk-pfaffengrund",
+    "name": "Stadtwerke Heidelberg, Werk Pfaffengrund",
+    "score": 3
+   },
+   {
+    "key": "stadtwerke-hockenheim",
+    "name": "Stadtwerke Hockenheim",
+    "score": 3
+   },
+   {
+    "key": "stadtwerke-karlsruhe",
+    "name": "Stadtwerke Karlsruhe GmbH",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-neustadt-an-der-weinstrasse",
+    "name": "Stadtwerke Neustadt an der Weinstraße GmbH",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-pforzheim",
+    "name": "Stadtwerke Pforzheim",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-rastatt",
+    "name": "Stadtwerke Rastatt",
+    "score": 4
+   },
+   {
+    "key": "stadtwerke-schifferstadt",
+    "name": "Stadtwerke Schifferstadt",
+    "score": 3
+   },
+   {
+    "key": "stadtwerke-schwetzingen",
+    "name": "Stadtwerke Schwetzingen",
+    "score": 3
+   },
+   {
+    "key": "stadtwerke-speyer",
+    "name": "Stadtwerke Speyer",
+    "score": 4
+   },
+   {
+    "key": "technologiezentrum-bruchsal",
+    "name": "Technologiezentrum Bruchsal",
+    "score": 4
+   },
+   {
+    "key": "thuega-energienetze",
+    "name": "Thüga Energienetze GmbH",
+    "score": 4
+   },
+   {
+    "key": "transnetbw",
+    "name": "TransnetBW GmbH",
+    "score": 5
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "PTA GmbH",
+    "refnr": "10001-1003469692-S",
+    "title": "Key Account Manager Energy & Utilities (m/w/d)"
+   },
+   {
+    "company": "BridgingIT GmbH",
+    "refnr": "15835-00090300534001-S",
+    "title": "Consultant IT Business Analyse Future Energy & Utilities (w|m|d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070401790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070521790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070741790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "netze-bw-betriebsstelle-karlsruhe",
+    "name": "Netze BW Betriebsstelle Karlsruhe",
+    "score": 2
+   },
+   {
+    "key": "stadtwerke-karlsruhe-netzservice",
+    "name": "Stadtwerke Karlsruhe Netzservice",
+    "score": 3
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1003612530-S",
+    "title": "AI Sales Strategy Manager (w/m/d)"
+   },
+   {
+    "company": "THOST Projektmanagement GmbH",
+    "refnr": "12288-4929292147-S",
+    "title": "#THO2601 | AI Automation Engineer (m/w/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3014801789077601-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3042981790114401-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3061651790200801-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   }
+  ],
+  "timestamp": "2026-09-27T19:06:31+00:00"
  }
 ]

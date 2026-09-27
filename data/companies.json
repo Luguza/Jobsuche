@@ -738,7 +738,8 @@
   "distance_km": 0.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "15835-0009030049f001-S"
+   "15835-0009030049f001-S",
+   "15835-00090300534001-S"
   ],
   "key": "bridgingit",
   "lat": 49.003983,
@@ -747,13 +748,13 @@
   "meta_description": "bridgingIT ist das eigenstÃ¤ndige Beratungsunternehmen, das mit Verantwortungsbewusstsein und persÃ¶nlicher NÃ¤he aktiv Dinge zu erfolgreichen LÃ¶sungen verbindet.",
   "meta_title": "Startseite | bridgingIT",
   "name": "BridgingIT",
-  "reason": "Methodik: KI.",
+  "reason": "Methodik: KI; Sektor: Utilities, Energy.",
   "refs": {
    "osm": [
     "node/4078945376"
    ]
   },
-  "score": 2,
+  "score": 6,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -1081,6 +1082,32 @@
   "website": "https://www.diebauingenieure.com/"
  },
  {
+  "distance_km": 50.0,
+  "first_seen": "2026-09-27",
+  "key": "dig-deutsche-industrie-gas",
+  "lat": 49.45607,
+  "loc_source": "osm",
+  "lon": 8.433047,
+  "meta_description": "Entdecken Sie faire Tarife für Erdgas und Strom bei der Deutsche Industriegas GmbH – Ihr verlässlicher Energiepartner. Transparent, günstig und sicher. Jetzt informieren und wechseln!",
+  "meta_title": "Günstige Energieversorgung für Privatkunden | DIG",
+  "name": "DIG Deutsche Industrie Gas GmbH",
+  "reason": "Sektor: Energieversorgung.",
+  "refs": {
+   "osm": [
+    "node/3048674457"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.dig-gas.de/"
+ },
+ {
   "address": "Zimmerstraße 3, 76137 Karlsruhe",
   "city": "Karlsruhe",
   "description": "Disy ist führender Data & Analytics Spezialist für den Public Sector im deutschsprachigen Raum — mit einzigartiger Kombination aus Business Intelligence, Location Intelligence und praxisnaher Beratung",
@@ -1191,6 +1218,33 @@
   ]
  },
  {
+  "address": "Hardeckstraße 2, 76185 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 3.2,
+  "first_seen": "2026-09-27",
+  "key": "dresser",
+  "lat": 49.003945,
+  "loc_source": "osm",
+  "lon": 8.359906,
+  "meta_title": "Home - Dresser Utility Solutions",
+  "name": "Dresser",
+  "reason": "Sektor: Utility.",
+  "refs": {
+   "osm": [
+    "way/1317632903"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion"
+  ],
+  "website": "https://dresserutility.com/"
+ },
+ {
   "address": "Rosine-Starz-Straße 11, 71272 Renningen",
   "city": "Renningen",
   "distance_km": 45.7,
@@ -1235,7 +1289,7 @@
     "node/11349271936"
    ]
   },
-  "score": 2,
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -1378,28 +1432,95 @@
   "website": "https://www.enapter.com/"
  },
  {
+  "address": "Durlacher Allee 93, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "deutsches Energieversorgungsunternehmen",
+  "distance_km": 2.5,
+  "first_seen": "2026-09-27",
+  "industry": "Energieversorgung; Energieindustrie",
+  "key": "enbw-energie-baden-wuerttemberg",
+  "lat": 49.006311,
+  "loc_source": "seed",
+  "lon": 8.437523,
+  "meta_description": "EnBW ist ein bundesweit ausgezeichneter Ökostrom- und Gasanbieter sowie der größte E-Mobilitätsanbieter Deutschlands. Wechseln Sie jetzt!",
+  "meta_title": "Ihr Energieanbieter für Strom, Gas und Elektromobilität | EnBW",
+  "name": "EnBW Energie Baden-Württemberg AG",
+  "notes": "Stellen über das eigene Karriereportal, nicht in der BA-Jobbörse",
+  "reason": "Sektor: Erneuerbare, Energieversorgung, Energie.",
+  "refs": {
+   "osm": [
+    "relation/1679896"
+   ],
+   "wikidata": [
+    "Q644304"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma",
+   "Energieversorgung",
+   "Netze",
+   "Erneuerbare Energien",
+   "Energiehandel"
+  ],
+  "website": "https://www.enbw.com/"
+ },
+ {
   "address": "Fettweisstraße 44, 76189 Karlsruhe",
   "city": "Karlsruhe",
   "distance_km": 6.8,
   "first_seen": "2026-09-24",
   "key": "enbw-energie-baden-wuerttemberg-innovationscampus-forschung-entwicklung",
-  "lat": 49.01392,
-  "loc_source": "osm",
-  "lon": 8.311258,
+  "lat": 49.0141,
+  "loc_source": "seed",
+  "lon": 8.311263,
   "name": "EnBW Energie Baden-Württemberg AG InnovationsCampus Forschung und Entwicklung",
-  "reason": "Methodik: Forschung; Sektor: Energie.",
+  "reason": "Methodik: Forschung; Sektor: Energiewende, Energie.",
   "refs": {
    "osm": [
     "node/4425676798"
    ]
   },
-  "score": 2,
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed"
+  ],
+  "tags": [
+   "Firma",
+   "Forschung und Entwicklung",
+   "Energiewende",
+   "Energiesysteme"
+  ]
+ },
+ {
+  "distance_km": 42.6,
+  "first_seen": "2026-09-27",
+  "key": "energie-althengstett",
+  "lat": 48.722817,
+  "loc_source": "osm",
+  "lon": 8.793094,
+  "name": "Energie Althengstett",
+  "reason": "Sektor: Energieversorger, Energie.",
+  "refs": {
+   "osm": [
+    "node/3061002593"
+   ]
+  },
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "osm"
   ],
   "tags": [
-   "Firma"
+   "Energieversorger"
   ]
  },
  {
@@ -1414,13 +1535,13 @@
   "meta_description": "Wir versorgen Sie mit Zukunft – Ökostrom, Gas, Naturwärme, Photovoltaik, Speicher, Wärmepumpe und Wallbox – Alles aus einer Hand, alles von hier.",
   "meta_title": "EnergieSüdwest AG - Wir versorgen Sie mit Zukunft",
   "name": "Energie Südwest AG",
-  "reason": "Sektor: Photovoltaik, Energie.",
+  "reason": "Sektor: Photovoltaik, Energieversorger, Energie.",
   "refs": {
    "osm": [
     "node/272222085"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -1474,6 +1595,29 @@
   "score_method": "stichwörter",
   "sources": [
    "ba"
+  ]
+ },
+ {
+  "distance_km": 44.8,
+  "first_seen": "2026-09-27",
+  "key": "enwds",
+  "lat": 48.749147,
+  "loc_source": "osm",
+  "lon": 8.873164,
+  "name": "EnWdS",
+  "reason": "Sektor: Energieversorger.",
+  "refs": {
+   "osm": [
+    "node/11539976047"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
   ]
  },
  {
@@ -1860,7 +2004,7 @@
     "Q1276279"
    ]
   },
-  "score": 8,
+  "score": 9,
   "score_method": "stichwörter",
   "sources": [
    "osm",
@@ -1922,6 +2066,29 @@
   "sources": [
    "ba"
   ]
+ },
+ {
+  "description": "municipal utility company in Herxheim, Germany",
+  "distance_km": 20.6,
+  "first_seen": "2026-09-27",
+  "key": "gemeindewerke-herxheim",
+  "lat": 49.146944,
+  "loc_source": "wikidata_hq",
+  "lon": 8.22,
+  "meta_title": "gemeindewerke-herxheim.de",
+  "name": "Gemeindewerke Herxheim",
+  "reason": "Sektor: utility.",
+  "refs": {
+   "wikidata": [
+    "Q133567093"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.gemeindewerke-herxheim.de/"
  },
  {
   "address": "Johann-Georg-Schlosser-Straße 66, 76149 Karlsruhe",
@@ -2179,13 +2346,13 @@
   "lon": 8.674359,
   "meta_title": "HEG – Energiewende in Bürgerhand",
   "name": "Heidelberger Energiegenossenschaft eG",
-  "reason": "Sektor: Energiewende, Energiegenossenschaft.",
+  "reason": "Sektor: Energiewende, Energieversorger, Energiegenossenschaft.",
   "refs": {
    "osm": [
     "node/11465526146"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -2385,6 +2552,32 @@
    "IT"
   ],
   "website": "https://www.analytical-software.de/"
+ },
+ {
+  "distance_km": 42.6,
+  "first_seen": "2026-09-27",
+  "key": "hofmann-energien",
+  "lat": 48.846817,
+  "loc_source": "osm",
+  "lon": 8.932221,
+  "meta_description": "Als Energie Lieferant bieten wir verschiedene Energiedienstleistungen an, dazu gehört die Pellets-, Heizöl und Diesellieferung.",
+  "meta_title": "Ihr Energielieferant im Raum Stuttgart für Heizöl, Pellets und Diesel",
+  "name": "Hofmann Energien",
+  "reason": "Sektor: Energieversorger, Energien.",
+  "refs": {
+   "osm": [
+    "node/13371507187"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.hofmann-energien.de/"
  },
  {
   "address": "Hornbachstr. 11, 76879 Bornheim, Pfalz",
@@ -2992,8 +3185,7 @@
   "job_refs": [
    "10001-1002808233-S",
    "10001-1003543627-S",
-   "10001-1003546069-S",
-   "10001-1003612530-S"
+   "10001-1003546069-S"
   ],
   "key": "ionos",
   "lat": 48.992353,
@@ -3372,7 +3564,7 @@
     "node/3787301352"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -3464,6 +3656,34 @@
   "tags": [
    "Firma"
   ]
+ },
+ {
+  "address": "Im Gewerbegebiet 31-33, 77839 Lichtenau",
+  "city": "Lichtenau",
+  "distance_km": 43.8,
+  "first_seen": "2026-09-27",
+  "key": "ls-telcom",
+  "lat": 48.718733,
+  "loc_source": "osm",
+  "lon": 7.997378,
+  "meta_description": "Welcome to the LS telcom homepage! We deliver technologies and services to national and international regulatory bodies, to mobile and broadcast operators, to public safety, transport, utilities, oil & gas, defense, and vertical markets. In an increasingly connected world, we optimize spectrum management and use and enable new business models based on IoT.",
+  "meta_title": "LS telcom Website Home - LS telcom",
+  "name": "LS Telcom",
+  "reason": "Sektor: utilities.",
+  "refs": {
+   "osm": [
+    "node/8069275323"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.lstelcom.com/"
  },
  {
   "address": "Großoberfeld 3, 76135 Karlsruhe",
@@ -3744,6 +3964,89 @@
   "website": "https://www.mint-medical.com/"
  },
  {
+  "description": "größte Erdölraffinerie in Deutschland",
+  "distance_km": 8.0,
+  "first_seen": "2026-09-27",
+  "industry": "Ölindustrie",
+  "key": "miro",
+  "lat": 49.059317,
+  "loc_source": "wikidata",
+  "lon": 8.329647,
+  "meta_description": "Die Mineraloelraffinerie Oberrhein (MiRO) in Karlsruhe ist die größte Quelle für Mobilität und Wärme im Südwesten Deutschlands. Erfahren Sie mehr über unsere Produkte, unsere Verantwortung und unsere Karrierechancen.",
+  "meta_title": "Energieversorgung und Raffinerie-Leistungen für den Südwesten - MiRO",
+  "name": "MiRO",
+  "reason": "Sektor: Energieversorgung.",
+  "refs": {
+   "wikidata": [
+    "Q1761694"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "http://www.miro-ka.de/"
+ },
+ {
+  "distance_km": 7.9,
+  "first_seen": "2026-09-27",
+  "key": "miro-mineraloelraffinerie-oberrhein-werk-1",
+  "lat": 49.05885,
+  "loc_source": "osm",
+  "lon": 8.329137,
+  "meta_description": "Die Mineraloelraffinerie Oberrhein (MiRO) in Karlsruhe ist die größte Quelle für Mobilität und Wärme im Südwesten Deutschlands. Erfahren Sie mehr über unsere Produkte, unsere Verantwortung und unsere Karrierechancen.",
+  "meta_title": "Energieversorgung und Raffinerie-Leistungen für den Südwesten - MiRO",
+  "name": "MiRO Mineralölraffinerie Oberrhein - Werk 1",
+  "reason": "Sektor: Energieversorgung.",
+  "refs": {
+   "osm": [
+    "way/162004514"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion",
+   "oil",
+   "fuel"
+  ],
+  "website": "https://www.miro-ka.de/"
+ },
+ {
+  "address": "An der Wässerung 1, Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 6.9,
+  "first_seen": "2026-09-27",
+  "key": "miro-mineraloelraffinerie-oberrhein-werk-2",
+  "lat": 49.055761,
+  "loc_source": "osm",
+  "lon": 8.344677,
+  "meta_description": "Die Mineraloelraffinerie Oberrhein (MiRO) in Karlsruhe ist die größte Quelle für Mobilität und Wärme im Südwesten Deutschlands. Erfahren Sie mehr über unsere Produkte, unsere Verantwortung und unsere Karrierechancen.",
+  "meta_title": "Energieversorgung und Raffinerie-Leistungen für den Südwesten - MiRO",
+  "name": "MiRO Mineralölraffinerie Oberrhein - Werk 2",
+  "reason": "Sektor: Energieversorgung.",
+  "refs": {
+   "osm": [
+    "way/14693175"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Werk/Produktion",
+   "oil",
+   "fuel"
+  ],
+  "website": "https://www.miro-ka.de/"
+ },
+ {
   "address": "Carl-Benz-Straße 1, 74889 Sinsheim",
   "city": "Sinsheim",
   "distance_km": 43.1,
@@ -3782,13 +4085,13 @@
   "lon": 8.54105,
   "meta_title": "MSK – Energie GmbH – Energieversorgung neu gedacht, nachhaltig gelöst",
   "name": "MSK Energie GmbH",
-  "reason": "Sektor: Energie, nachhaltig.",
+  "reason": "Sektor: Energieversorgung, Energie, nachhaltig.",
   "refs": {
    "osm": [
     "node/12335036633"
    ]
   },
-  "score": 2,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -3942,52 +4245,37 @@
  },
  {
   "address": "Zeppelinstraße 15-19, 76275 Ettlingen",
-  "city": "Ettlingen",
-  "distance_km": 7.3,
+  "city": "Karlsruhe",
+  "distance_km": 5.6,
   "first_seen": "2026-09-24",
   "key": "netze-bw",
-  "lat": 48.944159,
-  "loc_source": "osm",
-  "lon": 8.376299,
-  "name": "Netze BW",
+  "lat": 49.027546,
+  "loc_source": "seed",
+  "lon": 8.47396,
+  "meta_description": "Herzlich willkommen auf den Internetseiten der Netze BW GmbH - dem größten Verteilnetzbetreiber in Baden-Württemberg.",
+  "meta_title": "Gut vernetzt, gut für alle. - Netze BW GmbH",
+  "name": "Netze BW GmbH",
   "reason": "Sektor: Netze.",
   "refs": {
    "osm": [
     "node/10927067007",
-    "node/4348497735"
-   ]
-  },
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "osm"
-  ],
-  "tags": [
-   "Firma"
-  ]
- },
- {
-  "distance_km": 5.6,
-  "first_seen": "2026-09-24",
-  "key": "netze-bw-betriebsstelle-karlsruhe",
-  "lat": 49.027546,
-  "loc_source": "osm",
-  "lon": 8.47396,
-  "name": "Netze BW Betriebsstelle Karlsruhe",
-  "reason": "Sektor: Netze.",
-  "refs": {
-   "osm": [
+    "node/4348497735",
     "node/4730839095"
    ]
   },
-  "score": 2,
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
-   "osm"
+   "osm",
+   "seed"
   ],
   "tags": [
-   "Firma"
-  ]
+   "Firma",
+   "Verteilnetzbetreiber",
+   "Netze",
+   "Smart Grid"
+  ],
+  "website": "https://www.netze-bw.de/"
  },
  {
   "description": "regionaler Verteilnetzbetreiber in Baden-Württemberg",
@@ -4007,7 +4295,7 @@
     "Q106571703"
    ]
   },
-  "score": 2,
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
@@ -4062,17 +4350,17 @@
   "first_seen": "2026-09-24",
   "job_refs": [
    "19913-3000711789682401-S",
-   "19913-3014801789077601-S",
    "19913-3042021790028001-S",
-   "19913-3042981790114401-S",
    "19913-3044801789423201-S",
    "19913-3045381789509601-S",
    "19913-3045491789509601-S",
    "19913-3045601789509601-S",
    "19913-3048051790200801-S",
    "19913-3056331790114401-S",
-   "19913-3061651790200801-S",
-   "19913-3065481789682400-S"
+   "19913-3065481789682400-S",
+   "19913-3070401790460000-S",
+   "19913-3070521790460000-S",
+   "19913-3070741790460000-S"
   ],
   "key": "ntt-data-deutschland",
   "lat": 48.9299217,
@@ -4196,7 +4484,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Softwareindustrie; Unternehmenssoftware; Beschaffung",
+  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -4235,7 +4523,7 @@
     "node/5717687160"
    ]
   },
-  "score": 3,
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -4348,6 +4636,34 @@
   "website": "https://www.polygongroup.com/"
  },
  {
+  "address": "Julius-Hirsch-Platz 1, 77855 Achern",
+  "city": "Achern",
+  "distance_km": 48.6,
+  "first_seen": "2026-09-27",
+  "key": "powercloud",
+  "lat": 48.625681,
+  "loc_source": "osm",
+  "lon": 8.080152,
+  "meta_description": "Als Teil des Hansen CIS-Portfolios wurde powercloud speziell für die Anforderungen moderner Energieversorger entwickelt.",
+  "meta_title": "Hansen powercloud — Hansen Technologies",
+  "name": "powercloud GmbH",
+  "reason": "Sektor: Energieversorger.",
+  "refs": {
+   "osm": [
+    "node/11369323279"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://power.cloud/"
+ },
+ {
   "address": "Carl-Benz-Straße 1, 76761 Rülzheim",
   "city": "Rülzheim",
   "distance_km": 19.3,
@@ -4410,7 +4726,7 @@
     "node/7160183505"
    ]
   },
-  "score": 3,
+  "score": 6,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -4427,15 +4743,16 @@
   "first_seen": "2026-09-24",
   "job_refs": [
    "10001-1003349778-S",
-   "10001-1003349792-S"
+   "10001-1003349792-S",
+   "10001-1003469692-S"
   ],
   "key": "pta",
   "lat": 49.0069955,
   "loc_source": "ba",
   "lon": 8.4139873,
   "name": "PTA GmbH",
-  "reason": "Methodik: AI.",
-  "score": 2,
+  "reason": "Methodik: AI; Sektor: Utilities, Energy.",
+  "score": 6,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -4668,13 +4985,13 @@
   "meta_description": "Führender Photovoltaik-Spezialist für Unternehmen ✓ Beratung ✓ Planung ✓ Installation » Mehr zu Eigenstrom & Ihrem Dach unter ☎ 07044 905 6820",
   "meta_title": "Photovoltaik für Industrie & Gewerbe - revotec energy",
   "name": "revotec energy GmbH",
-  "reason": "Sektor: Photovoltaik, energy.",
+  "reason": "Sektor: Photovoltaik, Energieversorger, energy.",
   "refs": {
    "osm": [
     "way/778170477"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"
@@ -4885,7 +5202,7 @@
   "description": "deutscher Softwarehersteller",
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
-  "industry": "Softwareindustrie; Softwareentwicklung",
+  "industry": "Softwareentwicklung; Softwareindustrie",
   "job_refs": [
    "11070-1633357-1-S"
   ],
@@ -4894,7 +5211,7 @@
   "loc_source": "osm",
   "lon": 8.424157,
   "name": "SAP SE",
-  "reason": "Methodik: Natural Language, Softwareindustrie.",
+  "reason": "Methodik: Natural Language, Softwareentwicklung.",
   "refs": {
    "osm": [
     "node/2472329180",
@@ -5306,6 +5623,87 @@
   "website": "https://spruck-it.de/"
  },
  {
+  "address": "Landauer Straße 23, 76887 Bad Bergzabern",
+  "city": "Bad Bergzabern",
+  "distance_km": 30.8,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-bad-bergzabern",
+  "lat": 49.105765,
+  "loc_source": "osm",
+  "lon": 8.009977,
+  "meta_description": "Stadtwerke Bad Bergzabern - Willkommen bei den Stadtwerken Bad Bergzabern - Ihr Eenergieversorger vor Ort",
+  "meta_title": "Stadtwerke Bad Bergzabern",
+  "name": "Stadtwerke Bad Bergzabern",
+  "reason": "Sektor: Stadtwerke, Eenergieversorger.",
+  "refs": {
+   "osm": [
+    "node/7372194795"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.stadtwerke-bza.de/"
+ },
+ {
+  "address": "Bahnhofstraße 12, 76332 Bad Herrenalb",
+  "city": "Bad Herrenalb",
+  "distance_km": 22.9,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-bad-herrenalb",
+  "lat": 48.802127,
+  "loc_source": "osm",
+  "lon": 8.439938,
+  "meta_description": "Die Stadtwerke Bad Herrenalb GmbH versorgt alle Einwohner von Bad Herrenalb mit Wasser und Strom und betreibt das Freibad und die Therme.",
+  "meta_title": "Stadtwerke Bad Herrenalb",
+  "name": "Stadtwerke Bad Herrenalb",
+  "reason": "Sektor: Stadtwerke, Strom.",
+  "refs": {
+   "osm": [
+    "node/5839560839"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.stw-badherrenalb.de/"
+ },
+ {
+  "description": "kommunales Unternehmen der Stadt Baden-Baden",
+  "distance_km": 29.7,
+  "first_seen": "2026-09-27",
+  "industry": "Wasserversorgung; elektrische Energietechnik; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Gasversorgung",
+  "key": "stadtwerke-baden-baden",
+  "lat": 48.766449,
+  "loc_source": "nominatim",
+  "lon": 8.227701,
+  "meta_description": "Die Stadtwerke Baden-Baden sind ein Eigenbetrieb der Stadt Baden-Baden. Unsere Aufgabe ist die Belieferung mit Strom, Erdgas, Wasser und Wärme. Hinzu kommen der Betrieb der Bäder, die Dienstleistungen im Bereich Telekommunikation, der ÖPNV, die MerkurBergbahn und die Parkgaragen.",
+  "meta_title": "Startseite - Stadtwerke Baden-Baden",
+  "name": "Stadtwerke Baden-Baden",
+  "reason": "Sektor: Stadtwerke, Energietechnik.",
+  "refs": {
+   "wikidata": [
+    "Q15638722"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.stadtwerke-baden-baden.de/"
+ },
+ {
   "description": "municipal utility company in Bruchsal, Germany",
   "distance_km": 18.5,
   "first_seen": "2026-09-24",
@@ -5316,13 +5714,13 @@
   "meta_description": "Die Stadtwerke Bruchsal sind Ihr zuverlässiger regionaler Versorger mir Strom, Gas, Wasser, Wärme, E-Mobilität, Solar, Bäder und Stadtbus.",
   "meta_title": "Stadtwerke Bruchsal | Energie, Wärme, Stadtbus, Bäder und mehr",
   "name": "Stadtwerke Bruchsal",
-  "reason": "Sektor: Solar, Energie.",
+  "reason": "Sektor: Solar, Stadtwerke, Energie.",
   "refs": {
    "wikidata": [
     "Q130302869"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
@@ -5340,18 +5738,71 @@
   "meta_description": "Wir verstehen die Wünsche unserer Kunden und erfüllen diese Tag für Tag: Wasser bester Qualität und umweltfreundliche Strom- und Gasversorgung.",
   "meta_title": "Privatkunden | Stadtwerke Bühl GmbH - Starke Leistungen",
   "name": "Stadtwerke Bühl",
-  "reason": "Sektor: Strom, umweltfreundliche.",
+  "reason": "Sektor: Stadtwerke, Strom, umweltfreundliche.",
   "refs": {
    "wikidata": [
     "Q133567251"
    ]
   },
-  "score": 2,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
   ],
   "website": "https://www.stadtwerke-buehl.de/"
+ },
+ {
+  "distance_km": 23.6,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-germersheim",
+  "lat": 49.218191,
+  "loc_source": "osm",
+  "lon": 8.379701,
+  "meta_description": "Die Stadtwerke Germersheim GmbH beliefern Privat- und Geschäftskunden in Germersheim mit Strom, Erdgas, Trinkwasser und Wärme. Zudem betreiben wir den Rhein-Hafen und kümmern und um die Abwasserentsorgung.",
+  "meta_title": "Stadtwerke Germersheim - Mehr als Energie",
+  "name": "Stadtwerke Germersheim",
+  "reason": "Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "osm": [
+    "node/6597069245"
+   ],
+   "wikidata": [
+    "Q135225162"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma"
+  ],
+  "website": "https://www.stw-ger.de/"
+ },
+ {
+  "distance_km": 23.6,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-germersheim-kundencenter",
+  "lat": 49.218479,
+  "loc_source": "osm",
+  "lon": 8.371861,
+  "name": "Stadtwerke Germersheim Kundencenter",
+  "reason": "Sektor: Stadtwerke, Energieversorger.",
+  "refs": {
+   "osm": [
+    "node/12983595829"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ]
  },
  {
   "address": "Alte Eppelheimer Straße 26, 69115 Heidelberg",
@@ -5367,7 +5818,7 @@
   "meta_description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
   "meta_title": "Startseite Stadtwerke Heidelberg",
   "name": "Stadtwerke Heidelberg",
-  "reason": "Sektor: Netzbetreiber, Energie.",
+  "reason": "Sektor: Stadtwerke, Energie.",
   "refs": {
    "osm": [
     "node/13019750525"
@@ -5376,7 +5827,7 @@
     "Q48180711"
    ]
   },
-  "score": 3,
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "osm",
@@ -5384,6 +5835,30 @@
   ],
   "tags": [
    "Firma"
+  ],
+  "website": "https://www.swhd.de/"
+ },
+ {
+  "description": "German company",
+  "distance_km": 49.5,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-heidelberg-energie",
+  "lat": 49.409358,
+  "loc_source": "wikidata_hq",
+  "lon": 8.694724,
+  "meta_description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
+  "meta_title": "Startseite Stadtwerke Heidelberg",
+  "name": "Stadtwerke Heidelberg Energie",
+  "reason": "Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "wikidata": [
+    "Q113464886"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
   ],
   "website": "https://www.swhd.de/"
  },
@@ -5399,13 +5874,13 @@
   "meta_description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
   "meta_title": "Startseite Stadtwerke Heidelberg",
   "name": "Stadtwerke Heidelberg Netze",
-  "reason": "Sektor: Netze, Energie.",
+  "reason": "Sektor: Stadtwerke, Energie.",
   "refs": {
    "wikidata": [
     "Q124475127"
    ]
   },
-  "score": 3,
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
@@ -5413,21 +5888,216 @@
   "website": "https://www.swhd.de/"
  },
  {
-  "description": "regional distribution network operator in Germany",
-  "distance_km": 1.1,
-  "first_seen": "2026-09-24",
+  "address": "Hans-Bunte-Straße 1, 69123 Heidelberg",
+  "city": "Heidelberg",
+  "distance_km": 48.0,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-heidelberg-werk-pfaffengrund",
+  "lat": 49.40734,
+  "loc_source": "osm",
+  "lon": 8.648471,
+  "name": "Stadtwerke Heidelberg, Werk Pfaffengrund",
+  "reason": "Sektor: Stadtwerke.",
+  "refs": {
+   "osm": [
+    "node/10108584422"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "distance_km": 36.2,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-hockenheim",
+  "lat": 49.318006,
+  "loc_source": "osm",
+  "lon": 8.54766,
+  "name": "Stadtwerke Hockenheim",
+  "reason": "Sektor: Stadtwerke.",
+  "refs": {
+   "osm": [
+    "node/12853366174"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "address": "Daxlander Straße 72, 76185 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Versorgungsunternehmen",
+  "distance_km": 4.5,
+  "first_seen": "2026-09-27",
   "industry": "Verteilnetzbetreiber",
-  "key": "stadtwerke-karlsruhe-netzservice",
-  "lat": 49.016667,
-  "loc_source": "wikidata_hq",
-  "lon": 8.4,
-  "meta_description": "Zuverlässige Versorgung von Strom, Gas, Wasser und Wärme – die Stadtwerke Karlsruhe Netzservice GmbH als Ihr Netzbetreiber, Messstellenbetreiber und Prüfstelle.",
-  "meta_title": "Wir bauen Energienetze - Stadtwerke Karlsruhe Netzservice GmbH",
-  "name": "Stadtwerke Karlsruhe Netzservice",
-  "reason": "Sektor: Verteilnetzbetreiber, Energienetze.",
+  "key": "stadtwerke-karlsruhe",
+  "lat": 49.007853,
+  "loc_source": "seed",
+  "lon": 8.342642,
+  "meta_description": "Ihr Energie- und Lebenspartner für Karlsruhe und die Region: ✔️Strom ✔️Erdgas ✔️Fernwärme ✔️Trinkwasser ✔️Glasfaser",
+  "meta_title": "Stadtwerke Karlsruhe | Besser versorgt, weiter gedacht.",
+  "name": "Stadtwerke Karlsruhe GmbH",
+  "reason": "Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "osm": [
+    "node/7057899959",
+    "way/437019935"
+   ],
+   "wikidata": [
+    "Q124476041",
+    "Q2328532"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed",
+   "wikidata"
+  ],
+  "tags": [
+   "Energieversorgung",
+   "Netze",
+   "Fernwärme",
+   "Energieversorger",
+   "Werk/Produktion"
+  ],
+  "website": "https://www.stadtwerke-karlsruhe.de/"
+ },
+ {
+  "address": "Schlachthofstraße 60, 67433 Neustadt an der Weinstraße",
+  "city": "Neustadt an der Weinstraße",
+  "description": "municipal utility company in Neustadt an der Weinstraße, Germany",
+  "distance_km": 42.1,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-neustadt-an-der-weinstrasse",
+  "lat": 49.348312,
+  "loc_source": "osm",
+  "lon": 8.154855,
+  "meta_description": "Strom, Gas, Wärme und Trinkwasser – die Stadtwerke Neustadt sind Ihre kompetente Anlaufstelle für Energieversorgung und mehr.",
+  "meta_title": "Stadtwerke Neustadt – Deine Heimat, deine Energie | SW Neustadt",
+  "name": "Stadtwerke Neustadt an der Weinstraße GmbH",
+  "reason": "Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "osm": [
+    "way/154286904"
+   ],
+   "wikidata": [
+    "Q130303014"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.swneustadt.de/"
+ },
+ {
+  "description": "Energieversorgungsunternehmen mit Sitz in Pforzheim",
+  "distance_km": 23.6,
+  "first_seen": "2026-09-27",
+  "industry": "öffentliches Versorgungsunternehmen",
+  "key": "stadtwerke-pforzheim",
+  "lat": 48.883764,
+  "loc_source": "nominatim",
+  "lon": 8.666612,
+  "meta_title": "Privatkunden - SWP Stadtwerke Pforzheim",
+  "name": "Stadtwerke Pforzheim",
+  "reason": "Sektor: Stadtwerke, Energieversorgungsunternehmen.",
   "refs": {
    "wikidata": [
-    "Q124476041"
+    "Q1562628"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.stadtwerke-pforzheim.de/"
+ },
+ {
+  "description": "municipal utility company in Rastatt, Germany",
+  "distance_km": 23.0,
+  "first_seen": "2026-09-27",
+  "industry": "öffentliches Versorgungsunternehmen",
+  "key": "stadtwerke-rastatt",
+  "lat": 48.850878,
+  "loc_source": "nominatim",
+  "lon": 8.196933,
+  "meta_description": "Die Stadtwerke Rastatt sind Ihr regionaler Partner für Energielösungen, Versorgungssicherheit, persönlichen Service und lokales Engagement.",
+  "meta_title": "Regionale Energieversorgung aus Rastatt - Stadtwerke Rastatt",
+  "name": "Stadtwerke Rastatt",
+  "reason": "Sektor: Stadtwerke, Energieversorgung.",
+  "refs": {
+   "wikidata": [
+    "Q124476638"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.stadtwerke-rastatt.de/"
+ },
+ {
+  "address": "Mühlstraße 18, 67105 Schifferstadt",
+  "city": "Schifferstadt",
+  "distance_km": 42.5,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-schifferstadt",
+  "lat": 49.387715,
+  "loc_source": "osm",
+  "lon": 8.363381,
+  "name": "Stadtwerke Schifferstadt",
+  "reason": "Sektor: Stadtwerke.",
+  "refs": {
+   "osm": [
+    "way/469784338"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
+ },
+ {
+  "description": "municipal utility company in Schwetzingen, Germany",
+  "distance_km": 43.7,
+  "first_seen": "2026-09-27",
+  "key": "stadtwerke-schwetzingen",
+  "lat": 49.382418,
+  "loc_source": "nominatim",
+  "lon": 8.580815,
+  "meta_description": "Die Stadtwerke Schwetzingen versorgen rund 33.500 Einwohner in Schwetzingen und Oftersheim mit Erdgas, Fernwärme und Trinkwasser.",
+  "meta_title": "Stadtwerke Schwetzingen – Nähe ist unsere Stärke!",
+  "name": "Stadtwerke Schwetzingen",
+  "reason": "Sektor: Stadtwerke.",
+  "refs": {
+   "wikidata": [
+    "Q130387934"
    ]
   },
   "score": 3,
@@ -5435,7 +6105,42 @@
   "sources": [
    "wikidata"
   ],
-  "website": "https://www.netzservice-swka.de/"
+  "website": "https://www.stadtwerke-schwetzingen.de/"
+ },
+ {
+  "address": "Georg-Peter-Süß-Straße 2, 67346 Speyer",
+  "city": "Speyer",
+  "description": "municipal utility company in Speyer, Germany",
+  "distance_km": 33.1,
+  "first_seen": "2026-09-27",
+  "industry": "öffentliches Versorgungsunternehmen",
+  "key": "stadtwerke-speyer",
+  "lat": 49.303449,
+  "loc_source": "osm",
+  "lon": 8.448684,
+  "meta_description": "Die Stadtwerke Speyer (SWS) versorgen ihre Kundinnen und Kunden in Speyer und der Region zuverlässig mit Strom, Erdgas, Wärme und frischem Trinkwasser.",
+  "meta_title": "Die Stadtwerke Speyer - Voller Energie für Sie",
+  "name": "Stadtwerke Speyer",
+  "reason": "Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "osm": [
+    "node/2574717544",
+    "way/434895056"
+   ],
+   "wikidata": [
+    "Q124476472"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "http://www.sws.speyer.de/"
  },
  {
   "distance_km": 3.2,
@@ -5536,13 +6241,37 @@
   ]
  },
  {
+  "distance_km": 19.7,
+  "first_seen": "2026-09-27",
+  "key": "technologiezentrum-bruchsal",
+  "lat": 49.138623,
+  "loc_source": "osm",
+  "lon": 8.5842,
+  "meta_title": "Strom | Netz | Sicherheit – TransnetBW - TransnetBW",
+  "name": "Technologiezentrum Bruchsal",
+  "reason": "Sektor: Energieversorger, Strom.",
+  "refs": {
+   "osm": [
+    "node/12852397704"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ],
+  "website": "https://www.transnetbw.de/"
+ },
+ {
   "address": "Villinger Straße 6, 75179 Pforzheim",
   "city": "Pforzheim",
   "description": "THOST ist mit 500 Mitarbeitern eines der führenden deutschen Unternehmen im Projektmanagement.",
   "distance_km": 21.9,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12288-4929292147-S",
    "14446-2026asl5yiyi-000-S"
   ],
   "key": "thost-projektmanagement",
@@ -5568,6 +6297,61 @@
    "Firma"
   ],
   "website": "https://www.thost.de/"
+ },
+ {
+  "address": "Bahnhofstraße 104, 67105 Schifferstadt",
+  "city": "Schifferstadt",
+  "distance_km": 42.9,
+  "first_seen": "2026-09-27",
+  "key": "thuega-energienetze",
+  "lat": 49.392215,
+  "loc_source": "osm",
+  "lon": 8.366871,
+  "name": "Thüga Energienetze GmbH",
+  "reason": "Sektor: Energieversorger, Energienetze.",
+  "refs": {
+   "osm": [
+    "node/4736046869"
+   ]
+  },
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Energieversorger"
+  ]
+ },
+ {
+  "city": "Karlsruhe",
+  "distance_km": 7.0,
+  "first_seen": "2026-09-27",
+  "key": "transnetbw",
+  "lat": 49.00999,
+  "loc_source": "seed",
+  "lon": 8.308048,
+  "meta_title": "Strom | Netz | Sicherheit – TransnetBW - TransnetBW",
+  "name": "TransnetBW GmbH",
+  "reason": "Sektor: Energiewende, Übertragungsnetzbetreiber, Strom.",
+  "refs": {
+   "osm": [
+    "node/8568792895"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm",
+   "seed"
+  ],
+  "tags": [
+   "Firma",
+   "Übertragungsnetzbetreiber",
+   "Netze",
+   "Energiewende"
+  ],
+  "website": "https://www.transnetbw.de/"
  },
  {
   "address": "Fritz-Erler-Straße 1-3, 76133 Karlsruhe",
@@ -5658,13 +6442,13 @@
   "loc_source": "osm",
   "lon": 8.70206,
   "name": "Umwelt- und Energieagentur Kreis Karlsruhe",
-  "reason": "Sektor: Energieagentur, Umwelt.",
+  "reason": "Sektor: Energieversorger, Energieagentur, Umwelt.",
   "refs": {
    "osm": [
     "node/5200662748"
    ]
   },
-  "score": 2,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "osm"

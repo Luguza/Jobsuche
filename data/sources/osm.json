@@ -11053,6 +11053,16 @@
   }
  },
  {
+  "id": "node/14221982722",
+  "lat": 49.382234,
+  "lon": 8.581059,
+  "name": "Schwetzinger Wohnbaugesellschaft GmbH & Co. KG",
+  "tags": {
+   "office": "company",
+   "website": "https://www.swg-schwetzingen.de/"
+  }
+ },
+ {
   "id": "node/1510129022",
   "lat": 48.998396,
   "lon": 8.439782,

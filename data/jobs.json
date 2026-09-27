@@ -513,6 +513,34 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003449525-S"
  },
  {
+  "city": "Karlsruhe, Baden",
+  "company": "PTA GmbH",
+  "company_key": "pta",
+  "contract": "unbefristet",
+  "distance_km": 0.8,
+  "first_published": "2026-07-30",
+  "first_seen": "2026-09-27",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.0069955,
+  "lon": 8.4139873,
+  "occupation": "Account-Manager/in",
+  "offer_type": "ARBEIT",
+  "plz": null,
+  "published": "2026-07-30",
+  "refnr": "10001-1003469692-S",
+  "salary_from": 60000.0,
+  "salary_to": 80000.0,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "Key Account Manager Energy & Utilities (m/w/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003469692-S"
+ },
+ {
   "city": "Weil der Stadt",
   "company": "Krannich Group GmbH",
   "company_key": "krannich",
@@ -659,34 +687,6 @@
   "street": "Hornbachstr. 11",
   "title": "IT Inhouse Consultant KI (gn)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003596049-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "IONOS SE",
-  "company_key": "ionos",
-  "contract": "unbefristet",
-  "distance_km": 1.6,
-  "first_published": "2026-08-27",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.992319,
-  "lon": 8.40294,
-  "occupation": "Sales-Manager/in",
-  "offer_type": "ARBEIT",
-  "plz": "76137",
-  "published": "2026-08-27",
-  "refnr": "10001-1003612530-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Hinterm Hauptbahnhof 5",
-  "title": "AI Sales Strategy Manager (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003612530-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -1155,34 +1155,6 @@
   "url": "https://www.stellenanzeigen.de/job/detail/SDE-120192/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000"
  },
  {
-  "city": "Pforzheim",
-  "company": "THOST Projektmanagement GmbH",
-  "company_key": "thost-projektmanagement",
-  "contract": "unbefristet",
-  "distance_km": 22.7,
-  "first_published": "2026-09-03",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.8945025,
-  "lon": 8.6623118,
-  "occupation": "KI-Engineer",
-  "offer_type": "ARBEIT",
-  "plz": "75179",
-  "published": "2026-09-03",
-  "refnr": "12288-4929292147-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "",
-  "title": "#THO2601 | AI Automation Engineer (m/w/d)",
-  "url": "https://www.persy.jobs/persy/l/job-jhjkm-b"
- },
- {
   "city": "Karlsruhe, Baden",
   "company": "Siemens AG",
   "company_key": "siemens",
@@ -1387,11 +1359,11 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
-  "contract": "unbefristet",
+  "contract": null,
   "distance_km": 3.8,
   "first_published": "2026-08-26",
   "first_seen": "2026-09-24",
-  "homeoffice": null,
+  "homeoffice": false,
   "hours": [
    "Vollzeit"
   ],
@@ -1446,11 +1418,11 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
-  "contract": "unbefristet",
+  "contract": null,
   "distance_km": 3.8,
   "first_published": "2026-09-22",
   "first_seen": "2026-09-24",
-  "homeoffice": null,
+  "homeoffice": false,
   "hours": [
    "Vollzeit"
   ],
@@ -1862,6 +1834,34 @@
   "street": "",
   "title": "Business Process Solution Consultant - Low Code, Automation, KI-Agents (w|m|d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-0009030049f001-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "BridgingIT GmbH",
+  "company_key": "bridgingit",
+  "contract": "unbefristet",
+  "distance_km": 4.0,
+  "first_published": "2025-05-12",
+  "first_seen": "2026-09-27",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.027158832001,
+  "lon": 8.448173185,
+  "occupation": "Business-Analyst/in",
+  "offer_type": "ARBEIT",
+  "plz": "76139",
+  "published": "2026-08-20",
+  "refnr": "15835-00090300534001-S",
+  "salary_from": 60000.0,
+  "salary_to": 85000.0,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "Consultant IT Business Analyse Future Energy & Utilities (w|m|d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-00090300534001-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -2593,35 +2593,6 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-11",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.9299217,
-  "lon": 8.4036437,
-  "occupation": "Software-Architect",
-  "offer_type": "ARBEIT",
-  "plz": "76275",
-  "published": "2026-09-11",
-  "refnr": "19913-3014801789077601-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Data Engineer",
-   "KI"
-  ],
-  "street": "",
-  "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3014801789077601-S"
- },
- {
-  "city": "Ettlingen",
-  "company": "NTT DATA Deutschland SE",
-  "company_key": "ntt-data-deutschland",
-  "contract": null,
-  "distance_km": 8.6,
   "first_published": "2026-09-22",
   "first_seen": "2026-09-24",
   "homeoffice": true,
@@ -2643,34 +2614,6 @@
   "street": "",
   "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead (w/m/x)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3042021790028001-S"
- },
- {
-  "city": "Ettlingen",
-  "company": "NTT DATA Deutschland SE",
-  "company_key": "ntt-data-deutschland",
-  "contract": null,
-  "distance_km": 8.6,
-  "first_published": "2026-09-23",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.9299217,
-  "lon": 8.4036437,
-  "occupation": "ERP-Berater/in - ERP-Consultant",
-  "offer_type": "ARBEIT",
-  "plz": "76275",
-  "published": "2026-09-23",
-  "refnr": "19913-3042981790114401-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "",
-  "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3042981790114401-S"
  },
  {
   "city": "Ettlingen",
@@ -2855,34 +2798,6 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-24",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.9299217,
-  "lon": 8.4036437,
-  "occupation": "ERP-Berater/in - ERP-Consultant",
-  "offer_type": "ARBEIT",
-  "plz": "76275",
-  "published": "2026-09-24",
-  "refnr": "19913-3061651790200801-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "",
-  "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3061651790200801-S"
- },
- {
-  "city": "Ettlingen",
-  "company": "NTT DATA Deutschland SE",
-  "company_key": "ntt-data-deutschland",
-  "contract": null,
-  "distance_km": 8.6,
   "first_published": "2026-09-18",
   "first_seen": "2026-09-24",
   "homeoffice": true,
@@ -2905,5 +2820,89 @@
   "street": "",
   "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3065481789682400-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "NTT DATA Deutschland SE",
+  "company_key": "ntt-data-deutschland",
+  "contract": null,
+  "distance_km": 8.6,
+  "first_published": "2026-09-27",
+  "first_seen": "2026-09-27",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.9299217,
+  "lon": 8.4036437,
+  "occupation": "Software-Architect",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-09-27",
+  "refnr": "19913-3070401790460000-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3070401790460000-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "NTT DATA Deutschland SE",
+  "company_key": "ntt-data-deutschland",
+  "contract": null,
+  "distance_km": 8.6,
+  "first_published": "2026-09-27",
+  "first_seen": "2026-09-27",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.9299217,
+  "lon": 8.4036437,
+  "occupation": "ERP-Berater/in - ERP-Consultant",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-09-27",
+  "refnr": "19913-3070521790460000-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3070521790460000-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "NTT DATA Deutschland SE",
+  "company_key": "ntt-data-deutschland",
+  "contract": null,
+  "distance_km": 8.6,
+  "first_published": "2026-09-27",
+  "first_seen": "2026-09-27",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.9299217,
+  "lon": 8.4036437,
+  "occupation": "ERP-Berater/in - ERP-Consultant",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-09-27",
+  "refnr": "19913-3070741790460000-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3070741790460000-S"
  }
 ]

@@ -10798,6 +10798,12 @@
   "status": "ok",
   "title": "Your partner for web hosting, servers, domains | netcup"
  },
+ "https://www.netze-bw.de/": {
+  "description": "Herzlich willkommen auf den Internetseiten der Netze BW GmbH - dem größten Verteilnetzbetreiber in Baden-Württemberg.",
+  "fetched": "2026-09-27",
+  "status": "ok",
+  "title": "Gut vernetzt, gut für alle. - Netze BW GmbH"
+ },
  "https://www.netze-suedwest.de/": {
   "description": "Netze Südwest ist der größte Gasverteilnetzbetreiber unter der Landesregulierungsbehörde Baden-Württemberg.",
   "fetched": "2026-09-24",
@@ -12420,6 +12426,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Studierendenwerk Karlsruhe"
+ },
+ "https://www.swg-schwetzingen.de/": {
+  "description": "Die Aktivitäten SWG dienen vorrangig der kommunalen Daseinsvorsorge. Ziel ist es, bezahlbaren Wohnraum anzubieten.",
+  "fetched": "2026-09-27",
+  "status": "ok",
+  "title": "Schwetzinger Wohnbaugesellschaft – Kommunale Daseinsvorsorge & Bezahlbarer Wohnraum"
  },
  "https://www.swhd.de/": {
   "description": "Die Stadtwerke Heidelberg versorgen Heidelberg und die Region verlässlich mit Energie, Wasser und Services und sind zuständig für Bäder und Garagen.",
