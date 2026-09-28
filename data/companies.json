@@ -5202,7 +5202,7 @@
   "description": "deutscher Softwarehersteller",
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
-  "industry": "Softwareentwicklung; Softwareindustrie",
+  "industry": "Softwareindustrie; Softwareentwicklung",
   "job_refs": [
    "11070-1633357-1-S"
   ],
@@ -5211,7 +5211,7 @@
   "loc_source": "osm",
   "lon": 8.424157,
   "name": "SAP SE",
-  "reason": "Methodik: Natural Language, Softwareentwicklung.",
+  "reason": "Methodik: Natural Language, Softwareindustrie.",
   "refs": {
    "osm": [
     "node/2472329180",
@@ -5682,7 +5682,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "Wasserversorgung; elektrische Energietechnik; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Gasversorgung",
+  "industry": "elektrische Energietechnik; Gasversorgung; Wasserversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
