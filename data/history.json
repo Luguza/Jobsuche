@@ -303,5 +303,117 @@
   "removed_companies": [],
   "removed_jobs": [],
   "timestamp": "2026-09-28T04:34:57+00:00"
+ },
+ {
+  "companies": 259,
+  "jobs": 96,
+  "new_companies": [],
+  "new_jobs": [
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270916290926-S",
+    "title": "AI Backend Engineer dmGPT (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-271164021026-S",
+    "title": "AI Frontend Engineer dmGPT (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-271168021026-S",
+    "title": "Pflichtpraktikum Analyst & Data Science für Produktivität (w/m/d)"
+   },
+   {
+    "company": "Mercedes-Benz Group AG",
+    "refnr": "13151-1618906-3-S",
+    "title": "Werkstudent AI Agents & Robotics Platform (d/m/w/x)"
+   },
+   {
+    "company": "Robert Bosch GmbH",
+    "refnr": "15986-REF297149J-82b7c96-S",
+    "title": "Masterarbeit mit Metamaterialien zum leisen Produkt - FEM-Simulation von Metamaterialien zur akustis"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074751791064800-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074991791064800-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "sap",
+    "name": "SAP SE",
+    "score": 3
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "Wirsol Aufdach GmbH",
+    "refnr": "10000-1203736564-S",
+    "title": "Elektroplaner (m/w/d) für Photovoltaikanlagen gesucht!"
+   },
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1002808233-S",
+    "title": "Senior UX Designer (w/m/d) AI Agent Conversational Experience /1218"
+   },
+   {
+    "company": "Aristech GmbH",
+    "refnr": "10001-1003445121-S",
+    "title": "Enterprise Sales Manager (m/w/d) - Conversational AI"
+   },
+   {
+    "company": "Deutsches Krebsforschungszentrum",
+    "refnr": "10001-1003709573-S",
+    "title": "Research Software Engineer / Software Developer for Imaging and Spatial Omics Data"
+   },
+   {
+    "company": "SAP",
+    "refnr": "11070-1633357-1-S",
+    "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-264328010726-S",
+    "title": "IT Consultant  Architecture & ALM \"AI by Design\" (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-265028210826-S",
+    "title": "Senior Software Engineer - AI Accelerator (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-266297290726-S",
+    "title": "Senior Software KI Engineer - Payment (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-268183250826-S",
+    "title": "Data Scientist  Logistics Network Simulation and Optimization (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-269097080926-S",
+    "title": "Software Engineer - AI Accelerator (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co. KG",
+    "refnr": "13649-13206731AB-S",
+    "title": "Data Scientist Logistics Network Simulation and Optimization"
+   },
+   {
+    "company": "BridgingIT GmbH",
+    "refnr": "15835-0009030049f001-S",
+    "title": "Business Process Solution Consultant - Low Code, Automation, KI-Agents (w|m|d)"
+   }
+  ],
+  "timestamp": "2026-10-05T04:44:33+00:00"
  }
 ]

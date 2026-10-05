@@ -57,7 +57,7 @@
   "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
   "distance_km": 33.0,
   "first_seen": "2026-09-24",
-  "industry": "Ausbildung; künstliche Intelligenz",
+  "industry": "künstliche Intelligenz; Ausbildung",
   "key": "a-leecon",
   "lat": 49.293333,
   "loc_source": "wikidata_hq",
@@ -534,9 +534,6 @@
  {
   "distance_km": 48.3,
   "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003445121-S"
-  ],
   "key": "aristech",
   "lat": 49.404605,
   "loc_source": "osm",
@@ -553,7 +550,6 @@
   "score": 2,
   "score_method": "stichwörter",
   "sources": [
-   "ba",
    "osm"
   ],
   "tags": [
@@ -738,7 +734,6 @@
   "distance_km": 0.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "15835-0009030049f001-S",
    "15835-00090300534001-S"
   ],
   "key": "bridgingit",
@@ -748,13 +743,13 @@
   "meta_description": "bridgingIT ist das eigenstÃ¤ndige Beratungsunternehmen, das mit Verantwortungsbewusstsein und persÃ¶nlicher NÃ¤he aktiv Dinge zu erfolgreichen LÃ¶sungen verbindet.",
   "meta_title": "Startseite | bridgingIT",
   "name": "BridgingIT",
-  "reason": "Methodik: KI; Sektor: Utilities, Energy.",
+  "reason": "Sektor: Utilities, Energy.",
   "refs": {
    "osm": [
     "node/4078945376"
    ]
   },
-  "score": 6,
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -992,7 +987,6 @@
   "first_seen": "2026-09-24",
   "industry": "Forschung; Krankenhäuser und Rehabilitationskliniken",
   "job_refs": [
-   "10001-1003709573-S",
    "10001-1003716531-S"
   ],
   "key": "deutsches-krebsforschungszentrum",
@@ -1002,7 +996,7 @@
   "meta_description": "Das Deutsche Krebsforschungszentrum (DKFZ) ist mit mehr als 3.000 Mitarbeiterinnen und Mitarbeitern die größte biomedizinische Forschungseinrichtung in Deutschland. Über 1000 Wissenschaftlerinnen und Wissenschaftler erforschen im DKFZ, wie Krebs entsteht, erfassen Krebsrisikofaktoren und suchen nach neuen Strategien, die verhindern, dass Menschen an Krebs erkranken. Sie entwickeln neue Methoden, m",
   "meta_title": "Startseite - Deutsches Krebsforschungszentrum",
   "name": "Deutsches Krebsforschungszentrum",
-  "reason": "Methodik: Postdoctoral, Data, Computational, Krebsforschungszentrum, Software; Abzug: DKFZ.",
+  "reason": "Methodik: Postdoctoral, Computational, Krebsforschungszentrum; Abzug: DKFZ.",
   "refs": {
    "osm": [
     "relation/17815884"
@@ -1011,7 +1005,7 @@
     "Q449325"
    ]
   },
-  "score": 1,
+  "score": 0,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -1151,9 +1145,8 @@
   "industry": "Drogerie",
   "job_refs": [
    "12787-267279120826-S",
-   "12787-268183250826-S",
    "12787-270129220926-S",
-   "13649-13206731AB-S"
+   "12787-271168021026-S"
   ],
   "key": "dm-drogerie-markt",
   "lat": 49.003004,
@@ -1161,7 +1154,7 @@
   "lon": 8.455679,
   "meta_title": "dm-drogerie markt - dauerhaft günstig online kaufen",
   "name": "dm-drogerie markt GmbH + Co. KG",
-  "reason": "Methodik: Data Scientist, Data Analyst, Data, Simulation, Optimization.",
+  "reason": "Methodik: Data Scientist, Data Analyst, Data.",
   "refs": {
    "osm": [
     "node/6597207390"
@@ -1188,26 +1181,24 @@
   "distance_km": 3.9,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12787-264328010726-S",
-   "12787-265028210826-S",
-   "12787-266297290726-S",
    "12787-268129250826-S",
-   "12787-269097080926-S",
    "12787-270258250926-S",
-   "12787-270406250926-S"
+   "12787-270406250926-S",
+   "12787-270916290926-S",
+   "12787-271164021026-S"
   ],
   "key": "dmtech",
   "lat": 49.002831,
   "loc_source": "osm",
   "lon": 8.456892,
   "name": "dmTECH GmbH",
-  "reason": "Methodik: AI, Analytics, Software.",
+  "reason": "Methodik: AI, Analytics.",
   "refs": {
    "osm": [
     "node/6848347046"
    ]
   },
-  "score": 5,
+  "score": 4,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -3183,7 +3174,6 @@
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1002808233-S",
    "10001-1003543627-S",
    "10001-1003546069-S"
   ],
@@ -3886,6 +3876,7 @@
   "distance_km": 44.6,
   "first_seen": "2026-09-24",
   "job_refs": [
+   "13151-1618906-3-S",
    "13151-1633950-1-S"
   ],
   "key": "mercedes-benz",
@@ -3893,7 +3884,7 @@
   "loc_source": "osm",
   "lon": 8.674677,
   "name": "Mercedes Benz",
-  "reason": "Methodik: Data Engineering, Data Science, Data, Softwareentwicklung.",
+  "reason": "Methodik: AI, Data Engineering, Data Science, Data, Softwareentwicklung.",
   "refs": {
    "osm": [
     "way/340583587",
@@ -4360,7 +4351,9 @@
    "19913-3065481789682400-S",
    "19913-3070401790460000-S",
    "19913-3070521790460000-S",
-   "19913-3070741790460000-S"
+   "19913-3070741790460000-S",
+   "19913-3074751791064800-S",
+   "19913-3074991791064800-S"
   ],
   "key": "ntt-data-deutschland",
   "lat": 48.9299217,
@@ -4484,7 +4477,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
+  "industry": "künstliche Intelligenz; Softwareindustrie; Unternehmenssoftware; Beschaffung",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -5045,7 +5038,8 @@
    "15986-REF295672C-d75a959-S",
    "15986-REF296008N-171cc98-S",
    "15986-REF296289E-858b55e-S",
-   "15986-REF296490W-e6a732c-S"
+   "15986-REF296490W-e6a732c-S",
+   "15986-REF297149J-82b7c96-S"
   ],
   "key": "robert-bosch",
   "lat": 49.018267,
@@ -5195,43 +5189,6 @@
   "sources": [
    "wikidata"
   ]
- },
- {
-  "address": "Vincenz-Prießnitz-Straße 1, 76131 Karlsruhe",
-  "city": "Karlsruhe",
-  "description": "deutscher Softwarehersteller",
-  "distance_km": 1.6,
-  "first_seen": "2026-09-24",
-  "industry": "Softwareindustrie; Softwareentwicklung",
-  "job_refs": [
-   "11070-1633357-1-S"
-  ],
-  "key": "sap",
-  "lat": 49.013053,
-  "loc_source": "osm",
-  "lon": 8.424157,
-  "name": "SAP SE",
-  "reason": "Methodik: Natural Language, Softwareindustrie.",
-  "refs": {
-   "osm": [
-    "node/2472329180",
-    "way/238363150"
-   ],
-   "wikidata": [
-    "Q552581"
-   ]
-  },
-  "score": 3,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba",
-   "osm",
-   "wikidata"
-  ],
-  "tags": [
-   "Firma"
-  ],
-  "website": "https://www.sap.com/"
  },
  {
   "address": "Spitalstr. 2, 76356 Weingarten (Baden)",
@@ -5682,7 +5639,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "elektrische Energietechnik; Gasversorgung; Wasserversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft",
+  "industry": "Wasserversorgung; elektrische Energietechnik; Gasversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
@@ -6844,20 +6801,19 @@
   "website": "https://www.wierig.de/"
  },
  {
-  "address": "Schwetzinger Str. 22-26, 68753 Waghäusel",
+  "address": "68753 Waghäusel",
   "city": "Waghäusel",
-  "distance_km": 28.4,
+  "distance_km": 26.3,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10000-1203736564-S",
    "12908-063451996-S"
   ],
   "key": "wirsol-aufdach",
-  "lat": 49.2457889,
+  "lat": 49.229763,
   "loc_source": "ba",
-  "lon": 8.5418747,
-  "name": "Wirsol Aufdach GmbH",
-  "reason": "Sektor: Batteriespeicher, Photovoltaikanlagen.",
+  "lon": 8.5236584,
+  "name": "WIRSOL Aufdach GmbH",
+  "reason": "Sektor: Batteriespeicher, Photovoltaik.",
   "score": 5,
   "score_method": "stichwörter",
   "sources": [

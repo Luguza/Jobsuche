@@ -201,18 +201,9 @@
   "lon": 8.395591,
   "name": "Elektro Mattern",
   "tags": {
+   "addr:city": "Schifferstadt",
    "addr:housenumber": "25",
-   "addr:street": "Im Lettenhorst",
-   "office": "company"
-  }
- },
- {
-  "id": "node/10135617113",
-  "lat": 49.381078,
-  "lon": 8.396413,
-  "name": "LEICHT Innovative Gebäudetechnik",
-  "tags": {
-   "addr:housenumber": "23",
+   "addr:postcode": "67105",
    "addr:street": "Im Lettenhorst",
    "office": "company"
   }
@@ -4070,20 +4061,6 @@
   }
  },
  {
-  "id": "node/11962315238",
-  "lat": 48.95272,
-  "lon": 8.571107,
-  "name": "Versandhaus Jung",
-  "tags": {
-   "addr:city": "Remchingen",
-   "addr:housenumber": "1",
-   "addr:postcode": "75196",
-   "addr:street": "Remchinger Straße",
-   "contact:website": "https://www.versandhaus-jung.de/",
-   "office": "company"
-  }
- },
- {
   "id": "node/11962352587",
   "lat": 48.952733,
   "lon": 8.579874,
@@ -7010,14 +6987,14 @@
  },
  {
   "id": "node/12651860808",
-  "lat": 48.996713,
-  "lon": 8.463813,
+  "lat": 48.99646,
+  "lon": 8.464247,
   "name": "RaumFabrik Vermietungsgesellschaft mbH & Co. KG Durlach",
   "tags": {
    "addr:city": "Karlsruhe",
-   "addr:housenumber": "33c",
+   "addr:housenumber": "41 Bau 53",
    "addr:postcode": "76227",
-   "addr:street": "An der RaumFabrik",
+   "addr:street": "Amalienbadstraße",
    "office": "company",
    "website": "https://www.raumfabrik-durlach.de/"
   }
@@ -11063,6 +11040,34 @@
   }
  },
  {
+  "id": "node/14231988739",
+  "lat": 49.031999,
+  "lon": 8.393875,
+  "name": "ASPION GmbH",
+  "tags": {
+   "office": "company",
+   "website": "https://www.aspion.de/"
+  }
+ },
+ {
+  "id": "node/14245028755",
+  "lat": 48.88357,
+  "lon": 8.334,
+  "name": "Unimess Duhr GmbH",
+  "tags": {
+   "office": "company"
+  }
+ },
+ {
+  "id": "node/14245122620",
+  "lat": 48.886487,
+  "lon": 8.330012,
+  "name": "United Autoglas",
+  "tags": {
+   "office": "company"
+  }
+ },
+ {
   "id": "node/1510129022",
   "lat": 48.998396,
   "lon": 8.439782,
@@ -12028,6 +12033,15 @@
    "addr:street": "Rheinstraße",
    "office": "company",
    "website": "https://www.riverty.com/"
+  }
+ },
+ {
+  "id": "node/2276374471",
+  "lat": 49.396729,
+  "lon": 8.678446,
+  "name": "Autz + Herrmnan",
+  "tags": {
+   "office": "company"
   }
  },
  {
@@ -18166,8 +18180,8 @@
  },
  {
   "id": "node/4540889804",
-  "lat": 49.418479,
-  "lon": 8.675682,
+  "lat": 49.418602,
+  "lon": 8.67559,
   "name": "HeiGIT",
   "tags": {
    "addr:city": "Heidelberg",
@@ -18697,7 +18711,9 @@
   "lon": 8.386046,
   "name": "Zweckverband für Wasserversorgung Pfälzische Mittelrheingruppe",
   "tags": {
+   "addr:city": "Schifferstadt",
    "addr:housenumber": "2",
+   "addr:postcode": "67105",
    "addr:street": "Am Wasserturm",
    "office": "company"
   }
@@ -23822,20 +23838,6 @@
   }
  },
  {
-  "id": "node/6482061872",
-  "lat": 49.04412,
-  "lon": 8.390047,
-  "name": "ASPION GmbH",
-  "tags": {
-   "addr:city": "Karlsruhe",
-   "addr:housenumber": "40",
-   "addr:postcode": "76149",
-   "addr:street": "Alte Kreisstraße",
-   "office": "company",
-   "website": "https://www.aspion.de/"
-  }
- },
- {
   "id": "node/6484639384",
   "lat": 49.410132,
   "lon": 8.708926,
@@ -24268,8 +24270,8 @@
  },
  {
   "id": "node/6660005622",
-  "lat": 49.378514,
-  "lon": 8.379614,
+  "lat": 49.378477,
+  "lon": 8.379605,
   "name": "Pfalz Immobilienverwaltung GmbH",
   "tags": {
    "addr:city": "Schifferstadt",
@@ -24407,7 +24409,9 @@
   "lon": 8.397526,
   "name": "Materialprüfstelle Vorderpfalz",
   "tags": {
+   "addr:city": "Schifferstadt",
    "addr:housenumber": "13",
+   "addr:postcode": "67105",
    "addr:street": "Im Lettenhorst",
    "office": "company"
   }
@@ -30166,6 +30170,19 @@
   }
  },
  {
+  "id": "way/1107754360",
+  "lat": 49.381076,
+  "lon": 8.396403,
+  "name": "LEICHT Innovative Gebäudetechnik",
+  "tags": {
+   "addr:city": "Schifferstadt",
+   "addr:housenumber": "23a",
+   "addr:postcode": "67105",
+   "addr:street": "Im Lettenhorst",
+   "office": "company"
+  }
+ },
+ {
   "id": "way/111288735",
   "lat": 49.318906,
   "lon": 8.423632,
@@ -31159,7 +31176,7 @@
    "addr:housenumber": "19",
    "addr:postcode": "75392",
    "addr:street": "Ettenbergstraße",
-   "contact:website": "www.jvi-gmbh.de",
+   "contact:website": "https://www.jvi.de/",
    "office": "company",
    "operator": "Jörg Volk"
   }

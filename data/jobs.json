@@ -1,33 +1,5 @@
 [
  {
-  "city": "Waghäusel",
-  "company": "Wirsol Aufdach GmbH",
-  "company_key": "wirsol-aufdach",
-  "contract": "unbefristet",
-  "distance_km": 28.4,
-  "first_published": "2025-09-11",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.2457889,
-  "lon": 8.5418747,
-  "occupation": "Fachplaner/in - Energie- und Gebäudetechnik",
-  "offer_type": "ARBEIT",
-  "plz": "68753",
-  "published": "2025-09-11",
-  "refnr": "10000-1203736564-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Photovoltaik"
-  ],
-  "street": "Schwetzinger Str. 22-26",
-  "title": "Elektroplaner (m/w/d) für Photovoltaikanlagen gesucht!",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203736564-S"
- },
- {
   "city": "Pforzheim",
   "company": "Wellendorff Gold-Creationen GmbH & Co. KG",
   "company_key": "wellendorff-gold-creationen",
@@ -256,34 +228,6 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002624881-S"
  },
  {
-  "city": "Karlsruhe, Baden",
-  "company": "IONOS SE",
-  "company_key": "ionos",
-  "contract": null,
-  "distance_km": 1.6,
-  "first_published": "2026-03-23",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.992319,
-  "lon": 8.40294,
-  "occupation": "UX-Designer/in",
-  "offer_type": "ARBEIT",
-  "plz": "76137",
-  "published": "2026-08-14",
-  "refnr": "10001-1002808233-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Hinterm Hauptbahnhof 5",
-  "title": "Senior UX Designer (w/m/d) AI Agent Conversational Experience /1218",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002808233-S"
- },
- {
   "city": "Weingarten (Baden)",
   "company": "SAV Pflegeleicht GmbH",
   "company_key": "sav-pflegeleicht",
@@ -454,35 +398,6 @@
   "street": "Ludwig-Erhard-Allee 1",
   "title": "Fachexperte (m/w/d) Datenbanken und Data Analytics",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003389287-S"
- },
- {
-  "city": "Heidelberg, Neckar",
-  "company": "Aristech GmbH",
-  "company_key": "aristech",
-  "contract": "unbefristet",
-  "distance_km": 48.3,
-  "first_published": "2026-07-27",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.404564,
-  "lon": 8.66907,
-  "occupation": "Vertriebsberater/in",
-  "offer_type": "ARBEIT",
-  "plz": "69115",
-  "published": "2026-09-01",
-  "refnr": "10001-1003445121-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Künstliche Intelligenz",
-   "KI"
-  ],
-  "street": "Galileistr. 1-3",
-  "title": "Enterprise Sales Manager (m/w/d) - Conversational AI",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003445121-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -882,7 +797,7 @@
   "occupation": "KI-Engineer",
   "offer_type": "ARBEIT",
   "plz": "76135",
-  "published": "2026-09-10",
+  "published": "2026-09-29",
   "refnr": "10001-1003689162-S",
   "salary_from": 62000.0,
   "salary_to": 72000.0,
@@ -929,36 +844,6 @@
   "company_key": "deutsches-krebsforschungszentrum",
   "contract": "befristet",
   "distance_km": 49.4,
-  "first_published": "2026-09-15",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
-  "hours": [
-   "Vollzeit",
-   "Teilzeit"
-  ],
-  "lat": 49.414482,
-  "lon": 8.671617,
-  "occupation": "Softwareentwickler/in",
-  "offer_type": "ARBEIT",
-  "plz": "69120",
-  "published": "2026-09-15",
-  "refnr": "10001-1003709573-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Data Science",
-   "Data Engineer"
-  ],
-  "street": "Im Neuenheimer Feld 280",
-  "title": "Research Software Engineer / Software Developer for Imaging and Spatial Omics Data",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003709573-S"
- },
- {
-  "city": "Heidelberg, Neckar",
-  "company": "Deutsches Krebsforschungszentrum",
-  "company_key": "deutsches-krebsforschungszentrum",
-  "contract": "befristet",
-  "distance_km": 49.4,
   "first_published": "2026-09-16",
   "first_seen": "2026-09-24",
   "homeoffice": null,
@@ -971,7 +856,7 @@
   "occupation": "Bioinformatiker/in",
   "offer_type": "ARBEIT",
   "plz": "69120",
-  "published": "2026-09-16",
+  "published": "2026-09-29",
   "refnr": "10001-1003716531-S",
   "salary_from": null,
   "salary_to": null,
@@ -1069,40 +954,12 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003765260-S"
  },
  {
-  "city": "St. Leon-Rot",
-  "company": "SAP",
-  "company_key": "sap",
-  "contract": null,
-  "distance_km": 32.4,
-  "first_published": "2026-09-17",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.2623571,
-  "lon": 8.6181929,
-  "occupation": "Data Scientist",
-  "offer_type": "PRAKTIKUM_TRAINEE",
-  "plz": "68789",
-  "published": "2026-09-25",
-  "refnr": "11070-1633357-1-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Data Scientist"
-  ],
-  "street": "",
-  "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
-  "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-machine-translationnatural-language-processing-sap-68789-st-leon-rot--2413832.html"
- },
- {
   "city": "Weil der Stadt",
   "company": "Krannich Group GmbH",
   "company_key": "krannich",
   "contract": null,
   "distance_km": 43.6,
-  "first_published": "2026-08-31",
+  "first_published": "2026-09-28",
   "first_seen": "2026-09-24",
   "homeoffice": true,
   "hours": [
@@ -1113,7 +970,7 @@
   "occupation": "Produktmanager/in",
   "offer_type": "ARBEIT",
   "plz": "71263",
-  "published": "2026-08-31",
+  "published": "2026-09-28",
   "refnr": "11858-SDE-114946-STA-S",
   "salary_from": null,
   "salary_to": null,
@@ -1130,7 +987,7 @@
   "company_key": "krannich",
   "contract": null,
   "distance_km": 43.6,
-  "first_published": "2026-09-11",
+  "first_published": "2026-09-28",
   "first_seen": "2026-09-24",
   "homeoffice": true,
   "hours": [
@@ -1141,7 +998,7 @@
   "occupation": "Data Scientist",
   "offer_type": "ARBEIT",
   "plz": "71263",
-  "published": "2026-09-11",
+  "published": "2026-09-28",
   "refnr": "11858-SDE-120192-STA-S",
   "salary_from": null,
   "salary_to": null,
@@ -1171,7 +1028,7 @@
   "occupation": "Informatiker/in",
   "offer_type": "PRAKTIKUM_TRAINEE",
   "plz": "76131",
-  "published": "2026-09-24",
+  "published": "2026-09-28",
   "refnr": "12465-1635995-1-S",
   "salary_from": null,
   "salary_to": null,
@@ -1200,7 +1057,7 @@
   "occupation": "Wirtschaftsingenieur/in",
   "offer_type": "PRAKTIKUM_TRAINEE",
   "plz": "76437",
-  "published": "2026-09-25",
+  "published": "2026-09-30",
   "refnr": "12465-1636428-1-S",
   "salary_from": null,
   "salary_to": null,
@@ -1210,91 +1067,6 @@
   "street": "",
   "title": "Pflichtpraktikum Digitale Fabrikplanung und Materialflusssimulation in der Elektronikfertigung",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1636428-1-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "dmTECH GmbH",
-  "company_key": "dmtech",
-  "contract": "unbefristet",
-  "distance_km": 3.8,
-  "first_published": "2026-07-01",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-07-01",
-  "refnr": "12787-264328010726-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Künstliche Intelligenz",
-   "KI"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "IT Consultant  Architecture & ALM \"AI by Design\" (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-264328010726-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "dmTECH GmbH",
-  "company_key": "dmtech",
-  "contract": "unbefristet",
-  "distance_km": 3.8,
-  "first_published": "2026-08-21",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "Softwareentwickler/in",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-08-21",
-  "refnr": "12787-265028210826-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "Senior Software Engineer - AI Accelerator (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-265028210826-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "dmTECH GmbH",
-  "company_key": "dmtech",
-  "contract": "unbefristet",
-  "distance_km": 3.8,
-  "first_published": "2026-07-29",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "KI-Engineer",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-07-29",
-  "refnr": "12787-266297290726-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "Senior Software KI Engineer - Payment (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-266297290726-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -1359,66 +1131,7 @@
   "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
-  "contract": null,
-  "distance_km": 3.8,
-  "first_published": "2026-08-26",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "Data Scientist",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-08-26",
-  "refnr": "12787-268183250826-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Data Scientist",
-   "Data Science",
-   "Simulation"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "Data Scientist  Logistics Network Simulation and Optimization (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-268183250826-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "dmTECH GmbH",
-  "company_key": "dmtech",
   "contract": "unbefristet",
-  "distance_km": 3.8,
-  "first_published": "2026-09-08",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit",
-   "Teilzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "Softwareentwickler/in",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-09-08",
-  "refnr": "12787-269097080926-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "Software Engineer - AI Accelerator (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-269097080926-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "dm-drogerie markt GmbH + Co.KG",
-  "company_key": "dm-drogerie-markt",
-  "contract": null,
   "distance_km": 3.8,
   "first_published": "2026-09-22",
   "first_seen": "2026-09-24",
@@ -1465,10 +1178,11 @@
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
+   "Machine Learning",
    "KI"
   ],
   "street": "Am dm-Platz 1",
-  "title": "Solution Architect KI und Prozessautomatisierung - Finance/Controlling (w/m/d)",
+  "title": "AI Solution Architect Finance & Controlling (w/m/d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270258250926-S"
  },
  {
@@ -1498,6 +1212,92 @@
   "street": "Am dm-Platz 1",
   "title": "IT Consultant - Tracking & Analytics (w/m/d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270406250926-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-09-29",
+  "first_seen": "2026-10-05",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Softwareentwickler/in",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-09-29",
+  "refnr": "12787-270916290926-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "AI Backend Engineer dmGPT (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270916290926-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-10-02",
+  "first_seen": "2026-10-05",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Informatiker/in",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-10-02",
+  "refnr": "12787-271164021026-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "AI Frontend Engineer dmGPT (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271164021026-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "dm-drogerie markt GmbH + Co.KG",
+  "company_key": "dm-drogerie-markt",
+  "contract": null,
+  "distance_km": 3.8,
+  "first_published": "2026-10-02",
+  "first_seen": "2026-10-05",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Drogist/in",
+  "offer_type": "PRAKTIKUM_TRAINEE",
+  "plz": "76227",
+  "published": "2026-10-02",
+  "refnr": "12787-271168021026-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Data Science"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "Pflichtpraktikum Analyst & Data Science für Produktivität (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271168021026-S"
  },
  {
   "city": "Waghäusel",
@@ -1554,6 +1354,37 @@
   "street": "Luisenstraße 88",
   "title": "Kalkulator / Projektierer (m/w/d) - Photovoltaik & Batteriespeicher in Karlsruhe oder remote",
   "url": "https://www.heyjobs.co/de-de/jobs/0eb81ecb-9778-49fb-9b48-fccc8e6a9611?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "Mercedes-Benz Group AG",
+  "company_key": "mercedes-benz",
+  "contract": null,
+  "distance_km": 0.8,
+  "first_published": "2026-09-29",
+  "first_seen": "2026-10-05",
+  "homeoffice": false,
+  "hours": [
+   "Teilzeit"
+  ],
+  "lat": 49.0069955,
+  "lon": 8.4139873,
+  "occupation": "Informatiker/in",
+  "offer_type": "PRAKTIKUM_TRAINEE",
+  "plz": "76131",
+  "published": "2026-09-29",
+  "refnr": "13151-1618906-3-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning",
+   "Data Science",
+   "Künstliche Intelligenz",
+   "KI"
+  ],
+  "street": "",
+  "title": "Werkstudent AI Agents & Robotics Platform (d/m/w/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618906-3-S"
  },
  {
   "city": "Rastatt",
@@ -1720,35 +1551,6 @@
   "url": "https://www.get-in-it.de/jobsuche/p296843?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
-  "city": "Karlsruhe, Baden",
-  "company": "dm-drogerie markt GmbH + Co. KG",
-  "company_key": "dm-drogerie-markt",
-  "contract": null,
-  "distance_km": 5.4,
-  "first_published": "2026-09-15",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.9905167,
-  "lon": 8.473825,
-  "occupation": "Data Scientist",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-09-15",
-  "refnr": "13649-13206731AB-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Data Scientist",
-   "Simulation"
-  ],
-  "street": "",
-  "title": "Data Scientist Logistics Network Simulation and Optimization",
-  "url": "https://www.absolventa.de/stellenangebote/13206731?utm_campaign=job&utm_medium=premiumcpc&utm_source=BAG&utm_content=job"
- },
- {
   "city": "Pforzheim",
   "company": "THOST Projektmanagement GmbH",
   "company_key": "thost-projektmanagement",
@@ -1805,35 +1607,6 @@
   "street": "",
   "title": "Senior Sales Decarbonization - Control Solutions (m/w/d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-470192085-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "BridgingIT GmbH",
-  "company_key": "bridgingit",
-  "contract": "unbefristet",
-  "distance_km": 4.0,
-  "first_published": "2025-07-17",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.027158832001,
-  "lon": 8.448173185,
-  "occupation": "IT-Berater/in",
-  "offer_type": "ARBEIT",
-  "plz": "76139",
-  "published": "2026-06-30",
-  "refnr": "15835-0009030049f001-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI",
-   "Modellierung"
-  ],
-  "street": "",
-  "title": "Business Process Solution Consultant - Low Code, Automation, KI-Agents (w|m|d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-0009030049f001-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -2293,6 +2066,34 @@
   "street": "",
   "title": "Masterarbeit im Bereich mechanisches Direktfügen von hybriden Werkstoffen",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF296490W-e6a732c-S"
+ },
+ {
+  "city": "Renningen",
+  "company": "Robert Bosch GmbH",
+  "company_key": "robert-bosch",
+  "contract": "befristet",
+  "distance_km": 46.7,
+  "first_published": "2026-09-28",
+  "first_seen": "2026-10-05",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.7689256,
+  "lon": 8.928216,
+  "occupation": "Fachwirt/in - Marktforschung",
+  "offer_type": "PRAKTIKUM_TRAINEE",
+  "plz": "71272",
+  "published": "2026-09-28",
+  "refnr": "15986-REF297149J-82b7c96-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Simulation"
+  ],
+  "street": "",
+  "title": "Masterarbeit mit Metamaterialien zum leisen Produkt - FEM-Simulation von Metamaterialien zur akustis",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF297149J-82b7c96-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -2806,7 +2607,7 @@
   ],
   "lat": 48.9299217,
   "lon": 8.4036437,
-  "occupation": "Leiter/in - Unternehmensentwicklung",
+  "occupation": "Leiter/in - Digitalisierung",
   "offer_type": "ARBEIT",
   "plz": "76275",
   "published": "2026-09-18",
@@ -2843,6 +2644,7 @@
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
+   "Data Engineer",
    "KI"
   ],
   "street": "",
@@ -2871,6 +2673,7 @@
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
+   "Data Engineer",
    "KI"
   ],
   "street": "",
@@ -2904,5 +2707,64 @@
   "street": "",
   "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3070741790460000-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "NTT DATA Deutschland SE",
+  "company_key": "ntt-data-deutschland",
+  "contract": null,
+  "distance_km": 8.6,
+  "first_published": "2026-10-04",
+  "first_seen": "2026-10-05",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.9299217,
+  "lon": 8.4036437,
+  "occupation": "KI-Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-10-04",
+  "refnr": "19913-3074751791064800-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning",
+   "Data Engineer",
+   "KI"
+  ],
+  "street": "",
+  "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3074751791064800-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "NTT DATA Deutschland SE",
+  "company_key": "ntt-data-deutschland",
+  "contract": null,
+  "distance_km": 8.6,
+  "first_published": "2026-10-04",
+  "first_seen": "2026-10-05",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.9299217,
+  "lon": 8.4036437,
+  "occupation": "KI-Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-10-04",
+  "refnr": "19913-3074991791064800-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Data Engineer",
+   "KI"
+  ],
+  "street": "",
+  "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3074991791064800-S"
  }
 ]

@@ -9749,6 +9749,12 @@
   "fetched": "2026-09-25",
   "status": "error"
  },
+ "https://www.jvi.de/": {
+  "description": "jvi ist das Unternehmen fÃ¼r umfassende Dienstleistungen im Bereich Entwicklung von Hardware und Software elektronischer Baugruppen bis zu Betreuung wÃ¤hrend der Serie.",
+  "fetched": "2026-10-05",
+  "status": "ok",
+  "title": "jvi â Entwicklung von Hardware und Software elektronischer Baugruppen"
+ },
  "https://www.kab24.de/": {
   "description": "Wir führen über 12.500 Kabel, Adapter und Zubehör ✓ günstige Preise ✓ 24 Stunden Lieferservice ✓ Direktabholung im Ladengeschäft möglich",
   "fetched": "2026-09-24",
