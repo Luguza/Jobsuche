@@ -333,20 +333,6 @@
   }
  },
  {
-  "id": "node/10181438580",
-  "lat": 49.056706,
-  "lon": 8.399477,
-  "name": "THE MAK'ED TEAM",
-  "tags": {
-   "addr:city": "Karlsruhe",
-   "addr:housenumber": "6",
-   "addr:postcode": "76149",
-   "addr:street": "Johann-Georg-Schlosser-Straße",
-   "contact:website": "https://www.the-maked-team.com",
-   "office": "company"
-  }
- },
- {
   "id": "node/10185409229",
   "lat": 48.920991,
   "lon": 8.376325,
@@ -3633,7 +3619,7 @@
   "id": "node/11807201544",
   "lat": 49.404917,
   "lon": 8.668623,
-  "name": "ARBORIS GmbH & Co. KG",
+  "name": "Arboris GmbH & Co. KG",
   "tags": {
    "addr:city": "Heidelberg",
    "addr:housenumber": "2",
@@ -11065,6 +11051,42 @@
   "name": "United Autoglas",
   "tags": {
    "office": "company"
+  }
+ },
+ {
+  "id": "node/14250886665",
+  "lat": 48.975549,
+  "lon": 8.308754,
+  "name": "Leber Gastro",
+  "tags": {
+   "office": "company"
+  }
+ },
+ {
+  "id": "node/14272881774",
+  "lat": 48.789607,
+  "lon": 8.328893,
+  "name": "Merlin Elektronik",
+  "tags": {
+   "addr:city": "Gaggenau",
+   "addr:housenumber": "17",
+   "addr:postcode": "76571",
+   "addr:street": "Matthias-Grünewald-Straße",
+   "contact:website": "http://merlinelektronik.de/",
+   "office": "company"
+  }
+ },
+ {
+  "id": "node/14275087707",
+  "lat": 49.057885,
+  "lon": 8.399334,
+  "name": "3iMedia",
+  "tags": {
+   "addr:city": "Karlsruhe",
+   "addr:housenumber": "14",
+   "addr:street": "Johann-Georg-Schlosser-Straße",
+   "contact:website": "https://www.3imedia.de/",
+   "office": "it"
   }
  },
  {
@@ -23071,34 +23093,6 @@
   }
  },
  {
-  "id": "node/6254205221",
-  "lat": 49.056686,
-  "lon": 8.399319,
-  "name": "it-structure",
-  "tags": {
-   "addr:city": "Karlsruhe",
-   "addr:housenumber": "6",
-   "addr:postcode": "76149",
-   "addr:street": "Johann-Georg-Schlosser-Straße",
-   "contact:website": "https://www.it-structure.de/",
-   "office": "company"
-  }
- },
- {
-  "id": "node/6254205224",
-  "lat": 49.056761,
-  "lon": 8.399667,
-  "name": "Research 4 You",
-  "tags": {
-   "addr:city": "Karlsruhe",
-   "addr:housenumber": "6",
-   "addr:postcode": "76149",
-   "addr:street": "Johann-Georg-Schlosser-Straße",
-   "contact:website": "http://www.research4you.de",
-   "office": "company"
-  }
- },
- {
   "id": "node/6254205225",
   "lat": 49.056751,
   "lon": 8.399469,
@@ -24891,8 +24885,9 @@
   "lon": 8.705153,
   "name": "Heidelberg Center for American Studies",
   "tags": {
+   "contact:website": "https://www.hca.uni-heidelberg.de",
    "office": "research",
-   "website": "https://www.hca.uni-heidelberg.de"
+   "operator": "Universität Heidelberg"
   }
  },
  {
@@ -26321,16 +26316,6 @@
   "tags": {
    "office": "company",
    "website": "https://www.knapp-gmbh.de"
-  }
- },
- {
-  "id": "node/7764579599",
-  "lat": 49.399565,
-  "lon": 8.563902,
-  "name": "Schwegler GmbH",
-  "tags": {
-   "office": "company",
-   "website": "http://www.schwegler-industriemechanik.de/"
   }
  },
  {
@@ -31398,6 +31383,21 @@
   }
  },
  {
+  "id": "way/1565446788",
+  "lat": 48.911216,
+  "lon": 8.711719,
+  "name": "Acandis",
+  "tags": {
+   "addr:city": "Pforzheim",
+   "addr:housenumber": "6",
+   "addr:postcode": "75177",
+   "addr:street": "Theodor-Fahrner-Straße",
+   "man_made": "works",
+   "product": "medical",
+   "website": "https://acandis.com"
+  }
+ },
+ {
   "id": "way/158183420",
   "lat": 48.94705,
   "lon": 8.411175,
@@ -33575,6 +33575,19 @@
    "addr:street": "Am Froschbächle",
    "office": "company",
    "website": "https://www.habersang.com/"
+  }
+ },
+ {
+  "id": "way/289417657",
+  "lat": 48.961138,
+  "lon": 8.281735,
+  "name": "KWK Kabelwerk Karlsruhe",
+  "tags": {
+   "addr:city": "Rheinstetten",
+   "addr:housenumber": "6",
+   "addr:postcode": "76287",
+   "addr:street": "Boschstraße",
+   "office": "company"
   }
  },
  {
@@ -35813,8 +35826,8 @@
  },
  {
   "id": "way/41818612",
-  "lat": 49.384549,
-  "lon": 8.710475,
+  "lat": 49.384546,
+  "lon": 8.710468,
   "name": "1A",
   "tags": {
    "office": "research"
@@ -35822,8 +35835,8 @@
  },
  {
   "id": "way/41819336",
-  "lat": 49.384593,
-  "lon": 8.710882,
+  "lat": 49.384586,
+  "lon": 8.710875,
   "name": "1B",
   "tags": {
    "office": "research"
@@ -35831,8 +35844,8 @@
  },
  {
   "id": "way/41819345",
-  "lat": 49.38482,
-  "lon": 8.710744,
+  "lat": 49.384816,
+  "lon": 8.710741,
   "name": "1C",
   "tags": {
    "office": "research"
@@ -37353,7 +37366,7 @@
  },
  {
   "id": "way/633603671",
-  "lat": 49.396572,
+  "lat": 49.396583,
   "lon": 8.723377,
   "name": "Max-Planck-Institut für Astronomie",
   "tags": {

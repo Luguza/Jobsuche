@@ -534,6 +534,9 @@
  {
   "distance_km": 48.3,
   "first_seen": "2026-09-24",
+  "job_refs": [
+   "10001-1003797919-S"
+  ],
   "key": "aristech",
   "lat": 49.404605,
   "loc_source": "osm",
@@ -550,6 +553,7 @@
   "score": 2,
   "score_method": "stichwörter",
   "sources": [
+   "ba",
    "osm"
   ],
   "tags": [
@@ -572,26 +576,6 @@
   "name": "AzuraIQ Technologies GmbH",
   "reason": "Methodik: AI.",
   "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
-  "address": "Südendstr. 12, 76137 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 1.2,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003634863-S"
-  ],
-  "key": "badischer-landesverein-f-innere-mission-kdoer",
-  "lat": 48.998502,
-  "loc_source": "ba",
-  "lon": 8.3928645,
-  "name": "Badischer Landesverein f. Innere Mission KdÖR",
-  "reason": "Sektor: Klimaschutzmanager.",
-  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -709,26 +693,6 @@
   "website": "https://www.brandmauer.de/"
  },
  {
-  "address": "Gehrnstr. 7, 76275 Ettlingen",
-  "city": "Ettlingen",
-  "distance_km": 6.6,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003660319-S"
-  ],
-  "key": "brc-solar",
-  "lat": 48.948525,
-  "loc_source": "ba",
-  "lon": 8.389962,
-  "name": "BRC Solar GmbH",
-  "reason": "Sektor: Solar.",
-  "score": 3,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "address": "Rüppurrer Straße 4, 76137 Karlsruhe",
   "city": "Karlsruhe",
   "distance_km": 0.6,
@@ -817,31 +781,24 @@
   "website": "https://www.bruker.com/"
  },
  {
-  "description": "deutscher Ökostrom-Anbieter und ein Verbund von Bürgerenergiegesellschaften",
-  "distance_km": 47.4,
-  "first_seen": "2026-09-24",
+  "address": "75172 Pforzheim",
+  "city": "Pforzheim",
+  "distance_km": 24.2,
+  "first_seen": "2026-10-12",
   "job_refs": [
-   "13635-41619565_JB5244327-S"
+   "18896-8639042-S"
   ],
-  "key": "buergerwerke",
-  "lat": 49.394074,
-  "loc_source": "nominatim",
-  "lon": 8.674319,
-  "meta_title": "100 % Ökostrom von Bürger:innen für Bürger:innen | Bürgerwerke",
-  "name": "Bürgerwerke",
-  "reason": "Sektor: Energiewende, Ökostrom.",
-  "refs": {
-   "wikidata": [
-    "Q28034112"
-   ]
-  },
-  "score": 4,
+  "key": "bruno-bader",
+  "lat": 48.8908565,
+  "loc_source": "ba",
+  "lon": 8.6831512,
+  "name": "BRUNO BADER GmbH + Co. KG",
+  "reason": "Methodik: AI.",
+  "score": 2,
   "score_method": "stichwörter",
   "sources": [
-   "ba",
-   "wikidata"
-  ],
-  "website": "https://buergerwerke.de/"
+   "ba"
+  ]
  },
  {
   "address": "Karlstraße 52-54, 76133 Karlsruhe",
@@ -872,38 +829,6 @@
   "website": "http://www.conemis.com/"
  },
  {
-  "address": "Haid-und-Neu-Straße 18, 76131 Karlsruhe",
-  "city": "Karlsruhe",
-  "distance_km": 1.8,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003355297-S"
-  ],
-  "key": "cyberforum",
-  "lat": 49.012513,
-  "loc_source": "osm",
-  "lon": 8.42742,
-  "meta_description": "Das CyberForum ist das größte regionale Hightech.Unternehmer.Netzwerk. Europas und verbindet über 1.200 Mitglieder aus der IT-Branche.",
-  "meta_title": "CyberForum: Hightech.Unternehmer.Netzwerk.",
-  "name": "CyberForum e.V.",
-  "reason": "Methodik: KI.",
-  "refs": {
-   "osm": [
-    "node/3670245742"
-   ]
-  },
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba",
-   "osm"
-  ],
-  "tags": [
-   "Firma"
-  ],
-  "website": "https://www.cyberforum.de/"
- },
- {
   "distance_km": 34.1,
   "first_seen": "2026-09-24",
   "key": "dellcon",
@@ -928,6 +853,37 @@
    "Firma"
   ],
   "website": "https://dellcon.de/"
+ },
+ {
+  "address": "Poststraße 3, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Beschaffung Infrastruktur Region Südwest, Operativer Einkauf Region West/Süd",
+  "distance_km": 1.4,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "12456-1641723-1-S"
+  ],
+  "key": "deutsche-bahn",
+  "lat": 48.994625,
+  "loc_source": "osm",
+  "lon": 8.402541,
+  "name": "Deutsche Bahn AG",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "osm": [
+    "node/10891947552",
+    "node/9789239365"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma"
+  ]
  },
  {
   "distance_km": 36.7,
@@ -1146,6 +1102,7 @@
   "job_refs": [
    "12787-267279120826-S",
    "12787-270129220926-S",
+   "12787-271019051026-S",
    "12787-271168021026-S"
   ],
   "key": "dm-drogerie-markt",
@@ -1154,7 +1111,7 @@
   "lon": 8.455679,
   "meta_title": "dm-drogerie markt - dauerhaft günstig online kaufen",
   "name": "dm-drogerie markt GmbH + Co. KG",
-  "reason": "Methodik: Data Scientist, Data Analyst, Data.",
+  "reason": "Methodik: KI, Data Scientist, Data Analyst, Data.",
   "refs": {
    "osm": [
     "node/6597207390"
@@ -1181,24 +1138,26 @@
   "distance_km": 3.9,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12787-268129250826-S",
+   "12787-264328010726-S",
+   "12787-270196071026-S",
    "12787-270258250926-S",
    "12787-270406250926-S",
    "12787-270916290926-S",
-   "12787-271164021026-S"
+   "12787-271164021026-S",
+   "12787-271555081026-S"
   ],
   "key": "dmtech",
   "lat": 49.002831,
   "loc_source": "osm",
   "lon": 8.456892,
   "name": "dmTECH GmbH",
-  "reason": "Methodik: AI, Analytics.",
+  "reason": "Methodik: Machine Learning, AI, Computer Vision, Datengetriebene, Analytics, Software.",
   "refs": {
    "osm": [
     "node/6848347046"
    ]
   },
-  "score": 4,
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -1428,7 +1387,7 @@
   "description": "deutsches Energieversorgungsunternehmen",
   "distance_km": 2.5,
   "first_seen": "2026-09-27",
-  "industry": "Energieversorgung; Energieindustrie",
+  "industry": "Energieindustrie; Energieversorgung",
   "key": "enbw-energie-baden-wuerttemberg",
   "lat": 49.006311,
   "loc_source": "seed",
@@ -1612,6 +1571,26 @@
   ]
  },
  {
+  "address": "76135 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 2.1,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "13635-87c701d9_JB5266077-S"
+  ],
+  "key": "erhardt-unternehmensgruppe",
+  "lat": 48.9956682,
+  "loc_source": "ba",
+  "lon": 8.3799595,
+  "name": "Erhardt Unternehmensgruppe",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "distance_km": 37.1,
   "first_seen": "2026-09-24",
   "key": "et-solar-power",
@@ -1719,6 +1698,11 @@
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
   "industry": "Informationstechnik",
+  "job_refs": [
+   "12336-a26f1192j0456061-S",
+   "12336-a26f1192j0456063-S",
+   "12336-a26f1192j0456070-S"
+  ],
   "key": "exxeta",
   "lat": 48.993108,
   "loc_source": "osm",
@@ -1738,6 +1722,7 @@
   "score": 3,
   "score_method": "stichwörter",
   "sources": [
+   "ba",
    "osm",
    "wikidata"
   ],
@@ -1927,6 +1912,26 @@
   "website": "https://www.mikrotribologiecentrum.de/"
  },
  {
+  "address": "76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 8.6,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "15861-44487160-106-S"
+  ],
+  "key": "fraunhofer-zentrale-muenchen",
+  "lat": 48.929921725,
+  "loc_source": "ba",
+  "lon": 8.403643707,
+  "name": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+  "reason": "Methodik: Hyperspektraldatenanalyse, Fraunhofer, Softwarelösungen.",
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "address": "Parzivalstr. 2b, 76139 Karlsruhe, Baden",
   "city": "Karlsruhe, Baden",
   "distance_km": 5.2,
@@ -2011,6 +2016,35 @@
   "website": "https://www.fzi.de/"
  },
  {
+  "address": "Schlachthausstraße 3, 76131 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "Demonstrationslabor für Innovative Gastechnologien",
+  "distance_km": 2.0,
+  "first_seen": "2026-10-12",
+  "key": "gasplus-lab",
+  "lat": 49.003979,
+  "loc_source": "osm",
+  "lon": 8.43111,
+  "meta_description": "Ihr Energie- und Lebenspartner für Karlsruhe und die Region: ✔️Strom ✔️Erdgas ✔️Fernwärme ✔️Trinkwasser ✔️Glasfaser",
+  "meta_title": "Stadtwerke Karlsruhe | Besser versorgt, weiter gedacht.",
+  "name": "GasPlus Lab",
+  "reason": "Methodik: Forschungseinrichtung; Sektor: Stadtwerke, Energie.",
+  "refs": {
+   "osm": [
+    "node/4348497733"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://www.stadtwerke-karlsruhe.de/swk/regionales/engagement/gaspluslab.php"
+ },
+ {
   "address": "Klaus-von-Klitzing-Straße 1, 76829 Landau in der Pfalz",
   "city": "Landau in der Pfalz",
   "distance_km": 29.0,
@@ -2037,26 +2071,6 @@
    "IT"
   ],
   "website": "https://www.gdi.de/"
- },
- {
-  "address": "Bruchsaler Str. 1-3, 76698 Ubstadt-Weiher",
-  "city": "Ubstadt-Weiher",
-  "distance_km": 23.6,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "10000-1207887668-S"
-  ],
-  "key": "gemeinde-ubstadt-weiher",
-  "lat": 49.158414,
-  "loc_source": "ba",
-  "lon": 8.6308695,
-  "name": "Gemeinde Ubstadt-Weiher",
-  "reason": "Sektor: klimaneutrale.",
-  "score": 3,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
  },
  {
   "description": "municipal utility company in Herxheim, Germany",
@@ -2543,6 +2557,26 @@
    "IT"
   ],
   "website": "https://www.analytical-software.de/"
+ },
+ {
+  "address": "Moltkestr. 30, 76133 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 1.3,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "10001-1003809620-S"
+  ],
+  "key": "hochschule-karlsruhe-technik-wirtschaft",
+  "lat": 49.0149247,
+  "loc_source": "ba",
+  "lon": 8.390045,
+  "name": "Hochschule Karlsruhe Technik und Wirtschaft",
+  "reason": "Sektor: Energiesystem, nachhaltiger.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "distance_km": 42.6,
@@ -3174,7 +3208,6 @@
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1003543627-S",
    "10001-1003546069-S"
   ],
   "key": "ionos",
@@ -3281,26 +3314,6 @@
    "wikidata"
   ],
   "website": "https://k2-systems.com/"
- },
- {
-  "address": "76131 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 0.8,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "13243-16418448-JB-S"
-  ],
-  "key": "karlsruher-institut-fuer-technologie-kit-campus-nord",
-  "lat": 49.0069955,
-  "loc_source": "ba",
-  "lon": 8.4139873,
-  "name": "Karlsruher Institut für Technologie (KIT) Campus Nord",
-  "reason": "Methodik: KI, Institut, Software.",
-  "score": 4,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
  },
  {
   "distance_km": 4.6,
@@ -3596,6 +3609,26 @@
   "website": "https://lab14.group/"
  },
  {
+  "address": "76131 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 0.8,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "17819-0067958792-S"
+  ],
+  "key": "landeskreditbank-baden-wuerttemberg",
+  "lat": 49.0069955,
+  "loc_source": "ba",
+  "lon": 8.4139873,
+  "name": "Landeskreditbank Baden-Württemberg",
+  "reason": "Methodik: Künstliche Intelligenz.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "address": "Obere Langgasse 40, 67346 Speyer",
   "city": "Speyer",
   "distance_km": 34.7,
@@ -3876,7 +3909,6 @@
   "distance_km": 44.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "13151-1618906-3-S",
    "13151-1633950-1-S"
   ],
   "key": "mercedes-benz",
@@ -3884,7 +3916,7 @@
   "loc_source": "osm",
   "lon": 8.674677,
   "name": "Mercedes Benz",
-  "reason": "Methodik: AI, Data Engineering, Data Science, Data, Softwareentwicklung.",
+  "reason": "Methodik: Data Engineering, Data Science, Data, Softwareentwicklung.",
   "refs": {
    "osm": [
     "way/340583587",
@@ -4340,15 +4372,15 @@
   "distance_km": 8.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "19913-3000711789682401-S",
+   "19913-3000711791410401-S",
    "19913-3042021790028001-S",
-   "19913-3044801789423201-S",
-   "19913-3045381789509601-S",
-   "19913-3045491789509601-S",
-   "19913-3045601789509601-S",
+   "19913-3044801791151201-S",
+   "19913-3045381791237601-S",
+   "19913-3045491791237601-S",
+   "19913-3045601791237601-S",
    "19913-3048051790200801-S",
    "19913-3056331790114401-S",
-   "19913-3065481789682400-S",
+   "19913-3065481791410401-S",
    "19913-3070401790460000-S",
    "19913-3070521790460000-S",
    "19913-3070741790460000-S",
@@ -4477,7 +4509,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Softwareindustrie; Unternehmenssoftware; Beschaffung",
+  "industry": "künstliche Intelligenz; Unternehmenssoftware; Beschaffung; Softwareindustrie",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -4485,7 +4517,7 @@
   "meta_description": "Perspix scores every bid against your specification, line by line — with the reasoning, the source, and the audit trail attached. Sourcing without friction.",
   "meta_title": "Perspix.ai — Tender evaluation, in an afternoon. Defensible, by default.",
   "name": "Perspix.ai",
-  "reason": "Methodik: künstliche Intelligenz, Perspix.ai, Softwareindustrie.",
+  "reason": "Methodik: künstliche Intelligenz, Perspix.ai, Unternehmenssoftware.",
   "refs": {
    "wikidata": [
     "Q139972663"
@@ -5039,14 +5071,15 @@
    "15986-REF296008N-171cc98-S",
    "15986-REF296289E-858b55e-S",
    "15986-REF296490W-e6a732c-S",
-   "15986-REF297149J-82b7c96-S"
+   "15986-REF297149J-82b7c96-S",
+   "15986-REF298153D-769d659-S"
   ],
   "key": "robert-bosch",
   "lat": 49.018267,
   "loc_source": "osm",
   "lon": 8.473674,
   "name": "Robert Bosch GmbH",
-  "reason": "Methodik: KI, Deep Learning, Data Engineering, Ersatzmodell, Masterarbeit, Data Analytics, Data, Simulation, Modellierung, Numerische, Werkstoffen, Physikalisches, Prognose.",
+  "reason": "Methodik: KI, Deep Learning, LLM, Data Engineering, Ersatzmodell, Masterarbeit, Data Analytics, Data, Simulation, Modellierung, Numerische, Werkstoffen, Physikalisches, Prognose.",
   "refs": {
    "osm": [
     "relation/8365597"
@@ -5325,7 +5358,7 @@
   "distance_km": 50.0,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "19470-471378584-S"
+   "19470-488223551-S"
   ],
   "key": "sew-eurodrive",
   "lat": 49.449916,
@@ -5390,16 +5423,15 @@
   "distance_km": 0.8,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12465-1635995-1-S",
-   "12465-1636428-1-S"
+   "12465-1635995-1-S"
   ],
   "key": "siemens",
   "lat": 49.0069955,
   "loc_source": "ba",
   "lon": 8.4139873,
   "name": "Siemens AG",
-  "reason": "Methodik: ML, Masterarbeit, Materialflusssimulation.",
-  "score": 5,
+  "reason": "Methodik: ML, Masterarbeit.",
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -5639,7 +5671,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "Wasserversorgung; elektrische Energietechnik; Gasversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft",
+  "industry": "Wasserversorgung; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; elektrische Energietechnik; Gasversorgung",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
@@ -5647,7 +5679,7 @@
   "meta_description": "Die Stadtwerke Baden-Baden sind ein Eigenbetrieb der Stadt Baden-Baden. Unsere Aufgabe ist die Belieferung mit Strom, Erdgas, Wasser und Wärme. Hinzu kommen der Betrieb der Bäder, die Dienstleistungen im Bereich Telekommunikation, der ÖPNV, die MerkurBergbahn und die Parkgaragen.",
   "meta_title": "Startseite - Stadtwerke Baden-Baden",
   "name": "Stadtwerke Baden-Baden",
-  "reason": "Sektor: Stadtwerke, Energietechnik.",
+  "reason": "Sektor: Stadtwerke, Energie.",
   "refs": {
    "wikidata": [
     "Q15638722"
@@ -6223,43 +6255,13 @@
   "website": "https://www.transnetbw.de/"
  },
  {
-  "address": "Villinger Straße 6, 75179 Pforzheim",
-  "city": "Pforzheim",
-  "description": "THOST ist mit 500 Mitarbeitern eines der führenden deutschen Unternehmen im Projektmanagement.",
-  "distance_km": 21.9,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "14446-2026asl5yiyi-000-S"
-  ],
-  "key": "thost-projektmanagement",
-  "lat": 48.904881,
-  "loc_source": "osm",
-  "lon": 8.659813,
-  "meta_description": "THOST Projektmanagement ist eines der führenden Unternehmen in Projektmanagement und Projektsteuerung in Deutschland. Lernen Sie uns kennen.",
-  "meta_title": "Projektmanagement und Projektsteuerung international und in DE",
-  "name": "Thost Projektmanagement GmbH",
-  "reason": "Methodik: AI.",
-  "refs": {
-   "osm": [
-    "node/7028319430"
-   ]
-  },
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba",
-   "osm"
-  ],
-  "tags": [
-   "Firma"
-  ],
-  "website": "https://www.thost.de/"
- },
- {
   "address": "Bahnhofstraße 104, 67105 Schifferstadt",
   "city": "Schifferstadt",
   "distance_km": 42.9,
   "first_seen": "2026-09-27",
+  "job_refs": [
+   "13645-287758-S"
+  ],
   "key": "thuega-energienetze",
   "lat": 49.392215,
   "loc_source": "osm",
@@ -6274,6 +6276,7 @@
   "score": 4,
   "score_method": "stichwörter",
   "sources": [
+   "ba",
    "osm"
   ],
   "tags": [
@@ -6521,6 +6524,26 @@
   "website": "https://www.usu.de/"
  },
  {
+  "address": "Poststr. 23, 67480 Edenkoben",
+  "city": "Edenkoben",
+  "distance_km": 36.8,
+  "first_seen": "2026-10-12",
+  "job_refs": [
+   "10001-1003827279-S"
+  ],
+  "key": "verbandsgemeindeverwaltung-edenkoben",
+  "lat": 49.281084,
+  "loc_source": "ba",
+  "lon": 8.1222255,
+  "name": "Verbandsgemeindeverwaltung Edenkoben",
+  "reason": "Sektor: Klimaschutzmanager.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
   "city": "Karlsruhe",
   "distance_km": 2.9,
@@ -6653,7 +6676,7 @@
   "first_seen": "2026-09-24",
   "industry": "Erziehung und Unterricht",
   "job_refs": [
-   "10001-1003765260-S"
+   "10001-1003834295-S"
   ],
   "key": "vorest",
   "lat": 48.890885,

@@ -415,5 +415,313 @@
    }
   ],
   "timestamp": "2026-10-05T04:44:33+00:00"
+ },
+ {
+  "companies": 260,
+  "jobs": 102,
+  "new_companies": [
+   {
+    "key": "bruno-bader",
+    "name": "BRUNO BADER GmbH + Co. KG",
+    "score": 2
+   },
+   {
+    "key": "deutsche-bahn",
+    "name": "Deutsche Bahn AG",
+    "score": 2
+   },
+   {
+    "key": "erhardt-unternehmensgruppe",
+    "name": "Erhardt Unternehmensgruppe",
+    "score": 2
+   },
+   {
+    "key": "fraunhofer-zentrale-muenchen",
+    "name": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+    "score": 4
+   },
+   {
+    "key": "gasplus-lab",
+    "name": "GasPlus Lab",
+    "score": 5
+   },
+   {
+    "key": "hochschule-karlsruhe-technik-wirtschaft",
+    "name": "Hochschule Karlsruhe Technik und Wirtschaft",
+    "score": 5
+   },
+   {
+    "key": "landeskreditbank-baden-wuerttemberg",
+    "name": "Landeskreditbank Baden-Württemberg",
+    "score": 3
+   },
+   {
+    "key": "verbandsgemeindeverwaltung-edenkoben",
+    "name": "Verbandsgemeindeverwaltung Edenkoben",
+    "score": 3
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "Aristech GmbH",
+    "refnr": "10001-1003797919-S",
+    "title": "Projektleiter/in Voice AI (m/w/d)"
+   },
+   {
+    "company": "Hochschule Karlsruhe Technik und Wirtschaft",
+    "refnr": "10001-1003809620-S",
+    "title": "Wissenschaftlicher Mitarbeiter (m/w/d) im Bereich nachhaltiger Wasser-, Nährstoff- und Energiesystem"
+   },
+   {
+    "company": "Verbandsgemeindeverwaltung Edenkoben",
+    "refnr": "10001-1003827279-S",
+    "title": "Klimaschutzmanager (m/w/d)"
+   },
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003834295-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456061-S",
+    "title": "AI Engineer - Integration Architecture (all genders)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456063-S",
+    "title": "AI Engineer Team Lead (all genders)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456070-S",
+    "title": "AI Inference Engineer (all genders)"
+   },
+   {
+    "company": "Deutsche Bahn AG",
+    "refnr": "12456-1641723-1-S",
+    "title": "Senior DevOps Engineer:in mit KI Fokus"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-264328010726-S",
+    "title": "IT Consultant  Architecture & ALM \"AI by Design\" (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270196071026-S",
+    "title": "Senior Machine Learning Engineer - Computer Vision (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-271019051026-S",
+    "title": "Geschäftsprozess- und Datenmanager Daten & KI (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-271555081026-S",
+    "title": "Fullstack Software Engineer - Datengetriebene Flächenplanung (w/m/d)"
+   },
+   {
+    "company": "Erhardt Unternehmensgruppe",
+    "refnr": "13635-87c701d9_JB5266077-S",
+    "title": "Sales Manager B2B (m/w/d) IT & KI"
+   },
+   {
+    "company": "Thüga Energienetze GmbH",
+    "refnr": "13645-287758-S",
+    "title": "Projektleiter Netzmanagement / Smart Grid (m/w/d)"
+   },
+   {
+    "company": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+    "refnr": "15861-44487160-106-S",
+    "title": "Wissenschaftler für Hyperspektraldatenanalyse und interaktive Softwarelösungen (all genders)"
+   },
+   {
+    "company": "Robert Bosch GmbH",
+    "refnr": "15986-REF298153D-769d659-S",
+    "title": "Masterarbeit zum Was-wäre-wenn-Reasoning in LLM-Agenten zur Bewertung der Auswirkungen von HEMS-Para"
+   },
+   {
+    "company": "Landeskreditbank Baden-Württemberg",
+    "refnr": "17819-0067958792-S",
+    "title": "Abteilungsleiter Künstliche Intelligenz (m/w/d)"
+   },
+   {
+    "company": "BRUNO BADER GmbH + Co. KG",
+    "refnr": "18896-8639042-S",
+    "title": "AI Platform Engineer - LLMOps (m/w/d)"
+   },
+   {
+    "company": "SEW-EURODRIVE GmbH & Co KG",
+    "refnr": "19470-488223551-S",
+    "title": "AI Engineer - Smart Factories (w/m/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3000711791410401-S",
+    "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3044801791151201-S",
+    "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045381791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045491791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045601791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481791410401-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "badischer-landesverein-f-innere-mission-kdoer",
+    "name": "Badischer Landesverein f. Innere Mission KdÖR",
+    "score": 3
+   },
+   {
+    "key": "brc-solar",
+    "name": "BRC Solar GmbH",
+    "score": 3
+   },
+   {
+    "key": "buergerwerke",
+    "name": "Bürgerwerke",
+    "score": 4
+   },
+   {
+    "key": "cyberforum",
+    "name": "CyberForum e.V.",
+    "score": 2
+   },
+   {
+    "key": "gemeinde-ubstadt-weiher",
+    "name": "Gemeinde Ubstadt-Weiher",
+    "score": 3
+   },
+   {
+    "key": "karlsruher-institut-fuer-technologie-kit-campus-nord",
+    "name": "Karlsruher Institut für Technologie (KIT) Campus Nord",
+    "score": 4
+   },
+   {
+    "key": "thost-projektmanagement",
+    "name": "Thost Projektmanagement GmbH",
+    "score": 2
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "Gemeinde Ubstadt-Weiher",
+    "refnr": "10000-1207887668-S",
+    "title": "Beauftragte/n für die klimaneutrale Kommunalverwaltung / Klimamanager (m/w/d)"
+   },
+   {
+    "company": "CyberForum e.V.",
+    "refnr": "10001-1003355297-S",
+    "title": "Business Development Manager (KI und Innovation) (m/w/d)"
+   },
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1003543627-S",
+    "title": "Product Manager AI App & Sitebuilder (w/m/d)"
+   },
+   {
+    "company": "Badischer Landesverein f. Innere Mission KdÖR",
+    "refnr": "10001-1003634863-S",
+    "title": "Klimaschutzmanager (m/w/d)"
+   },
+   {
+    "company": "BRC Solar GmbH",
+    "refnr": "10001-1003660319-S",
+    "title": "Werkstudent / Praxissemester (m/w/d) - CRM & Business Development Solarbranche"
+   },
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003765260-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "Siemens AG",
+    "refnr": "12465-1636428-1-S",
+    "title": "Pflichtpraktikum Digitale Fabrikplanung und Materialflusssimulation in der Elektronikfertigung"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-268129250826-S",
+    "title": "Platform Engineer - AI & DevOps (w/m/d)"
+   },
+   {
+    "company": "Mercedes-Benz Group AG",
+    "refnr": "13151-1618906-3-S",
+    "title": "Werkstudent AI Agents & Robotics Platform (d/m/w/x)"
+   },
+   {
+    "company": "Karlsruher Institut für Technologie (KIT) Campus Nord",
+    "refnr": "13243-16418448-JB-S",
+    "title": "Software Developer für KI-Plattformen (w/m/d)"
+   },
+   {
+    "company": "Bürgerwerke eG",
+    "refnr": "13635-41619565_JB5244327-S",
+    "title": "Vertriebsmanager:in B2B für die Energiewende in Bürgerhand (m/w/d)"
+   },
+   {
+    "company": "THOST Projektmanagement GmbH",
+    "refnr": "14446-2026asl5yiyi-000-S",
+    "title": "#THO2601 | AI Automation Engineer (m/w/d)"
+   },
+   {
+    "company": "SEW-EURODRIVE GmbH & Co KG",
+    "refnr": "19470-471378584-S",
+    "title": "AI Engineer - Smart Factories (w/m/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3000711789682401-S",
+    "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3044801789423201-S",
+    "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045381789509601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045491789509601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045601789509601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481789682400-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   }
+  ],
+  "timestamp": "2026-10-12T04:42:52+00:00"
  }
 ]

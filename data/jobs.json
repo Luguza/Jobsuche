@@ -56,35 +56,6 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206574506-S"
  },
  {
-  "city": "Ubstadt-Weiher",
-  "company": "Gemeinde Ubstadt-Weiher",
-  "company_key": "gemeinde-ubstadt-weiher",
-  "contract": "befristet",
-  "distance_km": 23.6,
-  "first_published": "2026-09-14",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit",
-   "Teilzeit"
-  ],
-  "lat": 49.158414,
-  "lon": 8.6308695,
-  "occupation": "Klimaschutzmanager/in",
-  "offer_type": "ARBEIT",
-  "plz": "76698",
-  "published": "2026-09-14",
-  "refnr": "10000-1207887668-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Klimaschutz"
-  ],
-  "street": "Bruchsaler Str. 1-3",
-  "title": "Beauftragte/n für die klimaneutrale Kommunalverwaltung / Klimamanager (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207887668-S"
- },
- {
   "city": "Neuenbürg, Württemberg",
   "company": "1Komma5 Grad GmbH",
   "company_key": "1komma5-grad",
@@ -345,34 +316,6 @@
  },
  {
   "city": "Karlsruhe, Baden",
-  "company": "CyberForum e.V.",
-  "company_key": "cyberforum",
-  "contract": null,
-  "distance_km": 1.8,
-  "first_published": "2026-07-08",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.012434,
-  "lon": 8.426529,
-  "occupation": "Business-Development-Manager/in",
-  "offer_type": "PRAKTIKUM_TRAINEE",
-  "plz": "76131",
-  "published": "2026-07-08",
-  "refnr": "10001-1003355297-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Haid-und-Neu-Str. 18",
-  "title": "Business Development Manager (KI und Innovation) (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003355297-S"
- },
- {
-  "city": "Karlsruhe, Baden",
   "company": "Volksbank pur eG",
   "company_key": "volksbank-pur",
   "contract": "unbefristet",
@@ -519,34 +462,6 @@
   "city": "Karlsruhe, Baden",
   "company": "IONOS SE",
   "company_key": "ionos",
-  "contract": "unbefristet",
-  "distance_km": 1.6,
-  "first_published": "2026-08-14",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.992319,
-  "lon": 8.40294,
-  "occupation": "Produktmanager/in",
-  "offer_type": "ARBEIT",
-  "plz": "76137",
-  "published": "2026-08-14",
-  "refnr": "10001-1003543627-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "KI"
-  ],
-  "street": "Hinterm Hauptbahnhof 5",
-  "title": "Product Manager AI App & Sitebuilder (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003543627-S"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "IONOS SE",
-  "company_key": "ionos",
   "contract": null,
   "distance_km": 1.6,
   "first_published": "2026-08-14",
@@ -604,35 +519,6 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003596049-S"
  },
  {
-  "city": "Karlsruhe, Baden",
-  "company": "Badischer Landesverein f. Innere Mission KdÖR",
-  "company_key": "badischer-landesverein-f-innere-mission-kdoer",
-  "contract": "befristet",
-  "distance_km": 1.2,
-  "first_published": "2026-09-01",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit",
-   "Teilzeit"
-  ],
-  "lat": 48.998502,
-  "lon": 8.3928645,
-  "occupation": "Umweltwissenschaftler/in",
-  "offer_type": "ARBEIT",
-  "plz": "76137",
-  "published": "2026-09-01",
-  "refnr": "10001-1003634863-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Klimaschutz"
-  ],
-  "street": "Südendstr. 12",
-  "title": "Klimaschutzmanager (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003634863-S"
- },
- {
   "city": "Neustadt an der Weinstraße",
   "company": "8com GmbH & Co. KG",
   "company_key": "8com",
@@ -660,35 +546,6 @@
   "street": "Europastr. 32",
   "title": "Cyber Security Automation & AI Engineer (m/w/d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003638664-S"
- },
- {
-  "city": "Ettlingen",
-  "company": "BRC Solar GmbH",
-  "company_key": "brc-solar",
-  "contract": "unbefristet",
-  "distance_km": 6.6,
-  "first_published": "2026-09-07",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Teilzeit"
-  ],
-  "lat": 48.948525,
-  "lon": 8.389962,
-  "occupation": "Vertriebsassistent/in",
-  "offer_type": "PRAKTIKUM_TRAINEE",
-  "plz": "76275",
-  "published": "2026-09-07",
-  "refnr": "10001-1003660319-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Energiewende",
-   "Photovoltaik"
-  ],
-  "street": "Gehrnstr. 7",
-  "title": "Werkstudent / Praxissemester (m/w/d) - CRM & Business Development Solarbranche",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003660319-S"
  },
  {
   "city": "Bornheim, Pfalz",
@@ -925,13 +782,100 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003750323-S"
  },
  {
+  "city": "Heidelberg, Neckar",
+  "company": "Aristech GmbH",
+  "company_key": "aristech",
+  "contract": "unbefristet",
+  "distance_km": 48.3,
+  "first_published": "2026-10-05",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.404564,
+  "lon": 8.66907,
+  "occupation": "Projektleiter/in / Projektmanager/in",
+  "offer_type": "ARBEIT",
+  "plz": "69115",
+  "published": "2026-10-05",
+  "refnr": "10001-1003797919-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Künstliche Intelligenz"
+  ],
+  "street": "Galileistr. 1-3",
+  "title": "Projektleiter/in Voice AI (m/w/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003797919-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "Hochschule Karlsruhe Technik und Wirtschaft",
+  "company_key": "hochschule-karlsruhe-technik-wirtschaft",
+  "contract": "befristet",
+  "distance_km": 1.3,
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.0149247,
+  "lon": 8.390045,
+  "occupation": "Wissenschaftliche/r Mitarbeiter/in",
+  "offer_type": "ARBEIT",
+  "plz": "76133",
+  "published": "2026-10-06",
+  "refnr": "10001-1003809620-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI",
+   "Simulation",
+   "Modellierung",
+   "Energiesystem"
+  ],
+  "street": "Moltkestr. 30",
+  "title": "Wissenschaftlicher Mitarbeiter (m/w/d) im Bereich nachhaltiger Wasser-, Nährstoff- und Energiesystem",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809620-S"
+ },
+ {
+  "city": "Edenkoben",
+  "company": "Verbandsgemeindeverwaltung Edenkoben",
+  "company_key": "verbandsgemeindeverwaltung-edenkoben",
+  "contract": "befristet",
+  "distance_km": 36.8,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": true,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.281084,
+  "lon": 8.1222255,
+  "occupation": "Klimaschutzmanager/in",
+  "offer_type": "ARBEIT",
+  "plz": "67480",
+  "published": "2026-10-08",
+  "refnr": "10001-1003827279-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Klimaschutz"
+  ],
+  "street": "Poststr. 23",
+  "title": "Klimaschutzmanager (m/w/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003827279-S"
+ },
+ {
   "city": "Pforzheim",
   "company": "VOREST AG",
   "company_key": "vorest",
   "contract": "unbefristet",
   "distance_km": 25.3,
-  "first_published": "2026-09-25",
-  "first_seen": "2026-09-25",
+  "first_published": "2026-10-09",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -941,8 +885,8 @@
   "occupation": "Medieninformatiker/in",
   "offer_type": "ARBEIT",
   "plz": "75173",
-  "published": "2026-09-25",
-  "refnr": "10001-1003765260-S",
+  "published": "2026-10-09",
+  "refnr": "10001-1003834295-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -951,7 +895,7 @@
   ],
   "street": "Bleichstr. 21",
   "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003765260-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003834295-S"
  },
  {
   "city": "Weil der Stadt",
@@ -1013,6 +957,120 @@
  },
  {
   "city": "Karlsruhe, Baden",
+  "company": "EXXETA AG",
+  "company_key": "exxeta",
+  "contract": null,
+  "distance_km": 1.2,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.0130301,
+  "lon": 8.3905711,
+  "occupation": "KI-Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76133",
+  "published": "2026-10-08",
+  "refnr": "12336-a26f1192j0456061-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "AI Engineer - Integration Architecture (all genders)",
+  "url": "https://gute-jobs.de/viewjob-ta57m?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=ai-engineer-integration-architecture-all-genders"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "EXXETA AG",
+  "company_key": "exxeta",
+  "contract": null,
+  "distance_km": 1.2,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.0130301,
+  "lon": 8.3905711,
+  "occupation": "KI-Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76133",
+  "published": "2026-10-08",
+  "refnr": "12336-a26f1192j0456063-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "AI Engineer Team Lead (all genders)",
+  "url": "https://gute-jobs.de/viewjob-t4z9m?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=ai-engineer-team-lead-all-genders"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "EXXETA AG",
+  "company_key": "exxeta",
+  "contract": null,
+  "distance_km": 1.2,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.0130301,
+  "lon": 8.3905711,
+  "occupation": "Machine Learning Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76133",
+  "published": "2026-10-08",
+  "refnr": "12336-a26f1192j0456070-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning"
+  ],
+  "street": "",
+  "title": "AI Inference Engineer (all genders)",
+  "url": "https://gute-jobs.de/viewjob-g3gzh?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=ai-inference-engineer-all-genders"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "Deutsche Bahn AG",
+  "company_key": "deutsche-bahn",
+  "contract": "unbefristet",
+  "distance_km": 1.1,
+  "first_published": "2026-10-09",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
+  "lat": 49.0004594,
+  "lon": 8.4142465,
+  "occupation": "DevOps Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76137",
+  "published": "2026-10-09",
+  "refnr": "12456-1641723-1-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Data Engineer",
+   "KI"
+  ],
+  "street": "",
+  "title": "Senior DevOps Engineer:in mit KI Fokus",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1641723-1-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
   "company": "Siemens AG",
   "company_key": "siemens",
   "contract": "unbefristet",
@@ -1041,32 +1099,33 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635995-1-S"
  },
  {
-  "city": "Rastatt",
-  "company": "Siemens AG",
-  "company_key": "siemens",
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
   "contract": "unbefristet",
-  "distance_km": 23.0,
-  "first_published": "2026-09-25",
-  "first_seen": "2026-09-25",
-  "homeoffice": false,
+  "distance_km": 3.8,
+  "first_published": "2026-07-01",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
   "hours": [
    "Vollzeit"
   ],
-  "lat": 48.8562279,
-  "lon": 8.1883049,
-  "occupation": "Wirtschaftsingenieur/in",
-  "offer_type": "PRAKTIKUM_TRAINEE",
-  "plz": "76437",
-  "published": "2026-09-30",
-  "refnr": "12465-1636428-1-S",
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-10-05",
+  "refnr": "12787-264328010726-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
-   "Simulation"
+   "Künstliche Intelligenz",
+   "KI"
   ],
-  "street": "",
-  "title": "Pflichtpraktikum Digitale Fabrikplanung und Materialflusssimulation in der Elektronikfertigung",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1636428-1-S"
+  "street": "Am dm-Platz 1",
+  "title": "IT Consultant  Architecture & ALM \"AI by Design\" (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-264328010726-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -1100,35 +1159,6 @@
  },
  {
   "city": "Karlsruhe, Baden",
-  "company": "dmTECH GmbH",
-  "company_key": "dmtech",
-  "contract": "unbefristet",
-  "distance_km": 3.8,
-  "first_published": "2026-08-25",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 49.003011,
-  "lon": 8.455581,
-  "occupation": "DevOps Engineer",
-  "offer_type": "ARBEIT",
-  "plz": "76227",
-  "published": "2026-08-25",
-  "refnr": "12787-268129250826-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Künstliche Intelligenz",
-   "KI"
-  ],
-  "street": "Am dm-Platz 1",
-  "title": "Platform Engineer - AI & DevOps (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-268129250826-S"
- },
- {
-  "city": "Karlsruhe, Baden",
   "company": "dm-drogerie markt GmbH + Co.KG",
   "company_key": "dm-drogerie-markt",
   "contract": "unbefristet",
@@ -1155,6 +1185,34 @@
   "street": "Am dm-Platz 1",
   "title": "Data Analyst eCommerce (w/m/d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270129220926-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-10-07",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Machine Learning Engineer",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-10-07",
+  "refnr": "12787-270196071026-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "Senior Machine Learning Engineer - Computer Vision (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270196071026-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -1244,6 +1302,34 @@
  },
  {
   "city": "Karlsruhe, Baden",
+  "company": "dm-drogerie markt GmbH + Co.KG",
+  "company_key": "dm-drogerie-markt",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-10-05",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Prozessmanager/in - Produktionstechnologie",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-10-05",
+  "refnr": "12787-271019051026-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "Geschäftsprozess- und Datenmanager Daten & KI (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271019051026-S"
+ },
+ {
+  "city": "Karlsruhe, Baden",
   "company": "dmTECH GmbH",
   "company_key": "dmtech",
   "contract": "unbefristet",
@@ -1300,6 +1386,35 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271168021026-S"
  },
  {
+  "city": "Karlsruhe, Baden",
+  "company": "dmTECH GmbH",
+  "company_key": "dmtech",
+  "contract": "unbefristet",
+  "distance_km": 3.8,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 49.003011,
+  "lon": 8.455581,
+  "occupation": "Fullstack-Entwickler/in",
+  "offer_type": "ARBEIT",
+  "plz": "76227",
+  "published": "2026-10-08",
+  "refnr": "12787-271555081026-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Data Engineer",
+   "KI"
+  ],
+  "street": "Am dm-Platz 1",
+  "title": "Fullstack Software Engineer - Datengetriebene Flächenplanung (w/m/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271555081026-S"
+ },
+ {
   "city": "Waghäusel",
   "company": "WIRSOL Aufdach GmbH",
   "company_key": "wirsol-aufdach",
@@ -1343,7 +1458,7 @@
   "occupation": "Betriebswirt/in (Hochschule) - Kostenrechnung und Kalkulation",
   "offer_type": "ARBEIT",
   "plz": "76137",
-  "published": "2026-09-08",
+  "published": "2026-10-05",
   "refnr": "12951-0eb81ecb-9778-49fb--S",
   "salary_from": null,
   "salary_to": null,
@@ -1354,37 +1469,6 @@
   "street": "Luisenstraße 88",
   "title": "Kalkulator / Projektierer (m/w/d) - Photovoltaik & Batteriespeicher in Karlsruhe oder remote",
   "url": "https://www.heyjobs.co/de-de/jobs/0eb81ecb-9778-49fb-9b48-fccc8e6a9611?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse"
- },
- {
-  "city": "Karlsruhe, Baden",
-  "company": "Mercedes-Benz Group AG",
-  "company_key": "mercedes-benz",
-  "contract": null,
-  "distance_km": 0.8,
-  "first_published": "2026-09-29",
-  "first_seen": "2026-10-05",
-  "homeoffice": false,
-  "hours": [
-   "Teilzeit"
-  ],
-  "lat": 49.0069955,
-  "lon": 8.4139873,
-  "occupation": "Informatiker/in",
-  "offer_type": "PRAKTIKUM_TRAINEE",
-  "plz": "76131",
-  "published": "2026-09-29",
-  "refnr": "13151-1618906-3-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Machine Learning",
-   "Data Science",
-   "Künstliche Intelligenz",
-   "KI"
-  ],
-  "street": "",
-  "title": "Werkstudent AI Agents & Robotics Platform (d/m/w/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618906-3-S"
  },
  {
   "city": "Rastatt",
@@ -1416,60 +1500,31 @@
  },
  {
   "city": "Karlsruhe, Baden",
-  "company": "Karlsruher Institut für Technologie (KIT) Campus Nord",
-  "company_key": "karlsruher-institut-fuer-technologie-kit-campus-nord",
-  "contract": null,
-  "distance_km": 0.8,
-  "first_published": "2026-09-21",
-  "first_seen": "2026-09-24",
-  "homeoffice": true,
+  "company": "Erhardt Unternehmensgruppe",
+  "company_key": "erhardt-unternehmensgruppe",
+  "contract": "unbefristet",
+  "distance_km": 2.1,
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
   "hours": [
    "Vollzeit"
   ],
-  "lat": 49.0069955,
-  "lon": 8.4139873,
-  "occupation": "KI-Manager/in",
+  "lat": 48.9956682,
+  "lon": 8.3799595,
+  "occupation": "Sales-Manager/in",
   "offer_type": "ARBEIT",
-  "plz": "76131",
-  "published": "2026-09-21",
-  "refnr": "13243-16418448-JB-S",
+  "plz": "76135",
+  "published": "2026-10-06",
+  "refnr": "13635-87c701d9_JB5266077-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
    "KI"
   ],
   "street": "",
-  "title": "Software Developer für KI-Plattformen (w/m/d)",
-  "url": "https://www.jobblitz.de/jobad/16418448/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000"
- },
- {
-  "city": "Heidelberg, Neckar",
-  "company": "Bürgerwerke eG",
-  "company_key": "buergerwerke",
-  "contract": "unbefristet",
-  "distance_km": 48.7,
-  "first_published": "2026-09-10",
-  "first_seen": "2026-09-24",
-  "homeoffice": false,
-  "hours": [
-   "Vollzeit",
-   "Teilzeit"
-  ],
-  "lat": 49.404218,
-  "lon": 8.683354,
-  "occupation": "Fachkraft - Marketing/Verkauf/Vertrieb",
-  "offer_type": "ARBEIT",
-  "plz": "69123",
-  "published": "2026-09-10",
-  "refnr": "13635-41619565_JB5244327-S",
-  "salary_from": null,
-  "salary_to": null,
-  "search_terms": [
-   "Energiewende"
-  ],
-  "street": "",
-  "title": "Vertriebsmanager:in B2B für die Energiewende in Bürgerhand (m/w/d)",
-  "url": "https://www.jobexport.de/job/5244327.html?exp=81&cid=41619565-14ff-42bf-8da2-05f77d4b2648"
+  "title": "Sales Manager B2B (m/w/d) IT & KI",
+  "url": "https://www.jobexport.de/job/5266077.html?exp=81&cid=87c701d9-71be-4bb7-a0bd-ff0a2de26f83"
  },
  {
   "city": "Heidelberg, Neckar",
@@ -1551,34 +1606,30 @@
   "url": "https://www.get-in-it.de/jobsuche/p296843?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
-  "city": "Pforzheim",
-  "company": "THOST Projektmanagement GmbH",
-  "company_key": "thost-projektmanagement",
-  "contract": "unbefristet",
-  "distance_km": 22.7,
-  "first_published": "2026-07-30",
-  "first_seen": "2026-09-24",
-  "homeoffice": null,
-  "hours": [
-   "Vollzeit"
-  ],
-  "lat": 48.894502473001,
-  "lon": 8.662311822,
-  "occupation": "Wirtschaftsinformatiker/in (Hochschule)",
+  "city": "Rülzheim",
+  "company": "Thüga Energienetze GmbH",
+  "company_key": "thuega-energienetze",
+  "contract": null,
+  "distance_km": 18.5,
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": null,
+  "lat": 49.1564985,
+  "lon": 8.2920221,
+  "occupation": "Ingenieur/in - Elektrotechnik",
   "offer_type": "ARBEIT",
-  "plz": "75179",
-  "published": "2026-07-30",
-  "refnr": "14446-2026asl5yiyi-000-S",
+  "plz": "76761",
+  "published": "2026-10-06",
+  "refnr": "13645-287758-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
-   "Data Science",
-   "Data Engineer",
-   "KI"
+   "Smart Grid"
   ],
   "street": "",
-  "title": "#THO2601 | AI Automation Engineer (m/w/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14446-2026asl5yiyi-000-S"
+  "title": "Projektleiter Netzmanagement / Smart Grid (m/w/d)",
+  "url": "https://www.get-in-engineering.de/jobsuche/p287758?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -1635,6 +1686,34 @@
   "street": "",
   "title": "Consultant IT Business Analyse Future Energy & Utilities (w|m|d)",
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-00090300534001-S"
+ },
+ {
+  "city": "Ettlingen",
+  "company": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+  "company_key": "fraunhofer-zentrale-muenchen",
+  "contract": "befristet",
+  "distance_km": 8.6,
+  "first_published": "2026-10-07",
+  "first_seen": "2026-10-12",
+  "homeoffice": null,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.929921725,
+  "lon": 8.403643707,
+  "occupation": "Wissenschaftliche/r Mitarbeiter/in",
+  "offer_type": "ARBEIT",
+  "plz": "76275",
+  "published": "2026-10-07",
+  "refnr": "15861-44487160-106-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "KI"
+  ],
+  "street": "",
+  "title": "Wissenschaftler für Hyperspektraldatenanalyse und interaktive Softwarelösungen (all genders)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44487160-106-S"
  },
  {
   "city": "Karlsruhe, Baden",
@@ -2096,6 +2175,36 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF297149J-82b7c96-S"
  },
  {
+  "city": "Renningen",
+  "company": "Robert Bosch GmbH",
+  "company_key": "robert-bosch",
+  "contract": "befristet",
+  "distance_km": 46.7,
+  "first_published": "2026-10-09",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit"
+  ],
+  "lat": 48.7689256,
+  "lon": 8.928216,
+  "occupation": "Fachwirt/in - Marktforschung",
+  "offer_type": "PRAKTIKUM_TRAINEE",
+  "plz": "71272",
+  "published": "2026-10-09",
+  "refnr": "15986-REF298153D-769d659-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Machine Learning",
+   "Data Science",
+   "KI"
+  ],
+  "street": "",
+  "title": "Masterarbeit zum Was-wäre-wenn-Reasoning in LLM-Agenten zur Bewertung der Auswirkungen von HEMS-Para",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF298153D-769d659-S"
+ },
+ {
   "city": "Karlsruhe, Baden",
   "company": "inovex GmbH",
   "company_key": "inovex",
@@ -2330,13 +2439,70 @@
   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17700-0066368168-S"
  },
  {
+  "city": "Karlsruhe, Baden",
+  "company": "Landeskreditbank Baden-Württemberg",
+  "company_key": "landeskreditbank-baden-wuerttemberg",
+  "contract": null,
+  "distance_km": 0.8,
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": [
+   "Vollzeit",
+   "Teilzeit"
+  ],
+  "lat": 49.0069955,
+  "lon": 8.4139873,
+  "occupation": "Abteilungspräsident/in",
+  "offer_type": "ARBEIT",
+  "plz": "76131",
+  "published": "2026-10-08",
+  "refnr": "17819-0067958792-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Data Science",
+   "Künstliche Intelligenz",
+   "KI"
+  ],
+  "street": "",
+  "title": "Abteilungsleiter Künstliche Intelligenz (m/w/d)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17819-0067958792-S"
+ },
+ {
+  "city": "Pforzheim",
+  "company": "BRUNO BADER GmbH + Co. KG",
+  "company_key": "bruno-bader",
+  "contract": null,
+  "distance_km": 24.2,
+  "first_published": "2026-10-05",
+  "first_seen": "2026-10-12",
+  "homeoffice": false,
+  "hours": null,
+  "lat": 48.8908565,
+  "lon": 8.6831512,
+  "occupation": "Techniker/in - Künstliche Intelligenz/Bachelor Professional in Technik",
+  "offer_type": "ARBEIT",
+  "plz": "75172",
+  "published": "2026-10-05",
+  "refnr": "18896-8639042-S",
+  "salary_from": null,
+  "salary_to": null,
+  "search_terms": [
+   "Künstliche Intelligenz"
+  ],
+  "street": "",
+  "title": "AI Platform Engineer - LLMOps (m/w/d)",
+  "url": "https://www.job-treff.de/stellenangebote/stellenvorschau/8639042"
+ },
+ {
   "city": "Graben-Neudorf",
   "company": "SEW-EURODRIVE GmbH & Co KG",
   "company_key": "sew-eurodrive",
   "contract": "unbefristet",
   "distance_km": 18.5,
-  "first_published": "2026-07-17",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-05",
+  "first_seen": "2026-10-12",
   "homeoffice": false,
   "hours": [
    "Vollzeit"
@@ -2346,8 +2512,8 @@
   "occupation": "Informatiker/in",
   "offer_type": "ARBEIT",
   "plz": "76676",
-  "published": "2026-07-17",
-  "refnr": "19470-471378584-S",
+  "published": "2026-10-05",
+  "refnr": "19470-488223551-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2357,7 +2523,7 @@
   ],
   "street": "",
   "title": "AI Engineer - Smart Factories (w/m/d)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19470-471378584-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19470-488223551-S"
  },
  {
   "city": "Ettlingen",
@@ -2365,19 +2531,19 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-18",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
   ],
   "lat": 48.9299217,
   "lon": 8.4036437,
-  "occupation": "KI-Engineer",
+  "occupation": "Cloud-Architect",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-18",
-  "refnr": "19913-3000711789682401-S",
+  "published": "2026-10-08",
+  "refnr": "19913-3000711791410401-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2386,7 +2552,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3000711789682401-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3000711791410401-S"
  },
  {
   "city": "Ettlingen",
@@ -2422,8 +2588,8 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-15",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-05",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -2433,8 +2599,8 @@
   "occupation": "KI-Manager/in",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-15",
-  "refnr": "19913-3044801789423201-S",
+  "published": "2026-10-05",
+  "refnr": "19913-3044801791151201-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2443,7 +2609,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3044801789423201-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3044801791151201-S"
  },
  {
   "city": "Ettlingen",
@@ -2451,8 +2617,8 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-16",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -2462,8 +2628,8 @@
   "occupation": "KI-Manager/in",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-16",
-  "refnr": "19913-3045381789509601-S",
+  "published": "2026-10-06",
+  "refnr": "19913-3045381791237601-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2471,7 +2637,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045381789509601-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045381791237601-S"
  },
  {
   "city": "Ettlingen",
@@ -2479,8 +2645,8 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-16",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -2490,8 +2656,8 @@
   "occupation": "KI-Manager/in",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-16",
-  "refnr": "19913-3045491789509601-S",
+  "published": "2026-10-06",
+  "refnr": "19913-3045491791237601-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2500,7 +2666,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045491789509601-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045491791237601-S"
  },
  {
   "city": "Ettlingen",
@@ -2508,8 +2674,8 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-16",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-06",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -2519,8 +2685,8 @@
   "occupation": "KI-Manager/in",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-16",
-  "refnr": "19913-3045601789509601-S",
+  "published": "2026-10-06",
+  "refnr": "19913-3045601791237601-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2530,7 +2696,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045601789509601-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3045601791237601-S"
  },
  {
   "city": "Ettlingen",
@@ -2587,6 +2753,7 @@
    "Machine Learning",
    "Data Science",
    "Data Engineer",
+   "Künstliche Intelligenz",
    "KI"
   ],
   "street": "",
@@ -2599,8 +2766,8 @@
   "company_key": "ntt-data-deutschland",
   "contract": null,
   "distance_km": 8.6,
-  "first_published": "2026-09-18",
-  "first_seen": "2026-09-24",
+  "first_published": "2026-10-08",
+  "first_seen": "2026-10-12",
   "homeoffice": true,
   "hours": [
    "Vollzeit"
@@ -2610,8 +2777,8 @@
   "occupation": "Leiter/in - Digitalisierung",
   "offer_type": "ARBEIT",
   "plz": "76275",
-  "published": "2026-09-18",
-  "refnr": "19913-3065481789682400-S",
+  "published": "2026-10-08",
+  "refnr": "19913-3065481791410401-S",
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
@@ -2620,7 +2787,7 @@
   ],
   "street": "",
   "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3065481789682400-S"
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3065481791410401-S"
  },
  {
   "city": "Ettlingen",
@@ -2673,7 +2840,6 @@
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
-   "Data Engineer",
    "KI"
   ],
   "street": "",
@@ -2760,6 +2926,7 @@
   "salary_from": null,
   "salary_to": null,
   "search_terms": [
+   "Machine Learning",
    "Data Engineer",
    "KI"
   ],
