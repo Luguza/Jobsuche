@@ -11090,6 +11090,20 @@
   }
  },
  {
+  "id": "node/14285744949",
+  "lat": 48.956083,
+  "lon": 9.014621,
+  "name": "DJ Tony Lötzke",
+  "tags": {
+   "addr:city": "Sersheim",
+   "addr:housenumber": "29",
+   "addr:street": "Hohe Straße",
+   "contact:website": "https://djtonyloetzke.de",
+   "description": "Event- und Hochzeits-DJ",
+   "office": "company"
+  }
+ },
+ {
   "id": "node/1510129022",
   "lat": 48.998396,
   "lon": 8.439782,
@@ -25394,20 +25408,6 @@
   }
  },
  {
-  "id": "node/7124708994",
-  "lat": 49.05619,
-  "lon": 8.394949,
-  "name": "Steiner Transporte",
-  "tags": {
-   "addr:city": "Karlsruhe",
-   "addr:housenumber": "27",
-   "addr:postcode": "76149",
-   "addr:street": "Johann-Georg-Schlosser-Straße",
-   "contact:website": "http://www.steiner-transporte.com",
-   "office": "company"
-  }
- },
- {
   "id": "node/7143298331",
   "lat": 49.029425,
   "lon": 8.473235,
@@ -33332,7 +33332,7 @@
  {
   "id": "way/27390460",
   "lat": 49.184766,
-  "lon": 8.467399,
+  "lon": 8.467345,
   "name": "Kieswerk Pfander",
   "tags": {
    "contact:website": "http://www.philipp-kies.de",
@@ -37354,14 +37354,14 @@
   "id": "way/631272765",
   "lat": 49.056047,
   "lon": 8.39359,
-  "name": "Werner Tantzky GmbH",
+  "name": "Tantzky",
   "tags": {
    "addr:city": "Karlsruhe",
    "addr:housenumber": "21",
    "addr:postcode": "76149",
    "addr:street": "Johann-Georg-Schlosser-Straße",
    "contact:website": "https://www.tantzky.de",
-   "office": "company"
+   "office": "it"
   }
  },
  {

@@ -723,5 +723,313 @@
    }
   ],
   "timestamp": "2026-10-12T04:42:52+00:00"
+ },
+ {
+  "companies": 260,
+  "jobs": 105,
+  "new_companies": [
+   {
+    "key": "1komma5",
+    "name": "1Komma5° GmbH",
+    "score": 4
+   },
+   {
+    "key": "cactus",
+    "name": "Cactus GmbH",
+    "score": 2
+   },
+   {
+    "key": "f-u-rhein-main-neckar-ggmbh",
+    "name": "F+U Rhein-Main-Neckar gGmbH",
+    "score": 2
+   },
+   {
+    "key": "inneo-solutions",
+    "name": "INNEO Solutions GmbH",
+    "score": 2
+   },
+   {
+    "key": "klinik-dr-franz-dengler",
+    "name": "Klinik Dr. Franz Dengler GmbH",
+    "score": 2
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "INNEO Solutions GmbH",
+    "refnr": "10001-1003092819-S",
+    "title": "Solution Architect – Modern Work & AI (m/w/d)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456062-S",
+    "title": "AI Engineer (m/d/w)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456072-S",
+    "title": "Data Engineer Celonis (all genders)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456073-S",
+    "title": "Forward Deployed AI Engineer (m/d/w)"
+   },
+   {
+    "company": "EXXETA AG",
+    "refnr": "12336-a26f1192j0456359-S",
+    "title": "Team Lead Data & AI Engineering (all genders)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-269302121026-S",
+    "title": "Data Scientist Inventur und Bestandsführung (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-271911131026-S",
+    "title": "Data Analyst Marktlogistik (w/m/d)"
+   },
+   {
+    "company": "F+U Rhein-Main-Neckar gGmbH",
+    "refnr": "12811-2359056-S",
+    "title": "KI- & Automatisierungsspezialist (m/w/d) Schwerpunkt: KI-Workflows, KI-A..., F+U Rhein-Main-Necka..."
+   },
+   {
+    "company": "1Komma5° GmbH",
+    "refnr": "13635-2cbc247f_JB5273404-S",
+    "title": "Auftragsmanagement / Projektkoordination / Disposition (m/w/d) - Photovoltaik, Wärmepumpen & Energie"
+   },
+   {
+    "company": "Cactus GmbH",
+    "refnr": "13635-980f0996_JB5270645-S",
+    "title": "Werkstudent (m/w/d) KI-Prozessmanagement & Microsoft Copilot"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co. KG",
+    "refnr": "13649-13374912AB-S",
+    "title": "Data Analyst eCommerce (w/m/d)"
+   },
+   {
+    "company": "Klinik Dr. Franz Dengler GmbH",
+    "refnr": "16086-0068027142-S",
+    "title": "Digitalisierung & KI-Prozessmanagement (m/w/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3000711792188001-S",
+    "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3056331792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481792188001-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070401792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070521792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070741792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074751792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074991792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3078971792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079521792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079631792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079741792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3080051792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Senior Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3080181792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "deutsche-bahn",
+    "name": "Deutsche Bahn AG",
+    "score": 2
+   },
+   {
+    "key": "hochschule-karlsruhe-technik-wirtschaft",
+    "name": "Hochschule Karlsruhe Technik und Wirtschaft",
+    "score": 5
+   },
+   {
+    "key": "mercedes-benz",
+    "name": "Mercedes Benz",
+    "score": 5
+   },
+   {
+    "key": "verbandsgemeindeverwaltung-edenkoben",
+    "name": "Verbandsgemeindeverwaltung Edenkoben",
+    "score": 3
+   },
+   {
+    "key": "wirsol-aufdach",
+    "name": "WIRSOL Aufdach GmbH",
+    "score": 5
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "Krannich Solar GmbH & Co. KG",
+    "refnr": "10000-1206574506-S",
+    "title": "Strategischer Einkäufer m/w/d Produktbereich Solarmodule"
+   },
+   {
+    "company": "PTA GmbH",
+    "refnr": "10001-1003469692-S",
+    "title": "Key Account Manager Energy & Utilities (m/w/d)"
+   },
+   {
+    "company": "Hochschule Karlsruhe Technik und Wirtschaft",
+    "refnr": "10001-1003809620-S",
+    "title": "Wissenschaftlicher Mitarbeiter (m/w/d) im Bereich nachhaltiger Wasser-, Nährstoff- und Energiesystem"
+   },
+   {
+    "company": "Verbandsgemeindeverwaltung Edenkoben",
+    "refnr": "10001-1003827279-S",
+    "title": "Klimaschutzmanager (m/w/d)"
+   },
+   {
+    "company": "Krannich Group GmbH",
+    "refnr": "11858-SDE-114946-STA-S",
+    "title": "(Senior) Produktmanager m/w/d im Photovoltaik-Großhandel"
+   },
+   {
+    "company": "Deutsche Bahn AG",
+    "refnr": "12456-1641723-1-S",
+    "title": "Senior DevOps Engineer:in mit KI Fokus"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-270406250926-S",
+    "title": "IT Consultant - Tracking & Analytics (w/m/d)"
+   },
+   {
+    "company": "WIRSOL Aufdach GmbH",
+    "refnr": "12908-063451996-S",
+    "title": "Senior-Elektroplaner Photovoltaik / Batteriespeicher (m/w/d)"
+   },
+   {
+    "company": "Mercedes-Benz Group AG",
+    "refnr": "13151-1633950-1-S",
+    "title": "Werkstudent*in Data Engineering/ Data Science/ Softwareentwicklung"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3000711791410401-S",
+    "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3042021790028001-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3044801791151201-S",
+    "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045381791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045491791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3045601791237601-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3048051790200801-S",
+    "title": "NTT DATA Deutschland SE: AI Senior Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3056331790114401-S",
+    "title": "NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481791410401-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070401790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070521790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070741790460000-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074751791064800-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074991791064800-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)"
+   }
+  ],
+  "timestamp": "2026-10-19T04:32:42+00:00"
  }
 ]

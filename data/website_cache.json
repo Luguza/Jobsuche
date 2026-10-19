@@ -3735,6 +3735,12 @@
   "status": "ok",
   "title": "DIQA-Homepage"
  },
+ "https://djtonyloetzke.de/": {
+  "description": "Hochzeits-DJ Ludwigsburg & Stuttgart: Tony Lötzke aus Sersheim begleitet seit 2020 Hochzeiten – über 70 bisher, vom Dinner bis zum letzten Song.",
+  "fetched": "2026-10-19",
+  "status": "ok",
+  "title": "Hochzeits-DJ Tony Lötzke – Ludwigsburg & Stuttgart"
+ },
  "https://dmvertrieb-ketsch.de/": {
   "error": "ConnectionError",
   "fetched": "2026-10-12",
