@@ -630,6 +630,26 @@
   "website": "https://www.balcke-duerr.com/"
  },
  {
+  "address": "76187 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 5.7,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "10001-1003904118-S"
+  ],
+  "key": "bav-dienstsitz-aurich",
+  "lat": 49.0371748,
+  "loc_source": "ba",
+  "lon": 8.340292,
+  "name": "BAV Dienstsitz Aurich",
+  "reason": "Methodik: Data, HPC.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "address": "Heidigstraße 11, 76709 Kronau",
   "city": "Kronau",
   "distance_km": 28.1,
@@ -655,6 +675,26 @@
    "Firma"
   ],
   "website": "https://www.bechtoldsolar.de/"
+ },
+ {
+  "address": "Hauptstrasse 37, 75210 Keltern",
+  "city": "Keltern",
+  "distance_km": 16.9,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "17338-715d8e4284b8439aaf-S"
+  ],
+  "key": "bellmer",
+  "lat": 48.887271,
+  "loc_source": "ba",
+  "lon": 8.5468275,
+  "name": "Bellmer GmbH",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "address": "Am Rüppurrer Schloss 1, 76199 Karlsruhe",
@@ -718,6 +758,7 @@
   "distance_km": 0.6,
   "first_seen": "2026-09-24",
   "job_refs": [
+   "15835-0009030049f001-S",
    "15835-00090300534001-S"
   ],
   "key": "bridgingit",
@@ -727,13 +768,13 @@
   "meta_description": "bridgingIT ist das eigenstÃ¤ndige Beratungsunternehmen, das mit Verantwortungsbewusstsein und persÃ¶nlicher NÃ¤he aktiv Dinge zu erfolgreichen LÃ¶sungen verbindet.",
   "meta_title": "Startseite | bridgingIT",
   "name": "BridgingIT",
-  "reason": "Sektor: Utilities, Energy.",
+  "reason": "Methodik: KI; Sektor: Utilities, Energy.",
   "refs": {
    "osm": [
     "node/4078945376"
    ]
   },
-  "score": 4,
+  "score": 6,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -869,6 +910,26 @@
   "website": "http://www.conemis.com/"
  },
  {
+  "address": "Im Pfirsichgarten 13, 76870 Kandel, Pfalz",
+  "city": "Kandel, Pfalz",
+  "distance_km": 17.4,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "10000-1208371505-S"
+  ],
+  "key": "d-s-montagen",
+  "lat": 49.080618,
+  "loc_source": "ba",
+  "lon": 8.194509,
+  "name": "D & S  Montagen UG (haftungsbeschränkt)",
+  "reason": "Sektor: Photovoltaikanlagen.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "distance_km": 34.1,
   "first_seen": "2026-09-24",
   "key": "dellcon",
@@ -945,43 +1006,6 @@
    "Ingenieurbüro"
   ],
   "website": "https://deutsche-erdwaerme.de/"
- },
- {
-  "description": "biomedizinische Forschungsinstitution in Heidelberg",
-  "distance_km": 49.8,
-  "first_seen": "2026-09-24",
-  "industry": "Forschung; Krankenhäuser und Rehabilitationskliniken",
-  "job_refs": [
-   "10001-1003716531-S"
-  ],
-  "key": "deutsches-krebsforschungszentrum",
-  "lat": 49.41816,
-  "loc_source": "osm",
-  "lon": 8.674367,
-  "meta_description": "Das Deutsche Krebsforschungszentrum (DKFZ) ist mit mehr als 3.000 Mitarbeiterinnen und Mitarbeitern die größte biomedizinische Forschungseinrichtung in Deutschland. Über 1000 Wissenschaftlerinnen und Wissenschaftler erforschen im DKFZ, wie Krebs entsteht, erfassen Krebsrisikofaktoren und suchen nach neuen Strategien, die verhindern, dass Menschen an Krebs erkranken. Sie entwickeln neue Methoden, m",
-  "meta_title": "Startseite - Deutsches Krebsforschungszentrum",
-  "name": "Deutsches Krebsforschungszentrum",
-  "reason": "Methodik: Postdoctoral, Computational, Krebsforschungszentrum; Abzug: DKFZ.",
-  "refs": {
-   "osm": [
-    "relation/17815884"
-   ],
-   "wikidata": [
-    "Q449325"
-   ]
-  },
-  "score": 0,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba",
-   "osm",
-   "wikidata"
-  ],
-  "tags": [
-   "Forschungseinrichtung",
-   "biology;medicine"
-  ],
-  "website": "https://www.dkfz.de/de/"
  },
  {
   "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
@@ -1115,7 +1139,9 @@
    "12787-271019051026-S",
    "12787-271168021026-S",
    "12787-271911131026-S",
-   "13649-13374912AB-S"
+   "12787-272617221026-S",
+   "13649-13374912AB-S",
+   "13649-13465846AB-S"
   ],
   "key": "dm-drogerie-markt",
   "lat": 49.003004,
@@ -1150,7 +1176,6 @@
   "distance_km": 3.9,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "12787-264328010726-S",
    "12787-270196071026-S",
    "12787-270258250926-S",
    "12787-270916290926-S",
@@ -1398,7 +1423,7 @@
   "description": "deutsches Energieversorgungsunternehmen",
   "distance_km": 2.5,
   "first_seen": "2026-09-27",
-  "industry": "Energieversorgung; Energieindustrie",
+  "industry": "Energieindustrie; Energieversorgung",
   "key": "enbw-energie-baden-wuerttemberg",
   "lat": 49.006311,
   "loc_source": "seed",
@@ -1955,32 +1980,12 @@
    "15861-44487160-106-S"
   ],
   "key": "fraunhofer-zentrale-muenchen",
-  "lat": 48.929921725,
+  "lat": 48.9299217,
   "loc_source": "ba",
-  "lon": 8.403643707,
+  "lon": 8.4036437,
   "name": "Fraunhofer-Gesellschaft e.V. Zentrale München",
   "reason": "Methodik: Hyperspektraldatenanalyse, Fraunhofer, Softwarelösungen.",
   "score": 4,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
-  "address": "Parzivalstr. 2b, 76139 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 5.2,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003737151-S"
-  ],
-  "key": "freunde-der-erziehungskunst",
-  "lat": 49.035402,
-  "loc_source": "ba",
-  "lon": 8.459874,
-  "name": "Freunde der Erziehungskunst e.V.",
-  "reason": "Methodik: KI, Software.",
-  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -2427,6 +2432,26 @@
    "Werk/Produktion"
   ],
   "website": "https://heidt-urschl.de/"
+ },
+ {
+  "address": "Berliner Straße 45, 69120 Heidelberg, Neckar",
+  "city": "Heidelberg, Neckar",
+  "distance_km": 49.9,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "19175-0068277696-S"
+  ],
+  "key": "heigit-ggmbh",
+  "lat": 49.418937,
+  "loc_source": "ba",
+  "lon": 8.6758425,
+  "name": "HeiGIT gGmbH",
+  "reason": "Methodik: Machine Learning.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "description": "quantum simulation company from Karlsruhe, Germany",
@@ -2939,7 +2964,6 @@
    "16752-r15302-S",
    "16752-r15303-S",
    "16752-r18165-S",
-   "16752-r18191-S",
    "16752-r5333-S",
    "16752-r5446-S"
   ],
@@ -3243,7 +3267,9 @@
   "distance_km": 1.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1003546069-S"
+   "10001-1003543627-S",
+   "10001-1003546069-S",
+   "10001-1003612530-S"
   ],
   "key": "ionos",
   "lat": 48.992353,
@@ -3662,26 +3688,6 @@
   "website": "https://lab14.group/"
  },
  {
-  "address": "76131 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 0.8,
-  "first_seen": "2026-10-12",
-  "job_refs": [
-   "17819-0067958792-S"
-  ],
-  "key": "landeskreditbank-baden-wuerttemberg",
-  "lat": 49.0069955,
-  "loc_source": "ba",
-  "lon": 8.4139873,
-  "name": "Landeskreditbank Baden-Württemberg",
-  "reason": "Methodik: Künstliche Intelligenz.",
-  "score": 3,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "address": "Obere Langgasse 40, 67346 Speyer",
   "city": "Speyer",
   "distance_km": 34.7,
@@ -3955,6 +3961,38 @@
    "Werk/Produktion"
   ],
   "website": "https://www.melter.de/"
+ },
+ {
+  "address": "Zeppelinstraße 21, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 44.6,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "13151-1645814-1-S",
+   "13151-1646538-1-S"
+  ],
+  "key": "mercedes-benz",
+  "lat": 49.366225,
+  "loc_source": "osm",
+  "lon": 8.674677,
+  "name": "Mercedes Benz",
+  "reason": "Methodik: Künstliche Intelligenz, AI, Research, Optimization.",
+  "refs": {
+   "osm": [
+    "way/340583587",
+    "way/68880172"
+   ]
+  },
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "Firma",
+   "Werk/Produktion"
+  ]
  },
  {
   "description": "Deutsches Softwareunternehmen",
@@ -4402,12 +4440,11 @@
    "19913-3070741792188001-S",
    "19913-3074751792188001-S",
    "19913-3074991792188001-S",
-   "19913-3078971792101600-S",
    "19913-3079521792101600-S",
    "19913-3079631792101600-S",
    "19913-3079741792101600-S",
-   "19913-3080051792101600-S",
-   "19913-3080181792101600-S"
+   "19913-3080181792101600-S",
+   "19913-3084091792879200-S"
   ],
   "key": "ntt-data-deutschland",
   "lat": 48.9299217,
@@ -4531,7 +4568,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "Softwareindustrie; künstliche Intelligenz; Beschaffung; Unternehmenssoftware",
+  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -4790,15 +4827,16 @@
   "first_seen": "2026-09-24",
   "job_refs": [
    "10001-1003349778-S",
-   "10001-1003349792-S"
+   "10001-1003349792-S",
+   "10001-1003900679-S"
   ],
   "key": "pta",
   "lat": 49.0069955,
   "loc_source": "ba",
   "lon": 8.4139873,
   "name": "PTA GmbH",
-  "reason": "Methodik: AI.",
-  "score": 2,
+  "reason": "Methodik: AI, Software.",
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -5093,20 +5131,21 @@
    "15986-REF296289E-858b55e-S",
    "15986-REF296490W-e6a732c-S",
    "15986-REF297149J-82b7c96-S",
-   "15986-REF298153D-769d659-S"
+   "15986-REF298153D-769d659-S",
+   "15986-REF299035T-990c185-S"
   ],
   "key": "robert-bosch",
   "lat": 49.018267,
   "loc_source": "osm",
   "lon": 8.473674,
   "name": "Robert Bosch GmbH",
-  "reason": "Methodik: KI, Deep Learning, LLM, Data Engineering, Ersatzmodell, Masterarbeit, Data Analytics, Data, Simulation, Modellierung, Numerische, Werkstoffen, Physikalisches, Prognose.",
+  "reason": "Methodik: KI, Deep Learning, LLM, Data Engineering, Ersatzmodell, Masterarbeit, Data Analytics, Data, Simulation, Modellierung, Numerische, Werkstoffen, Physikalisches, Prognose; Sektor: Batteriealterung.",
   "refs": {
    "osm": [
     "relation/8365597"
    ]
   },
-  "score": 5,
+  "score": 8,
   "score_method": "stichwörter",
   "sources": [
    "ba",
@@ -5242,6 +5281,28 @@
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
+  ]
+ },
+ {
+  "address": "Hasso-Plattner-Ring 7, 69190 Walldorf, Baden",
+  "city": "Walldorf, Baden",
+  "distance_km": 36.2,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "10000-1208372132-S",
+   "10000-1208372964-S",
+   "10000-1208373025-S"
+  ],
+  "key": "sap-deutschland",
+  "lat": 49.294467,
+  "loc_source": "ba",
+  "lon": 8.6360175,
+  "name": "SAP Deutschland SE & Co. KG",
+  "reason": "Methodik: Data Scientist, Data, Simulation, Researcher.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
   ]
  },
  {
@@ -5439,26 +5500,6 @@
   "website": "https://www.shcom.de/"
  },
  {
-  "address": "76131 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 0.8,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "12465-1635995-1-S"
-  ],
-  "key": "siemens",
-  "lat": 49.0069955,
-  "loc_source": "ba",
-  "lon": 8.4139873,
-  "name": "Siemens AG",
-  "reason": "Methodik: ML, Masterarbeit.",
-  "score": 3,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "address": "76187 Karlsruhe, Baden",
   "city": "Karlsruhe, Baden",
   "distance_km": 5.7,
@@ -5512,10 +5553,30 @@
   "website": "https://www.snpgroup.com/"
  },
  {
+  "address": "Am Erlengraben 3, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 6.2,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "10001-1003894469-S"
+  ],
+  "key": "softproject",
+  "lat": 48.95179828400006,
+  "loc_source": "ba",
+  "lon": 8.390981671000077,
+  "name": "SoftProject GmbH",
+  "reason": "Methodik: AI, Data.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
   "distance_km": 25.4,
   "first_seen": "2026-09-24",
-  "industry": "Event-Management; Messewirtschaft",
+  "industry": "Messewirtschaft; Event-Management",
   "key": "solar-promotion",
   "lat": 48.890885,
   "loc_source": "wikidata_hq",
@@ -5692,7 +5753,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; elektrische Energietechnik; Gasversorgung; Wasserversorgung",
+  "industry": "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Wasserversorgung; Gasversorgung; elektrische Energietechnik",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
@@ -6823,6 +6884,28 @@
    "Firma"
   ],
   "website": "https://www.wierig.de/"
+ },
+ {
+  "address": "Schwetzinger Str. 22-26, 68753 Waghäusel",
+  "city": "Waghäusel",
+  "distance_km": 28.4,
+  "first_seen": "2026-10-26",
+  "job_refs": [
+   "10000-1208362557-S",
+   "10000-1208365925-S",
+   "12908-063451996-S"
+  ],
+  "key": "wirsol-aufdach",
+  "lat": 49.245786,
+  "loc_source": "ba",
+  "lon": 8.541873,
+  "name": "Wirsol Aufdach GmbH",
+  "reason": "Sektor: Batteriespeicher, Photovoltaikanlagen.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "address": "Große Ahlmühle 25, 76865 Rohrbach",

@@ -1031,5 +1031,223 @@
    }
   ],
   "timestamp": "2026-10-19T04:32:42+00:00"
+ },
+ {
+  "companies": 264,
+  "jobs": 118,
+  "new_companies": [
+   {
+    "key": "bav-dienstsitz-aurich",
+    "name": "BAV Dienstsitz Aurich",
+    "score": 3
+   },
+   {
+    "key": "bellmer",
+    "name": "Bellmer GmbH",
+    "score": 2
+   },
+   {
+    "key": "d-s-montagen",
+    "name": "D & S  Montagen UG (haftungsbeschränkt)",
+    "score": 3
+   },
+   {
+    "key": "heigit-ggmbh",
+    "name": "HeiGIT gGmbH",
+    "score": 3
+   },
+   {
+    "key": "mercedes-benz",
+    "name": "Mercedes Benz",
+    "score": 5
+   },
+   {
+    "key": "sap-deutschland",
+    "name": "SAP Deutschland SE & Co. KG",
+    "score": 5
+   },
+   {
+    "key": "softproject",
+    "name": "SoftProject GmbH",
+    "score": 3
+   },
+   {
+    "key": "wirsol-aufdach",
+    "name": "Wirsol Aufdach GmbH",
+    "score": 5
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "Wirsol Aufdach GmbH",
+    "refnr": "10000-1208362557-S",
+    "title": "Projektleiter (m/w/d) bzw. Bauingenieur (m/w/d) für Photovoltaikanlagen gesucht!"
+   },
+   {
+    "company": "Wirsol Aufdach GmbH",
+    "refnr": "10000-1208365925-S",
+    "title": "Elektroplaner (m/w/d) für Photovoltaikanlagen gesucht!"
+   },
+   {
+    "company": "D & S  Montagen UG (haftungsbeschränkt)",
+    "refnr": "10000-1208371505-S",
+    "title": "Mitarbeiter (m/w/d) für die Montage von Photovoltaikanlagen gesucht !"
+   },
+   {
+    "company": "SAP Deutschland SE & Co. KG",
+    "refnr": "10000-1208372132-S",
+    "title": "Senior Technology Researcher/Developer, Quantum Simulation (m/w/d)"
+   },
+   {
+    "company": "SAP Deutschland SE & Co. KG",
+    "refnr": "10000-1208372964-S",
+    "title": "Senior Data Scientist (Supply Chain Management) - Data Labs (m/w/d)"
+   },
+   {
+    "company": "SAP Deutschland SE & Co. KG",
+    "refnr": "10000-1208373025-S",
+    "title": "Data Science Expert (CX) - Data Labs (m/w/d)"
+   },
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1003543627-S",
+    "title": "Product Manager AI App & Sitebuilder (w/m/d) / 1579"
+   },
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1003612530-S",
+    "title": "AI Sales Strategy Manager (w/m/d)"
+   },
+   {
+    "company": "SoftProject GmbH",
+    "refnr": "10001-1003894469-S",
+    "title": "Head of Data & AI Governance Consulting (m/w/d)"
+   },
+   {
+    "company": "PTA GmbH",
+    "refnr": "10001-1003900679-S",
+    "title": "Software Engineer AI-driven Development / Agentic Coding (m/w/d)"
+   },
+   {
+    "company": "BAV Dienstsitz Aurich",
+    "refnr": "10001-1003904118-S",
+    "title": "Data Architect - HPC Administrator (m/w/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-272617221026-S",
+    "title": "Data Scientist HR-Daten (w/m/d)"
+   },
+   {
+    "company": "WIRSOL Aufdach GmbH",
+    "refnr": "12908-063451996-S",
+    "title": "Senior-Elektroplaner Photovoltaik / Batteriespeicher (m/w/d)"
+   },
+   {
+    "company": "Mercedes-Benz Group AG",
+    "refnr": "13151-1645814-1-S",
+    "title": "Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x)"
+   },
+   {
+    "company": "Mercedes-Benz Group AG",
+    "refnr": "13151-1646538-1-S",
+    "title": "Werkstudent*in Digitale Montageplanung, Automatisierung und Künstliche Intelligenz"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co. KG",
+    "refnr": "13649-13465846AB-S",
+    "title": "Data Scientist HR-Daten (w/m/d)"
+   },
+   {
+    "company": "BridgingIT GmbH",
+    "refnr": "15835-0009030049f001-S",
+    "title": "Business Process Solution Consultant - Low Code, Automation, KI-Agents (w|m|d)"
+   },
+   {
+    "company": "Robert Bosch GmbH",
+    "refnr": "15986-REF299035T-990c185-S",
+    "title": "Masterarbeit: Optimierung der Batteriealterung für Vehicle-to-X-Anwendungen (w/m/div.)"
+   },
+   {
+    "company": "Bellmer GmbH",
+    "refnr": "17338-715d8e4284b8439aaf-S",
+    "title": "Mitarbeiter Digitalisierung & KI (m/w/d) - Hybrid"
+   },
+   {
+    "company": "HeiGIT gGmbH",
+    "refnr": "19175-0068277696-S",
+    "title": "Senior Machine Learning Engineer (m/f/d) -  GeoAI for Humanitarian Applications"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3084091792879200-S",
+    "title": "NTT DATA Deutschland SE: Strategic AI Alliance Manager (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "deutsches-krebsforschungszentrum",
+    "name": "Deutsches Krebsforschungszentrum",
+    "score": 0
+   },
+   {
+    "key": "freunde-der-erziehungskunst",
+    "name": "Freunde der Erziehungskunst e.V.",
+    "score": 3
+   },
+   {
+    "key": "landeskreditbank-baden-wuerttemberg",
+    "name": "Landeskreditbank Baden-Württemberg",
+    "score": 3
+   },
+   {
+    "key": "siemens",
+    "name": "Siemens AG",
+    "score": 3
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "Deutsches Krebsforschungszentrum",
+    "refnr": "10001-1003716531-S",
+    "title": "Postdoctoral Researcher - Computational & Translational Analysis of Pulmonary Nodules"
+   },
+   {
+    "company": "Freunde der Erziehungskunst e.V.",
+    "refnr": "10001-1003737151-S",
+    "title": "Software-Entwickler*in (w/m/d) mit KI-Know-how"
+   },
+   {
+    "company": "Siemens AG",
+    "refnr": "12465-1635995-1-S",
+    "title": "Masterarbeit: Entwicklung eines ML Roaming Assistants für industrielle WLAN-Clients"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-264328010726-S",
+    "title": "IT Consultant  Architecture & ALM \"AI by Design\" (w/m/d)"
+   },
+   {
+    "company": "inovex GmbH",
+    "refnr": "16752-r18191-S",
+    "title": "Werkstudent:in* im Bereich Data & AI"
+   },
+   {
+    "company": "Landeskreditbank Baden-Württemberg",
+    "refnr": "17819-0067958792-S",
+    "title": "Abteilungsleiter Künstliche Intelligenz (m/w/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3078971792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Solution Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3080051792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Senior Consultant (w/m/x)"
+   }
+  ],
+  "timestamp": "2026-10-26T04:34:23+00:00"
  }
 ]

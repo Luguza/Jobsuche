@@ -1,10 +1,10 @@
 {
  "baseline": "2026-09-24",
  "counts": {
-  "companies": 260,
-  "companies_with_jobs": 46,
-  "jobs": 105,
-  "osm_raw": 3169,
+  "companies": 264,
+  "companies_with_jobs": 50,
+  "jobs": 118,
+  "osm_raw": 3170,
   "seed": 11,
   "wikidata_raw": 584
  },
@@ -15,11 +15,11 @@
   "radius_km": 50
  },
  "score_methods": {
-  "stichwörter": 260
+  "stichwörter": 264
  },
  "sources": {
   "osm": "aktuell",
   "wikidata": "aktuell"
  },
- "updated": "2026-10-19T04:32:42+00:00"
+ "updated": "2026-10-26T04:34:23+00:00"
 }

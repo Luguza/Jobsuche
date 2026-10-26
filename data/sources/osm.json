@@ -11104,6 +11104,20 @@
   }
  },
  {
+  "id": "node/14316284745",
+  "lat": 49.009282,
+  "lon": 8.367612,
+  "name": "Hutschreuther GmbH",
+  "tags": {
+   "addr:city": "Karlsruhe",
+   "addr:housenumber": "2a",
+   "addr:postcode": "76185",
+   "addr:street": "Wichernstraße",
+   "office": "company",
+   "website": "https://hutschreuther.com"
+  }
+ },
+ {
   "id": "node/1510129022",
   "lat": 48.998396,
   "lon": 8.439782,
@@ -26536,15 +26550,16 @@
  },
  {
   "id": "node/7888510228",
-  "lat": 49.009278,
-  "lon": 8.36761,
-  "name": "Medie Ambulanz GmbH",
+  "lat": 49.009257,
+  "lon": 8.367464,
+  "name": "Medie Ambulanz GmbH;Medie Ambulanz Rettungswache Karlsruhe",
   "tags": {
    "addr:city": "Karlsruhe",
    "addr:housenumber": "2A",
    "addr:postcode": "76185",
    "addr:street": "Wichernstraße",
    "office": "company",
+   "operator": "Medie Ambulanz GmbH",
    "website": "https://www.medie-ambulanz.de/"
   }
  },
@@ -33819,8 +33834,8 @@
  },
  {
   "id": "way/308842538",
-  "lat": 49.424678,
-  "lon": 8.41253,
+  "lat": 49.424548,
+  "lon": 8.412574,
   "name": "Fritz Vogelmann GmbH",
   "tags": {
    "addr:city": "Neuhofen",
@@ -35866,8 +35881,8 @@
  },
  {
   "id": "way/426873448",
-  "lat": 49.425927,
-  "lon": 8.411784,
+  "lat": 49.425924,
+  "lon": 8.411808,
   "name": "FWT Franz Wittmann Transport-Spedition GmbH & Co",
   "tags": {
    "addr:city": "Neuhofen",
@@ -37860,6 +37875,10 @@
   "lon": 8.433553,
   "name": "Deutsche Homöopathie-Union",
   "tags": {
+   "addr:city": "Karlsruhe",
+   "addr:housenumber": "24",
+   "addr:postcode": "76227",
+   "addr:street": "Ottostraße",
    "contact:website": "https://www.dhu.de",
    "man_made": "works",
    "operator": "Deutsche Homöopathie-Union DHU-Arzneimittel GmbH & Co. KG",
