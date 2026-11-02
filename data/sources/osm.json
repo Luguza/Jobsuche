@@ -3337,7 +3337,8 @@
   "lon": 8.586571,
   "name": "Immo Real Estate Vermögensverwaltung GmbH & Co. KG",
   "tags": {
-   "office": "company"
+   "office": "company",
+   "operator": "Nezaket Yildirim"
   }
  },
  {
@@ -6619,20 +6620,6 @@
    "addr:postcode": "69126",
    "addr:street": "Haberstraße",
    "office": "company"
-  }
- },
- {
-  "id": "node/12413502698",
-  "lat": 49.307327,
-  "lon": 8.145945,
-  "name": "LAUS GmbH",
-  "tags": {
-   "addr:city": "Kirrweiler",
-   "addr:housenumber": "20",
-   "addr:postcode": "67489",
-   "addr:street": "Auf der Schafweide",
-   "amenity": "research_institute",
-   "website": "https://www.laus.group/"
   }
  },
  {
@@ -11115,6 +11102,36 @@
    "addr:street": "Wichernstraße",
    "office": "company",
    "website": "https://hutschreuther.com"
+  }
+ },
+ {
+  "id": "node/14329422085",
+  "lat": 49.376676,
+  "lon": 8.585379,
+  "name": "John & Martin Entrümpelungen",
+  "tags": {
+   "addr:city": "Schwetzingen",
+   "addr:housenumber": "9-11",
+   "addr:postcode": "68723",
+   "addr:street": "Carl-Benz-Straße",
+   "description": "Haushaltsauflösung und Entrümpelung",
+   "office": "company",
+   "website": "https://jm-entruempelungen.de/"
+  }
+ },
+ {
+  "id": "node/14329422087",
+  "lat": 49.325425,
+  "lon": 8.444392,
+  "name": "John & Martin Entrümpelungen",
+  "tags": {
+   "addr:city": "Speyer",
+   "addr:housenumber": "46a",
+   "addr:postcode": "67346",
+   "addr:street": "Ziegelofenweg",
+   "description": "Haushaltsauflösung und Entrümpelung",
+   "office": "company",
+   "website": "https://jm-entruempelungen.de/"
   }
  },
  {
@@ -19458,15 +19475,15 @@
  },
  {
   "id": "node/4824702950",
-  "lat": 49.23601,
-  "lon": 8.875654,
+  "lat": 49.235587,
+  "lon": 8.876798,
   "name": "Parsa",
   "tags": {
    "addr:city": "Sinsheim",
    "addr:housenumber": "6a",
    "addr:postcode": "74889",
    "addr:street": "Hummelberg",
-   "contact:website": "http://www.parsa-beauty.com",
+   "contact:website": "https://www.parsa-beauty.de/",
    "office": "company"
   }
  },
@@ -29426,8 +29443,8 @@
  },
  {
   "id": "relation/12931821",
-  "lat": 49.443292,
-  "lon": 8.564866,
+  "lat": 49.444037,
+  "lon": 8.564226,
   "name": "Aliaxis Deutschland GmbH",
   "tags": {
    "contact:website": "https://www.aliaxis.de",
@@ -38033,6 +38050,20 @@
    "description": "Anlage für die Bodenverwertung, die Lagerung und den Umschlag von mineralischen Abfällen.",
    "man_made": "works",
    "operator": "BLU GmbH & Co. KG"
+  }
+ },
+ {
+  "id": "way/708836742",
+  "lat": 49.307291,
+  "lon": 8.145582,
+  "name": "LAUS GmbH",
+  "tags": {
+   "addr:city": "Kirrweiler",
+   "addr:housenumber": "20",
+   "addr:postcode": "67489",
+   "addr:street": "Auf der Schafweide",
+   "amenity": "research_institute",
+   "website": "https://www.laus.group/"
   }
  },
  {

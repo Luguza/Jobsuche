@@ -1,12 +1,12 @@
 {
  "baseline": "2026-09-24",
  "counts": {
-  "companies": 264,
-  "companies_with_jobs": 50,
-  "jobs": 118,
-  "osm_raw": 3170,
+  "companies": 273,
+  "companies_with_jobs": 55,
+  "jobs": 124,
+  "osm_raw": 3172,
   "seed": 11,
-  "wikidata_raw": 584
+  "wikidata_raw": 588
  },
  "region": {
   "lat": 49.0069,
@@ -15,11 +15,11 @@
   "radius_km": 50
  },
  "score_methods": {
-  "stichwörter": 264
+  "stichwörter": 273
  },
  "sources": {
   "osm": "aktuell",
   "wikidata": "aktuell"
  },
- "updated": "2026-10-26T04:34:23+00:00"
+ "updated": "2026-11-02T04:21:52+00:00"
 }

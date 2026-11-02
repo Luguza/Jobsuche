@@ -77,7 +77,7 @@
   "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
   "distance_km": 33.0,
   "first_seen": "2026-09-24",
-  "industry": "Ausbildung; künstliche Intelligenz",
+  "industry": "künstliche Intelligenz; Ausbildung",
   "key": "a-leecon",
   "lat": 49.293333,
   "loc_source": "wikidata_hq",
@@ -354,12 +354,12 @@
   "website": "https://aleph-alpha.com/"
  },
  {
-  "distance_km": 49.9,
+  "distance_km": 50.0,
   "first_seen": "2026-09-24",
   "key": "aliaxis-deutschland",
-  "lat": 49.443292,
+  "lat": 49.444037,
   "loc_source": "osm",
-  "lon": 8.564866,
+  "lon": 8.564226,
   "meta_description": "Als Experte für innovative Kunststoff-Rohrleitungssysteme bieten wir nachhaltige Lösungen für die Bereiche: Infrastruktur und Industrie. Anwendungsgebiete sind: Wasser- und Gasversorgung, Abwasserentsorgung, Wasseraufbereitung, Oberflächenbehandlung, Schwimmbad & Spa. Erfahren Sie mehr!",
   "meta_title": "Aliaxis Deutschland GmbH - Wir verbinden Menschen mit Wasser und Energie.",
   "name": "Aliaxis Deutschland GmbH",
@@ -529,6 +529,31 @@
    "wikidata"
   ],
   "website": "https://apic.ai/"
+ },
+ {
+  "description": "E-Commerce- und Online-Marketing-Agentur mit Sitz in Schwaigern",
+  "distance_km": 49.3,
+  "first_seen": "2026-11-02",
+  "industry": "elektronischer Handel; Online-Marketing",
+  "key": "arboro",
+  "lat": 49.133333,
+  "loc_source": "wikidata_hq",
+  "lon": 9.05,
+  "meta_description": "Your store runs, but is rarely found? Technology, SEO/GEO and Google Ads from one permanent team – so your store is stable, visible and AI-ready.",
+  "meta_title": "Shopware & Shopify Agency for Tech, SEO & Ads | arboro",
+  "name": "arboro GmbH",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "wikidata": [
+    "Q141881749"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.arboro.com/"
  },
  {
   "description": "company in Sankt Leon-Rot, Germany",
@@ -753,6 +778,26 @@
   "website": "https://www.brandmauer.de/"
  },
  {
+  "address": "Gehrnstr. 7, 76275 Ettlingen",
+  "city": "Ettlingen",
+  "distance_km": 6.6,
+  "first_seen": "2026-11-02",
+  "job_refs": [
+   "10001-1003660319-S"
+  ],
+  "key": "brc-solar",
+  "lat": 48.948525,
+  "loc_source": "ba",
+  "lon": 8.389962,
+  "name": "BRC Solar GmbH",
+  "reason": "Sektor: Solar.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "address": "Rüppurrer Straße 4, 76137 Karlsruhe",
   "city": "Karlsruhe",
   "distance_km": 0.6,
@@ -956,6 +1001,26 @@
   "website": "https://dellcon.de/"
  },
  {
+  "address": "Walldorf, Baden",
+  "city": "Walldorf, Baden",
+  "distance_km": 36.8,
+  "first_seen": "2026-11-02",
+  "job_refs": [
+   "15794-470192_49894-1-S"
+  ],
+  "key": "deloitte",
+  "lat": 49.3001067,
+  "loc_source": "ba",
+  "lon": 8.6374519,
+  "name": "Deloitte GmbH",
+  "reason": "Methodik: AI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "distance_km": 36.7,
   "first_seen": "2026-09-24",
   "key": "deutsche-energieoptimierung",
@@ -1006,6 +1071,43 @@
    "Ingenieurbüro"
   ],
   "website": "https://deutsche-erdwaerme.de/"
+ },
+ {
+  "description": "biomedizinische Forschungsinstitution in Heidelberg",
+  "distance_km": 49.8,
+  "first_seen": "2026-11-02",
+  "industry": "Forschung; Krankenhäuser und Rehabilitationskliniken",
+  "job_refs": [
+   "10001-1003933689-S"
+  ],
+  "key": "deutsches-krebsforschungszentrum",
+  "lat": 49.41816,
+  "loc_source": "osm",
+  "lon": 8.674367,
+  "meta_description": "Das Deutsche Krebsforschungszentrum (DKFZ) ist mit mehr als 3.000 Mitarbeiterinnen und Mitarbeitern die größte biomedizinische Forschungseinrichtung in Deutschland. Über 1000 Wissenschaftlerinnen und Wissenschaftler erforschen im DKFZ, wie Krebs entsteht, erfassen Krebsrisikofaktoren und suchen nach neuen Strategien, die verhindern, dass Menschen an Krebs erkranken. Sie entwickeln neue Methoden, m",
+  "meta_title": "Startseite - Deutsches Krebsforschungszentrum",
+  "name": "Deutsches Krebsforschungszentrum",
+  "reason": "Methodik: Data Scientist, Data, Krebsforschungszentrum; Abzug: DKFZ.",
+  "refs": {
+   "osm": [
+    "relation/17815884"
+   ],
+   "wikidata": [
+    "Q449325"
+   ]
+  },
+  "score": 1,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Forschungseinrichtung",
+   "biology;medicine"
+  ],
+  "website": "https://www.dkfz.de/de/"
  },
  {
   "address": "Emmy-Noether-Straße 17, 76131 Karlsruhe",
@@ -1135,12 +1237,9 @@
   "job_refs": [
    "12787-267279120826-S",
    "12787-269302121026-S",
-   "12787-270129220926-S",
    "12787-271019051026-S",
-   "12787-271168021026-S",
    "12787-271911131026-S",
    "12787-272617221026-S",
-   "13649-13374912AB-S",
    "13649-13465846AB-S"
   ],
   "key": "dm-drogerie-markt",
@@ -1179,7 +1278,6 @@
    "12787-270196071026-S",
    "12787-270258250926-S",
    "12787-270916290926-S",
-   "12787-271164021026-S",
    "12787-271555081026-S"
   ],
   "key": "dmtech",
@@ -1257,6 +1355,26 @@
    "Firma"
   ],
   "website": "https://e-flox.de/"
+ },
+ {
+  "address": "69126 Heidelberg, Neckar",
+  "city": "Heidelberg, Neckar",
+  "distance_km": 45.8,
+  "first_seen": "2026-11-02",
+  "job_refs": [
+   "13635-1bebd893_JB5283918-S"
+  ],
+  "key": "e-on-home-deutschland",
+  "lat": 49.3745237,
+  "loc_source": "ba",
+  "lon": 8.6882865,
+  "name": "E.ON Home Deutschland GmbH",
+  "reason": "Methodik: KI.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "address": "Haid-und-Neu-Straße 7, 76131 Karlsruhe",
@@ -2591,9 +2709,6 @@
   "city": "Heidelberg",
   "distance_km": 48.1,
   "first_seen": "2026-09-24",
-  "job_refs": [
-   "13644-296843-S"
-  ],
   "key": "hms-analytical-software",
   "lat": 49.40407,
   "loc_source": "osm",
@@ -2601,7 +2716,7 @@
   "meta_description": "Ihr Full-Service-Partner für Data-Science- und Softwarelösungen, von der Konzeption bis zur Operationalisierung: Starten Sie jetzt mit uns durch!",
   "meta_title": "Datenanalyse und GenAI für Unternehmen: HMS Analytical Software",
   "name": "HMS Analytical Software",
-  "reason": "Methodik: Data-Science, Datenanalyse, Data, Physiker, Software.",
+  "reason": "Methodik: Data-Science, Datenanalyse, Data, Software.",
   "refs": {
    "osm": [
     "node/7278441831"
@@ -2610,7 +2725,6 @@
   "score": 5,
   "score_method": "stichwörter",
   "sources": [
-   "ba",
    "osm"
   ],
   "tags": [
@@ -3269,7 +3383,8 @@
   "job_refs": [
    "10001-1003543627-S",
    "10001-1003546069-S",
-   "10001-1003612530-S"
+   "10001-1003612530-S",
+   "10001-1003934037-S"
   ],
   "key": "ionos",
   "lat": 48.992353,
@@ -3351,6 +3466,26 @@
    "IT"
   ],
   "website": "https://www.itvt.de/"
+ },
+ {
+  "address": "Im Ludlein 6, 75181 Pforzheim",
+  "city": "Pforzheim",
+  "distance_km": 27.2,
+  "first_seen": "2026-11-02",
+  "job_refs": [
+   "14225-8520b975f2657d81-S"
+  ],
+  "key": "itmx",
+  "lat": 48.914991,
+  "loc_source": "ba",
+  "lon": 8.747694,
+  "name": "itmX GmbH",
+  "reason": "Methodik: Data Scientist, Data.",
+  "score": 4,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "description": "deutscher Hersteller von Montagesystemen für Photovoltaik-Anlagen",
@@ -3593,6 +3728,7 @@
   "first_seen": "2026-09-24",
   "job_refs": [
    "10001-1003523801-S",
+   "10001-1003926896-S",
    "11858-SDE-120192-STA-S"
   ],
   "key": "krannich",
@@ -4406,27 +4542,6 @@
   ]
  },
  {
-  "address": "69115 Heidelberg, Neckar",
-  "city": "Heidelberg, Neckar",
-  "distance_km": 48.6,
-  "first_seen": "2026-09-24",
-  "job_refs": [
-   "13644-120137-S",
-   "13644-150972-S"
-  ],
-  "key": "novotrend",
-  "lat": 49.4045988,
-  "loc_source": "ba",
-  "lon": 8.6809657,
-  "name": "Novotrend",
-  "reason": "Methodik: Physiker, Informatiker.",
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "address": "76275 Ettlingen",
   "city": "Ettlingen",
   "distance_km": 8.6,
@@ -4444,19 +4559,49 @@
    "19913-3079631792101600-S",
    "19913-3079741792101600-S",
    "19913-3080181792101600-S",
-   "19913-3084091792879200-S"
+   "19913-3084091792879200-S",
+   "19913-3085001793142000-S",
+   "19913-3085121793142000-S",
+   "19913-3087731793401200-S",
+   "19913-3087851793401200-S"
   ],
   "key": "ntt-data-deutschland",
   "lat": 48.9299217,
   "loc_source": "ba",
   "lon": 8.4036437,
   "name": "NTT DATA Deutschland SE",
-  "reason": "Methodik: AI, Analytics, DATA.",
+  "reason": "Methodik: AI, LLM, Analytics, DATA.",
   "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "ba"
   ]
+ },
+ {
+  "distance_km": 42.4,
+  "first_seen": "2026-11-02",
+  "key": "oekosystemforschung-anlage-eusserthal-eeres",
+  "lat": 49.254382,
+  "loc_source": "osm",
+  "lon": 7.961871,
+  "meta_description": "Forschungsanlage Eußerthal RPTU",
+  "meta_title": "Ökosystemforschung Anlage Eußerthal (EERES) - Fachbereich Natur- und Umweltwissenschaften an der RPTU",
+  "name": "Ökosystemforschung Anlage Eußerthal (EERES)",
+  "reason": "Methodik: Ökosystemforschung; Sektor: Umweltwissenschaften.",
+  "refs": {
+   "osm": [
+    "way/724798582"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "osm"
+  ],
+  "tags": [
+   "Forschungseinrichtung"
+  ],
+  "website": "https://nuw.rptu.de/ags/eeres"
  },
  {
   "address": "Friedrich-Ebert-Anlage 27, 69117 Heidelberg",
@@ -4568,7 +4713,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
+  "industry": "künstliche Intelligenz; Softwareindustrie; Beschaffung; Unternehmenssoftware",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -4616,6 +4761,26 @@
    "Energieversorger"
   ],
   "website": "https://www.pfalzwerke-netz.de/"
+ },
+ {
+  "address": "Alte Kreisstrasse 42, 76149 Karlsruhe, Baden",
+  "city": "Karlsruhe, Baden",
+  "distance_km": 4.3,
+  "first_seen": "2026-11-02",
+  "job_refs": [
+   "14225-2669df214d3745c8-S"
+  ],
+  "key": "photargo",
+  "lat": 49.044573,
+  "loc_source": "ba",
+  "lon": 8.3901645,
+  "name": "Photargo GmbH",
+  "reason": "Sektor: Photovoltaik.",
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "address": "Albert-Nestler-Straße 8, 76131 Karlsruhe",
@@ -4826,17 +4991,17 @@
   "distance_km": 0.8,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1003349778-S",
    "10001-1003349792-S",
-   "10001-1003900679-S"
+   "10001-1003900679-S",
+   "13644-313865-S"
   ],
   "key": "pta",
   "lat": 49.0069955,
   "loc_source": "ba",
   "lon": 8.4139873,
   "name": "PTA GmbH",
-  "reason": "Methodik: AI, Software.",
-  "score": 3,
+  "reason": "Methodik: KI, LLM, Software.",
+  "score": 5,
   "score_method": "stichwörter",
   "sources": [
    "ba"
@@ -5132,7 +5297,8 @@
    "15986-REF296490W-e6a732c-S",
    "15986-REF297149J-82b7c96-S",
    "15986-REF298153D-769d659-S",
-   "15986-REF299035T-990c185-S"
+   "15986-REF299035T-990c185-S",
+   "15986-REF299637E-ca13d94-S"
   ],
   "key": "robert-bosch",
   "lat": 49.018267,
@@ -5576,7 +5742,7 @@
   "description": "Deutsches Unternehmen für die Organisation europäischer Fachmessen und Konferenzen der Energiebranche",
   "distance_km": 25.4,
   "first_seen": "2026-09-24",
-  "industry": "Messewirtschaft; Event-Management",
+  "industry": "Event-Management; Messewirtschaft",
   "key": "solar-promotion",
   "lat": 48.890885,
   "loc_source": "wikidata_hq",
@@ -5753,7 +5919,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Wasserversorgung; Gasversorgung; elektrische Energietechnik",
+  "industry": "elektrische Energietechnik; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Gasversorgung; Wasserversorgung",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
@@ -5761,7 +5927,7 @@
   "meta_description": "Die Stadtwerke Baden-Baden sind ein Eigenbetrieb der Stadt Baden-Baden. Unsere Aufgabe ist die Belieferung mit Strom, Erdgas, Wasser und Wärme. Hinzu kommen der Betrieb der Bäder, die Dienstleistungen im Bereich Telekommunikation, der ÖPNV, die MerkurBergbahn und die Parkgaragen.",
   "meta_title": "Startseite - Stadtwerke Baden-Baden",
   "name": "Stadtwerke Baden-Baden",
-  "reason": "Sektor: Stadtwerke, Energie.",
+  "reason": "Sektor: Stadtwerke, Energietechnik.",
   "refs": {
    "wikidata": [
     "Q15638722"
@@ -6814,6 +6980,29 @@
   "website": "https://www.w-quadrat.de/"
  },
  {
+  "description": "Unternehmensberatung für SAP, ERP und KI in Ettlingen",
+  "distance_km": 7.7,
+  "first_seen": "2026-11-02",
+  "industry": "Managementberatung; IT-Consulting",
+  "key": "w-w-consulting",
+  "lat": 48.9386,
+  "loc_source": "wikidata",
+  "lon": 8.4191,
+  "name": "W+W Consulting GmbH",
+  "reason": "Methodik: KI.",
+  "refs": {
+   "wikidata": [
+    "Q141912339"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "wikidata"
+  ],
+  "website": "https://www.ww-cs.de/"
+ },
+ {
   "description": "Unternehmen in Karlsruhe",
   "distance_km": 1.7,
   "first_seen": "2026-09-24",
@@ -6858,6 +7047,45 @@
   ]
  },
  {
+  "address": "Rüppurrer Straße 52-54, 76137 Karlsruhe",
+  "city": "Karlsruhe",
+  "description": "German software company",
+  "distance_km": 0.8,
+  "first_seen": "2026-11-02",
+  "industry": "Softwareindustrie",
+  "job_refs": [
+   "14225-775bb06903c140a8-S"
+  ],
+  "key": "wibu-systems",
+  "lat": 49.000285,
+  "loc_source": "osm",
+  "lon": 8.409469,
+  "meta_title": "Wibu-Systems | Software Protection, Software Licensing, Access Protection, Document Protection - Wibu-Systems",
+  "name": "Wibu Systems",
+  "reason": "Methodik: KI, Softwareindustrie.",
+  "refs": {
+   "osm": [
+    "node/12093689620",
+    "node/9355158259"
+   ],
+   "wikidata": [
+    "Q105882285"
+   ]
+  },
+  "score": 3,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm",
+   "wikidata"
+  ],
+  "tags": [
+   "Firma",
+   "software"
+  ],
+  "website": "https://www.wibu.com/"
+ },
+ {
   "address": "Heinrich-Lanz-Straße 5, 68723 Plankstadt",
   "city": "Plankstadt",
   "distance_km": 45.9,
@@ -6892,16 +7120,15 @@
   "first_seen": "2026-10-26",
   "job_refs": [
    "10000-1208362557-S",
-   "10000-1208365925-S",
-   "12908-063451996-S"
+   "10000-1208365925-S"
   ],
   "key": "wirsol-aufdach",
   "lat": 49.245786,
   "loc_source": "ba",
   "lon": 8.541873,
   "name": "Wirsol Aufdach GmbH",
-  "reason": "Sektor: Batteriespeicher, Photovoltaikanlagen.",
-  "score": 5,
+  "reason": "Sektor: Photovoltaikanlagen.",
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "ba"

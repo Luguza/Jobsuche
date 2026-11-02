@@ -1249,5 +1249,193 @@
    }
   ],
   "timestamp": "2026-10-26T04:34:23+00:00"
+ },
+ {
+  "companies": 273,
+  "jobs": 124,
+  "new_companies": [
+   {
+    "key": "arboro",
+    "name": "arboro GmbH",
+    "score": 2
+   },
+   {
+    "key": "brc-solar",
+    "name": "BRC Solar GmbH",
+    "score": 3
+   },
+   {
+    "key": "deloitte",
+    "name": "Deloitte GmbH",
+    "score": 2
+   },
+   {
+    "key": "deutsches-krebsforschungszentrum",
+    "name": "Deutsches Krebsforschungszentrum",
+    "score": 1
+   },
+   {
+    "key": "e-on-home-deutschland",
+    "name": "E.ON Home Deutschland GmbH",
+    "score": 2
+   },
+   {
+    "key": "itmx",
+    "name": "itmX GmbH",
+    "score": 4
+   },
+   {
+    "key": "oekosystemforschung-anlage-eusserthal-eeres",
+    "name": "Ökosystemforschung Anlage Eußerthal (EERES)",
+    "score": 2
+   },
+   {
+    "key": "photargo",
+    "name": "Photargo GmbH",
+    "score": 3
+   },
+   {
+    "key": "w-w-consulting",
+    "name": "W+W Consulting GmbH",
+    "score": 2
+   },
+   {
+    "key": "wibu-systems",
+    "name": "Wibu Systems",
+    "score": 3
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "BRC Solar GmbH",
+    "refnr": "10001-1003660319-S",
+    "title": "Werkstudent / Praxissemester (m/w/d) - CRM & Business Development Solarbranche"
+   },
+   {
+    "company": "Krannich Group GmbH",
+    "refnr": "10001-1003926896-S",
+    "title": "Data Science Engineer m/w/d"
+   },
+   {
+    "company": "Deutsches Krebsforschungszentrum",
+    "refnr": "10001-1003933689-S",
+    "title": "Data Scientist / Data Manager (m/w/d)"
+   },
+   {
+    "company": "IONOS SE",
+    "refnr": "10001-1003934037-S",
+    "title": "Cloud Quality Engineer – Cloud Automation & AI-Augmented Testing (w/m/d) / 1663"
+   },
+   {
+    "company": "E.ON Home Deutschland GmbH",
+    "refnr": "13635-1bebd893_JB5283918-S",
+    "title": "Product Owner Plattform & KI-Integration (m/w/d)"
+   },
+   {
+    "company": "PTA",
+    "refnr": "13644-313865-S",
+    "title": "AI Engineer / KI-Entwickler – LLM & RAG (m/w/d)"
+   },
+   {
+    "company": "Photargo GmbH",
+    "refnr": "14225-2669df214d3745c8-S",
+    "title": "Elektroingenieur - Projektleiter Photovoltaik (m/w/d)"
+   },
+   {
+    "company": "WIBU-SYSTEMS AG",
+    "refnr": "14225-775bb06903c140a8-S",
+    "title": "Sicherheitsingenieur - KI (m/w/d)"
+   },
+   {
+    "company": "itmX GmbH",
+    "refnr": "14225-8520b975f2657d81-S",
+    "title": "Data Scientist - IT-Architekt (m/w/d)"
+   },
+   {
+    "company": "Deloitte GmbH",
+    "refnr": "15794-470192_49894-1-S",
+    "title": "Senior Conversational AI & ML Solution Engineer (m/w/d)"
+   },
+   {
+    "company": "Robert Bosch GmbH",
+    "refnr": "15986-REF299637E-ca13d94-S",
+    "title": "Masterarbeit Kopplung der FEM und der Peridynamik zur Korrosionssimulation in Python"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3085001793142000-S",
+    "title": "NTT DATA Deutschland SE: Forward Deployment Engineer (w/m/x) - AI & Enterprise Solutions"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3085121793142000-S",
+    "title": "NTT DATA Deutschland SE: Lead Forward Deployment Engineer (w/m/x) - AI & Enterprise Solutions"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3087731793401200-S",
+    "title": "NTT DATA Deutschland SE: Lead Private AI Architect (w/m/x) - GenAI, LLM & Enterprise AI Platforms"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3087851793401200-S",
+    "title": "NTT DATA Deutschland SE: Forward Deployed Engineer (w/m/x) - AI & Enterprise Solutions 1 1"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "novotrend",
+    "name": "Novotrend",
+    "score": 2
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "PTA GmbH",
+    "refnr": "10001-1003349778-S",
+    "title": "Senior AI Solution Architect / AI Strategy Consultant (m/w/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-270129220926-S",
+    "title": "Data Analyst eCommerce (w/m/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-271164021026-S",
+    "title": "AI Frontend Engineer dmGPT (w/m/d)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co.KG",
+    "refnr": "12787-271168021026-S",
+    "title": "Pflichtpraktikum Analyst & Data Science für Produktivität (w/m/d)"
+   },
+   {
+    "company": "WIRSOL Aufdach GmbH",
+    "refnr": "12908-063451996-S",
+    "title": "Senior-Elektroplaner Photovoltaik / Batteriespeicher (m/w/d)"
+   },
+   {
+    "company": "Novotrend",
+    "refnr": "13644-120137-S",
+    "title": "Informatiker/Ingenieur/Physiker als Software-Entwickler (m/w/d)"
+   },
+   {
+    "company": "Novotrend",
+    "refnr": "13644-150972-S",
+    "title": "Informatiker/Ingenieure/Physiker als Projektingenieure (m/w/d)"
+   },
+   {
+    "company": "HMS Analytical Software",
+    "refnr": "13644-296843-S",
+    "title": "Quereinsteiger Physiker / Mathematiker als Software Engineer Data Analytics (mwd)"
+   },
+   {
+    "company": "dm-drogerie markt GmbH + Co. KG",
+    "refnr": "13649-13374912AB-S",
+    "title": "Data Analyst eCommerce (w/m/d)"
+   }
+  ],
+  "timestamp": "2026-11-02T04:21:52+00:00"
  }
 ]

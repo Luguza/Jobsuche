@@ -1,7 +1,7 @@
 {
  "http://176.28.22.140/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://4you-gmbh.eu/": {
@@ -12,7 +12,7 @@
  },
  "http://apogenix.com/en/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://autec-automation.de/": {
@@ -65,7 +65,7 @@
  },
  "http://commcall.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://connexity.com/": {
@@ -87,11 +87,11 @@
   "title": "Globale Spedition und Lieferkettenmanagement | Kühne+Nagel Deutschland"
  },
  "http://de.nec.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://derkleinebuchverlag.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://docpharm.de/": {
@@ -108,7 +108,7 @@
  },
  "http://energy4u.org/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://ewr-pneumatik.de/": {
@@ -119,12 +119,12 @@
  },
  "http://excipio.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://exklusiv-systeme.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://fahnen-kreisel.de/": {
@@ -147,7 +147,7 @@
  },
  "http://gpi-int.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://haltermann.com/": {
@@ -158,7 +158,7 @@
  },
  "http://hannepraesente.de/index.html": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://hiik.de/": {
@@ -181,12 +181,12 @@
  },
  "http://ingenieurbuero-mager.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://itu.jrc.ec.europa.eu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://jhb-hangen.de/": {
@@ -209,7 +209,7 @@
  },
  "http://klaschka.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://klein-besen-buersten.de/": {
@@ -244,7 +244,7 @@
  },
  "http://marotte-figurentheater.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://masco.com/": {
@@ -279,12 +279,12 @@
  },
  "http://natursteine-gassert.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://new.abb.com/de/ueber-uns/gesellschaften/abb-stotz-kontakt": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://nilaplan-karlsruhe.de/": {
@@ -307,7 +307,7 @@
  },
  "http://opm.opmsoft.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://opvengineering.de/": {
@@ -324,7 +324,7 @@
  },
  "http://priotrade.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://ristav.de/": {
@@ -346,7 +346,7 @@
   "title": "Home"
  },
  "http://sg-wiesloch.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://shop.strato.de/": {
@@ -411,7 +411,7 @@
  },
  "http://weidenhammer.de/en/home.html": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.1und1.de/": {
@@ -422,12 +422,12 @@
  },
  "http://www.4px-germany.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.IBW-KA.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.Websprudel.de/": {
@@ -462,7 +462,7 @@
  },
  "http://www.acandis.com/start-1-en": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.adler-werkzeug.de/": {
@@ -478,7 +478,7 @@
   "title": "Home - Affentaler"
  },
  "http://www.affimed.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.afriso.de/": {
@@ -489,7 +489,7 @@
  },
  "http://www.agroscience.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.aifb.kit.edu/": {
@@ -523,7 +523,7 @@
   "title": "aluplast - Spezialist für Kunststofffenster & -türen - aluplast"
  },
  "http://www.amrytpharma.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.analytica-gmbh.de/": {
@@ -533,8 +533,8 @@
   "title": "ANALYTICA GmbH - Easy as CAN be"
  },
  "http://www.ansyco.de/": {
-  "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "error": "ConnectionError",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.arconsis.com/": {
@@ -604,11 +604,11 @@
   "title": "Keramikstudio Jochen Baer"
  },
  "http://www.bard.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.bard.de/cms/servlet/Query": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.bardusch.de/": {
@@ -625,7 +625,7 @@
  },
  "http://www.battlecryrecords.de/mainframes.htm": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.bauer-steuerungstechnik.de/": {
@@ -641,12 +641,12 @@
   "title": "Bausch & Company - Die Personalberatung fÃ¼r Familienunternehmen - Johannes Bausch · Home"
  },
  "http://www.bd.com/de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.beckert-medien.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.berryplastics.com/": {
@@ -771,7 +771,7 @@
  },
  "http://www.büro-süd.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.caemmerer-lenz.de/": {
@@ -794,7 +794,7 @@
  },
  "http://www.cb-praesentwerbung.de/de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.cc-club-kochender-maenner.de/": {
@@ -847,7 +847,7 @@
  },
  "http://www.cognex.com/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.comgrav.de/": {
@@ -870,7 +870,7 @@
  },
  "http://www.cosma-gruppe.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.crcind.com/crc/": {
@@ -917,7 +917,7 @@
  },
  "http://www.deltavista.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.deluxe-gebaeudemanagement.de/": {
@@ -928,7 +928,7 @@
  },
  "http://www.deno-energie.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.design-technic.de/": {
@@ -945,7 +945,7 @@
  },
  "http://www.dieko.info/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.digitales-bauen.de/": {
@@ -992,7 +992,7 @@
  },
  "http://www.dplangmbh.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.drahtkrebs.de/": {
@@ -1021,7 +1021,7 @@
  },
  "http://www.eaton.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ech-ovm.de/": {
@@ -1085,18 +1085,18 @@
   "title": "ElsaSoft Harald Elsässer - Computer"
  },
  "http://www.elumatec.de/": {
-  "error": "SSLError",
-  "fetched": "2026-10-12",
+  "error": "HTTPError",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.energie-und-kraftanlagen.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.enoware.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.epc.de/": {
@@ -1106,13 +1106,13 @@
   "title": "Home - EPC Consulting und Software GmbH"
  },
  "http://www.erdboerse-karlsruhe.de/": {
-  "error": "TooManyRedirects",
-  "fetched": "2026-10-12",
+  "error": "ConnectionError",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ergion.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.erwinrufgmbh.de/": {
@@ -1135,7 +1135,7 @@
  },
  "http://www.eura-personal.de/de/standorte/standorte_bruchsal.php": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.eurotec-ks.cz/": {
@@ -1152,7 +1152,7 @@
  },
  "http://www.fc-heidelberg.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.feldmannconsulting.de/": {
@@ -1205,11 +1205,11 @@
  },
  "http://www.fluidops.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.fmb-group.com/de/index.php": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.fortuna-gmbh.de/": {
@@ -1226,27 +1226,27 @@
  },
  "http://www.fuchs-beton.de/unternehmen/standorte/werke/fuchs-karlsruhe/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.funk-haustechnik.de/wordpress/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ga-hlb.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.gabelstapler-haberkorn.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.galerieb.de/en/galerie-b.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.gathmann.com/": {
@@ -1311,7 +1311,7 @@
  },
  "http://www.gigya.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.glas-herzog.de/": {
@@ -1322,7 +1322,7 @@
  },
  "http://www.gloetzl.de/en/home.htm": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.glowdrill.de/": {
@@ -1369,7 +1369,7 @@
  },
  "http://www.grokus.de.vu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.guedler.de/": {
@@ -1416,7 +1416,7 @@
  },
  "http://www.happyend-concerts.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.hartmann-chemietechnik.de/": {
@@ -1457,7 +1457,7 @@
  },
  "http://www.heidelberg-center.uni-hd.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.heidelberg.com/": {
@@ -1480,7 +1480,7 @@
  },
  "http://www.heine.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.heizsysteme-knetzger.de/": {
@@ -1515,7 +1515,7 @@
  },
  "http://www.hildenbrand.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.hillesheim-gmbh.de/": {
@@ -1532,7 +1532,7 @@
  },
  "http://www.hof-musik.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.hoffmann-logistik.de/": {
@@ -1549,7 +1549,7 @@
  },
  "http://www.horn-gmbh.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.huberholz.eu/": {
@@ -1560,7 +1560,7 @@
  },
  "http://www.huffgmbh.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.hug-seeburger.de/": {
@@ -1607,7 +1607,7 @@
  },
  "http://www.hz-transporte.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.i-b-gmbh.de/": {
@@ -1630,7 +1630,7 @@
  },
  "http://www.ibs-ka.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ict.fraunhofer.de/": {
@@ -1659,7 +1659,7 @@
  },
  "http://www.indra-recycling.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ing-rothenhoefer.de/": {
@@ -1670,11 +1670,11 @@
  },
  "http://www.ingenieurgruppe-bauen.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.inno-group.com/en/pages/33-inno-germany": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.innoenergy.com/": {
@@ -1715,7 +1715,7 @@
  },
  "http://www.itfab.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.itk-engineering.de/": {
@@ -1732,7 +1732,7 @@
  },
  "http://www.iwg.kit.edu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.jeschke-umwelttechnik.de/": {
@@ -1767,7 +1767,7 @@
  },
  "http://www.kafabul.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.karl-klink.de/": {
@@ -1790,7 +1790,7 @@
  },
  "http://www.kbhf.org/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.kenforx.com/": {
@@ -1812,12 +1812,12 @@
   "title": "KHW World Wide GmbH - INNOVATION & PRÄZISION. WELTWEIT."
  },
  "http://www.kiemle-metall.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.kienle-spiess.com/stormcms2/c3view.php": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.kies-krieger.de/": {
@@ -1846,7 +1846,7 @@
  },
  "http://www.klassische-archaeologie.uni-hd.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.klinger-schoeneberg.de/": {
@@ -1857,7 +1857,7 @@
  },
  "http://www.kloeckner-stahl-und-metallhandel.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.kluthe.com/": {
@@ -1903,8 +1903,10 @@
   "title": "K + S Modellbau und Formenbau"
  },
  "http://www.ks-umwelttechnik.de/": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "description": "",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Domain Details Page"
  },
  "http://www.kulturevaluation-wegner.de/": {
   "description": "KULTUREVALUATION WEGNER Evaluation & Besucher*innenforschung Wir unterstützen Ihre Kultureinrichtung und Kulturangebote mit passgenauen, empirischen Ergebnissen. Wer kommt? Wer bleibt? Wer kommt (noch) nicht – und warum? Wir unterstützen Ihre Kultureinrichtung dabei, Ihr Publikum besser zu verstehen, neue Zielgruppen zu gewinnen oder Angebote zu optimieren",
@@ -1932,7 +1934,7 @@
  },
  "http://www.laura-chavin.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.layher.com/": {
@@ -1948,7 +1950,7 @@
   "title": "Präzisionswerkzeuge und Werkzeugsysteme | Leitz"
  },
  "http://www.lele-pr.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.lenz-mineralölhandel.de/": {
@@ -1964,12 +1966,12 @@
   "title": "LEONHARD WEISS: Nachhaltige Infrastrukturprojekte"
  },
  "http://www.lootec.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.louis-renner.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.ltz-bw.de/": {
@@ -1980,17 +1982,17 @@
  },
  "http://www.luk.de/content.luk.de/de/index.jsp": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.lwsoft.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mack-mannheim.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mahakorz.de/": {
@@ -2019,11 +2021,11 @@
  },
  "http://www.matz-jung.de/index.html": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mavinci.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.max-reger-institut.de/": {
@@ -2040,7 +2042,7 @@
  },
  "http://www.mbi-online.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mds-transport.de/": {
@@ -2057,7 +2059,7 @@
  },
  "http://www.medicyte.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.medlab.eu/": {
@@ -2067,7 +2069,7 @@
   "title": ""
  },
  "http://www.meier-ballons.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.melog.de/": {
@@ -2120,7 +2122,7 @@
  },
  "http://www.mk-motorsport.de/html_en/index.html": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mkm.de/": {
@@ -2131,7 +2133,7 @@
  },
  "http://www.modia-gmbh.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.moedinger-motk.de/": {
@@ -2154,7 +2156,7 @@
  },
  "http://www.mpl-systeme.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.mri.bund.de/": {
@@ -2164,9 +2166,8 @@
   "title": "Startseite: Max Rubner-Institut"
  },
  "http://www.msg-gillardon.de/": {
-  "error": "ConnectionError",
-  "fetched": "2026-10-12",
-  "status": "error"
+  "fetched": "2026-11-02",
+  "status": "robots_disallowed"
  },
  "http://www.mueller-hereth.com/": {
   "description": "Ihr Ingenieurbüro für Tunnen- und Felsbau. Komplettabwicklung von Planung über Bauüberwachung und unser geologisches Fachwissen.",
@@ -2181,8 +2182,10 @@
   "title": "HiTEC Europe & MULTIPLEX | Servomotoren und Modellsport | MULTIPLEX"
  },
  "http://www.mwts.de/index2.html": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "description": "",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Domain Details Page"
  },
  "http://www.nanofocus.de/": {
   "description": "Optische 3D-Messtechnik von NanoFocus: Die 3D-Messsysteme µsurf, µscan und µsprint ermöglichen die sekundenschnelle und zuverlässige Oberflächenmessung von Rauheit, Mikrogeometrie, Ebenheit, Topografie, Schichtdicke sowie Mikro- und Nanovolumen. Die leistungsfähigen Softwareprodukte von NanoFocus ergänzen den Messvorgang um Analysereports nach aktuellen ISO-Normen, wie etwa ISO 25178, bis hin zur ",
@@ -2258,7 +2261,7 @@
  },
  "http://www.papyrus.com/deDE/home.htm": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.parsa-beauty.com/": {
@@ -2311,7 +2314,7 @@
  },
  "http://www.phönix-sd.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.pneu.com/": {
@@ -2322,7 +2325,7 @@
  },
  "http://www.poly-trans.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.powerprojekt.de/": {
@@ -2375,7 +2378,7 @@
  },
  "http://www.pulsgetriebe.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.pumpenservice-speyer.de/": {
@@ -2416,7 +2419,7 @@
  },
  "http://www.regiobau.implenia.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.research4you.de/": {
@@ -2445,7 +2448,7 @@
  },
  "http://www.ri-mac.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.richard-wolf.com/": {
@@ -2516,7 +2519,7 @@
  },
  "http://www.rothtechnik.eu/deutsch/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.rtm-medizintechnik.de/": {
@@ -2551,7 +2554,7 @@
  },
  "http://www.saurano.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.scdsoft.de/": {
@@ -2561,21 +2564,21 @@
   "title": "scdsoft AG | Software Consulting & Development seit 1997"
  },
  "http://www.scheck-in-center.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.schenk-rt.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.schiller.ch/fr/fr": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.schimmel-reisen.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.schleith.de/": {
@@ -2638,7 +2641,7 @@
   "title": "Semilution GmbH – Semilution | IT Dienstleistung"
  },
  "http://www.sew-eurodrive.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.sg-veneers.com/": {
@@ -2672,7 +2675,7 @@
   "title": "Sinner Aktiengesellschaft Karlsruhe"
  },
  "http://www.sitec-waghaeusel.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.snh-glas.de/": {
@@ -2707,7 +2710,7 @@
  },
  "http://www.spie-de.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.spielberger.de/": {
@@ -2718,7 +2721,7 @@
  },
  "http://www.stabila.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.stahlbau-ritz.de/": {
@@ -2729,7 +2732,7 @@
  },
  "http://www.stahlformkramer.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.steiner-transporte.com/": {
@@ -2776,7 +2779,7 @@
  },
  "http://www.sv-rnp.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.swc-maier.de/": {
@@ -2811,7 +2814,7 @@
  },
  "http://www.tema-medien.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.tenneco.de/": {
@@ -2822,7 +2825,7 @@
  },
  "http://www.tennis-klenert.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.terex-fuchs.com/": {
@@ -2833,7 +2836,7 @@
  },
  "http://www.tg-datennetze.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.thekatzgroup.com/": {
@@ -2898,7 +2901,7 @@
  },
  "http://www.twestphal.de/itshop/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.tzw.de/": {
@@ -2908,9 +2911,10 @@
   "title": "Das TZW: Wasserinstitut, Kompetenzzentrum | TZW"
  },
  "http://www.ulan.de/": {
-  "error": "RetryError",
-  "fetched": "2026-10-12",
-  "status": "error"
+  "description": "",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "ULAN GmbH"
  },
  "http://www.unicon-software.com/": {
   "description": "UniconOS, a secure and hardened OS, and UniconOS Management, a powerful management tool, effortlessly scale with your growing device fleet – enhancing security, boosting efficiency, and reducing costs in VDI and cloud environments. Discover how UniconOS seamlessly integrates with Citrix DaaS.",
@@ -2950,12 +2954,12 @@
  },
  "http://www.verocel.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.vogelmann-neuhofen.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.vogt-medical.com/": {
@@ -2977,7 +2981,7 @@
   "title": "www.vpm.de"
  },
  "http://www.wamgroup.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "http://www.webagency.de/": {
@@ -2994,7 +2998,7 @@
  },
  "http://www.weibel-ness.de/en/index1.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.wellendorff.com/": {
@@ -3035,7 +3039,7 @@
  },
  "http://www.willcom-swiss.eu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.winkels.de/": {
@@ -3100,7 +3104,7 @@
  },
  "http://www.ziemann-gruppe.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "http://www.zwo-elf.de/": {
@@ -3123,7 +3127,7 @@
  },
  "http://www2.spedition-wiedmann.de/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://2d-datarecording.com/": {
@@ -3170,7 +3174,7 @@
  },
  "https://abb.litwiss.kit.edu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://about.chrono24.com/": {
@@ -3181,7 +3185,7 @@
  },
  "https://abschleppdienst-hauck.de/ba1c25a1-d0ee-4512-b081-0ae3b2f2ad6c.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://ac-eventtechnik.de/": {
@@ -3228,7 +3232,7 @@
  },
  "https://ak-trans.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://akkurat.chayns.site/": {
@@ -3340,7 +3344,7 @@
   "title": ""
  },
  "https://audisto.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://aupperle-spedition.de/": {
@@ -3429,7 +3433,7 @@
  },
  "https://beneicke-edv.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://berollka.de/": {
@@ -3482,12 +3486,12 @@
  },
  "https://botgart.bot.uni-heidelberg.de/Herbarium.php": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://brandfall-matrix.com/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://braun-maschinenbau.info/": {
@@ -3582,7 +3586,7 @@
  },
  "https://cnsr.uni-heidelberg.de/7": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://codefy.de/": {
@@ -3641,7 +3645,7 @@
  },
  "https://datapeutics.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://datenberg.eu/": {
@@ -3652,15 +3656,15 @@
  },
  "https://de.alten.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://de.tdk-lambda.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://deepshore.de/company/_tiles/heidelberg": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://dellcon.de/": {
@@ -3743,12 +3747,12 @@
  },
  "https://dmvertrieb-ketsch.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://dogone.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://dongus-kaelte.de/": {
@@ -3759,7 +3763,7 @@
  },
  "https://doninger-cnc.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://dose.eu/": {
@@ -3830,7 +3834,7 @@
  },
  "https://emcl.iwr.uni-heidelberg.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://enabl-tech.de/": {
@@ -3865,7 +3869,7 @@
  },
  "https://enisco.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://enkeonline.de/": {
@@ -3965,12 +3969,12 @@
   "title": "fh-transporte.de"
  },
  "https://finance.arvato.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://fitmotion.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://fs-fertigungssysteme.de/": {
@@ -4113,12 +4117,12 @@
  },
  "https://goflink.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://golfballalarm.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://gollinger.de/": {
@@ -4201,7 +4205,7 @@
  },
  "https://hci.iwr.uni-heidelberg.de/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://heatit.de/": {
@@ -4242,7 +4246,7 @@
  },
  "https://heimerdinger.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://heinrich-montagebau.de/": {
@@ -4252,7 +4256,7 @@
   "title": "Klaus Heinrich Montagebau - Ludwigshafen - Ihr Partner rund ums Haus!"
  },
  "https://heisenberg.xyz/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://heka.de/": {
@@ -4311,7 +4315,7 @@
  },
  "https://hoepfner-wertinvest.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://holzelementbau-nordbaden.de/": {
@@ -4370,17 +4374,17 @@
  },
  "https://ili-consulting.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://impressive-pages.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://inapa.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://infakom.de/": {
@@ -4390,7 +4394,7 @@
   "title": "InfaKom – Weiterentwicklung für Führungskräfte und deren Teams"
  },
  "https://info.unternehmensverzeichnis.org/impressum/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://initse.com/": {
@@ -4449,7 +4453,7 @@
  },
  "https://ipsen-pharma.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://isotox.de/": {
@@ -4514,7 +4518,7 @@
  },
  "https://k-tc.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://k2-systems.com/": {
@@ -4549,7 +4553,7 @@
  },
  "https://kernitk.jimdo.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://kettlitz-gmbh.de/": {
@@ -4560,11 +4564,11 @@
  },
  "https://kfm-alarm.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://kgm-verlag.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://kirchenbauer.de/": {
@@ -4616,7 +4620,7 @@
   "title": ""
  },
  "https://kniel.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://koenig-digital.com/": {
@@ -4795,7 +4799,7 @@
  },
  "https://lua.rlp.de/wir-ueber-uns/abteilungen-referate/humanmedizin/ihis-landau/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://lvg.landwirtschaft-bw.de/": {
@@ -4818,7 +4822,7 @@
  },
  "https://majolika-karlsruhe.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://malo7.com/": {
@@ -4859,7 +4863,7 @@
  },
  "https://mb-mueller.com/de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://md-productions.com/": {
@@ -4930,7 +4934,7 @@
  },
  "https://mica-services.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://microjet.de/": {
@@ -4994,11 +4998,11 @@
   "title": "Klein Toys"
  },
  "https://n-biotics.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://naberdruck.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://navigate.de/": {
@@ -5009,12 +5013,12 @@
  },
  "https://net-mannheim.gmbh/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://neufraspedition.de/site_de/s_de_2_01_15.htm": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://nitrado.net/": {
@@ -5042,9 +5046,10 @@
   "title": "NTFS IT-SYSTEMHAUS - Unser Weg ist die Innovation"
  },
  "https://nuw.rptu.de/ags/eeres": {
-  "error": "ConnectionError",
-  "fetched": "2026-10-12",
-  "status": "error"
+  "description": "Forschungsanlage Eußerthal RPTU",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Ökosystemforschung Anlage Eußerthal (EERES) - Fachbereich Natur- und Umweltwissenschaften an der RPTU"
  },
  "https://nwe.de/": {
   "description": "IT-Security, Netzwerksicherheit, Managed Services und 24/7 IT-Support. ISO 27001-zertifizierter IT-Dienstleister für Unternehmen in Deutschland. Individuelle Sicherheits- und Netzwerklösungen.",
@@ -5138,7 +5143,7 @@
  },
  "https://pdmlab.com/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://peepz.net/": {
@@ -5262,7 +5267,7 @@
   "title": "PV Kraftwerke - PVESTATE"
  },
  "https://quadrolade.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://quantumsimulations.de/": {
@@ -5291,7 +5296,7 @@
  },
  "https://raquet.eu/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://rauch.de/": {
@@ -5314,7 +5319,7 @@
  },
  "https://reichert-tools.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://renumics.com/": {
@@ -5343,7 +5348,7 @@
  },
  "https://ride2go.engineering/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://ringside-zone.com/": {
@@ -5384,7 +5389,7 @@
  },
  "https://rs-it-management.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://rvm-mannheim.de/": {
@@ -5431,7 +5436,7 @@
  },
  "https://sanlucar-group.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://sauer-rindfleisch.de/": {
@@ -5447,7 +5452,7 @@
   "title": "Corporate Design gerechte Dokumenterstellung - s.a.x Software"
  },
  "https://sbs-software.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://schaeufelin.de/": {
@@ -5596,12 +5601,12 @@
  },
  "https://sparkteams.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://sped-martin.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://spedition-rau.de/": {
@@ -5984,7 +5989,7 @@
  },
  "https://wdb-raumdesign.branchenheld.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://web.archive.org/web/20030201223907/https://www.wolman.de/": {
@@ -6079,7 +6084,7 @@
  },
  "https://ww.rinklef-landschaftspflege.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.1001couleurs-peinture.fr/": {
@@ -6101,12 +6106,12 @@
   "title": "1&1 Mobilfunk und Internet > Alles aus einer Hand"
  },
  "https://www.3imedia.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.48design.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.5ding.de/": {
@@ -6123,7 +6128,7 @@
  },
  "https://www.Schrottabholung-Köhler.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.abd-dreherei.de/": {
@@ -6152,7 +6157,7 @@
  },
  "https://www.ackermann-cnc.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.across.net/": {
@@ -6241,7 +6246,7 @@
  },
  "https://www.agrardienst-huber.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.ahrex.de/": {
@@ -6389,7 +6394,7 @@
   "title": "AMETEK"
  },
  "https://www.amrytpharma.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.analytical-software.de/": {
@@ -6411,7 +6416,7 @@
   "title": "andrena objects ag"
  },
  "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/europe/germany.html": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.anscom.it/": {
@@ -6462,6 +6467,12 @@
   "status": "ok",
   "title": "Startseite | Bundesagentur für Arbeit"
  },
+ "https://www.arboro.com/": {
+  "description": "Your store runs, but is rarely found? Technology, SEO/GEO and Google Ads from one permanent team – so your store is stable, visible and AI-ready.",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Shopware & Shopify Agency for Tech, SEO & Ads | arboro"
+ },
  "https://www.arburg.com/": {
   "description": "As a globally leading manufacturer of high-quality machines, we have a broad range of expertise: ✔Injection moulding machines ✔Robotic systems ✔Digitalisation",
   "fetched": "2026-09-24",
@@ -6506,11 +6517,11 @@
  },
  "https://www.asia-europe.uni-heidelberg.de/de/ueber-uns/karl-jaspers-zentrum.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.asica.group/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.aspion.de/": {
@@ -6521,7 +6532,7 @@
  },
  "https://www.aspiration-husky-67.fr/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.assecosolutions.com/": {
@@ -6538,7 +6549,7 @@
  },
  "https://www.autmatec.de/startseite/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.auto-bissinger.de/": {
@@ -6627,12 +6638,12 @@
  },
  "https://www.baden-board.de/ueber-baden-karton": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.baden-board.de/ueber-baden-packaging": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.baden-chemie.de/": {
@@ -6642,7 +6653,7 @@
   "title": "Baden-Chemie GmbH"
  },
  "https://www.baden24.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.bader.de/": {
@@ -6653,7 +6664,7 @@
  },
  "https://www.badisches-druckhaus.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.baeckerei-katz.de/": {
@@ -6682,7 +6693,7 @@
  },
  "https://www.barco.com/de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.barger-gmbh.de/index.php": {
@@ -6825,7 +6836,7 @@
  },
  "https://www.big-gruppe.com/de/standorte/karlsruhe-management": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.binz-hoch3.de/": {
@@ -6908,7 +6919,7 @@
  },
  "https://www.bobcat.de/mannheim/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.bohle-gruppe.com/": {
@@ -6948,7 +6959,7 @@
   "title": "Bau Personal Bacher"
  },
  "https://www.bp.com/de_de/germany/ueber-bp/aktivitaeten-in-deutschland/schmierstoffgeschaeft.html": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.bpc-arnold.de/": {
@@ -7091,7 +7102,7 @@
  },
  "https://www.cad-spanke.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.caddent.de/": {
@@ -7102,12 +7113,12 @@
  },
  "https://www.caddie.fr/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.callatrucker.de/unsere-standorte/karlsruhe/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.cambaum.com/": {
@@ -7123,8 +7134,10 @@
   "title": "Start - CAMPUS"
  },
  "https://www.capio-capital.de/": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "description": "Capital - Experten bei Deutschen Spezialsituationen, insbesondere bei Beherrschungs- und Gewinnabführungsverträgen und Squeeze Outs.",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Capio Capital - Experten für Deutsche Spezialsituationen"
  },
  "https://www.carl-auer.de/": {
   "description": "",
@@ -7247,7 +7260,7 @@
   "title": "Rausch CNC-Technik GmbH, CNC Rausch - Start"
  },
  "https://www.cnc-technik-rheinau.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.codecentric.de/standorte/karlsruhe": {
@@ -7270,7 +7283,7 @@
  },
  "https://www.cofely.de/de/cofely/kontakt/details/Mannheim/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.colibrex.com/": {
@@ -7335,7 +7348,7 @@
  },
  "https://www.cotac-group.eu/de/stationen/cotac-mannheim.php": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.cranetech.de/": {
@@ -7447,7 +7460,7 @@
   "title": "DEKRA - Neustadt - Station Neustadt an der Weinstraße"
  },
  "https://www.deloscloud.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.delta-vision.de/": {
@@ -7494,7 +7507,7 @@
  },
  "https://www.des-etiketten.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.deutschebahn.com/": {
@@ -7529,7 +7542,7 @@
  },
  "https://www.diebaufabrik.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.diebauingenieure.com/": {
@@ -7539,7 +7552,7 @@
   "title": "dieBauingenieure in Karlsruhe & Berlin"
  },
  "https://www.dietrich-logistic.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.dietz-schader.de/": {
@@ -7640,7 +7653,7 @@
  },
  "https://www.ds-tinyhouse.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.duk-gmbh.de/": {
@@ -7675,12 +7688,12 @@
  },
  "https://www.eaton.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.eberspaecher.com/produkte/automotive-controls.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.ebuch.net/": {
@@ -7733,7 +7746,7 @@
  },
  "https://www.eichenlaub-logistik.de/deu/kontakt.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.eifer.kit.edu/": {
@@ -7864,12 +7877,13 @@
  },
  "https://www.endosmart.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.energieagentur-kreiska.de/": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "error": "ConnectionError",
+  "fetched": "2026-11-02",
+  "status": "error"
  },
  "https://www.energy-concept-pro.fr/": {
   "description": "Chauffagiste qualifié et installateur : Energy Concept offre des solutions énergétiques sur mesure pour vos besoins en chauffage et énergies renouvelables.",
@@ -7945,7 +7959,7 @@
  },
  "https://www.ergosoft.info/tp3446/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.erste-reserve.de/": {
@@ -7962,7 +7976,7 @@
  },
  "https://www.esi-heidelberg.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.essert.com/": {
@@ -8003,7 +8017,7 @@
  },
  "https://www.eurobaustoff.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.euroflow.de/": {
@@ -8080,7 +8094,7 @@
  },
  "https://www.fauthchemie.de/team.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.fc-gruppe.de/": {
@@ -8139,7 +8153,7 @@
  },
  "https://www.fike.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.filippigmbh.de/": {
@@ -8216,7 +8230,7 @@
  },
  "https://www.floatspace.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.fm-systeme.de/": {
@@ -8227,7 +8241,7 @@
  },
  "https://www.fmb-technik.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.foerch.de/unternehmen/verkaufsniederlassungen/mannheim/mannheim.aspx": {
@@ -8472,7 +8486,7 @@
  },
  "https://www.genewerk.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.genodata.de/": {
@@ -8621,7 +8635,7 @@
  },
  "https://www.globalworx.eu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.glueckskekse.de/": {
@@ -8632,7 +8646,7 @@
  },
  "https://www.goldbeck.de/standorte/karlsruhe/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.golf-4-all.de/": {
@@ -8654,7 +8668,7 @@
   "title": "GoTo: Business Communication & IT Support Software"
  },
  "https://www.gpa-jakob.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.graeser-eschbach.de/": {
@@ -8713,7 +8727,7 @@
  },
  "https://www.gummi-koerner.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.gummifabrik-simon.de/": {
@@ -8747,9 +8761,10 @@
   "title": "h2-Systems | IT-Partner für ihr Unternehmen"
  },
  "https://www.haag-mobility-center.de/": {
-  "error": "SSLError",
-  "fetched": "2026-10-12",
-  "status": "error"
+  "description": "",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": ""
  },
  "https://www.haass-bau.de/": {
   "description": "Leistungen Wir bauen für Sie seit Generationen Hochbau Wohnbau Industrie- und Gewerbebau Bauwerke der öffentlichen Hand Umbau Mehr zu Hochbau Tiefbau Erdbau Straßen- und Wegbau Kanal- und Leitungsbau Hofanlagen- und Landschaftsbau Mehr zu Tiefbau Natursteinwerk Gesteinskörnungen aus Schilfsandstein 0-4mm 4-11mm 11-45mm 45mm und größer",
@@ -8783,7 +8798,7 @@
  },
  "https://www.hager.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.haimerl-lasertechnik.de/": {
@@ -8913,7 +8928,7 @@
   "title": "Heidelberg iT - Heidelberg iT"
  },
  "https://www.heidelberg24.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.heidelbergcement.de/": {
@@ -8924,7 +8939,7 @@
  },
  "https://www.heidelbergcement.de/de/beton/karlsruhe": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.heidelbergengineering.com/de/": {
@@ -8959,7 +8974,7 @@
  },
  "https://www.heinrich-meier.de/": {
   "error": "RetryError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.heinrich-schmid.com/": {
@@ -8982,7 +8997,7 @@
  },
  "https://www.herbert-pemsel.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.herrmannultraschall.com/": {
@@ -8992,8 +9007,9 @@
   "title": "Home | Herrmann Ultraschall | Herrmann Ultraschall"
  },
  "https://www.herzogetiketten.de/de/ihre-druckerei-fuer-selbstklebe-etiketten/1/ihre-druckerei-fuer-selbstklebe-etiketten.html": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "error": "HTTPError",
+  "fetched": "2026-11-02",
+  "status": "error"
  },
  "https://www.hess-bsh.de/": {
   "description": "Polyurethan (PU) Beschichtung und Gummierung von Räder, Rollen, Walzen, Formteilen I Transportbänder, Fördertechnik I Technischer Handel",
@@ -9009,7 +9025,7 @@
  },
  "https://www.hetzelstift.de/startseite": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.hhd-pflege.de/": {
@@ -9116,7 +9132,7 @@
  },
  "https://www.holzbau-sommerauer.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.holzwerkstatt-geiger.de/": {
@@ -9205,7 +9221,7 @@
  },
  "https://www.hubl-gmbh.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.huefner-gartenbau.de/": {
@@ -9228,7 +9244,7 @@
  },
  "https://www.iabg.de/en/corporate-profile/regional-offices": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.iai.kit.edu/": {
@@ -9251,7 +9267,7 @@
  },
  "https://www.ias-gruppe.de/die-ias-gruppe/standorte/details/standort/karlsruhe-1.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.iavf.de/": {
@@ -9448,7 +9464,7 @@
  },
  "https://www.innoplexia.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.inovex.de/": {
@@ -9495,7 +9511,7 @@
  },
  "https://www.invisiblepage.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.ionos.de/": {
@@ -9548,7 +9564,7 @@
  },
  "https://www.isb-ag.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.isb.net/": {
@@ -9577,7 +9593,7 @@
  },
  "https://www.iso-arzneimittel.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.isomat.com.de/": {
@@ -9594,7 +9610,7 @@
  },
  "https://www.it-sinsheim.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.it-structure.de/": {
@@ -9623,7 +9639,7 @@
  },
  "https://www.iteanova.com/de/index_de.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.itep.kit.edu/": {
@@ -9646,7 +9662,7 @@
  },
  "https://www.itg.kit.edu/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.itiv.kit.edu/": {
@@ -9741,7 +9757,7 @@
  },
  "https://www.jockel-brandschutz.de/zentrale.htm": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.joco.de/": {
@@ -9833,6 +9849,12 @@
   "status": "ok",
   "title": "KAMB Elektrotechnik GmbH – Ein Unternehmen von Gegenbauer"
  },
+ "https://www.karl-pfaffmann.de/": {
+  "description": "Die Vinothek der Familie Karl Pfaffmann & Markus Pfaffmann aus Walsheim bei Landau bietet erlesene Weine aus der Pfalz.",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Vinothek Karl Pfaffmann | Walsheim in der Pfalz"
+ },
  "https://www.karlsruhe-erleben.de/": {
   "description": "Erlebe Dein Karlsruhe. Alle Infos auf einen Blick ✓Veranstaltungen ✓Sehenswürdigkeiten ✓Restaurants ✓Einkaufstipps ▻ jetzt reinklicken!",
   "fetched": "2026-09-24",
@@ -9852,7 +9874,7 @@
   "title": "Deutschland, Stutensee: KARL STORZ SE & Co. KG | KARL STORZ Endoskope"
  },
  "https://www.kartoffel-hoffmann.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.katzverlag.de/": {
@@ -10001,7 +10023,7 @@
  },
  "https://www.knettenbrech-gurdulic.de/standorte/karlsruhe": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.kobra-online.info/": {
@@ -10192,7 +10214,7 @@
  },
  "https://www.labor-koch.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.ladwig.de/": {
@@ -10227,7 +10249,7 @@
  },
  "https://www.langer-werbeteam.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.lauer-weiss.de/": {
@@ -10286,7 +10308,7 @@
  },
  "https://www.linuswiegand.de//": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.lisi-automotive.com/": {
@@ -10321,7 +10343,7 @@
  },
  "https://www.ltb-leitungsbau.de/Bauabteilung_Sued.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.ltur.com/de/index": {
@@ -10356,7 +10378,7 @@
  },
  "https://www.luminatis.eu/start": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.lusshardt-kaffee-service.de/": {
@@ -10391,7 +10413,7 @@
  },
  "https://www.maier-fussbodenbau.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.maier-spedition.com/": {
@@ -10414,11 +10436,11 @@
  },
  "https://www.markus-rose.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.marsfrance.fr/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.mateco.de/de/standorte/deutschland/karlsruhe": {
@@ -10465,7 +10487,7 @@
  },
  "https://www.md-dienstleistungen.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.med-itservice.de/": {
@@ -10494,12 +10516,12 @@
  },
  "https://www.medien-konferenztechnik.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.medifa.com/medifa-metall-und-medizintechnik-gmbh/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.meggsimum.de/": {
@@ -10534,7 +10556,7 @@
  },
  "https://www.mencke-spedition.de/de/standorte.php": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.mercedes-benz-techinnovation.com/": {
@@ -10569,7 +10591,7 @@
  },
  "https://www.metallbau-greulich.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.metallform.de/": {
@@ -10598,7 +10620,7 @@
  },
  "https://www.mexacare.com/en/home-2/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.mg-industrieelektronik.de/": {
@@ -10633,7 +10655,7 @@
  },
  "https://www.mineralix-gmbh.de/de/standorte/rez-karlsruhe.html": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.mint-medical.com/": {
@@ -10752,7 +10774,7 @@
  },
  "https://www.mueller-schachttechnik.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.muffenrohr.de/": {
@@ -10805,7 +10827,7 @@
  },
  "https://www.n-able-innovation.com/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.nacona.de/": {
@@ -10875,7 +10897,7 @@
   "title": "Wir bauen Energienetze - Stadtwerke Karlsruhe Netzservice GmbH"
  },
  "https://www.neuroimmun.com/company/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.nexnoa.com/": {
@@ -10898,7 +10920,7 @@
  },
  "https://www.nolte-moebel.de/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.notter.com/": {
@@ -10927,7 +10949,7 @@
  },
  "https://www.obermeyer-group.com/kontakt/nationale-standorte": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.oehf-aufzuege.de/": {
@@ -10986,7 +11008,7 @@
  },
  "https://www.otisworldwide.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.otto-zimmermann.de/de/": {
@@ -10997,7 +11019,7 @@
  },
  "https://www.outokumpu.com/de-de/locations/hockenheim": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.oxaion.de/": {
@@ -11023,6 +11045,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "Gefiederte Welt, PAPAGEIEN, WP Wellensittich & Papageien Magazin: Zeitschriften, Bücher, Veranstaltungen für Vogelhalter und Züchter"
+ },
+ "https://www.parsa-beauty.de/": {
+  "description": "Entdecke die Beauty-Welt von PARSA Beauty: Hochwertige Haarbürsten, innovative Styling-Tools, Make-up-Accessoires & Nagelpflege. Jetzt online bestellen!",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "PARSA Beauty | Hochwertige Haar- & Beauty-Tools online kaufen"
  },
  "https://www.pbt-hockenheim.de/": {
   "description": "Die PBT Pulverbeschichtungs Technik GmbH ist Ihr Partner für hochwertige Pulverbeschichtung, Strahltechnik und Oberflächenveredelung im Raum Hockenheim. Qualität, Präzision und Erfahrung seit Jahren.",
@@ -11055,7 +11083,7 @@
   "title": "Pensum GmbH – Personalvermittlung & Personaldienstleistung"
  },
  "https://www.pepperl-fuchs.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.performio.de/": {
@@ -11114,17 +11142,17 @@
  },
  "https://www.pharmsystems.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.phenex-pharma.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.phonotherm-online.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.physi.uni-heidelberg.de/Einrichtungen/IT-Department/": {
@@ -11153,7 +11181,7 @@
  },
  "https://www.picosens.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.pictura.de/": {
@@ -11188,7 +11216,7 @@
  },
  "https://www.planat.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.plantec-mannheim.de/": {
@@ -11205,7 +11233,7 @@
  },
  "https://www.pluradent.de/de/unternehmen/standorte/karlsruhe/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.plurale-oekonomik.de/": {
@@ -11246,7 +11274,7 @@
  },
  "https://www.poth-metallwaren.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.pottiez.de/": {
@@ -11280,7 +11308,7 @@
   "title": "Startseite - PreTec"
  },
  "https://www.prime-escorts.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.printer-express.de/": {
@@ -11315,7 +11343,7 @@
  },
  "https://www.proflexgmbh.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.progroup.ag/": {
@@ -11344,7 +11372,7 @@
  },
  "https://www.prones.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.proserv-dienstleistungen.de/de/Buehl.html": {
@@ -11403,7 +11431,7 @@
  },
  "https://www.puresoundsystems.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.pvm.de/": {
@@ -11432,7 +11460,7 @@
  },
  "https://www.qudosoft.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.qwertiko.de/": {
@@ -11454,8 +11482,9 @@
   "title": "RACE RESULT - Timing and Scoring of Sports Events"
  },
  "https://www.raith-tec.de/": {
-  "fetched": "2026-10-12",
-  "status": "robots_disallowed"
+  "error": "SSLError",
+  "fetched": "2026-11-02",
+  "status": "error"
  },
  "https://www.rajapack.de/": {
   "description": "Verpackungen & mehr von RAJAPACK ✓ Für Versand, Lager & Büro ✓ 10.000+ Artikel ✓ Schnell geliefert ✓ Jetzt online bestellen!",
@@ -11513,7 +11542,7 @@
  },
  "https://www.rebveredlung-schweizer.de/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.reck-elektrotechnik.de/": {
@@ -11757,7 +11786,7 @@
   "title": "SANNcompact Gmbh. Das Messdienstleistungsunternehmen mit Niveau"
  },
  "https://www.sap.com/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.sapfioneer.com/": {
@@ -11785,9 +11814,10 @@
   "title": "Dentallabor Hockenheim und Umgebung - Sauerzapf Zahntechnik"
  },
  "https://www.sautter-elektrotechnik.de/": {
-  "error": "HTTPError",
-  "fetched": "2026-10-12",
-  "status": "error"
+  "description": "",
+  "fetched": "2026-11-02",
+  "status": "ok",
+  "title": "Sautter Elektro- und Sicherheitstechnik – Zuverlässig | Kompetent | Sicher"
  },
  "https://www.saxon-design.com/": {
   "description": "Flyer Folder Prospekte Visitenkarten Handout Gutscheine Kalender Stempel Kuelschrieber Zollstöcke T Shirt Druck Arbeitskleidung Werbe Banner Planen Aufkleber Briefpapier Roll Up Magnetfolien Firmenschilder Fahnen Flaggen Solventdruck 4 Farbdruck Poster Plakate Klebefolien",
@@ -11808,7 +11838,7 @@
   "title": "Schaffer – Freunde fürs Leben."
  },
  "https://www.scheideanstalt.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.schindler.com/": {
@@ -11915,7 +11945,7 @@
  },
  "https://www.schweickert.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.schwepa.com/": {
@@ -11967,8 +11997,8 @@
   "title": "Infos rund um das Thema Selbsthilfegruppen | Heidelberger SelbsthilfebÃ¼ro"
  },
  "https://www.semantha.de/": {
-  "error": "SSLError",
-  "fetched": "2026-10-12",
+  "error": "ConnectionError",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.sentronics-metrology.de/": {
@@ -12081,7 +12111,7 @@
  },
  "https://www.sita-deutschland.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.skb-buehlertal.de/": {
@@ -12182,7 +12212,7 @@
  },
  "https://www.spatzek.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.spedition-humbert.de/": {
@@ -12319,7 +12349,7 @@
  },
  "https://www.stahlinform-gmbh.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.staib-stanztechnik.de/": {
@@ -12360,7 +12390,7 @@
  },
  "https://www.sto.de/de/unternehmen/standorte/deutschland_5154.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.stockhausen.com/de/standorte": {
@@ -12449,7 +12479,7 @@
  },
  "https://www.suewag.de/web/cms/de/2051868/privatkunden/suewag-vor-ort/service-vor-ort/achern/": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.superpatch.com/": {
@@ -12561,7 +12591,7 @@
   "title": "TBZ-Fahrzeugbau - Leichtbau aus Leidenschaft - TBZ GmbH - Fahrzeugbau - Bretten"
  },
  "https://www.te.com/deu-de/home.html": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.techlay.de/": {
@@ -12584,7 +12614,7 @@
  },
  "https://www.telematis.de/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.telemaxx.de/": {
@@ -12595,7 +12625,7 @@
  },
  "https://www.telena.de/": {
   "error": "ConnectTimeout",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.tensid-chemie.com/": {
@@ -12636,7 +12666,7 @@
  },
  "https://www.thaletec.com/de/kontakt/vertrieb.php": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.the-maked-team.com/": {
@@ -12695,7 +12725,7 @@
  },
  "https://www.thyssenkrupp-schulte.de/mannheim.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.timo-rehorn.de/": {
@@ -12808,7 +12838,7 @@
  },
  "https://www.ulrich-kunststofftechnik.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.uni-heidelberg.de/zsl/": {
@@ -13010,7 +13040,7 @@
   "title": "Waagen kaufen oder mieten - Waagen Friederichs"
  },
  "https://www.wabengut.de/": {
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "robots_disallowed"
  },
  "https://www.wacker-doebler.de/": {
@@ -13045,8 +13075,12 @@
  },
  "https://www.wat-ingenieurgesellschaft-2020.com/": {
   "error": "ConnectionError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
+ },
+ "https://www.wawibox.de/": {
+  "fetched": "2026-11-02",
+  "status": "robots_disallowed"
  },
  "https://www.weber-edv.net/": {
   "description": "Thorsten Weber EDV-Consulting, Karlsruhe",
@@ -13110,7 +13144,7 @@
  },
  "https://www.welcon-tec.eu/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.weliver-ld.de/": {
@@ -13229,7 +13263,7 @@
  },
  "https://www.wolff-mueller.de/standorte-bauleistungen-tief-und-strassenbau.html": {
   "error": "HTTPError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.wolff-stefan.de/": {
@@ -13262,6 +13296,11 @@
   "status": "ok",
   "title": "Verlag Das Wunderhorn – Unabhängiger Verlag, außergewöhnliches Programm."
  },
+ "https://www.ww-cs.de/": {
+  "error": "HTTPError",
+  "fetched": "2026-11-02",
+  "status": "error"
+ },
  "https://www.x2e.de/": {
   "description": "Data-Logging-Lösungen für alle gängigen Bussysteme – entwickelt für höchste Anforderungen an Performance, Zuverlässigkeit und Skalierbarkeit.",
   "fetched": "2026-09-24",
@@ -13276,7 +13315,7 @@
  },
  "https://www.yoga-heidelberg.com/": {
   "error": "SSLError",
-  "fetched": "2026-10-12",
+  "fetched": "2026-11-02",
   "status": "error"
  },
  "https://www.zachmann-ing.de/": {
