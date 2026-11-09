@@ -45,7 +45,6 @@
   "distance_km": 41.2,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1001886249-S",
    "10001-1003638664-S",
    "10001-1003750323-S"
   ],
@@ -77,7 +76,7 @@
   "description": "deutsches Bildungsunternehmen im Bereich KI-Weiterbildung (gegründet 2023)",
   "distance_km": 33.0,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Ausbildung",
+  "industry": "Ausbildung; künstliche Intelligenz",
   "key": "a-leecon",
   "lat": 49.293333,
   "loc_source": "wikidata_hq",
@@ -531,29 +530,29 @@
   "website": "https://apic.ai/"
  },
  {
-  "description": "E-Commerce- und Online-Marketing-Agentur mit Sitz in Schwaigern",
-  "distance_km": 49.3,
-  "first_seen": "2026-11-02",
-  "industry": "elektronischer Handel; Online-Marketing",
-  "key": "arboro",
-  "lat": 49.133333,
+  "description": "deutsches Softwareunternehmen mit Sitz in Pforzheim",
+  "distance_km": 25.4,
+  "first_seen": "2026-11-09",
+  "industry": "Softwareindustrie",
+  "key": "apollon",
+  "lat": 48.890885,
   "loc_source": "wikidata_hq",
-  "lon": 9.05,
-  "meta_description": "Your store runs, but is rarely found? Technology, SEO/GEO and Google Ads from one permanent team – so your store is stable, visible and AI-ready.",
-  "meta_title": "Shopware & Shopify Agency for Tech, SEO & Ads | arboro",
-  "name": "arboro GmbH",
-  "reason": "Methodik: AI.",
+  "lon": 8.702953,
+  "meta_description": "apollon: PXM-Suite für Omnichannel-Marketing, PIM, DAM & KI-Services. Jetzt Demo buchen – über 25 Jahre E-Commerce-Expertise.",
+  "meta_title": "apollon | PXM & PIM Software für E-Commerce",
+  "name": "apollon",
+  "reason": "Methodik: KI, Softwareindustrie.",
   "refs": {
    "wikidata": [
-    "Q141881749"
+    "Q142069259"
    ]
   },
-  "score": 2,
+  "score": 3,
   "score_method": "stichwörter",
   "sources": [
    "wikidata"
   ],
-  "website": "https://www.arboro.com/"
+  "website": "https://apollon.de/"
  },
  {
   "description": "company in Sankt Leon-Rot, Germany",
@@ -579,9 +578,6 @@
  {
   "distance_km": 48.3,
   "first_seen": "2026-09-24",
-  "job_refs": [
-   "10001-1003797919-S"
-  ],
   "key": "aristech",
   "lat": 49.404605,
   "loc_source": "osm",
@@ -598,7 +594,6 @@
   "score": 2,
   "score_method": "stichwörter",
   "sources": [
-   "ba",
    "osm"
   ],
   "tags": [
@@ -700,6 +695,26 @@
    "Firma"
   ],
   "website": "https://www.bechtoldsolar.de/"
+ },
+ {
+  "address": "68219 Mannheim",
+  "city": "Mannheim",
+  "distance_km": 48.1,
+  "first_seen": "2026-11-09",
+  "job_refs": [
+   "15086-44551333-114-S"
+  ],
+  "key": "bechtle",
+  "lat": 49.4314938,
+  "loc_source": "ba",
+  "lon": 8.5286,
+  "name": "Bechtle AG",
+  "reason": "Methodik: KI, Data Science, Data, Wirtschaftsinformatik.",
+  "score": 5,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
  },
  {
   "address": "Hauptstrasse 37, 75210 Keltern",
@@ -887,26 +902,6 @@
   "website": "https://www.bruker.com/"
  },
  {
-  "address": "75172 Pforzheim",
-  "city": "Pforzheim",
-  "distance_km": 24.2,
-  "first_seen": "2026-10-12",
-  "job_refs": [
-   "18896-8639042-S"
-  ],
-  "key": "bruno-bader",
-  "lat": 48.8908565,
-  "loc_source": "ba",
-  "lon": 8.6831512,
-  "name": "BRUNO BADER GmbH + Co. KG",
-  "reason": "Methodik: AI.",
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "address": "76534 Baden-Baden",
   "city": "Baden-Baden",
   "distance_km": 33.9,
@@ -1078,7 +1073,8 @@
   "first_seen": "2026-11-02",
   "industry": "Forschung; Krankenhäuser und Rehabilitationskliniken",
   "job_refs": [
-   "10001-1003933689-S"
+   "10001-1003933689-S",
+   "10001-1003966225-S"
   ],
   "key": "deutsches-krebsforschungszentrum",
   "lat": 49.41816,
@@ -1087,7 +1083,7 @@
   "meta_description": "Das Deutsche Krebsforschungszentrum (DKFZ) ist mit mehr als 3.000 Mitarbeiterinnen und Mitarbeitern die größte biomedizinische Forschungseinrichtung in Deutschland. Über 1000 Wissenschaftlerinnen und Wissenschaftler erforschen im DKFZ, wie Krebs entsteht, erfassen Krebsrisikofaktoren und suchen nach neuen Strategien, die verhindern, dass Menschen an Krebs erkranken. Sie entwickeln neue Methoden, m",
   "meta_title": "Startseite - Deutsches Krebsforschungszentrum",
   "name": "Deutsches Krebsforschungszentrum",
-  "reason": "Methodik: Data Scientist, Data, Krebsforschungszentrum; Abzug: DKFZ.",
+  "reason": "Methodik: Data Scientist, Data, Krebsforschungszentrum, Softwareentwickler; Abzug: DKFZ.",
   "refs": {
    "osm": [
     "relation/17815884"
@@ -1278,14 +1274,14 @@
    "12787-270196071026-S",
    "12787-270258250926-S",
    "12787-270916290926-S",
-   "12787-271555081026-S"
+   "12787-273359021126-S"
   ],
   "key": "dmtech",
   "lat": 49.002831,
   "loc_source": "osm",
   "lon": 8.456892,
   "name": "dmTECH GmbH",
-  "reason": "Methodik: Machine Learning, AI, Computer Vision, Datengetriebene, Software.",
+  "reason": "Methodik: Machine Learning, AI, Computer Vision, Software.",
   "refs": {
    "osm": [
     "node/6848347046"
@@ -1725,26 +1721,6 @@
   ]
  },
  {
-  "address": "76135 Karlsruhe, Baden",
-  "city": "Karlsruhe, Baden",
-  "distance_km": 2.1,
-  "first_seen": "2026-10-12",
-  "job_refs": [
-   "13635-87c701d9_JB5266077-S"
-  ],
-  "key": "erhardt-unternehmensgruppe",
-  "lat": 48.9956682,
-  "loc_source": "ba",
-  "lon": 8.3799595,
-  "name": "Erhardt Unternehmensgruppe",
-  "reason": "Methodik: KI.",
-  "score": 2,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
- },
- {
   "distance_km": 37.1,
   "first_seen": "2026-09-24",
   "key": "et-solar-power",
@@ -2088,26 +2064,6 @@
    "Forschungseinrichtung"
   ],
   "website": "https://www.mikrotribologiecentrum.de/"
- },
- {
-  "address": "76275 Ettlingen",
-  "city": "Ettlingen",
-  "distance_km": 8.6,
-  "first_seen": "2026-10-12",
-  "job_refs": [
-   "15861-44487160-106-S"
-  ],
-  "key": "fraunhofer-zentrale-muenchen",
-  "lat": 48.9299217,
-  "loc_source": "ba",
-  "lon": 8.4036437,
-  "name": "Fraunhofer-Gesellschaft e.V. Zentrale München",
-  "reason": "Methodik: Hyperspektraldatenanalyse, Fraunhofer, Softwarelösungen.",
-  "score": 4,
-  "score_method": "stichwörter",
-  "sources": [
-   "ba"
-  ]
  },
  {
   "description": "Forschungszentrum Informatik",
@@ -2764,8 +2720,7 @@
   "distance_km": 28.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "10001-1003596049-S",
-   "10001-1003662047-S"
+   "10001-1003596049-S"
   ],
   "key": "hornbach-baumarkt-zentralverwaltung",
   "lat": 49.21497,
@@ -3077,9 +3032,7 @@
    "16752-r14241-S",
    "16752-r15302-S",
    "16752-r15303-S",
-   "16752-r18165-S",
-   "16752-r5333-S",
-   "16752-r5446-S"
+   "16752-r5333-S"
   ],
   "key": "inovex",
   "lat": 49.004763,
@@ -3728,8 +3681,7 @@
   "first_seen": "2026-09-24",
   "job_refs": [
    "10001-1003523801-S",
-   "10001-1003926896-S",
-   "11858-SDE-120192-STA-S"
+   "10001-1003926896-S"
   ],
   "key": "krannich",
   "lat": 48.79206,
@@ -4547,20 +4499,17 @@
   "distance_km": 8.6,
   "first_seen": "2026-09-24",
   "job_refs": [
-   "19913-3000711792188001-S",
-   "19913-3056331792188001-S",
-   "19913-3065481792188001-S",
-   "19913-3070401792188001-S",
-   "19913-3070521792188001-S",
-   "19913-3070741792188001-S",
-   "19913-3074751792188001-S",
-   "19913-3074991792188001-S",
-   "19913-3079521792101600-S",
-   "19913-3079631792101600-S",
-   "19913-3079741792101600-S",
-   "19913-3080181792101600-S",
-   "19913-3084091792879200-S",
-   "19913-3085001793142000-S",
+   "19913-3056331793919601-S",
+   "19913-3065481793919601-S",
+   "19913-3070401793919601-S",
+   "19913-3070521793919601-S",
+   "19913-3070741793919601-S",
+   "19913-3074751793919601-S",
+   "19913-3074991793919601-S",
+   "19913-3079521793833201-S",
+   "19913-3079631793833201-S",
+   "19913-3079741793833201-S",
+   "19913-3080181793833201-S",
    "19913-3085121793142000-S",
    "19913-3087731793401200-S",
    "19913-3087851793401200-S"
@@ -4713,7 +4662,7 @@
   "description": "Deutsches Unternehmen für agentische Beschaffungssoftware zur Angebotsbewertung",
   "distance_km": 1.1,
   "first_seen": "2026-09-24",
-  "industry": "künstliche Intelligenz; Softwareindustrie; Beschaffung; Unternehmenssoftware",
+  "industry": "künstliche Intelligenz; Beschaffung; Softwareindustrie; Unternehmenssoftware",
   "key": "perspix-ai",
   "lat": 49.016667,
   "loc_source": "wikidata_hq",
@@ -4768,7 +4717,8 @@
   "distance_km": 4.3,
   "first_seen": "2026-11-02",
   "job_refs": [
-   "14225-2669df214d3745c8-S"
+   "14225-2669df214d3745c8-S",
+   "14225-763e7703ab9de217-S"
   ],
   "key": "photargo",
   "lat": 49.044573,
@@ -5277,6 +5227,26 @@
   "website": "https://rewirenow.com/"
  },
  {
+  "address": "Fortstr. 7, 76829 Landau in der Pfalz",
+  "city": "Landau in der Pfalz",
+  "distance_km": 30.8,
+  "first_seen": "2026-11-09",
+  "job_refs": [
+   "10001-1003967731-S"
+  ],
+  "key": "rheinland-pfaelzische-techn-univers-kaiserslautern-landau-standort-landau",
+  "lat": 49.2041605,
+  "loc_source": "ba",
+  "lon": 8.106811,
+  "name": "Rheinland-Pfälzische Techn. Univers. Kaiserslautern-Landau Standort Landau",
+  "reason": "Methodik: PhD, Research.",
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba"
+  ]
+ },
+ {
   "distance_km": 5.3,
   "first_seen": "2026-09-24",
   "job_refs": [
@@ -5298,7 +5268,8 @@
    "15986-REF297149J-82b7c96-S",
    "15986-REF298153D-769d659-S",
    "15986-REF299035T-990c185-S",
-   "15986-REF299637E-ca13d94-S"
+   "15986-REF299637E-ca13d94-S",
+   "15986-REF300261C-e4c2220-S"
   ],
   "key": "robert-bosch",
   "lat": 49.018267,
@@ -5919,7 +5890,7 @@
   "description": "kommunales Unternehmen der Stadt Baden-Baden",
   "distance_km": 29.7,
   "first_seen": "2026-09-27",
-  "industry": "elektrische Energietechnik; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; Gasversorgung; Wasserversorgung",
+  "industry": "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis); Energie- und Wasserwirtschaft; elektrische Energietechnik; Gasversorgung; Wasserversorgung",
   "key": "stadtwerke-baden-baden",
   "lat": 48.766449,
   "loc_source": "nominatim",
@@ -5927,7 +5898,7 @@
   "meta_description": "Die Stadtwerke Baden-Baden sind ein Eigenbetrieb der Stadt Baden-Baden. Unsere Aufgabe ist die Belieferung mit Strom, Erdgas, Wasser und Wärme. Hinzu kommen der Betrieb der Bäder, die Dienstleistungen im Bereich Telekommunikation, der ÖPNV, die MerkurBergbahn und die Parkgaragen.",
   "meta_title": "Startseite - Stadtwerke Baden-Baden",
   "name": "Stadtwerke Baden-Baden",
-  "reason": "Sektor: Stadtwerke, Energietechnik.",
+  "reason": "Sektor: Stadtwerke, Energie.",
   "refs": {
    "wikidata": [
     "Q15638722"
@@ -6828,6 +6799,38 @@
   "website": "https://videmo.de/"
  },
  {
+  "address": "Amalienbadstraße 41d, 76227 Karlsruhe",
+  "city": "Karlsruhe",
+  "distance_km": 4.6,
+  "first_seen": "2026-11-09",
+  "job_refs": [
+   "19718-r18076-S"
+  ],
+  "key": "virtual7",
+  "lat": 48.996323,
+  "loc_source": "osm",
+  "lon": 8.464808,
+  "meta_description": "virtual7 begleitet Bund und Länder bei der Digitalisierung der öffentlichen Verwaltung – von der Beratung bis zur Umsetzung digitaler Lösungen.",
+  "meta_title": "virtual7 - Wir gestalten die digitale Zukunft Deutschlands",
+  "name": "virtual7",
+  "reason": "Methodik: AI.",
+  "refs": {
+   "osm": [
+    "node/7791319565"
+   ]
+  },
+  "score": 2,
+  "score_method": "stichwörter",
+  "sources": [
+   "ba",
+   "osm"
+  ],
+  "tags": [
+   "IT"
+  ],
+  "website": "https://virtual7.de/"
+ },
+ {
   "description": "IT-Dienstleister",
   "distance_km": 8.2,
   "first_seen": "2026-09-24",
@@ -6904,7 +6907,7 @@
   "first_seen": "2026-09-24",
   "industry": "Erziehung und Unterricht",
   "job_refs": [
-   "10001-1003834295-S"
+   "10001-1003973886-S"
   ],
   "key": "vorest",
   "lat": 48.890885,

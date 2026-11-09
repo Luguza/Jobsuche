@@ -1437,5 +1437,283 @@
    }
   ],
   "timestamp": "2026-11-02T04:21:52+00:00"
+ },
+ {
+  "companies": 273,
+  "jobs": 119,
+  "new_companies": [
+   {
+    "key": "apollon",
+    "name": "apollon",
+    "score": 3
+   },
+   {
+    "key": "bechtle",
+    "name": "Bechtle AG",
+    "score": 5
+   },
+   {
+    "key": "rheinland-pfaelzische-techn-univers-kaiserslautern-landau-standort-landau",
+    "name": "Rheinland-Pfälzische Techn. Univers. Kaiserslautern-Landau Standort Landau",
+    "score": 2
+   },
+   {
+    "key": "virtual7",
+    "name": "virtual7",
+    "score": 2
+   }
+  ],
+  "new_jobs": [
+   {
+    "company": "Deutsches Krebsforschungszentrum",
+    "refnr": "10001-1003966225-S",
+    "title": "Softwareentwickler:in / Research Software Engineer (m/w/d) für medizinische Bildgebungs- und Analyse"
+   },
+   {
+    "company": "Rheinland-Pfälzische Techn. Univers. Kaiserslautern-Landau Standort Landau",
+    "refnr": "10001-1003967731-S",
+    "title": "Research Associate/PhD Student – Social Media and Conspiracy Theories"
+   },
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003973886-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-273359021126-S",
+    "title": "Senior Software Engineer - KI & Publishing Technology (w/m/d)"
+   },
+   {
+    "company": "Photargo GmbH",
+    "refnr": "14225-763e7703ab9de217-S",
+    "title": "Technischer Zeichner - Photovoltaik (m/w/d)"
+   },
+   {
+    "company": "Ernst Granzow GmbH & Co. KG Elektro-Fachgroßhandel",
+    "refnr": "14497-k30566.3350-S",
+    "title": "Fachberater Erneuerbare Energien (m/w/d)"
+   },
+   {
+    "company": "Bechtle AG",
+    "refnr": "15086-44551333-114-S",
+    "title": "Duales Studium - Wirtschaftsinformatik Data Science & KI (w/m/d) (Start 2027)"
+   },
+   {
+    "company": "Robert Bosch GmbH",
+    "refnr": "15986-REF300261C-e4c2220-S",
+    "title": "PhD – Neurosymbolisches Schlussfolgern für domänenadaptives generatives KI-System (w/m/div.)"
+   },
+   {
+    "company": "virtual7 GmbH",
+    "refnr": "19718-r18076-S",
+    "title": "AI Solution Architect (m/w/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3056331793919601-S",
+    "title": "NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481793919601-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070401793919601-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070521793919601-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070741793919601-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074751793919601-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074991793919601-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079521793833201-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079631793833201-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079741793833201-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3080181793833201-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead (w/m/x)"
+   }
+  ],
+  "removed_companies": [
+   {
+    "key": "arboro",
+    "name": "arboro GmbH",
+    "score": 2
+   },
+   {
+    "key": "bruno-bader",
+    "name": "BRUNO BADER GmbH + Co. KG",
+    "score": 2
+   },
+   {
+    "key": "erhardt-unternehmensgruppe",
+    "name": "Erhardt Unternehmensgruppe",
+    "score": 2
+   },
+   {
+    "key": "fraunhofer-zentrale-muenchen",
+    "name": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+    "score": 4
+   }
+  ],
+  "removed_jobs": [
+   {
+    "company": "8com GmbH & Co. KG",
+    "refnr": "10001-1001886249-S",
+    "title": "AI Productivity & Orchestration Specialist (m/w/d)"
+   },
+   {
+    "company": "HORNBACH Baumarkt AG Zentralverwaltung",
+    "refnr": "10001-1003662047-S",
+    "title": "AI Engineer (gn)"
+   },
+   {
+    "company": "Aristech GmbH",
+    "refnr": "10001-1003797919-S",
+    "title": "Projektleiter/in Voice AI (m/w/d)"
+   },
+   {
+    "company": "VOREST AG",
+    "refnr": "10001-1003834295-S",
+    "title": "E-Learning Developer – UX & KI-Lernwelten (m/w/d)"
+   },
+   {
+    "company": "Krannich Group GmbH",
+    "refnr": "11858-SDE-120192-STA-S",
+    "title": "Data Science Engineer m/w/d"
+   },
+   {
+    "company": "dmTECH GmbH",
+    "refnr": "12787-271555081026-S",
+    "title": "Fullstack Software Engineer - Datengetriebene Flächenplanung (w/m/d)"
+   },
+   {
+    "company": "Erhardt Unternehmensgruppe",
+    "refnr": "13635-87c701d9_JB5266077-S",
+    "title": "Sales Manager B2B (m/w/d) IT & KI"
+   },
+   {
+    "company": "Fraunhofer-Gesellschaft e.V. Zentrale München",
+    "refnr": "15861-44487160-106-S",
+    "title": "Wissenschaftler für Hyperspektraldatenanalyse und interaktive Softwarelösungen (all genders)"
+   },
+   {
+    "company": "inovex GmbH",
+    "refnr": "16752-r18165-S",
+    "title": "Cloud Engineer* Data & AI"
+   },
+   {
+    "company": "inovex GmbH",
+    "refnr": "16752-r5446-S",
+    "title": "Data Engineer* / Machine Learning Engineer*"
+   },
+   {
+    "company": "BRUNO BADER GmbH + Co. KG",
+    "refnr": "18896-8639042-S",
+    "title": "AI Platform Engineer - LLMOps (m/w/d)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3000711792188001-S",
+    "title": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3056331792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3065481792188001-S",
+    "title": "NTT DATA Deutschland SE: Head of Data & Analytics (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070401792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070521792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3070741792188001-S",
+    "title": "NTT DATA Deutschland SE: SAP Data & Analytics (Senior) Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074751792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3074991792188001-S",
+    "title": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079521792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079631792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3079741792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Banking DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3080181792101600-S",
+    "title": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3084091792879200-S",
+    "title": "NTT DATA Deutschland SE: Strategic AI Alliance Manager (w/m/x)"
+   },
+   {
+    "company": "NTT DATA Deutschland SE",
+    "refnr": "19913-3085001793142000-S",
+    "title": "NTT DATA Deutschland SE: Forward Deployment Engineer (w/m/x) - AI & Enterprise Solutions"
+   }
+  ],
+  "timestamp": "2026-11-09T04:22:35+00:00"
  }
 ]

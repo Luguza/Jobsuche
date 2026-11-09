@@ -3295,6 +3295,12 @@
   "status": "ok",
   "title": "apic.ai"
  },
+ "https://apollon.de/": {
+  "description": "apollon: PXM-Suite für Omnichannel-Marketing, PIM, DAM & KI-Services. Jetzt Demo buchen – über 25 Jahre E-Commerce-Expertise.",
+  "fetched": "2026-11-09",
+  "status": "ok",
+  "title": "apollon | PXM & PIM Software für E-Commerce"
+ },
  "https://appsphere.com/": {
   "description": "AppSphere IT-Lösungsanbieter - IT-Systemhaus für Digitale Transformation bei Karlsuhe",
   "fetched": "2026-09-24",
@@ -3836,6 +3842,12 @@
   "error": "SSLError",
   "fetched": "2026-11-02",
   "status": "error"
+ },
+ "https://emm-solutions.de/": {
+  "description": "Emm! Solutions baut maßgeschneiderte fahrerlose Transportsysteme (FTS) nach Ihren Anforderungen – für Produktion und Logistik, alles aus einer Hand.",
+  "fetched": "2026-11-09",
+  "status": "ok",
+  "title": "Fahrerlose Transportsysteme nach Maß | Emm! Solutions"
  },
  "https://enabl-tech.de/": {
   "description": "",
@@ -7429,6 +7441,12 @@
   "status": "ok",
   "title": "Druck, Durchfluss, Flüssigkeitsanalyse, Optische Analyse, Füllstand, Temperatur Messtechnik, Software, Systemkomponenten und Registriergeräte | Endress+Hauser"
  },
+ "https://www.debatin.de/": {
+  "description": "DEBATIN Verpackungen: sicher sein, dass das ankommt, was abgeschickt wurde. DEBASAFE, DEBAMED und DEBAPACKAGING Produkte garantieren das.",
+  "fetched": "2026-11-09",
+  "status": "ok",
+  "title": "Sicherheitsverpackungen | Anton Debatin GmbH | DE | Patent. Perfect. Packed."
+ },
  "https://www.deer-mobility.de/": {
   "description": "Mobil mit deer: e‑Carsharing, E‑Auto‑Abo und Ladenetze – flexibel, digital und regional für Privatkunden & Unternehmen.",
   "fetched": "2026-09-24",
@@ -10306,6 +10324,12 @@
   "status": "ok",
   "title": "ÃbersetzungsbÃ¼ro Heidelberg | Ãbersetzer u. Dolmetscher | Lingua-World"
  },
+ "https://www.linq-photonics.com/": {
+  "description": "Explore the future of quantum control with Linq's photonic integrated solutions. Discover how photonic integrated systems enhance quantum computing control",
+  "fetched": "2026-11-09",
+  "status": "ok",
+  "title": "Linq Photonics - Photonic Integrated Circuits for Quantum Control"
+ },
  "https://www.linuswiegand.de//": {
   "error": "ConnectionError",
   "fetched": "2026-11-02",
@@ -12745,6 +12769,12 @@
   "fetched": "2026-09-24",
   "status": "ok",
   "title": "TNG Technology Consulting GmbH"
+ },
+ "https://www.tol.info/": {
+  "description": "Wir schaffen Überblick: Durchgängige IT Lösungen für ein effizientes Management von Anlagegütern über den gesamten Lebenszyklus - CAFM, GIS, CAD Software.",
+  "fetched": "2026-11-09",
+  "status": "ok",
+  "title": "CAFM, GIS und CAD Softwarelösungen der TOL GmbH"
  },
  "https://www.tonish.com/": {
   "description": "",
